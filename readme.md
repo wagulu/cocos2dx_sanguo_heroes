@@ -1,6 +1,8 @@
 # Ccocos2dx c++ & lua 
 
-## Youtobe[youtobe](https://www.youtube.com/watch?v=h7zm4OyMdSo&feature=youtu.be)
+## Game Video
+
+### [youtobe](https://www.youtube.com/watch?v=h7zm4OyMdSo&feature=youtu.be)
 
 ## Client
 
