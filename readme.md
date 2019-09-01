@@ -19,10 +19,5 @@
 
 ## battle images
 
-<iframe height=345 width=727 src="images/gif/0.gif">
+ ![img]("images/gif/0.gif")
 
-<iframe height=345 width=727 src="images/gif/1.gif">
-
-<iframe height=345 width=727 src="images/gif/2.gif">
-
-<iframe height=345 width=727 src="images/gif/3.gif">
