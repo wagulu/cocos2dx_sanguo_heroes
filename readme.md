@@ -27,12 +27,16 @@
 
 [![Promo](/images/gif/3.gif)]
 
+## code
+
+### [c++ code path](⁨⁨SongguoHerosClient/frameworks/runtime-src/⁨Classes) ⁩
+### [lua code path](SongguoHerosClient/src)⁩
+
 ## example code
 
-### [c++ code](⁨⁨SongguoHerosClient/frameworks/runtime-src/⁨Classes) ⁩
-### [lua code](SongguoHerosClient/src)⁩
+### cpp
 
-```cpp
+```cpp 
 
 #include "SkillSystem.h"
 #include "BattleWorld.h"
@@ -174,6 +178,9 @@ void SkillSystem::update(entityx::EntityManager &es, entityx::EventManager &even
 
 
 ```
+
+### lua
+
 
 ``` lua
 
