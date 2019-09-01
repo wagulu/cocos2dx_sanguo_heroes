@@ -29,7 +29,7 @@
 
 ## code
 
-### [c++ code path](⁨⁨cocos2dx_sanguo_heroes/SongguoHerosClient/frameworks/runtime-src/Classes) ⁩
+### [c++ code path](⁨⁨SongguoHerosClient/frameworks/runtime-src/Classes) ⁩
 ### [lua code path](SongguoHerosClient/src)⁩
 
 ## example code
