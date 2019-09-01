@@ -29,8 +29,8 @@
 
 ## example code
 
-### c++ code path:⁨⁨SongguoHerosClient/frameworks/runtime-src/⁨Classes⁩
-### lua code path:⁨⁨SongguoHerosClient/src⁩
+### [c++ code](⁨⁨SongguoHerosClient/frameworks/runtime-src/⁨Classes) ⁩
+### [lua code](SongguoHerosClient/src)⁩
 
 ```cpp
 
