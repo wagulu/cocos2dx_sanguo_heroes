@@ -14,7 +14,7 @@
 
 #### install |CocosFramework-v3.6.pkg|[click download](http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.pkg)|
 
-#### open SongguoHerosClient/frameworks⁩/⁨runtime-src⁩/proj.ios_mac⁩/sanguoGame.xcodeproj by Xcode
+#### open SanguoClient/frameworks⁩/⁨runtime-src⁩/proj.ios_mac⁩/sanguoGame.xcodeproj by Xcode
 
 
 ## Battle images
@@ -29,8 +29,8 @@
 
 ## Code Path
 
-### [c++ code path](SongguoHerosClient/frameworks/runtime-src/Classes/)⁩
-### [lua code path](SongguoHerosClient/src)⁩
+### [c++ code path](SanguoClient/frameworks/runtime-src/Classes/)⁩
+### [lua code path](SanguoClient/src)⁩
 
 ## Example code
 
