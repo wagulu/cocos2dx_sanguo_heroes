@@ -1,0 +1,10 @@
+{
+    "config": "liu_huo_zhan",
+    "id": 24,
+    "name": "liu_huo_zhan",
+    "level": 1,
+    "mpCost": 50,
+    "energyStart": 550,
+    "energyCost": 600,
+    "energySpeed": 20
+}

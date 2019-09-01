@@ -1,0 +1,10 @@
+import "ApiRequest.proto";
+
+message HighladderBattleResultRequest{
+	optional ApiRequest api = 1;			//公用参数
+	optional int32		rank = 2;			//对手排名	
+	optional int32		progress = 3;		//战斗局数
+	optional int32		monsterId = 4;		//武将id	
+	optional int32		enemyMonsterId = 5; //敌将id
+	optional int32		wonBattle = 6;		//战斗结果 0战败 1战胜 2平局（两方都死亡 最后一场算攻方战败）
+}

@@ -1,0 +1,15 @@
+{
+    "energyCost": 0.0,
+    "energySpeed":0.0,
+    "energyStart":1.0,
+    "mpCost": 0,
+    "negative": true,
+    "actions":
+    [
+      {
+        "name": "nie_pan",
+        "start": 0.0,
+        "params": {"hpBase":0.3, "hpFactor":0.0, "hpMin":0.3, "mpBase":0.2, "mpFactor":0.0, "mpMin":0.5}
+      }
+    ]
+}

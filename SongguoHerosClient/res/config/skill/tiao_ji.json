@@ -1,0 +1,246 @@
+{
+    "energyCost": 25.0,
+    "energySpeed": 20,
+    "energyStart": 450,
+    "mpCost": 1,
+    "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_zhaobing_25fps", "trigger": "hero"}
+    },
+	{
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":4.0}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":3.8}
+    },
+    {
+        "name": "show_background",
+        "start": 0.0,
+        "params": {"hideDelay":3.8}
+    },
+    {
+        "name": "play_animation",
+        "start": 0.0,
+        "params": {"animation":"animation_skill1"}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"dur":0.1,  "dtx":-110, "style":3.0}
+    },
+    {
+        "name": "move_camera_to_hero",
+        "trigger": "hitHero",
+        "params": {"tar":1}
+    },
+    {
+        "name": "shake_camera",
+        "start": 0.3,
+        "params": {"duration": 0.5, "amplitude":10.0, "mode":4, "interval":3}
+    },
+    {
+        "name": "shake_camera",
+        "trigger":"damageHero",
+        "params": {"duration": 0.5, "amplitude":10.0, "mode":4, "interval":3}
+    },  
+    {
+        "name": "attack_rect",
+        "start": 1.8,
+        "damage": {"type":1, "side":0, "entityType":2, "base":50, "step":4, "factor":0.3, "speed_h":300, "speed_h_decay":200, "speed_v":800, "speed_v_decay":100, "gravity":1200},
+        "params": {"width":5, "height":1, "spreadInterval":0.0}
+    },
+    {
+        "name": "attack_on_find_target",
+        "trigger":"damageHero",
+        "damage": {"type":0, "side":0, "entityType":1, "base":200, "step":10, "factor":1.2}
+    },
+    {
+        "name": "attack_diamond_area_center_on_hero",
+        "trigger": "attackDiamond",
+        "damage": {"type":0, "side":0, "entityType":2, "base":100, "step":60, "factor":0, "speed_h":400, "speed_h_decay":0, "speed_v":400, "speed_v_decay":0, "gravity":1200},
+        "params": {"SkillTarget":"OPP_HERO", "radius":4, "spreadInterval":0.0}
+    },
+    {
+        "name": "skill_tiao_ji",
+        "start": 1.7,
+        "params": {"attackDistance": 6, "dizzyConfig":"dizzy_by_skill"}
+    },
+    {
+        "name": "delay_trigger",
+        "trigger": "hitHero",
+        "params": {"delay": 0.1, "trigger":"damageHero"}
+    },
+    {
+        "name": "delay_trigger",
+        "trigger": "hitHero",
+        "params": {"delay": 0.8, "trigger":"damageHero"}
+    },
+    {
+        "name": "delay_trigger",
+        "trigger": "hitHero",
+        "params": {"delay": 1.2, "trigger":"attackDiamond"}
+    },
+    {
+        "name": "show_hero_effect",
+        "start": 0.0,
+        "params": {"animation": "skill", "side":1}
+    },
+    {
+        "name": "show_hero_effect",
+        "trigger": "hitHero",
+        "params": {"animation": "hit_1", "side":0}
+    },
+    {
+        "name": "show_hero_effect",
+        "trigger": "hitHero",
+        "params": {"animation": "hit_2", "side":0, "delay":0.8}
+    },
+    {
+        "name": "show_hero_effect",
+        "trigger": "hitHero",
+        "params": {"animation": "hit_3", "side":0, "delay":1.1}
+    }
+  ],
+    
+    
+    "dizzy":
+    {
+        "dizzy_by_skill":
+        {
+            "allowBreakByAnotherDizzy":false,
+            "action":
+            [
+             {"name":"skill_tiao_ji",
+             "flyUpTime":0.5, "flyUpHeight":180.0,
+             "flyDistance":300.0, "dropTime":0.2,
+             "delay":0.4}
+             ],
+            "condition":
+            [
+             {"name":"by_action_complete", "required":true}
+             ]
+        }
+    },
+
+
+  "asset": "skill_tiaoji",
+  "effect":
+  {
+    "skill":
+    [
+      [
+        {
+          "name": "animation_tiaoji_back_layer1",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_tiaoji_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_tiaoji_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+      "hit_1":
+      [
+       [
+        {
+        "name": "animation_tiaoji_hit1_back_layer1",
+        "type": 0,
+        "z-order": -2
+        },
+        {
+        "name": "animation_tiaoji_hit1_back_layer2",
+        "type": 2,
+        "z-order": -1
+        },
+        {
+        "name": "animation_tiaoji_hit1_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_tiaoji_hit1_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ],
+      "hit_2":
+      [
+       [
+        {
+        "name": "animation_tiaoji_hit2_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_tiaoji_hit2_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ],
+      "hit_3":
+      [
+       [
+        {
+        "name": "animation_tiaoji_hit3_back_layer1",
+        "type": 0,
+        "z-order": -2
+        },
+        {
+        "name": "animation_tiaoji_hit3_back_layer2",
+        "type": 2,
+        "z-order": -1
+        },
+        {
+        "name": "animation_tiaoji_hit3_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_tiaoji_hit3_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ],
+      "hit_soldier":
+      [
+       [
+        {
+        "name": "animation_tiaoji_soldier_hit_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_tiaoji_soldier_hit_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ]
+  }
+}

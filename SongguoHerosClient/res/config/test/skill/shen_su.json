@@ -1,0 +1,10 @@
+{
+    "config": "shen_su",
+    "id": 36,
+    "name": "shen_su",
+    "level": 1,
+    "mpCost": 0,
+    "energyStart": 1,
+    "energyCost": 0,
+    "energySpeed": 20
+}

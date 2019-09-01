@@ -1,0 +1,19 @@
+import "ApiResponse.proto";
+import "AdventureListStageResponse.proto";
+
+message AreasInfoPB{
+	optional int32							islandId = 1;			//所属island id
+	optional int32							areaId = 2;				//id
+	optional string							name = 3;				//Area国际化后的名称
+	optional int32							stars = 4;				//获取的星总数
+	optional int32							status = 5;				//场景状态 0：未开放 1：未解锁 2：未清关 3：未完成 4：已完成
+	optional int32							stageTotalStar = 6;
+	optional int32							eliteStageTotalStar = 7;
+	repeated StarTreasuresListPB			stageStarTreasures = 8;
+	repeated StarTreasuresListPB			eliteStageStarTreasures = 9;
+}
+message AdventureListAreaResponse{
+	optional ApiResponse					api = 1;				//固定通讯模块
+	repeated AreasInfoPB					areasInfo = 2;			//用户世界场景信息
+}
+

@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message MonstersEquipmentQualityUpRequest {
+	optional ApiRequest	api = 1;			//公用参数
+	optional int32		monsterId = 2;		//武将id
+	optional int32		equipmentId = 3;	//装备id
+}

@@ -1,0 +1,319 @@
+{
+  "energyCost": 100,
+  "energySpeed":20,
+  "energyStart":80,
+  "mpCost": 100,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_douqi_15fps", "trigger": "hero"}
+    },
+	{
+      "name": "disable_break",
+      "start": 2.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":3.0}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":2.8}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":2.8}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill_chuansuo_1", "duration":2.5 }
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration":0.5, "amplitude":5.0, "mode":4, "interval":3}
+    },  
+    {
+      "name": "empty_arrow",
+      "start": 1.7,
+      "params": {"animation": "arrow", "range":12, "speed":1300, "radius":-1}
+    },
+    {
+      "name": "chuan_suo",
+      "start": 2.4,
+      "params": {"animation": "arrow", "range":11, "speed":1300, "dizzyConfig":"dizzy_by_skill"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"skill", "duration":0}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 1.8,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"arrowOut", "duration":0}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 2.5,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"arrowBack", "duration":0}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "lastHit",
+      "params": {"SkillTarget":"SELF_HERO", "effect":"ci", "duration":0}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "lastHit",
+      "params": {"SkillTarget":"OPP_HERO", "effect":"hit1", "duration":0}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "lastHit",
+      "params": {"SkillTarget":"OPP_HERO", "effect":"hit2", "duration":0}
+    },  
+    {
+      "name": "attack_rect",
+      "start": 1.7,
+      "damage": {"type":1, "side":0, "entityType":2, "base":50, "step":4, "factor":0.3, "speed_h":300, "speed_h_decay":200, "speed_v":800, "speed_v_decay":100, "gravity":1200},
+      "params": {"width":10, "height":1, "spreadInterval":0.05}
+    },
+    {
+      "name": "add_effect_on_skill_attack",
+      "start": 0.0,
+      "lifeTime": 5.5,
+      "params": {"soldier":"hitSoldier"}
+    },  
+    {
+      "name": "attack_on_find_target",
+      "trigger":"hitHero",
+      "damage": {"type":0, "side":0, "entityType":1, "base":200, "step":10, "factor":1.2}
+    },
+    {
+      "name": "attack_on_find_target",
+      "trigger":"lastHit",
+      "damage": {"type":0, "side":0, "entityType":1, "base":200, "step":10, "factor":1.2}
+    },   
+    {
+      "name": "show_hero_effect",
+      "start": 0.0,
+      "params": {"animation": "screen", "side":1}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "hitHero",
+      "params": {"SkillTarget":"OPP_HERO", "effect":"catch", "duration":0}
+    },
+    {
+      "name": "play_sound",
+      "trigger":"hitHero",
+      "params": {"event": "skill_hit", "trigger": "dou_qi"}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "hitHero",
+      "params": {"duration": 0.5, "amplitude":10.0, "mode":4}
+    }
+  ],
+    
+  "formula":
+  {
+    "dizzyTime": {"formula":"hp", "base":1, "step":0.1},
+    "dizzyEnable": {"formula":"enable", "step":20.0, "base":0.0},
+    "hp": {"formula":"damage", "base":800, "step":80, "factor":0.5, "property":"HP"}
+  },
+    
+
+  "dizzy":
+  {
+    "dizzy_by_skill":
+    {
+      "allowBreakByAnotherDizzy":false,
+      "action":
+      [
+        {"name":"skill_chuan_suo"}
+      ],
+      "condition":
+      [
+        {"name":"by_action_complete", "required":true}
+      ]
+    }
+  },
+
+    
+    
+    
+
+  "asset": "skill_chuansuo",
+  "effect":
+  {
+    "skill":
+    [
+      [
+        {
+          "name": "animation_chuansuo_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_chuansuo_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_chuansuo_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_chuansuo_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+      "catch":
+      [
+       [
+        {
+        "name": "animation_chuansuo_catch_back_layer1",
+        "type": 0,
+        "z-order": -2
+        },
+        {
+        "name": "animation_chuansuo_catch_back_layer2",
+        "type": 2,
+        "z-order": -1
+        },
+        {
+        "name": "animation_chuansuo_catch_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_chuansuo_catch_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ],
+      "ci":
+      [
+       [
+        {
+        "name": "animation_chuansuo_ci_back_layer1",
+        "type": 0,
+        "z-order": -2
+        },
+        {
+        "name": "animation_chuansuo_ci_back_layer2",
+        "type": 2,
+        "z-order": -1
+        },
+        {
+        "name": "animation_chuansuo_ci_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_chuansuo_ci_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ],
+
+      "hit1":
+      [
+       [
+        {
+        "name": "animation_chuansuo_hit_1_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_chuansuo_hit_1_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ],
+      "hit2":
+      [
+       [
+        {
+        "name": "animation_chuansuo_hit_2_front_layer1",
+        "type": 0,
+        "z-order": 1
+        }
+        ]
+       ],
+      "hitSoldier":
+      [
+       [
+        {
+        "name": "animation_chuansuo_hit_front_soldier",
+        "type": 0,
+        "z-order": 1
+        }
+        ]
+       ],
+    "sceen":
+    [
+      [
+        {
+          "name": "animation_chuansuo_full_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "arrowOut":
+    [
+      [
+        {
+          "name": "animation_chuansuo_send",
+          "type": 0,
+          "z-order": -1
+        }
+       ]
+     ],
+      
+      "arrowBack":
+      [
+      [
+        {
+          "name": "animation_chuansuo_back",
+          "type": 0,
+          "z-order": -1
+        }
+       ]
+       ],
+      "arrow":
+      [
+      [
+        {
+          "name": "animation_chuansuo_send_front_layer1",
+          "type": 0,
+          "z-order": 1
+        }
+      ]
+    ]
+  }
+}

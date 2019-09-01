@@ -1,0 +1,30 @@
+{
+  "ai":
+  [
+    {
+        "repeated":false,
+		"condition":[{"name":"battle_start"}],
+		"action":{"name":"hero_rush", "delay":1}
+    },
+    {
+        "repeated":false,
+		"condition":[{"name":"battle_start"}],
+		"action":{"name":"soldier_attack_hero", "delay":1}
+    },
+  	{
+        "repeated":true,
+  		"condition":[{"name":"skill_ok", "value":0}],
+  		"action":{"name":"fire_skill", "delay":1, "value":0}
+  	},
+  	{
+        "repeated":true,
+  		"condition":[{"name":"skill_ok", "value":1}],
+  		"action":{"name":"fire_skill", "delay":1, "value":1}
+  	},
+  	{
+        "repeated":true,
+  		"condition":[{"name":"skill_ok", "value":2}],
+  		"action":{"name":"fire_skill", "delay":1, "value":2}
+  	}	
+  ]
+}

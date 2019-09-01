@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message HighladderGetOthersMonstersRequest {
+	optional ApiRequest	api = 1;			//公用参数
+	optional int32	rank = 2;			//敌人排名
+}

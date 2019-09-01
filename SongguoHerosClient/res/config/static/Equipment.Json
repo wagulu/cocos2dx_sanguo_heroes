@@ -1,0 +1,562 @@
+{
+    "1": {
+        "id": 1,
+        "name_zhCN": "\u9752\u91ed\u501a\u5929\u5251",
+        "qualityBaseAttributeType": "25",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "name_zhCN": "\u7384\u51a5\u9b3c\u7075\u6247",
+        "qualityBaseAttributeType": "13",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "name_zhCN": "\u65e5\u6708\u9547\u9b42\u9524",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "name_zhCN": "\u771f\u706b\u6731\u96c0\u6247",
+        "qualityBaseAttributeType": "13",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "name_zhCN": "\u9752\u9f99\u5043\u6708\u5200",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "name_zhCN": "\u9f99\u80c6\u4eae\u94f6\u67aa",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "name_zhCN": "\u864e\u5934\u6e5b\u91d1\u67aa",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "name_zhCN": "\u4e07\u80dc\u4e08\u516b\u77db",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "name_zhCN": "\u53e4\u952d\u5200",
+        "qualityBaseAttributeType": "25",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "name_zhCN": "\u9738\u738b\u51e4\u51f0\u67aa",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "name_zhCN": "\u795e\u9b3c\u65b9\u5929\u621f",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "name_zhCN": "\u9ec4\u9f99\u94a9\u9570\u621f",
+        "qualityBaseAttributeType": "25",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "name_zhCN": "\u91d1\u80cc\u5f00\u5c71\u94ba",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "name_zhCN": "\u4e5d\u5929\u9f99\u9b42\u5200",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "name_zhCN": "\u51e4\u5634\u51f0\u7ffc\u5200",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "name_zhCN": "\u53cc\u94c1\u621f",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "name_zhCN": "\u9b3c\u70c8\u67aa",
+        "qualityBaseAttributeType": "25",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "name_zhCN": "\u7eff\u6c89\u67aa",
+        "qualityBaseAttributeType": "25",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "name_zhCN": "\u96cc\u96c4\u53cc\u80a1\u5251",
+        "qualityBaseAttributeType": "25",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "name_zhCN": "\u51e4\u7ffc\u6d41\u73e0\u6756",
+        "qualityBaseAttributeType": "13",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "name_zhCN": "\u767d\u708e\u72fc\u7687\u5251",
+        "qualityBaseAttributeType": "25",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "name_zhCN": "\u9752\u5929\u94a9\u9570\u621f",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "name_zhCN": "\u9707\u96f7\u9752\u9f99\u621f",
+        "qualityBaseAttributeType": "25",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "name_zhCN": "\u52fe\u6708\u9738\u6d77\u9570",
+        "qualityBaseAttributeType": "1",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "name_zhCN": "\u9ad8\u987a\u4e13\u5c5e",
+        "qualityBaseAttributeType": "31",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "name_zhCN": "\u4e94\u5149\u5b9d\u6247",
+        "qualityBaseAttributeType": "19",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "name_zhCN": "\u90ed\u5609\u4e13\u5c5e",
+        "qualityBaseAttributeType": "19",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "name_zhCN": "\u4e50\u8fdb\u4e13\u5c5e",
+        "qualityBaseAttributeType": "7",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "name_zhCN": "\u8d3e\u8be9\u4e13\u5c5e",
+        "qualityBaseAttributeType": "19",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "name_zhCN": "\u91d1\u521a\u4e5d\u5929\u67aa",
+        "qualityBaseAttributeType": "7",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "name_zhCN": "\u6df7\u6c8c\u5f00\u5929\u5200",
+        "qualityBaseAttributeType": "31",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "name_zhCN": "\u53cc\u6781\u706d\u661f\u5200",
+        "qualityBaseAttributeType": "7",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "name_zhCN": "\u753b\u9e4a\u94c1\u80c6\u5f13",
+        "qualityBaseAttributeType": "7",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "1",
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "name_zhCN": "\u5f90\u5eb6\u4e13\u5c5e",
+        "qualityBaseAttributeType": "19",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "name_zhCN": "\u96ea\u87d2\u971c\u5bd2\u5251",
+        "qualityBaseAttributeType": "19",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "name_zhCN": "\u5929\u5a07\u503e\u57ce\u4f1e",
+        "qualityBaseAttributeType": "19",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "name_zhCN": "\u8d64\u7130\u4e39\u9752\u7b14",
+        "qualityBaseAttributeType": "31",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "13",
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "name_zhCN": "\u8fde\u821e\u98de\u71d5\u5315",
+        "qualityBaseAttributeType": "19",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "name_zhCN": "\u65e5\u6708\u4e7e\u5764\u5708",
+        "qualityBaseAttributeType": "19",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "name_zhCN": "\u70df\u96e8\u6843\u82b1\u6247",
+        "qualityBaseAttributeType": "19",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "7",
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "name_zhCN": "\u72c2\u9f99\u65e0\u5f71\u76d4",
+        "qualityBaseAttributeType": "2",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "3",
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "name_zhCN": "\u51b2\u865a\u9f99\u864e\u7532",
+        "qualityBaseAttributeType": "3",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "4",
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "name_zhCN": "\u65ad\u9f99\u5927\u6c05",
+        "qualityBaseAttributeType": "4",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "5",
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "name_zhCN": "\u5c60\u9b54\u9879\u94fe",
+        "qualityBaseAttributeType": "5",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "2",
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "name_zhCN": "\u91d1\u8679\u788e\u9aa8\u9774",
+        "qualityBaseAttributeType": "6",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "6",
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "name_zhCN": "\u51f6\u864e\u4fee\u7f57\u76d4",
+        "qualityBaseAttributeType": "2",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "3",
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "name_zhCN": "\u4e4c\u91d1\u72ee\u5b50\u7532",
+        "qualityBaseAttributeType": "3",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "4",
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "name_zhCN": "\u771f\u6b66\u5927\u6c05",
+        "qualityBaseAttributeType": "4",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "5",
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "name_zhCN": "\u8680\u9aa8\u9879\u94fe",
+        "qualityBaseAttributeType": "5",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "2",
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "name_zhCN": "\u95ee\u5fc3\u7834\u6d6a\u9774",
+        "qualityBaseAttributeType": "6",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "6",
+        "ver": "1.0.0"
+    },
+    "51": {
+        "id": 51,
+        "name_zhCN": "\u5f71\u6708\u51b0\u5fc3\u5e3d",
+        "qualityBaseAttributeType": "14",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "9",
+        "ver": "1.0.0"
+    },
+    "52": {
+        "id": 52,
+        "name_zhCN": "\u8680\u65e5\u788e\u661f\u888d",
+        "qualityBaseAttributeType": "15",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "10",
+        "ver": "1.0.0"
+    },
+    "53": {
+        "id": 53,
+        "name_zhCN": "\u853d\u65e5\u6597\u7bf7",
+        "qualityBaseAttributeType": "16",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "11",
+        "ver": "1.0.0"
+    },
+    "54": {
+        "id": 54,
+        "name_zhCN": "\u70c8\u9633\u62a4\u7b26",
+        "qualityBaseAttributeType": "17",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "8",
+        "ver": "1.0.0"
+    },
+    "55": {
+        "id": 55,
+        "name_zhCN": "\u8d64\u96f7\u6d41\u661f\u8db3",
+        "qualityBaseAttributeType": "18",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "12",
+        "ver": "1.0.0"
+    },
+    "56": {
+        "id": 56,
+        "name_zhCN": "\u5982\u610f\u706d\u5929\u5e3d",
+        "qualityBaseAttributeType": "14",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "9",
+        "ver": "1.0.0"
+    },
+    "57": {
+        "id": 57,
+        "name_zhCN": "\u5929\u7167\u661f\u4e91\u888d",
+        "qualityBaseAttributeType": "15",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "10",
+        "ver": "1.0.0"
+    },
+    "58": {
+        "id": 58,
+        "name_zhCN": "\u98de\u4e91\u6597\u7bf7",
+        "qualityBaseAttributeType": "16",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "11",
+        "ver": "1.0.0"
+    },
+    "59": {
+        "id": 59,
+        "name_zhCN": "\u592a\u865a\u62a4\u7b26",
+        "qualityBaseAttributeType": "17",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "8",
+        "ver": "1.0.0"
+    },
+    "60": {
+        "id": 60,
+        "name_zhCN": "\u7384\u9633\u6d85\u69c3\u8db3",
+        "qualityBaseAttributeType": "18",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "12",
+        "ver": "1.0.0"
+    },
+    "61": {
+        "id": 61,
+        "name_zhCN": "\u9501\u5fc3\u5bd2\u51b0\u51a0",
+        "qualityBaseAttributeType": "26",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "15",
+        "ver": "1.0.0"
+    },
+    "62": {
+        "id": 62,
+        "name_zhCN": "\u7384\u6708\u7d2b\u8587\u94e0",
+        "qualityBaseAttributeType": "27",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "16",
+        "ver": "1.0.0"
+    },
+    "63": {
+        "id": 63,
+        "name_zhCN": "\u7a7f\u5fc3\u62ab\u98ce",
+        "qualityBaseAttributeType": "28",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "17",
+        "ver": "1.0.0"
+    },
+    "64": {
+        "id": 64,
+        "name_zhCN": "\u65e0\u5f71\u540a\u5760",
+        "qualityBaseAttributeType": "29",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "14",
+        "ver": "1.0.0"
+    },
+    "65": {
+        "id": 65,
+        "name_zhCN": "\u9f99\u541f\u5343\u661f\u978b",
+        "qualityBaseAttributeType": "30",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "18",
+        "ver": "1.0.0"
+    },
+    "66": {
+        "id": 66,
+        "name_zhCN": "\u5929\u7f57\u70c8\u4e91\u51a0",
+        "qualityBaseAttributeType": "26",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "15",
+        "ver": "1.0.0"
+    },
+    "67": {
+        "id": 67,
+        "name_zhCN": "\u8840\u9633\u964d\u9f99\u94e0",
+        "qualityBaseAttributeType": "27",
+        "levelUpCoinType": "1",
+        "qualityUpMaterialType": "16",
+        "ver": "1.0.0"
+    },
+    "68": {
+        "id": 68,
+        "name_zhCN": "\u68ee\u7f57\u62ab\u98ce",
+        "qualityBaseAttributeType": "28",
+        "levelUpCoinType": "2",
+        "qualityUpMaterialType": "17",
+        "ver": "1.0.0"
+    },
+    "69": {
+        "id": 69,
+        "name_zhCN": "\u60ca\u8679\u540a\u5760",
+        "qualityBaseAttributeType": "29",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "14",
+        "ver": "1.0.0"
+    },
+    "70": {
+        "id": 70,
+        "name_zhCN": "\u960e\u7f57\u6467\u5fc3\u978b",
+        "qualityBaseAttributeType": "30",
+        "levelUpCoinType": "3",
+        "qualityUpMaterialType": "18",
+        "ver": "1.0.0"
+    }
+}

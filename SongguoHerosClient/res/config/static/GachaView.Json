@@ -1,0 +1,832 @@
+{
+    "1": {
+        "id": 1,
+        "gachaType": 1,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 3,
+        "isNew": 0,
+        "order": 2,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "gachaType": 1,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 8,
+        "isNew": 0,
+        "order": 5,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "gachaType": 1,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 19,
+        "isNew": 0,
+        "order": 7,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "gachaType": 1,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 21,
+        "isNew": 0,
+        "order": 8,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "gachaType": 1,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 40,
+        "isNew": 0,
+        "order": 9,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 7,
+        "isNew": 0,
+        "order": 1,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 8,
+        "isNew": 0,
+        "order": 2,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 9,
+        "isNew": 0,
+        "order": 3,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 10,
+        "isNew": 0,
+        "order": 4,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 11,
+        "isNew": 0,
+        "order": 5,
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 12,
+        "isNew": 0,
+        "order": 6,
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 16,
+        "isNew": 0,
+        "order": 7,
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 17,
+        "isNew": 0,
+        "order": 8,
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 18,
+        "isNew": 0,
+        "order": 9,
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 22,
+        "isNew": 0,
+        "order": 10,
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 23,
+        "isNew": 0,
+        "order": 11,
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 24,
+        "isNew": 0,
+        "order": 12,
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 27,
+        "isNew": 0,
+        "order": 13,
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 28,
+        "isNew": 0,
+        "order": 14,
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 31,
+        "isNew": 0,
+        "order": 15,
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 32,
+        "isNew": 0,
+        "order": 16,
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 35,
+        "isNew": 0,
+        "order": 17,
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 36,
+        "isNew": 0,
+        "order": 18,
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 40,
+        "isNew": 0,
+        "order": 19,
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 41,
+        "isNew": 0,
+        "order": 20,
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 42,
+        "isNew": 0,
+        "order": 21,
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 47,
+        "isNew": 0,
+        "order": 22,
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 48,
+        "isNew": 0,
+        "order": 23,
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 49,
+        "isNew": 0,
+        "order": 24,
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "gachaType": 1,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 50,
+        "isNew": 0,
+        "order": 25,
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Material",
+        "itemId": 37,
+        "isNew": 0,
+        "order": 1,
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Material",
+        "itemId": 38,
+        "isNew": 0,
+        "order": 2,
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Material",
+        "itemId": 39,
+        "isNew": 0,
+        "order": 3,
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Material",
+        "itemId": 43,
+        "isNew": 0,
+        "order": 4,
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Material",
+        "itemId": 44,
+        "isNew": 0,
+        "order": 5,
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Material",
+        "itemId": 45,
+        "isNew": 0,
+        "order": 6,
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Material",
+        "itemId": 46,
+        "isNew": 0,
+        "order": 7,
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 21,
+        "isNew": 0,
+        "order": 8,
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 1,
+        "isNew": 0,
+        "order": 9,
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 22,
+        "isNew": 0,
+        "order": 10,
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 2,
+        "isNew": 0,
+        "order": 11,
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 23,
+        "isNew": 0,
+        "order": 12,
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "gachaType": 1,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 3,
+        "isNew": 0,
+        "order": 13,
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "gachaType": 2,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 2,
+        "isNew": 1,
+        "order": 1,
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "gachaType": 2,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 3,
+        "isNew": 0,
+        "order": 2,
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "gachaType": 2,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 4,
+        "isNew": 1,
+        "order": 3,
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "gachaType": 2,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 5,
+        "isNew": 1,
+        "order": 4,
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "gachaType": 2,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 8,
+        "isNew": 0,
+        "order": 5,
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "gachaType": 2,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 11,
+        "isNew": 1,
+        "order": 6,
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "gachaType": 2,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 19,
+        "isNew": 0,
+        "order": 7,
+        "ver": "1.0.0"
+    },
+    "51": {
+        "id": 51,
+        "gachaType": 2,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 21,
+        "isNew": 0,
+        "order": 8,
+        "ver": "1.0.0"
+    },
+    "52": {
+        "id": 52,
+        "gachaType": 2,
+        "typeId": "1",
+        "itemType": "Monster",
+        "itemId": 40,
+        "isNew": 0,
+        "order": 9,
+        "ver": "1.0.0"
+    },
+    "53": {
+        "id": 53,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 51,
+        "isNew": 0,
+        "order": 1,
+        "ver": "1.0.0"
+    },
+    "54": {
+        "id": 54,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 52,
+        "isNew": 0,
+        "order": 2,
+        "ver": "1.0.0"
+    },
+    "55": {
+        "id": 55,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 53,
+        "isNew": 0,
+        "order": 3,
+        "ver": "1.0.0"
+    },
+    "56": {
+        "id": 56,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 54,
+        "isNew": 0,
+        "order": 4,
+        "ver": "1.0.0"
+    },
+    "57": {
+        "id": 57,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 55,
+        "isNew": 0,
+        "order": 5,
+        "ver": "1.0.0"
+    },
+    "58": {
+        "id": 58,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 56,
+        "isNew": 0,
+        "order": 6,
+        "ver": "1.0.0"
+    },
+    "59": {
+        "id": 59,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 57,
+        "isNew": 0,
+        "order": 7,
+        "ver": "1.0.0"
+    },
+    "60": {
+        "id": 60,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 58,
+        "isNew": 0,
+        "order": 8,
+        "ver": "1.0.0"
+    },
+    "61": {
+        "id": 61,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 59,
+        "isNew": 0,
+        "order": 9,
+        "ver": "1.0.0"
+    },
+    "62": {
+        "id": 62,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 60,
+        "isNew": 0,
+        "order": 10,
+        "ver": "1.0.0"
+    },
+    "63": {
+        "id": 63,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 61,
+        "isNew": 0,
+        "order": 11,
+        "ver": "1.0.0"
+    },
+    "64": {
+        "id": 64,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 62,
+        "isNew": 0,
+        "order": 12,
+        "ver": "1.0.0"
+    },
+    "65": {
+        "id": 65,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 63,
+        "isNew": 0,
+        "order": 13,
+        "ver": "1.0.0"
+    },
+    "66": {
+        "id": 66,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 64,
+        "isNew": 0,
+        "order": 14,
+        "ver": "1.0.0"
+    },
+    "67": {
+        "id": 67,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 65,
+        "isNew": 0,
+        "order": 15,
+        "ver": "1.0.0"
+    },
+    "68": {
+        "id": 68,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 66,
+        "isNew": 0,
+        "order": 16,
+        "ver": "1.0.0"
+    },
+    "69": {
+        "id": 69,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 67,
+        "isNew": 0,
+        "order": 17,
+        "ver": "1.0.0"
+    },
+    "70": {
+        "id": 70,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 68,
+        "isNew": 0,
+        "order": 18,
+        "ver": "1.0.0"
+    },
+    "71": {
+        "id": 71,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 69,
+        "isNew": 0,
+        "order": 19,
+        "ver": "1.0.0"
+    },
+    "72": {
+        "id": 72,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 70,
+        "isNew": 0,
+        "order": 20,
+        "ver": "1.0.0"
+    },
+    "73": {
+        "id": 73,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 71,
+        "isNew": 0,
+        "order": 21,
+        "ver": "1.0.0"
+    },
+    "74": {
+        "id": 74,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 72,
+        "isNew": 0,
+        "order": 22,
+        "ver": "1.0.0"
+    },
+    "75": {
+        "id": 75,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 73,
+        "isNew": 0,
+        "order": 23,
+        "ver": "1.0.0"
+    },
+    "76": {
+        "id": 76,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 74,
+        "isNew": 0,
+        "order": 24,
+        "ver": "1.0.0"
+    },
+    "77": {
+        "id": 77,
+        "gachaType": 2,
+        "typeId": "2",
+        "itemType": "Material",
+        "itemId": 75,
+        "isNew": 0,
+        "order": 25,
+        "ver": "1.0.0"
+    },
+    "78": {
+        "id": 78,
+        "gachaType": 2,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 21,
+        "isNew": 0,
+        "order": 8,
+        "ver": "1.0.0"
+    },
+    "79": {
+        "id": 79,
+        "gachaType": 2,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 1,
+        "isNew": 0,
+        "order": 9,
+        "ver": "1.0.0"
+    },
+    "80": {
+        "id": 80,
+        "gachaType": 2,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 22,
+        "isNew": 0,
+        "order": 10,
+        "ver": "1.0.0"
+    },
+    "81": {
+        "id": 81,
+        "gachaType": 2,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 2,
+        "isNew": 0,
+        "order": 11,
+        "ver": "1.0.0"
+    },
+    "82": {
+        "id": 82,
+        "gachaType": 2,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 23,
+        "isNew": 0,
+        "order": 12,
+        "ver": "1.0.0"
+    },
+    "83": {
+        "id": 83,
+        "gachaType": 2,
+        "typeId": "3",
+        "itemType": "Item",
+        "itemId": 3,
+        "isNew": 0,
+        "order": 13,
+        "ver": "1.0.0"
+    }
+}

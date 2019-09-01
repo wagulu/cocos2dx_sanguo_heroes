@@ -1,0 +1,212 @@
+{
+  "energyCost":10.0,
+  "energySpeed":20,
+  "energyStart":500,
+  "mpCost": 10,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+	  {
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":4.5}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":4.3}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":4.3}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"tar":0}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration": 0.3, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill2"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"skill", "duration":0}
+    },
+    {
+      "name": "add_hp_on_reduce_enemy_hp",
+      "start": 0.0,
+      "lifeTime": 3.5,
+      "params": {"factorFormula":"add_hp_factor", "delay":2.0}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 1.5,
+      "params": {"tar":1}
+    },
+    {
+      "name": "find_target",
+      "start": 1.5,
+      "params": {"SkillTarget":"OPP_HERO"}
+    },
+    {
+      "name": "attack_on_find_target",
+      "start": 1.5,
+      "damage": {"type":1, "side":0, "entityType":1, "base":300, "step":15, "factor":0.1}
+    },
+    {
+      "name": "shake_camera",
+      "start": 1.5,
+      "params": {"duration":0.2, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 1.5,
+      "params": {"effect":"hit", "duration":0}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 1.5,
+      "params": {"effect":"reduce_mp", "duration":0}
+    },
+    {
+      "name": "set_state_dizzy_on_find_target",
+      "start": 1.5,
+      "params": {"time":"dizzy_time", "ratio":"dizzy_ratio", "heroDizzyConfig":"hero_dizzy"}
+    },
+    {
+      "name": "find_target",
+      "start": 3.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 3.0,
+      "params": {"effect":"add_mp", "duration":0}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 3.0,
+      "params": {"tar":0}
+    }
+  ],
+
+  "formula":
+  {
+    "add_hp_factor": {"formula":"max", "min":0.5, "max":0.5, "divide":1.0},
+    "dizzy_time": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0},
+    "dizzy_ratio": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0}
+  },
+
+  "dizzy":
+  {
+    "hero_dizzy":
+    {
+      "allowBreakByAnotherDizzy":true,
+      "action":
+      [
+        {"name":"play_hit_animation"}
+      ],
+      "condition":
+      [
+        {"name":"by_time", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_mieyuan",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_mieyuan_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_mieyuan_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_mieyuan_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_mieyuan_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "hit": 
+    [
+      [
+        {
+          "name": "animation_mieyuan_hit_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_mieyuan_hit_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_mieyuan_hit_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_mieyuan_hit_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "reduce_mp":
+    [
+      [
+        {
+          "name": "animation_mieyuan_energy_front_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "add_mp":
+    [
+      [
+        {
+          "name": "animation_mieyuan_energy_return_back_layer1",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_mieyuan_energy_return_front_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ]
+  }
+}

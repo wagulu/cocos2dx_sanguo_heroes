@@ -1,0 +1,170 @@
+{
+  "energyCost": 100.0,
+  "energySpeed":100,
+  "energyStart":1100,
+  "mpCost": 10,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.0}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation": "animation_skill_normal"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"hero", "duration":0}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 1.0,
+      "params": {"tar":1}
+    },
+    {
+      "name": "find_target",
+      "start": 1.0,
+      "params": {"SkillTarget":"OPP_HERO"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 1.3,
+      "params": {"effect":"target", "duration":0}
+    },
+    {
+      "name": "shake_camera",
+      "start": 1.3,
+      "params": {"duration":0.4, "amplitude":20.0, "mode":5, "interval":2}
+    },
+    {
+      "name": "attack_on_find_target",
+      "start": 1.3,
+      "damage": {"type":0, "side":0, "entityType":1, "base":200, "step":10, "factor":1.2}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 1.8,
+      "params": {"effect":"loop", "durationFormula":"dizzyTime"}
+    },
+    {
+      "name": "set_state_dizzy_on_find_target",
+      "start": 1.8,
+      "params": {"time":"dizzyTime", "ratio":"dizzyRatio", "heroDizzyConfig":"hero_dizzy"}
+    },
+    {
+      "name": "delay_trigger", 
+      "start": 1.8,
+      "params": {"delayFormula":"dizzyTime", "trigger":"onDizzyEnd"}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "onDizzyEnd",
+      "params": {"effect":"end", "duration":0}
+    }
+  ],
+    
+  "formula":
+  {
+    "dizzyTime":{"formula":"min", "min":2.0, "base":1.0, "factor":0.3, "divide":10.0},
+    "dizzyRatio":{"formula":"max", "min":1.0, "max":1.0, "divide":1.0}
+  },
+
+  "dizzy":
+  {
+    "hero_dizzy":
+    {
+      "allowBreakByAnotherDizzy":true,
+      "action":
+      [
+        {"name":"stop_animation"}
+      ],
+      "condition":
+      [
+        {"name":"by_time", "required":true}
+      ]
+    }
+  },
+
+  "asset": "skill_bingshuangjiasuo",
+  "effect":
+  {
+    "target":
+    [
+      [
+        {
+          "name": "animation_bingshuangjiasuo_hit_start_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_bingshuangjiasuo_hit_start_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_bingshuangjiasuo_hit_start_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_bingshuangjiasuo_hit_start_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "loop":
+    [
+      [
+        {
+          "name": "animation_bingshuangjiasuo_hit_loop_front_layer1",
+          "type": 0,
+          "z-order": 1
+        }
+      ]
+    ],
+    "end":
+    [
+      [
+        {
+          "name": "animation_bingshuangjiasuo_hit_end_front_layer1",
+          "type": 0,
+          "z-order": 1
+        }
+      ]
+    ],
+    "hero":
+    [
+      [
+        {
+          "name": "animation_bingshuangjiasuo_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_bingshuangjiasuo_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_bingshuangjiasuo_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_bingshuangjiasuo_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ]
+  }
+}

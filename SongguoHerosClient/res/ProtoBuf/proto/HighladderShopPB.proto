@@ -1,0 +1,15 @@
+import "PrizePB.proto";
+message HighladderShopPB{
+	optional int32 prestige = 1;
+	repeated HighladderShopItemPB items = 2;
+	optional int32 refreshTimes = 3;
+	optional int32 refreshPrestige = 4;
+	optional int32 resetTime = 5;	
+}
+message HighladderShopItemPB{
+	optional int32 pos = 1;
+	optional PrizePB prize = 2;
+	optional int32 prestige = 3;
+	optional int32 discount = 4;
+	optional int32 buyed = 5;
+}

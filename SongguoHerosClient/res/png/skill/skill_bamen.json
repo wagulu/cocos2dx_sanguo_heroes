@@ -1,0 +1,37 @@
+{
+  "damage": 100,
+  "cool_down": 10,
+  "animation": "animation_skill3",
+  "hitBoss": [
+    [
+      {
+        "name": "animation_bamen_hit_1",
+        "type": 1,
+        "z-order": 1
+      }
+    ]
+  ],
+  "hit": [
+    [
+      {
+        "name": "animation_bamen_hit_1",
+        "type": 1,
+        "z-order": 1
+      }
+    ]
+  ],
+  "skill": [
+    [
+      {
+        "name": "animation_bamen_layer1",
+        "type": 1,
+        "z-order": 2
+      },
+      {
+        "name": "animation_bamen_layer2",
+        "type": 1,
+        "z-order": -3
+      }
+    ]
+  ]
+}

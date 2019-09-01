@@ -1,0 +1,11 @@
+import "ApiResponse.proto";
+import "PrizePB.proto";
+import "ItemPB.proto";
+import "GachaInfoPB.proto";
+
+message GachaRollGachaResponse {
+	optional ApiResponse	api = 1;		//公用参数
+	repeated PrizePB  		prizes = 2;		//获得的物品
+	optional ItemPB  		item = 3;		//Gacha Point信息
+	optional GachaInfoPB	gachaInfo = 4;	//gacha信息
+}

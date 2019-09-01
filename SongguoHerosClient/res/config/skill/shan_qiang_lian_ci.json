@@ -1,0 +1,98 @@
+{
+  "energyCost":100.0,
+  "energySpeed":20.0,
+  "energyStart":450,
+  "mpCost":8,
+  "actions":
+  [
+    {
+        "name": "pause_battle",
+        "start": 0.0,
+        "params": {"duration":1.0}
+    },
+    {
+        "name": "move_camera_to_hero",
+        "start": 0.0
+    },
+    {
+        "name": "play_animation",
+        "start": 0.0,
+        "params": {"animation": "animation_skill4", "break_time":1.0}
+    },
+    {
+        "name": "show_hero_effect",
+        "start": 0.0,
+        "params": {"animation": "skill", "side":1}
+    },
+    {
+        "name": "interval_trigger",
+        "start": 0.9,
+        "params": {"trigger": "attackRect", "times":5, "interval":0.2}
+    },
+    {
+        "name": "attack_rect",
+        "damage": {"type":1, "side":0, "entityType":2, "delay":0, "base":100, "step":8, "factor":0.5, "speed_h":300, "speed_h_decay":200, "speed_v":800, "speed_v_decay":100, "gravity":1200},
+        "params": {"SkillTarget":"SELF_HERO", "width":3, "height":4, "spreadInterval":0.3},
+        "trigger": "attackRect"
+    },
+    {
+        "name": "set_state_dizzy_on_skill_attack",
+        "start": 0.0,
+        "lifeTime": 2.0,
+        "params": {"ratio":"dizzyRatio", "heroDizzyConfig":"dizzy_on_skill_hit"}
+    }
+  ],
+
+  "formula":
+  {
+    "dizzyRatio": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0}
+  },
+
+  "dizzy":
+  {
+    "dizzy_on_skill_hit":
+    {
+      "allowBreakByAnotherDizzy":false,
+      "action":
+      [
+        {"name":"play_hit_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"}
+      ],
+      "condition":
+      [
+        {"name":"by_skill_end", "required":true}
+      ]
+    }
+  },
+
+  "asset": "skill_bawang",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_bawang_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+            "name": "animation_bawang_back_layer1",
+            "type": 2,
+            "z-order": -1
+        },
+        {
+            "name": "animation_bawang_front_layer1",
+            "type": 0,
+            "z-order": 1
+        },
+        {
+            "name": "animation_bawang_front_layer2",
+            "type": 2,
+            "z-order": 2
+        }
+      ]
+    ]
+  }
+}

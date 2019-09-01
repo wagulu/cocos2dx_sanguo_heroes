@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "GachaInfoPB.proto";
+
+message InitGachaResponse{
+	optional ApiResponse		api = 1;					//公用参数
+	repeated GachaInfoPB		gachaInfo = 2;				//Gacha信息
+}

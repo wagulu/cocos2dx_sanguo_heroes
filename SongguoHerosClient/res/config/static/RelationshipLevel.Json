@@ -1,0 +1,5378 @@
+{
+    "1": {
+        "id": 1,
+        "relationshipId": 1,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472.5%\u3002"
+    },
+    "2": {
+        "id": 2,
+        "relationshipId": 1,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53475%\u3002"
+    },
+    "3": {
+        "id": 3,
+        "relationshipId": 1,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53477.5%\u3002"
+    },
+    "4": {
+        "id": 4,
+        "relationshipId": 1,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u534710%\u3002"
+    },
+    "5": {
+        "id": 5,
+        "relationshipId": 2,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472.5%\u3002"
+    },
+    "6": {
+        "id": 6,
+        "relationshipId": 2,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53475%\u3002"
+    },
+    "7": {
+        "id": 7,
+        "relationshipId": 2,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53477.5%\u3002"
+    },
+    "8": {
+        "id": 8,
+        "relationshipId": 2,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u534710%\u3002"
+    },
+    "9": {
+        "id": 9,
+        "relationshipId": 3,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "10": {
+        "id": 10,
+        "relationshipId": 3,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "11": {
+        "id": 11,
+        "relationshipId": 3,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53477.5%\u3002"
+    },
+    "12": {
+        "id": 12,
+        "relationshipId": 3,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u534710%\u3002"
+    },
+    "13": {
+        "id": 13,
+        "relationshipId": 4,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "14": {
+        "id": 14,
+        "relationshipId": 4,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "15": {
+        "id": 15,
+        "relationshipId": 4,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "16": {
+        "id": 16,
+        "relationshipId": 4,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "17": {
+        "id": 17,
+        "relationshipId": 5,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53477.5%\u3002"
+    },
+    "18": {
+        "id": 18,
+        "relationshipId": 5,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u534710%\u3002"
+    },
+    "19": {
+        "id": 19,
+        "relationshipId": 5,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "20": {
+        "id": 20,
+        "relationshipId": 5,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "21": {
+        "id": 21,
+        "relationshipId": 6,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "22": {
+        "id": 22,
+        "relationshipId": 6,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "23": {
+        "id": 23,
+        "relationshipId": 6,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "24": {
+        "id": 24,
+        "relationshipId": 6,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "25": {
+        "id": 25,
+        "relationshipId": 7,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "26": {
+        "id": 26,
+        "relationshipId": 7,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "27": {
+        "id": 27,
+        "relationshipId": 7,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "28": {
+        "id": 28,
+        "relationshipId": 7,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "29": {
+        "id": 29,
+        "relationshipId": 8,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "30": {
+        "id": 30,
+        "relationshipId": 8,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "31": {
+        "id": 31,
+        "relationshipId": 8,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "32": {
+        "id": 32,
+        "relationshipId": 8,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "33": {
+        "id": 33,
+        "relationshipId": 9,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "34": {
+        "id": 34,
+        "relationshipId": 9,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "35": {
+        "id": 35,
+        "relationshipId": 9,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53477.5%\u3002"
+    },
+    "36": {
+        "id": 36,
+        "relationshipId": 9,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u534710%\u3002"
+    },
+    "37": {
+        "id": 37,
+        "relationshipId": 10,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "38": {
+        "id": 38,
+        "relationshipId": 10,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "39": {
+        "id": 39,
+        "relationshipId": 10,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "40": {
+        "id": 40,
+        "relationshipId": 10,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "41": {
+        "id": 41,
+        "relationshipId": 11,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "42": {
+        "id": 42,
+        "relationshipId": 11,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "43": {
+        "id": 43,
+        "relationshipId": 11,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "44": {
+        "id": 44,
+        "relationshipId": 11,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "45": {
+        "id": 45,
+        "relationshipId": 12,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "46": {
+        "id": 46,
+        "relationshipId": 12,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "47": {
+        "id": 47,
+        "relationshipId": 12,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "48": {
+        "id": 48,
+        "relationshipId": 12,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "49": {
+        "id": 49,
+        "relationshipId": 13,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "50": {
+        "id": 50,
+        "relationshipId": 13,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "51": {
+        "id": 51,
+        "relationshipId": 13,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "52": {
+        "id": 52,
+        "relationshipId": 13,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "53": {
+        "id": 53,
+        "relationshipId": 14,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53477.5%\u3002"
+    },
+    "54": {
+        "id": 54,
+        "relationshipId": 14,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u534710%\u3002"
+    },
+    "55": {
+        "id": 55,
+        "relationshipId": 14,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "56": {
+        "id": 56,
+        "relationshipId": 14,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "57": {
+        "id": 57,
+        "relationshipId": 15,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "58": {
+        "id": 58,
+        "relationshipId": 15,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "59": {
+        "id": 59,
+        "relationshipId": 15,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "60": {
+        "id": 60,
+        "relationshipId": 15,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "61": {
+        "id": 61,
+        "relationshipId": 16,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "62": {
+        "id": 62,
+        "relationshipId": 16,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "63": {
+        "id": 63,
+        "relationshipId": 16,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "64": {
+        "id": 64,
+        "relationshipId": 16,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "65": {
+        "id": 65,
+        "relationshipId": 17,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "66": {
+        "id": 66,
+        "relationshipId": 17,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "67": {
+        "id": 67,
+        "relationshipId": 17,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "68": {
+        "id": 68,
+        "relationshipId": 17,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "69": {
+        "id": 69,
+        "relationshipId": 18,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "70": {
+        "id": 70,
+        "relationshipId": 18,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "71": {
+        "id": 71,
+        "relationshipId": 18,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "72": {
+        "id": 72,
+        "relationshipId": 18,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "73": {
+        "id": 73,
+        "relationshipId": 19,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "74": {
+        "id": 74,
+        "relationshipId": 19,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "75": {
+        "id": 75,
+        "relationshipId": 19,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "76": {
+        "id": 76,
+        "relationshipId": 19,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "77": {
+        "id": 77,
+        "relationshipId": 20,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "78": {
+        "id": 78,
+        "relationshipId": 20,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "79": {
+        "id": 79,
+        "relationshipId": 20,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "80": {
+        "id": 80,
+        "relationshipId": 20,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "81": {
+        "id": 81,
+        "relationshipId": 21,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53477.5%\u3002"
+    },
+    "82": {
+        "id": 82,
+        "relationshipId": 21,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u534710%\u3002"
+    },
+    "83": {
+        "id": 83,
+        "relationshipId": 21,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "84": {
+        "id": 84,
+        "relationshipId": 21,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "85": {
+        "id": 85,
+        "relationshipId": 22,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "86": {
+        "id": 86,
+        "relationshipId": 22,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "87": {
+        "id": 87,
+        "relationshipId": 22,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "88": {
+        "id": 88,
+        "relationshipId": 22,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "89": {
+        "id": 89,
+        "relationshipId": 23,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472.5%\u3002"
+    },
+    "90": {
+        "id": 90,
+        "relationshipId": 23,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53475%\u3002"
+    },
+    "91": {
+        "id": 91,
+        "relationshipId": 23,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53477.5%\u3002"
+    },
+    "92": {
+        "id": 92,
+        "relationshipId": 23,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u534710%\u3002"
+    },
+    "93": {
+        "id": 93,
+        "relationshipId": 24,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "94": {
+        "id": 94,
+        "relationshipId": 24,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "95": {
+        "id": 95,
+        "relationshipId": 24,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "96": {
+        "id": 96,
+        "relationshipId": 24,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "97": {
+        "id": 97,
+        "relationshipId": 25,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472%\u3002"
+    },
+    "98": {
+        "id": 98,
+        "relationshipId": 25,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474%\u3002"
+    },
+    "99": {
+        "id": 99,
+        "relationshipId": 25,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472%\u3002"
+    },
+    "100": {
+        "id": 100,
+        "relationshipId": 25,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474%\u3002"
+    },
+    "101": {
+        "id": 101,
+        "relationshipId": 26,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "102": {
+        "id": 102,
+        "relationshipId": 26,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "103": {
+        "id": 103,
+        "relationshipId": 26,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "104": {
+        "id": 104,
+        "relationshipId": 26,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "105": {
+        "id": 105,
+        "relationshipId": 27,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "106": {
+        "id": 106,
+        "relationshipId": 27,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53478%\u3002"
+    },
+    "107": {
+        "id": 107,
+        "relationshipId": 27,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53472%\u3002"
+    },
+    "108": {
+        "id": 108,
+        "relationshipId": 27,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474%\u3002"
+    },
+    "109": {
+        "id": 109,
+        "relationshipId": 28,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "110": {
+        "id": 110,
+        "relationshipId": 28,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "111": {
+        "id": 111,
+        "relationshipId": 28,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "112": {
+        "id": 112,
+        "relationshipId": 28,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "113": {
+        "id": 113,
+        "relationshipId": 29,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "114": {
+        "id": 114,
+        "relationshipId": 29,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "115": {
+        "id": 115,
+        "relationshipId": 29,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53477.5%\u3002"
+    },
+    "116": {
+        "id": 116,
+        "relationshipId": 29,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u534710%\u3002"
+    },
+    "117": {
+        "id": 117,
+        "relationshipId": 30,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472.5%\u3002"
+    },
+    "118": {
+        "id": 118,
+        "relationshipId": 30,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53475%\u3002"
+    },
+    "119": {
+        "id": 119,
+        "relationshipId": 30,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53477.5%\u3002"
+    },
+    "120": {
+        "id": 120,
+        "relationshipId": 30,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u534710%\u3002"
+    },
+    "121": {
+        "id": 121,
+        "relationshipId": 31,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "122": {
+        "id": 122,
+        "relationshipId": 31,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "123": {
+        "id": 123,
+        "relationshipId": 31,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "124": {
+        "id": 124,
+        "relationshipId": 31,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "125": {
+        "id": 125,
+        "relationshipId": 32,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "126": {
+        "id": 126,
+        "relationshipId": 32,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "127": {
+        "id": 127,
+        "relationshipId": 32,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "128": {
+        "id": 128,
+        "relationshipId": 32,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "129": {
+        "id": 129,
+        "relationshipId": 33,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53477.5%\u3002"
+    },
+    "130": {
+        "id": 130,
+        "relationshipId": 33,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u534710%\u3002"
+    },
+    "131": {
+        "id": 131,
+        "relationshipId": 33,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472.5%\u3002"
+    },
+    "132": {
+        "id": 132,
+        "relationshipId": 33,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53475%\u3002"
+    },
+    "133": {
+        "id": 133,
+        "relationshipId": 34,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53477.5%\u3002"
+    },
+    "134": {
+        "id": 134,
+        "relationshipId": 34,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u534710%\u3002"
+    },
+    "135": {
+        "id": 135,
+        "relationshipId": 34,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "136": {
+        "id": 136,
+        "relationshipId": 34,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "137": {
+        "id": 137,
+        "relationshipId": 35,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "138": {
+        "id": 138,
+        "relationshipId": 35,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "139": {
+        "id": 139,
+        "relationshipId": 35,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "140": {
+        "id": 140,
+        "relationshipId": 35,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "141": {
+        "id": 141,
+        "relationshipId": 36,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "142": {
+        "id": 142,
+        "relationshipId": 36,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "143": {
+        "id": 143,
+        "relationshipId": 36,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "144": {
+        "id": 144,
+        "relationshipId": 36,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "145": {
+        "id": 145,
+        "relationshipId": 37,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "146": {
+        "id": 146,
+        "relationshipId": 37,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "147": {
+        "id": 147,
+        "relationshipId": 37,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "148": {
+        "id": 148,
+        "relationshipId": 37,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "149": {
+        "id": 149,
+        "relationshipId": 38,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "150": {
+        "id": 150,
+        "relationshipId": 38,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "151": {
+        "id": 151,
+        "relationshipId": 38,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "152": {
+        "id": 152,
+        "relationshipId": 38,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "153": {
+        "id": 153,
+        "relationshipId": 39,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "154": {
+        "id": 154,
+        "relationshipId": 39,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "155": {
+        "id": 155,
+        "relationshipId": 39,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "156": {
+        "id": 156,
+        "relationshipId": 39,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "157": {
+        "id": 157,
+        "relationshipId": 40,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53477.5%\u3002"
+    },
+    "158": {
+        "id": 158,
+        "relationshipId": 40,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u534710%\u3002"
+    },
+    "159": {
+        "id": 159,
+        "relationshipId": 40,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472.5%\u3002"
+    },
+    "160": {
+        "id": 160,
+        "relationshipId": 40,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53475%\u3002"
+    },
+    "161": {
+        "id": 161,
+        "relationshipId": 41,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "162": {
+        "id": 162,
+        "relationshipId": 41,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "163": {
+        "id": 163,
+        "relationshipId": 41,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "164": {
+        "id": 164,
+        "relationshipId": 41,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "165": {
+        "id": 165,
+        "relationshipId": 42,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "166": {
+        "id": 166,
+        "relationshipId": 42,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "167": {
+        "id": 167,
+        "relationshipId": 42,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "168": {
+        "id": 168,
+        "relationshipId": 42,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "169": {
+        "id": 169,
+        "relationshipId": 43,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "170": {
+        "id": 170,
+        "relationshipId": 43,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "171": {
+        "id": 171,
+        "relationshipId": 43,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "172": {
+        "id": 172,
+        "relationshipId": 43,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "173": {
+        "id": 173,
+        "relationshipId": 44,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "174": {
+        "id": 174,
+        "relationshipId": 44,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "175": {
+        "id": 175,
+        "relationshipId": 44,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "176": {
+        "id": 176,
+        "relationshipId": 44,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "177": {
+        "id": 177,
+        "relationshipId": 45,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472%\u3002"
+    },
+    "178": {
+        "id": 178,
+        "relationshipId": 45,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474%\u3002"
+    },
+    "179": {
+        "id": 179,
+        "relationshipId": 45,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53476%\u3002"
+    },
+    "180": {
+        "id": 180,
+        "relationshipId": 45,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53478%\u3002"
+    },
+    "181": {
+        "id": 181,
+        "relationshipId": 46,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53472%\u3002"
+    },
+    "182": {
+        "id": 182,
+        "relationshipId": 46,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474%\u3002"
+    },
+    "183": {
+        "id": 183,
+        "relationshipId": 46,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53472%\u3002"
+    },
+    "184": {
+        "id": 184,
+        "relationshipId": 46,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474%\u3002"
+    },
+    "185": {
+        "id": 185,
+        "relationshipId": 47,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53476%\u3002"
+    },
+    "186": {
+        "id": 186,
+        "relationshipId": 47,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53478%\u3002"
+    },
+    "187": {
+        "id": 187,
+        "relationshipId": 47,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472%\u3002"
+    },
+    "188": {
+        "id": 188,
+        "relationshipId": 47,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474%\u3002"
+    },
+    "189": {
+        "id": 189,
+        "relationshipId": 48,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "190": {
+        "id": 190,
+        "relationshipId": 48,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "191": {
+        "id": 191,
+        "relationshipId": 48,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "192": {
+        "id": 192,
+        "relationshipId": 48,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "193": {
+        "id": 193,
+        "relationshipId": 49,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53476%\u3002"
+    },
+    "194": {
+        "id": 194,
+        "relationshipId": 49,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53478%\u3002"
+    },
+    "195": {
+        "id": 195,
+        "relationshipId": 49,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472%\u3002"
+    },
+    "196": {
+        "id": 196,
+        "relationshipId": 49,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474%\u3002"
+    },
+    "197": {
+        "id": 197,
+        "relationshipId": 50,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "198": {
+        "id": 198,
+        "relationshipId": 50,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "199": {
+        "id": 199,
+        "relationshipId": 50,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "200": {
+        "id": 200,
+        "relationshipId": 50,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "201": {
+        "id": 201,
+        "relationshipId": 51,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "202": {
+        "id": 202,
+        "relationshipId": 51,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "203": {
+        "id": 203,
+        "relationshipId": 51,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "204": {
+        "id": 204,
+        "relationshipId": 51,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "205": {
+        "id": 205,
+        "relationshipId": 52,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "206": {
+        "id": 206,
+        "relationshipId": 52,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "207": {
+        "id": 207,
+        "relationshipId": 52,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "208": {
+        "id": 208,
+        "relationshipId": 52,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "209": {
+        "id": 209,
+        "relationshipId": 53,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472%\u3002"
+    },
+    "210": {
+        "id": 210,
+        "relationshipId": 53,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474%\u3002"
+    },
+    "211": {
+        "id": 211,
+        "relationshipId": 53,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472%\u3002"
+    },
+    "212": {
+        "id": 212,
+        "relationshipId": 53,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474%\u3002"
+    },
+    "213": {
+        "id": 213,
+        "relationshipId": 54,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53476%\u3002"
+    },
+    "214": {
+        "id": 214,
+        "relationshipId": 54,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53478%\u3002"
+    },
+    "215": {
+        "id": 215,
+        "relationshipId": 54,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472%\u3002"
+    },
+    "216": {
+        "id": 216,
+        "relationshipId": 54,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474%\u3002"
+    },
+    "217": {
+        "id": 217,
+        "relationshipId": 55,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "218": {
+        "id": 218,
+        "relationshipId": 55,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "219": {
+        "id": 219,
+        "relationshipId": 55,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "220": {
+        "id": 220,
+        "relationshipId": 55,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "221": {
+        "id": 221,
+        "relationshipId": 56,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "222": {
+        "id": 222,
+        "relationshipId": 56,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "223": {
+        "id": 223,
+        "relationshipId": 56,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "224": {
+        "id": 224,
+        "relationshipId": 56,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "225": {
+        "id": 225,
+        "relationshipId": 57,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53471.5%\u3002"
+    },
+    "226": {
+        "id": 226,
+        "relationshipId": 57,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53473%\u3002"
+    },
+    "227": {
+        "id": 227,
+        "relationshipId": 57,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474.5%\u3002"
+    },
+    "228": {
+        "id": 228,
+        "relationshipId": 57,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "229": {
+        "id": 229,
+        "relationshipId": 58,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53471.5%\u3002"
+    },
+    "230": {
+        "id": 230,
+        "relationshipId": 58,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53473%\u3002"
+    },
+    "231": {
+        "id": 231,
+        "relationshipId": 58,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474.5%\u3002"
+    },
+    "232": {
+        "id": 232,
+        "relationshipId": 58,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53476%\u3002"
+    },
+    "233": {
+        "id": 233,
+        "relationshipId": 59,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "234": {
+        "id": 234,
+        "relationshipId": 59,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "235": {
+        "id": 235,
+        "relationshipId": 59,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "236": {
+        "id": 236,
+        "relationshipId": 59,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "237": {
+        "id": 237,
+        "relationshipId": 60,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "238": {
+        "id": 238,
+        "relationshipId": 60,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "239": {
+        "id": 239,
+        "relationshipId": 60,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "240": {
+        "id": 240,
+        "relationshipId": 60,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "241": {
+        "id": 241,
+        "relationshipId": 61,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53477.5%\u3002"
+    },
+    "242": {
+        "id": 242,
+        "relationshipId": 61,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u534710%\u3002"
+    },
+    "243": {
+        "id": 243,
+        "relationshipId": 61,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472.5%\u3002"
+    },
+    "244": {
+        "id": 244,
+        "relationshipId": 61,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53475%\u3002"
+    },
+    "245": {
+        "id": 245,
+        "relationshipId": 62,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "246": {
+        "id": 246,
+        "relationshipId": 62,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "247": {
+        "id": 247,
+        "relationshipId": 62,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "248": {
+        "id": 248,
+        "relationshipId": 62,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "249": {
+        "id": 249,
+        "relationshipId": 63,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53477.5%\u3002"
+    },
+    "250": {
+        "id": 250,
+        "relationshipId": 63,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u534710%\u3002"
+    },
+    "251": {
+        "id": 251,
+        "relationshipId": 63,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "252": {
+        "id": 252,
+        "relationshipId": 63,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "253": {
+        "id": 253,
+        "relationshipId": 64,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "254": {
+        "id": 254,
+        "relationshipId": 64,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "255": {
+        "id": 255,
+        "relationshipId": 64,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "256": {
+        "id": 256,
+        "relationshipId": 64,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "257": {
+        "id": 257,
+        "relationshipId": 65,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53472%\u3002"
+    },
+    "258": {
+        "id": 258,
+        "relationshipId": 65,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474%\u3002"
+    },
+    "259": {
+        "id": 259,
+        "relationshipId": 65,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "260": {
+        "id": 260,
+        "relationshipId": 65,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53478%\u3002"
+    },
+    "261": {
+        "id": 261,
+        "relationshipId": 66,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "262": {
+        "id": 262,
+        "relationshipId": 66,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "263": {
+        "id": 263,
+        "relationshipId": 66,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "264": {
+        "id": 264,
+        "relationshipId": 66,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "265": {
+        "id": 265,
+        "relationshipId": 67,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472%\u3002"
+    },
+    "266": {
+        "id": 266,
+        "relationshipId": 67,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474%\u3002"
+    },
+    "267": {
+        "id": 267,
+        "relationshipId": 67,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472%\u3002"
+    },
+    "268": {
+        "id": 268,
+        "relationshipId": 67,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474%\u3002"
+    },
+    "269": {
+        "id": 269,
+        "relationshipId": 68,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53476%\u3002"
+    },
+    "270": {
+        "id": 270,
+        "relationshipId": 68,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53478%\u3002"
+    },
+    "271": {
+        "id": 271,
+        "relationshipId": 68,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472%\u3002"
+    },
+    "272": {
+        "id": 272,
+        "relationshipId": 68,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474%\u3002"
+    },
+    "273": {
+        "id": 273,
+        "relationshipId": 69,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "274": {
+        "id": 274,
+        "relationshipId": 69,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "275": {
+        "id": 275,
+        "relationshipId": 69,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "276": {
+        "id": 276,
+        "relationshipId": 69,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "277": {
+        "id": 277,
+        "relationshipId": 70,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "278": {
+        "id": 278,
+        "relationshipId": 70,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "279": {
+        "id": 279,
+        "relationshipId": 70,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "280": {
+        "id": 280,
+        "relationshipId": 70,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "281": {
+        "id": 281,
+        "relationshipId": 71,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "282": {
+        "id": 282,
+        "relationshipId": 71,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "283": {
+        "id": 283,
+        "relationshipId": 71,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "284": {
+        "id": 284,
+        "relationshipId": 71,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "285": {
+        "id": 285,
+        "relationshipId": 72,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472%\u3002"
+    },
+    "286": {
+        "id": 286,
+        "relationshipId": 72,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474%\u3002"
+    },
+    "287": {
+        "id": 287,
+        "relationshipId": 72,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53476%\u3002"
+    },
+    "288": {
+        "id": 288,
+        "relationshipId": 72,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53478%\u3002"
+    },
+    "289": {
+        "id": 289,
+        "relationshipId": 73,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "290": {
+        "id": 290,
+        "relationshipId": 73,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "291": {
+        "id": 291,
+        "relationshipId": 73,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "292": {
+        "id": 292,
+        "relationshipId": 73,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "293": {
+        "id": 293,
+        "relationshipId": 74,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "MP\u503c\u63d0\u53472%\u3002"
+    },
+    "294": {
+        "id": 294,
+        "relationshipId": 74,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "MP\u503c\u63d0\u53474%\u3002"
+    },
+    "295": {
+        "id": 295,
+        "relationshipId": 74,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "MP\u503c\u63d0\u53472%\u3002"
+    },
+    "296": {
+        "id": 296,
+        "relationshipId": 74,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "MP\u503c\u63d0\u53474%\u3002"
+    },
+    "297": {
+        "id": 297,
+        "relationshipId": 75,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53476%\u3002"
+    },
+    "298": {
+        "id": 298,
+        "relationshipId": 75,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53478%\u3002"
+    },
+    "299": {
+        "id": 299,
+        "relationshipId": 75,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472%\u3002"
+    },
+    "300": {
+        "id": 300,
+        "relationshipId": 75,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474%\u3002"
+    },
+    "301": {
+        "id": 301,
+        "relationshipId": 76,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53476%\u3002"
+    },
+    "302": {
+        "id": 302,
+        "relationshipId": 76,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53478%\u3002"
+    },
+    "303": {
+        "id": 303,
+        "relationshipId": 76,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472%\u3002"
+    },
+    "304": {
+        "id": 304,
+        "relationshipId": 76,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474%\u3002"
+    },
+    "305": {
+        "id": 305,
+        "relationshipId": 77,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474.5%\u3002"
+    },
+    "306": {
+        "id": 306,
+        "relationshipId": 77,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "307": {
+        "id": 307,
+        "relationshipId": 77,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53471.5%\u3002"
+    },
+    "308": {
+        "id": 308,
+        "relationshipId": 77,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53473%\u3002"
+    },
+    "309": {
+        "id": 309,
+        "relationshipId": 78,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "310": {
+        "id": 310,
+        "relationshipId": 78,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "311": {
+        "id": 311,
+        "relationshipId": 78,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474.5%\u3002"
+    },
+    "312": {
+        "id": 312,
+        "relationshipId": 78,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "313": {
+        "id": 313,
+        "relationshipId": 79,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "314": {
+        "id": 314,
+        "relationshipId": 79,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "315": {
+        "id": 315,
+        "relationshipId": 79,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474.5%\u3002"
+    },
+    "316": {
+        "id": 316,
+        "relationshipId": 79,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "317": {
+        "id": 317,
+        "relationshipId": 80,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "318": {
+        "id": 318,
+        "relationshipId": 80,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "319": {
+        "id": 319,
+        "relationshipId": 80,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474.5%\u3002"
+    },
+    "320": {
+        "id": 320,
+        "relationshipId": 80,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "321": {
+        "id": 321,
+        "relationshipId": 81,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53472%\u3002"
+    },
+    "322": {
+        "id": 322,
+        "relationshipId": 81,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474%\u3002"
+    },
+    "323": {
+        "id": 323,
+        "relationshipId": 81,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53472%\u3002"
+    },
+    "324": {
+        "id": 324,
+        "relationshipId": 81,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474%\u3002"
+    },
+    "325": {
+        "id": 325,
+        "relationshipId": 82,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "326": {
+        "id": 326,
+        "relationshipId": 82,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "327": {
+        "id": 327,
+        "relationshipId": 82,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "328": {
+        "id": 328,
+        "relationshipId": 82,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "329": {
+        "id": 329,
+        "relationshipId": 83,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "330": {
+        "id": 330,
+        "relationshipId": 83,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "331": {
+        "id": 331,
+        "relationshipId": 83,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "332": {
+        "id": 332,
+        "relationshipId": 83,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "333": {
+        "id": 333,
+        "relationshipId": 84,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "334": {
+        "id": 334,
+        "relationshipId": 84,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "335": {
+        "id": 335,
+        "relationshipId": 84,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "336": {
+        "id": 336,
+        "relationshipId": 84,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "337": {
+        "id": 337,
+        "relationshipId": 85,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "338": {
+        "id": 338,
+        "relationshipId": 85,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "339": {
+        "id": 339,
+        "relationshipId": 85,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53477.5%\u3002"
+    },
+    "340": {
+        "id": 340,
+        "relationshipId": 85,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u534710%\u3002"
+    },
+    "341": {
+        "id": 341,
+        "relationshipId": 86,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "342": {
+        "id": 342,
+        "relationshipId": 86,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "343": {
+        "id": 343,
+        "relationshipId": 86,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "344": {
+        "id": 344,
+        "relationshipId": 86,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "345": {
+        "id": 345,
+        "relationshipId": 87,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53472.5%\u3002"
+    },
+    "346": {
+        "id": 346,
+        "relationshipId": 87,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53475%\u3002"
+    },
+    "347": {
+        "id": 347,
+        "relationshipId": 87,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53477.5%\u3002"
+    },
+    "348": {
+        "id": 348,
+        "relationshipId": 87,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u534710%\u3002"
+    },
+    "349": {
+        "id": 349,
+        "relationshipId": 88,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "350": {
+        "id": 350,
+        "relationshipId": 88,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "351": {
+        "id": 351,
+        "relationshipId": 88,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "352": {
+        "id": 352,
+        "relationshipId": 88,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "353": {
+        "id": 353,
+        "relationshipId": 89,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53476%\u3002"
+    },
+    "354": {
+        "id": 354,
+        "relationshipId": 89,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53478%\u3002"
+    },
+    "355": {
+        "id": 355,
+        "relationshipId": 89,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472%\u3002"
+    },
+    "356": {
+        "id": 356,
+        "relationshipId": 89,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474%\u3002"
+    },
+    "357": {
+        "id": 357,
+        "relationshipId": 90,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "358": {
+        "id": 358,
+        "relationshipId": 90,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "359": {
+        "id": 359,
+        "relationshipId": 90,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "360": {
+        "id": 360,
+        "relationshipId": 90,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "361": {
+        "id": 361,
+        "relationshipId": 91,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "362": {
+        "id": 362,
+        "relationshipId": 91,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "363": {
+        "id": 363,
+        "relationshipId": 91,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "364": {
+        "id": 364,
+        "relationshipId": 91,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "365": {
+        "id": 365,
+        "relationshipId": 92,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "366": {
+        "id": 366,
+        "relationshipId": 92,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "367": {
+        "id": 367,
+        "relationshipId": 92,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "368": {
+        "id": 368,
+        "relationshipId": 92,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "369": {
+        "id": 369,
+        "relationshipId": 93,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472.5%\u3002"
+    },
+    "370": {
+        "id": 370,
+        "relationshipId": 93,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53475%\u3002"
+    },
+    "371": {
+        "id": 371,
+        "relationshipId": 93,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53477.5%\u3002"
+    },
+    "372": {
+        "id": 372,
+        "relationshipId": 93,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u534710%\u3002"
+    },
+    "373": {
+        "id": 373,
+        "relationshipId": 94,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472.5%\u3002"
+    },
+    "374": {
+        "id": 374,
+        "relationshipId": 94,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53475%\u3002"
+    },
+    "375": {
+        "id": 375,
+        "relationshipId": 94,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53477.5%\u3002"
+    },
+    "376": {
+        "id": 376,
+        "relationshipId": 94,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u534710%\u3002"
+    },
+    "377": {
+        "id": 377,
+        "relationshipId": 95,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472.5%\u3002"
+    },
+    "378": {
+        "id": 378,
+        "relationshipId": 95,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53475%\u3002"
+    },
+    "379": {
+        "id": 379,
+        "relationshipId": 95,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472.5%\u3002"
+    },
+    "380": {
+        "id": 380,
+        "relationshipId": 95,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53475%\u3002"
+    },
+    "381": {
+        "id": 381,
+        "relationshipId": 96,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53477.5%\u3002"
+    },
+    "382": {
+        "id": 382,
+        "relationshipId": 96,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u534710%\u3002"
+    },
+    "383": {
+        "id": 383,
+        "relationshipId": 96,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472.5%\u3002"
+    },
+    "384": {
+        "id": 384,
+        "relationshipId": 96,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53475%\u3002"
+    },
+    "385": {
+        "id": 385,
+        "relationshipId": 97,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53476%\u3002"
+    },
+    "386": {
+        "id": 386,
+        "relationshipId": 97,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53478%\u3002"
+    },
+    "387": {
+        "id": 387,
+        "relationshipId": 97,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53472%\u3002"
+    },
+    "388": {
+        "id": 388,
+        "relationshipId": 97,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474%\u3002"
+    },
+    "389": {
+        "id": 389,
+        "relationshipId": 98,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "390": {
+        "id": 390,
+        "relationshipId": 98,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "391": {
+        "id": 391,
+        "relationshipId": 98,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "392": {
+        "id": 392,
+        "relationshipId": 98,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "393": {
+        "id": 393,
+        "relationshipId": 99,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "394": {
+        "id": 394,
+        "relationshipId": 99,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "395": {
+        "id": 395,
+        "relationshipId": 99,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "396": {
+        "id": 396,
+        "relationshipId": 99,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "397": {
+        "id": 397,
+        "relationshipId": 100,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "398": {
+        "id": 398,
+        "relationshipId": 100,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "399": {
+        "id": 399,
+        "relationshipId": 100,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "400": {
+        "id": 400,
+        "relationshipId": 100,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "401": {
+        "id": 401,
+        "relationshipId": 101,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53472%\u3002"
+    },
+    "402": {
+        "id": 402,
+        "relationshipId": 101,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474%\u3002"
+    },
+    "403": {
+        "id": 403,
+        "relationshipId": 101,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "404": {
+        "id": 404,
+        "relationshipId": 101,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53478%\u3002"
+    },
+    "405": {
+        "id": 405,
+        "relationshipId": 102,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "406": {
+        "id": 406,
+        "relationshipId": 102,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "407": {
+        "id": 407,
+        "relationshipId": 102,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "408": {
+        "id": 408,
+        "relationshipId": 102,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "409": {
+        "id": 409,
+        "relationshipId": 103,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "410": {
+        "id": 410,
+        "relationshipId": 103,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "411": {
+        "id": 411,
+        "relationshipId": 103,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "412": {
+        "id": 412,
+        "relationshipId": 103,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "413": {
+        "id": 413,
+        "relationshipId": 104,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "414": {
+        "id": 414,
+        "relationshipId": 104,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "415": {
+        "id": 415,
+        "relationshipId": 104,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "416": {
+        "id": 416,
+        "relationshipId": 104,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "417": {
+        "id": 417,
+        "relationshipId": 105,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "418": {
+        "id": 418,
+        "relationshipId": 105,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "419": {
+        "id": 419,
+        "relationshipId": 105,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "420": {
+        "id": 420,
+        "relationshipId": 105,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "421": {
+        "id": 421,
+        "relationshipId": 106,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "422": {
+        "id": 422,
+        "relationshipId": 106,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "423": {
+        "id": 423,
+        "relationshipId": 106,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "424": {
+        "id": 424,
+        "relationshipId": 106,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "425": {
+        "id": 425,
+        "relationshipId": 107,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "426": {
+        "id": 426,
+        "relationshipId": 107,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "427": {
+        "id": 427,
+        "relationshipId": 107,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "428": {
+        "id": 428,
+        "relationshipId": 107,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "429": {
+        "id": 429,
+        "relationshipId": 108,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "430": {
+        "id": 430,
+        "relationshipId": 108,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "431": {
+        "id": 431,
+        "relationshipId": 108,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "432": {
+        "id": 432,
+        "relationshipId": 108,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "433": {
+        "id": 433,
+        "relationshipId": 109,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53471.5%\u3002"
+    },
+    "434": {
+        "id": 434,
+        "relationshipId": 109,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53473%\u3002"
+    },
+    "435": {
+        "id": 435,
+        "relationshipId": 109,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53471.5%\u3002"
+    },
+    "436": {
+        "id": 436,
+        "relationshipId": 109,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53473%\u3002"
+    },
+    "437": {
+        "id": 437,
+        "relationshipId": 110,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474.5%\u3002"
+    },
+    "438": {
+        "id": 438,
+        "relationshipId": 110,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "439": {
+        "id": 439,
+        "relationshipId": 110,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53471.5%\u3002"
+    },
+    "440": {
+        "id": 440,
+        "relationshipId": 110,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53473%\u3002"
+    },
+    "441": {
+        "id": 441,
+        "relationshipId": 111,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474.5%\u3002"
+    },
+    "442": {
+        "id": 442,
+        "relationshipId": 111,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53476%\u3002"
+    },
+    "443": {
+        "id": 443,
+        "relationshipId": 111,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53471.5%\u3002"
+    },
+    "444": {
+        "id": 444,
+        "relationshipId": 111,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53473%\u3002"
+    },
+    "445": {
+        "id": 445,
+        "relationshipId": 112,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53474.5%\u3002"
+    },
+    "446": {
+        "id": 446,
+        "relationshipId": 112,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "447": {
+        "id": 447,
+        "relationshipId": 112,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "448": {
+        "id": 448,
+        "relationshipId": 112,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "449": {
+        "id": 449,
+        "relationshipId": 113,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "450": {
+        "id": 450,
+        "relationshipId": 113,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "451": {
+        "id": 451,
+        "relationshipId": 113,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474.5%\u3002"
+    },
+    "452": {
+        "id": 452,
+        "relationshipId": 113,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "453": {
+        "id": 453,
+        "relationshipId": 114,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53471.5%\u3002"
+    },
+    "454": {
+        "id": 454,
+        "relationshipId": 114,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53473%\u3002"
+    },
+    "455": {
+        "id": 455,
+        "relationshipId": 114,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474.5%\u3002"
+    },
+    "456": {
+        "id": 456,
+        "relationshipId": 114,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "457": {
+        "id": 457,
+        "relationshipId": 115,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53471.5%\u3002"
+    },
+    "458": {
+        "id": 458,
+        "relationshipId": 115,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53473%\u3002"
+    },
+    "459": {
+        "id": 459,
+        "relationshipId": 115,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474.5%\u3002"
+    },
+    "460": {
+        "id": 460,
+        "relationshipId": 115,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53476%\u3002"
+    },
+    "461": {
+        "id": 461,
+        "relationshipId": 116,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "462": {
+        "id": 462,
+        "relationshipId": 116,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "463": {
+        "id": 463,
+        "relationshipId": 116,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "464": {
+        "id": 464,
+        "relationshipId": 116,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "465": {
+        "id": 465,
+        "relationshipId": 117,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "466": {
+        "id": 466,
+        "relationshipId": 117,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "467": {
+        "id": 467,
+        "relationshipId": 117,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "468": {
+        "id": 468,
+        "relationshipId": 117,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "469": {
+        "id": 469,
+        "relationshipId": 118,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53474.5%\u3002"
+    },
+    "470": {
+        "id": 470,
+        "relationshipId": 118,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "471": {
+        "id": 471,
+        "relationshipId": 118,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "472": {
+        "id": 472,
+        "relationshipId": 118,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "473": {
+        "id": 473,
+        "relationshipId": 119,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474.5%\u3002"
+    },
+    "474": {
+        "id": 474,
+        "relationshipId": 119,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53476%\u3002"
+    },
+    "475": {
+        "id": 475,
+        "relationshipId": 119,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53471.5%\u3002"
+    },
+    "476": {
+        "id": 476,
+        "relationshipId": 119,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53473%\u3002"
+    },
+    "477": {
+        "id": 477,
+        "relationshipId": 120,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53471.5%\u3002"
+    },
+    "478": {
+        "id": 478,
+        "relationshipId": 120,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53473%\u3002"
+    },
+    "479": {
+        "id": 479,
+        "relationshipId": 120,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474.5%\u3002"
+    },
+    "480": {
+        "id": 480,
+        "relationshipId": 120,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "481": {
+        "id": 481,
+        "relationshipId": 121,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53471.5%\u3002"
+    },
+    "482": {
+        "id": 482,
+        "relationshipId": 121,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53473%\u3002"
+    },
+    "483": {
+        "id": 483,
+        "relationshipId": 121,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53474.5%\u3002"
+    },
+    "484": {
+        "id": 484,
+        "relationshipId": 121,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7edf\u5e05\u503c\u63d0\u53476%\u3002"
+    },
+    "485": {
+        "id": 485,
+        "relationshipId": 122,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "486": {
+        "id": 486,
+        "relationshipId": 122,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "487": {
+        "id": 487,
+        "relationshipId": 122,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "488": {
+        "id": 488,
+        "relationshipId": 122,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "489": {
+        "id": 489,
+        "relationshipId": 123,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "490": {
+        "id": 490,
+        "relationshipId": 123,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "491": {
+        "id": 491,
+        "relationshipId": 123,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "492": {
+        "id": 492,
+        "relationshipId": 123,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "493": {
+        "id": 493,
+        "relationshipId": 124,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474.5%\u3002"
+    },
+    "494": {
+        "id": 494,
+        "relationshipId": 124,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "495": {
+        "id": 495,
+        "relationshipId": 124,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "496": {
+        "id": 496,
+        "relationshipId": 124,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "497": {
+        "id": 497,
+        "relationshipId": 125,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "498": {
+        "id": 498,
+        "relationshipId": 125,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "499": {
+        "id": 499,
+        "relationshipId": 125,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "500": {
+        "id": 500,
+        "relationshipId": 125,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "501": {
+        "id": 501,
+        "relationshipId": 126,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474.5%\u3002"
+    },
+    "502": {
+        "id": 502,
+        "relationshipId": 126,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53476%\u3002"
+    },
+    "503": {
+        "id": 503,
+        "relationshipId": 126,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53471.5%\u3002"
+    },
+    "504": {
+        "id": 504,
+        "relationshipId": 126,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53473%\u3002"
+    },
+    "505": {
+        "id": 505,
+        "relationshipId": 127,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "506": {
+        "id": 506,
+        "relationshipId": 127,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "507": {
+        "id": 507,
+        "relationshipId": 127,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53474.5%\u3002"
+    },
+    "508": {
+        "id": 508,
+        "relationshipId": 127,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "509": {
+        "id": 509,
+        "relationshipId": 128,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "510": {
+        "id": 510,
+        "relationshipId": 128,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "511": {
+        "id": 511,
+        "relationshipId": 128,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53474.5%\u3002"
+    },
+    "512": {
+        "id": 512,
+        "relationshipId": 128,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "513": {
+        "id": 513,
+        "relationshipId": 129,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "514": {
+        "id": 514,
+        "relationshipId": 129,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "515": {
+        "id": 515,
+        "relationshipId": 129,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "516": {
+        "id": 516,
+        "relationshipId": 129,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "517": {
+        "id": 517,
+        "relationshipId": 130,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "518": {
+        "id": 518,
+        "relationshipId": 130,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "519": {
+        "id": 519,
+        "relationshipId": 130,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "520": {
+        "id": 520,
+        "relationshipId": 130,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "521": {
+        "id": 521,
+        "relationshipId": 131,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "522": {
+        "id": 522,
+        "relationshipId": 131,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "523": {
+        "id": 523,
+        "relationshipId": 131,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "524": {
+        "id": 524,
+        "relationshipId": 131,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "525": {
+        "id": 525,
+        "relationshipId": 132,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "526": {
+        "id": 526,
+        "relationshipId": 132,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "527": {
+        "id": 527,
+        "relationshipId": 132,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "528": {
+        "id": 528,
+        "relationshipId": 132,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "529": {
+        "id": 529,
+        "relationshipId": 133,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "530": {
+        "id": 530,
+        "relationshipId": 133,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "531": {
+        "id": 531,
+        "relationshipId": 133,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "532": {
+        "id": 532,
+        "relationshipId": 133,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "533": {
+        "id": 533,
+        "relationshipId": 134,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "MP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "534": {
+        "id": 534,
+        "relationshipId": 134,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "MP\u503c\u63d0\u53473%\u3002"
+    },
+    "535": {
+        "id": 535,
+        "relationshipId": 134,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "MP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "536": {
+        "id": 536,
+        "relationshipId": 134,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "MP\u503c\u63d0\u53476%\u3002"
+    },
+    "537": {
+        "id": 537,
+        "relationshipId": 135,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53471.5%\u3002"
+    },
+    "538": {
+        "id": 538,
+        "relationshipId": 135,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53473%\u3002"
+    },
+    "539": {
+        "id": 539,
+        "relationshipId": 135,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474.5%\u3002"
+    },
+    "540": {
+        "id": 540,
+        "relationshipId": 135,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53476%\u3002"
+    },
+    "541": {
+        "id": 541,
+        "relationshipId": 136,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53471.5%\u3002"
+    },
+    "542": {
+        "id": 542,
+        "relationshipId": 136,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53473%\u3002"
+    },
+    "543": {
+        "id": 543,
+        "relationshipId": 136,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474.5%\u3002"
+    },
+    "544": {
+        "id": 544,
+        "relationshipId": 136,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "545": {
+        "id": 545,
+        "relationshipId": 137,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "546": {
+        "id": 546,
+        "relationshipId": 137,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "547": {
+        "id": 547,
+        "relationshipId": 137,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "548": {
+        "id": 548,
+        "relationshipId": 137,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "549": {
+        "id": 549,
+        "relationshipId": 138,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474.5%\u3002"
+    },
+    "550": {
+        "id": 550,
+        "relationshipId": 138,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "551": {
+        "id": 551,
+        "relationshipId": 138,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "552": {
+        "id": 552,
+        "relationshipId": 138,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "553": {
+        "id": 553,
+        "relationshipId": 139,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "554": {
+        "id": 554,
+        "relationshipId": 139,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "555": {
+        "id": 555,
+        "relationshipId": 139,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "556": {
+        "id": 556,
+        "relationshipId": 139,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "557": {
+        "id": 557,
+        "relationshipId": 140,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474.5%\u3002"
+    },
+    "558": {
+        "id": 558,
+        "relationshipId": 140,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "559": {
+        "id": 559,
+        "relationshipId": 140,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53471.5%\u3002"
+    },
+    "560": {
+        "id": 560,
+        "relationshipId": 140,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53473%\u3002"
+    },
+    "561": {
+        "id": 561,
+        "relationshipId": 141,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "562": {
+        "id": 562,
+        "relationshipId": 141,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "563": {
+        "id": 563,
+        "relationshipId": 141,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "564": {
+        "id": 564,
+        "relationshipId": 141,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "565": {
+        "id": 565,
+        "relationshipId": 142,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "566": {
+        "id": 566,
+        "relationshipId": 142,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "567": {
+        "id": 567,
+        "relationshipId": 142,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "568": {
+        "id": 568,
+        "relationshipId": 142,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "569": {
+        "id": 569,
+        "relationshipId": 143,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "570": {
+        "id": 570,
+        "relationshipId": 143,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "571": {
+        "id": 571,
+        "relationshipId": 143,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "572": {
+        "id": 572,
+        "relationshipId": 143,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "573": {
+        "id": 573,
+        "relationshipId": 144,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472%\u3002"
+    },
+    "574": {
+        "id": 574,
+        "relationshipId": 144,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474%\u3002"
+    },
+    "575": {
+        "id": 575,
+        "relationshipId": 144,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472%\u3002"
+    },
+    "576": {
+        "id": 576,
+        "relationshipId": 144,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474%\u3002"
+    },
+    "577": {
+        "id": 577,
+        "relationshipId": 145,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53474.5%\u3002"
+    },
+    "578": {
+        "id": 578,
+        "relationshipId": 145,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "579": {
+        "id": 579,
+        "relationshipId": 145,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "580": {
+        "id": 580,
+        "relationshipId": 145,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "581": {
+        "id": 581,
+        "relationshipId": 146,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474.5%\u3002"
+    },
+    "582": {
+        "id": 582,
+        "relationshipId": 146,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "583": {
+        "id": 583,
+        "relationshipId": 146,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "584": {
+        "id": 584,
+        "relationshipId": 146,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "585": {
+        "id": 585,
+        "relationshipId": 147,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474.5%\u3002"
+    },
+    "586": {
+        "id": 586,
+        "relationshipId": 147,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53476%\u3002"
+    },
+    "587": {
+        "id": 587,
+        "relationshipId": 147,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53471.5%\u3002"
+    },
+    "588": {
+        "id": 588,
+        "relationshipId": 147,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53473%\u3002"
+    },
+    "589": {
+        "id": 589,
+        "relationshipId": 148,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53471.5%\u3002"
+    },
+    "590": {
+        "id": 590,
+        "relationshipId": 148,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53473%\u3002"
+    },
+    "591": {
+        "id": 591,
+        "relationshipId": 148,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474.5%\u3002"
+    },
+    "592": {
+        "id": 592,
+        "relationshipId": 148,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "593": {
+        "id": 593,
+        "relationshipId": 149,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53472%\u3002"
+    },
+    "594": {
+        "id": 594,
+        "relationshipId": 149,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474%\u3002"
+    },
+    "595": {
+        "id": 595,
+        "relationshipId": 149,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "596": {
+        "id": 596,
+        "relationshipId": 149,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53478%\u3002"
+    },
+    "597": {
+        "id": 597,
+        "relationshipId": 150,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "598": {
+        "id": 598,
+        "relationshipId": 150,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "599": {
+        "id": 599,
+        "relationshipId": 150,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "600": {
+        "id": 600,
+        "relationshipId": 150,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53478%\u3002"
+    },
+    "601": {
+        "id": 601,
+        "relationshipId": 151,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "602": {
+        "id": 602,
+        "relationshipId": 151,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "603": {
+        "id": 603,
+        "relationshipId": 151,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "604": {
+        "id": 604,
+        "relationshipId": 151,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "605": {
+        "id": 605,
+        "relationshipId": 152,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "606": {
+        "id": 606,
+        "relationshipId": 152,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53478%\u3002"
+    },
+    "607": {
+        "id": 607,
+        "relationshipId": 152,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53472%\u3002"
+    },
+    "608": {
+        "id": 608,
+        "relationshipId": 152,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474%\u3002"
+    },
+    "609": {
+        "id": 609,
+        "relationshipId": 153,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474.5%\u3002"
+    },
+    "610": {
+        "id": 610,
+        "relationshipId": 153,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "611": {
+        "id": 611,
+        "relationshipId": 153,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53471.5%\u3002"
+    },
+    "612": {
+        "id": 612,
+        "relationshipId": 153,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53473%\u3002"
+    },
+    "613": {
+        "id": 613,
+        "relationshipId": 154,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53474.5%\u3002"
+    },
+    "614": {
+        "id": 614,
+        "relationshipId": 154,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "615": {
+        "id": 615,
+        "relationshipId": 154,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "616": {
+        "id": 616,
+        "relationshipId": 154,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "617": {
+        "id": 617,
+        "relationshipId": 155,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "618": {
+        "id": 618,
+        "relationshipId": 155,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "619": {
+        "id": 619,
+        "relationshipId": 155,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474.5%\u3002"
+    },
+    "620": {
+        "id": 620,
+        "relationshipId": 155,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "621": {
+        "id": 621,
+        "relationshipId": 156,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "622": {
+        "id": 622,
+        "relationshipId": 156,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "623": {
+        "id": 623,
+        "relationshipId": 156,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "624": {
+        "id": 624,
+        "relationshipId": 156,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "625": {
+        "id": 625,
+        "relationshipId": 157,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53471.5%\u3002"
+    },
+    "626": {
+        "id": 626,
+        "relationshipId": 157,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53473%\u3002"
+    },
+    "627": {
+        "id": 627,
+        "relationshipId": 157,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474.5%\u3002"
+    },
+    "628": {
+        "id": 628,
+        "relationshipId": 157,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "629": {
+        "id": 629,
+        "relationshipId": 158,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "630": {
+        "id": 630,
+        "relationshipId": 158,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "631": {
+        "id": 631,
+        "relationshipId": 158,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "632": {
+        "id": 632,
+        "relationshipId": 158,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u667a\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "633": {
+        "id": 633,
+        "relationshipId": 159,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53474.5%\u3002"
+    },
+    "634": {
+        "id": 634,
+        "relationshipId": 159,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "635": {
+        "id": 635,
+        "relationshipId": 159,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53471.5%\u3002"
+    },
+    "636": {
+        "id": 636,
+        "relationshipId": 159,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u653b\u51fb\u503c\u63d0\u53473%\u3002"
+    },
+    "637": {
+        "id": 637,
+        "relationshipId": 160,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "638": {
+        "id": 638,
+        "relationshipId": 160,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "639": {
+        "id": 639,
+        "relationshipId": 160,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "640": {
+        "id": 640,
+        "relationshipId": 160,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "641": {
+        "id": 641,
+        "relationshipId": 161,
+        "level": 3,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "642": {
+        "id": 642,
+        "relationshipId": 161,
+        "level": 4,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "643": {
+        "id": 643,
+        "relationshipId": 161,
+        "level": 1,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "644": {
+        "id": 644,
+        "relationshipId": 161,
+        "level": 2,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "645": {
+        "id": 645,
+        "relationshipId": 162,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "646": {
+        "id": 646,
+        "relationshipId": 162,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "647": {
+        "id": 647,
+        "relationshipId": 162,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "648": {
+        "id": 648,
+        "relationshipId": 162,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "649": {
+        "id": 649,
+        "relationshipId": 163,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53471.5%\u3002"
+    },
+    "650": {
+        "id": 650,
+        "relationshipId": 163,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53473%\u3002"
+    },
+    "651": {
+        "id": 651,
+        "relationshipId": 163,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53474.5%\u3002"
+    },
+    "652": {
+        "id": 652,
+        "relationshipId": 163,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "653": {
+        "id": 653,
+        "relationshipId": 164,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53471.5%\u3002"
+    },
+    "654": {
+        "id": 654,
+        "relationshipId": 164,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53473%\u3002"
+    },
+    "655": {
+        "id": 655,
+        "relationshipId": 164,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53474.5%\u3002"
+    },
+    "656": {
+        "id": 656,
+        "relationshipId": 164,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "HP\u503c\u63d0\u53476%\u3002"
+    },
+    "657": {
+        "id": 657,
+        "relationshipId": 165,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53472%\u3002"
+    },
+    "658": {
+        "id": 658,
+        "relationshipId": 165,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53474%\u3002"
+    },
+    "659": {
+        "id": 659,
+        "relationshipId": 165,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53476%\u3002"
+    },
+    "660": {
+        "id": 660,
+        "relationshipId": 165,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u62a4\u7532\u503c\u63d0\u53478%\u3002"
+    },
+    "661": {
+        "id": 661,
+        "relationshipId": 166,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53472%\u3002"
+    },
+    "662": {
+        "id": 662,
+        "relationshipId": 166,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53474%\u3002"
+    },
+    "663": {
+        "id": 663,
+        "relationshipId": 166,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53476%\u3002"
+    },
+    "664": {
+        "id": 664,
+        "relationshipId": 166,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u7269\u7406\u653b\u51fb\u503c\u63d0\u53478%\u3002"
+    },
+    "665": {
+        "id": 665,
+        "relationshipId": 167,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53472%\u3002"
+    },
+    "666": {
+        "id": 666,
+        "relationshipId": 167,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53474%\u3002"
+    },
+    "667": {
+        "id": 667,
+        "relationshipId": 167,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53476%\u3002"
+    },
+    "668": {
+        "id": 668,
+        "relationshipId": 167,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6cd5\u672f\u9632\u5fa1\u503c\u63d0\u53478%\u3002"
+    },
+    "669": {
+        "id": 669,
+        "relationshipId": 168,
+        "level": 1,
+        "monsterQuality": 1,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53472%\u3002"
+    },
+    "670": {
+        "id": 670,
+        "relationshipId": 168,
+        "level": 2,
+        "monsterQuality": 2,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53474%\u3002"
+    },
+    "671": {
+        "id": 671,
+        "relationshipId": 168,
+        "level": 3,
+        "monsterQuality": 4,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53476%\u3002"
+    },
+    "672": {
+        "id": 672,
+        "relationshipId": 168,
+        "level": 4,
+        "monsterQuality": 7,
+        "ver": "1.0.0",
+        "description_zhCN": "\u6b66\u529b\u503c\u63d0\u53478%\u3002"
+    }
+}

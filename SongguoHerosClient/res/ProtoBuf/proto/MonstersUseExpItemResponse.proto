@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+import "ItemPB.proto";
+
+message MonstersUseExpItemResponse{
+	optional ApiResponse	api = 1;				//公用参数
+	optional MonsterPB		monster = 2;			//武将数据
+	optional ItemPB			item = 3;				//道具数据
+}

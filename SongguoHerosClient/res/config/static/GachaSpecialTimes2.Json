@@ -1,0 +1,38 @@
+{
+    "1": {
+        "id": 1,
+        "groupId": 1,
+        "times": 15,
+        "probabilityId": 30,
+        "type": "loop",
+        "PRI": "1",
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "groupId": 2,
+        "times": 15,
+        "probabilityId": 30,
+        "type": "single",
+        "PRI": "1",
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "groupId": 3,
+        "times": 15,
+        "probabilityId": 30,
+        "type": "loop",
+        "PRI": "1",
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "groupId": 4,
+        "times": 15,
+        "probabilityId": 30,
+        "type": "single",
+        "PRI": "1",
+        "ver": "1.0.0"
+    }
+}

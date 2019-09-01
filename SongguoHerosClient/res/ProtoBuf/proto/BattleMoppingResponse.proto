@@ -1,0 +1,19 @@
+import "ApiResponse.proto";
+import "PrizePB.proto";
+
+message BattleMoppingResponse{
+	optional ApiResponse				api = 1;					//公用参数
+	repeated MoppingTreasureListPB		moppingTreasureList = 2;	//掉落物列表
+	optional int32						exp = 3;					//获得的角色经验
+	optional int32						coin = 4;					//获得的金币
+	optional int32						moppingTicket = 5;			//获得的金币
+}
+
+message MoppingTreasureListPB{
+	optional MoppingTreasuresPB			moppingTreasures = 1;	//奖励项
+}
+
+message MoppingTreasuresPB	{
+	repeated PrizePB					treasures = 1;	//奖励项
+}
+

@@ -1,0 +1,8 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+
+message InitMonstersResponse{
+	optional ApiResponse		api = 1;							//公用参数
+	repeated MonsterPB			monsters = 2;						//拥有的材料列表
+	repeated MonsterPB			notHaveMonsters = 3;				//未拥有的材料列表
+}

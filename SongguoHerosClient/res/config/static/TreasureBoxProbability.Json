@@ -1,0 +1,62 @@
+{
+    "1": {
+        "id": 1,
+        "groupId": 1,
+        "contentId": 1,
+        "rank": 1,
+        "probability": 1000,
+        "startTime": "",
+        "endTime": "",
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "groupId": 1,
+        "contentId": 2,
+        "rank": 2,
+        "probability": 2000,
+        "startTime": "",
+        "endTime": "",
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "groupId": 1,
+        "contentId": 3,
+        "rank": 3,
+        "probability": 4000,
+        "startTime": "",
+        "endTime": "",
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "groupId": 1,
+        "contentId": 4,
+        "rank": 4,
+        "probability": 3000,
+        "startTime": "",
+        "endTime": "",
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "groupId": 2,
+        "contentId": 5,
+        "rank": 1,
+        "probability": 1000,
+        "startTime": "",
+        "endTime": "",
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "groupId": 2,
+        "contentId": 6,
+        "rank": 2,
+        "probability": 2000,
+        "startTime": "",
+        "endTime": "",
+        "ver": "1.0.0"
+    }
+}

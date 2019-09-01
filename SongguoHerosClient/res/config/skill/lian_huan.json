@@ -1,0 +1,213 @@
+{
+  "energyCost": 300,
+  "energySpeed": 20,
+  "energyStart": 240,
+  "mpCost": 1,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_jing_ji_chan_shen", "trigger": "hero"}
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":2.5}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":2.3}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideTrigger":"onSkillEnd"}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"dur":0.1}
+    },
+    {
+      "name": "find_target",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill1"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"effect":"start", "duration":0}
+    },
+    {
+      "name": "add_effect_on_skill_attack",
+      "start": 0.0,
+      "lifeTime": 10.0,
+      "params": {"boss":"hit_hero", "soldier":"hit_soldier"}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.5,
+      "params": {"duration":0.5, "amplitude":15.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 1.0,
+      "params": {"effect":"loop", "durationFormula":"effect_time", "follow":true}
+    },
+    {
+      "name": "skill_lian_huan",
+      "start": 1.0,
+      "damage": {"type":0, "side":0, "entityType":2, "base":0, "step":0, "factor":0, "speed_h":400, "speed_h_decay":0, "speed_v":400, "speed_v_decay":0, "gravity":1200},
+      "params": {"radius":3, "duration":"effect_time", "hurtPercent":"hurt_percent"},
+      "triggerOnRemove": "onSkillEnd"
+    }
+  ],
+
+  "formula":
+  {
+    "effect_time": {"formula":"max", "min":5.0, "max":10.0, "divide":10.0},
+    "hurt_percent": {"formula":"hp", "base":0.5, "step":0}
+  },
+    
+  "asset": "skill_lianhuan",
+  "effect":
+  {
+    "start":
+    [
+      [
+        {
+          "name": "animation_lianhuan_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_lianhuan_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_lianhuan_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_lianhuan_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "loop":
+    [
+      [
+        {
+          "name": "animation_lianhuan_loop_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_lianhuan_loop_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_lianhuan_loop_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_lianhuan_loop_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "hit_back":
+    [
+      [
+        {
+          "name": "animation_lianhuan_hitback_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_lianhuan_hitback_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_lianhuan_hitback_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_lianhuan_hitback_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "hit_soldier":
+    [
+      [
+        {
+          "name": "animation_lianhuan_soldier_hit_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_lianhuan_soldier_hit_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "hit_hero":
+    [
+      [
+        {
+          "name": "animation_lianhuan_hit_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_lianhuan_hit_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "hit_line_front":
+    [
+      [
+        {
+          "name": "animation_lianhuan_hit_line",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "hit_line_back":
+    [
+      [
+        {
+          "name": "animation_lianhuan_hit_line",
+          "type": 2,
+          "z-order": -1
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+message MaterialPB{
+	optional int32					id = 1;								//材料id
+	optional int32					count = 2;							//材料数量
+}

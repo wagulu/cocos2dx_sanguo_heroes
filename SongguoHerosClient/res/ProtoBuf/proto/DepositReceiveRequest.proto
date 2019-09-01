@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message DepositReceiveRequest{
+	optional ApiRequest	api = 1;			//公用参数
+	optional string		key = 2;			//deposit entry的key
+	optional string		channel = 3;		//获取类型 可选 sys guild
+}

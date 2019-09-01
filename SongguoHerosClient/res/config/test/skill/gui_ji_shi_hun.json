@@ -1,0 +1,10 @@
+{
+    "config": "gui_ji_shi_hun",
+    "id": 17,
+    "name": "gui_ji_shi_hun",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 180,
+    "energyCost": 200,
+    "energySpeed": 20
+}

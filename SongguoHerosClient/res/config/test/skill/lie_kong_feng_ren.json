@@ -1,0 +1,10 @@
+{
+    "config": "lie_kong_feng_ren",
+    "id": 22,
+    "name": "lie_kong_feng_ren",
+    "level": 1,
+    "mpCost": 5,
+    "energyStart": 50,
+    "energyCost": 40,
+    "energySpeed": 20
+}

@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "MonsterPartPB.proto";
+
+message InitMonsterPartsResponse{
+	optional ApiResponse		api = 1;							//公用参数
+	repeated MonsterPartPB		monsterParts = 2;					//拥有的武将碎片列表
+}

@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+import "ItemPB.proto";
+
+message MonstersDestinyLevelUpResponse{
+	optional ApiResponse		api = 1;				//公用参数
+	optional MonsterPB			monster = 2;			//突破后武将信息
+	optional ItemPB				item = 3;				//道具更新
+}

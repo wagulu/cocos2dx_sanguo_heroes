@@ -1,0 +1,32 @@
+{
+    "1": {
+        "id": 1,
+        "asset": 1,
+        "quality": 5,
+        "sellPrice": 0,
+        "minLevel": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u65b0\u624b\u793c\u5305",
+        "description_zhCN": "\u65b0\u624b\u793c\u5305"
+    },
+    "2": {
+        "id": 2,
+        "asset": 2,
+        "quality": 4,
+        "sellPrice": 0,
+        "minLevel": 5,
+        "ver": "1.0.0",
+        "name_zhCN": "5\u7ea7\u793c\u5305",
+        "description_zhCN": "5\u7ea7\u793c\u5305"
+    },
+    "3": {
+        "id": 3,
+        "asset": 3,
+        "quality": 3,
+        "sellPrice": 0,
+        "minLevel": 10,
+        "ver": "1.0.0",
+        "name_zhCN": "10\u7ea7\u793c\u5305",
+        "description_zhCN": "10\u7ea7\u793c\u5305"
+    }
+}

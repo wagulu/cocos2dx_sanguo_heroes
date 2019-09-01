@@ -1,0 +1,79 @@
+{
+  "actionsX":
+  [
+    {
+      "name": "move_camera",
+      "params": {"dur": 0.0, "tar":1, "dtx":-1800}
+    },
+    {
+      "name": "move_camera",
+      "params": {"dur": 3.0, "tar":1, "dtx":-250.0, "A":2}
+    },
+    {
+      "name": "parade_go",
+      "params": {"showDistance": 1200, "showSpeed":300}
+    },
+    {
+      "name": "move_camera",
+      "params": {"dur": 1.0, "tar":0, "dtx":-1100.0, "A":2}
+    },
+    {
+      "name": "move_camera",
+      "params": {"dur": 1.7, "tar":0, "dtx":-440.0, "A":0}
+    },	
+    {
+      "name": "move_camera",
+      "params": {"dur": 1.8, "tar":0, "dtx":90}
+    }
+  ],
+  "actionsZ":
+  [
+    {
+      "name": "move_camera",
+      "params": {"dur": 0.0, "zoom":0}
+    }, 
+    {
+      "name": "move_camera",
+      "params": {"dur": 1.6, "zoom":1, "z":10.0, "A":2}
+    },
+    {
+      "name": "move_camera",
+      "params": {"dur": 2.2, "zoom":1, "z":440.0}
+    },
+     {
+      "name": "move_camera",
+      "params": {"dur": 1.2, "zoom":1, "z":-80.0, "A":0}
+    },
+    {
+      "name": "hold_camera",
+      "params": {"dur": 1.6}
+    }, 
+    {
+      "name": "move_camera",
+      "params": {"dur": 1.0, "zoom":0, "A":2}
+    }
+  ],
+  "actionsY":
+  [
+    {
+      "name": "move_camera",
+      "params": {"dur": 0.0, "zoom":0}
+    }, 
+    {
+      "name": "hold_camera",
+      "params": {"dur": 2.8}
+    },
+    {
+      "name": "move_camera",
+      "params": {"dur": 1.2, "zoom":1, "y":260.0, "A":0}
+    },
+    {
+      "name": "hold_camera",
+      "params": {"dur": 2.6}
+    },
+    {
+      "name": "move_camera",
+      "params": {"dur": 1.0, "zoom":0, "A":2}
+    }
+  ]
+}

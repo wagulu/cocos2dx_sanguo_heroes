@@ -1,0 +1,1602 @@
+{
+    "1": {
+        "id": 1,
+        "skillId": 1,
+        "property": "atkHitRateValue",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "skillId": 1,
+        "property": "atkDodgeRateValue",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "skillId": 2,
+        "property": "atkHitRateValue",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "skillId": 2,
+        "property": "atkDodgeRateValue",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "skillId": 3,
+        "property": "atkHitRateValue",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "skillId": 3,
+        "property": "atkDodgeRateValue",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "skillId": 4,
+        "property": "atkHitRateValue",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "skillId": 4,
+        "property": "atkDodgeRateValue",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "skillId": 5,
+        "property": "atkHitRateValue",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "skillId": 5,
+        "property": "atkDodgeRateValue",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "skillId": 6,
+        "property": "atkHitRateValue",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "skillId": 6,
+        "property": "atkDodgeRateValue",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "skillId": 7,
+        "property": "atkHitRateValue",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "skillId": 7,
+        "property": "atkDodgeRateValue",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "skillId": 8,
+        "property": "atkHitRateValue",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "skillId": 8,
+        "property": "atkDodgeRateValue",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "skillId": 9,
+        "property": "atkHitRateValue",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "skillId": 9,
+        "property": "atkDodgeRateValue",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "skillId": 10,
+        "property": "atkHitRateValue",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "skillId": 10,
+        "property": "atkDodgeRateValue",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "skillId": 11,
+        "property": "atkCSV",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "skillId": 11,
+        "property": "abilityCSV",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "skillId": 12,
+        "property": "atkCSV",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "skillId": 12,
+        "property": "abilityCSV",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "skillId": 13,
+        "property": "atkCSV",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "skillId": 13,
+        "property": "abilityCSV",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "skillId": 14,
+        "property": "atkCSV",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "skillId": 14,
+        "property": "abilityCSV",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "skillId": 15,
+        "property": "atkCSV",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "skillId": 15,
+        "property": "abilityCSV",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "skillId": 16,
+        "property": "atkCSV",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "skillId": 16,
+        "property": "abilityCSV",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "skillId": 17,
+        "property": "atkCSV",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "skillId": 17,
+        "property": "abilityCSV",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "skillId": 18,
+        "property": "atkCSV",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "skillId": 18,
+        "property": "abilityCSV",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "skillId": 19,
+        "property": "atkCSV",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "skillId": 19,
+        "property": "abilityCSV",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "skillId": 20,
+        "property": "atkCSV",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "skillId": 20,
+        "property": "abilityCSV",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "skillId": 21,
+        "property": "atkAntiCSV",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "skillId": 21,
+        "property": "abilityCSV",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "skillId": 22,
+        "property": "atkAntiCSV",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "skillId": 22,
+        "property": "abilityCSV",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "skillId": 23,
+        "property": "atkAntiCSV",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "skillId": 23,
+        "property": "abilityCSV",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "skillId": 24,
+        "property": "atkAntiCSV",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "skillId": 24,
+        "property": "abilityCSV",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "skillId": 25,
+        "property": "atkAntiCSV",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "skillId": 25,
+        "property": "abilityCSV",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "51": {
+        "id": 51,
+        "skillId": 26,
+        "property": "atkAntiCSV",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "52": {
+        "id": 52,
+        "skillId": 26,
+        "property": "abilityCSV",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "53": {
+        "id": 53,
+        "skillId": 27,
+        "property": "atkAntiCSV",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "54": {
+        "id": 54,
+        "skillId": 27,
+        "property": "abilityCSV",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "55": {
+        "id": 55,
+        "skillId": 28,
+        "property": "atkAntiCSV",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "56": {
+        "id": 56,
+        "skillId": 28,
+        "property": "abilityCSV",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "57": {
+        "id": 57,
+        "skillId": 29,
+        "property": "atkAntiCSV",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "58": {
+        "id": 58,
+        "skillId": 29,
+        "property": "abilityCSV",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "59": {
+        "id": 59,
+        "skillId": 30,
+        "property": "atkAntiCSV",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "60": {
+        "id": 60,
+        "skillId": 30,
+        "property": "abilityCSV",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "61": {
+        "id": 61,
+        "skillId": 31,
+        "property": "physicalCSDV",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "62": {
+        "id": 62,
+        "skillId": 31,
+        "property": "spellCSDV",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "63": {
+        "id": 63,
+        "skillId": 32,
+        "property": "physicalCSDV",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "64": {
+        "id": 64,
+        "skillId": 32,
+        "property": "spellCSDV",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "65": {
+        "id": 65,
+        "skillId": 33,
+        "property": "physicalCSDV",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "66": {
+        "id": 66,
+        "skillId": 33,
+        "property": "spellCSDV",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "67": {
+        "id": 67,
+        "skillId": 34,
+        "property": "physicalCSDV",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "68": {
+        "id": 68,
+        "skillId": 34,
+        "property": "spellCSDV",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "69": {
+        "id": 69,
+        "skillId": 35,
+        "property": "physicalCSDV",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "70": {
+        "id": 70,
+        "skillId": 35,
+        "property": "spellCSDV",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "71": {
+        "id": 71,
+        "skillId": 36,
+        "property": "physicalCSDV",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "72": {
+        "id": 72,
+        "skillId": 36,
+        "property": "spellCSDV",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "73": {
+        "id": 73,
+        "skillId": 37,
+        "property": "physicalCSDV",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "74": {
+        "id": 74,
+        "skillId": 37,
+        "property": "spellCSDV",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "75": {
+        "id": 75,
+        "skillId": 38,
+        "property": "physicalCSDV",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "76": {
+        "id": 76,
+        "skillId": 38,
+        "property": "spellCSDV",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "77": {
+        "id": 77,
+        "skillId": 39,
+        "property": "physicalCSDV",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "78": {
+        "id": 78,
+        "skillId": 39,
+        "property": "spellCSDV",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "79": {
+        "id": 79,
+        "skillId": 40,
+        "property": "physicalCSDV",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "80": {
+        "id": 80,
+        "skillId": 40,
+        "property": "spellCSDV",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "81": {
+        "id": 81,
+        "skillId": 41,
+        "property": "physicalResilienceValue",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "82": {
+        "id": 82,
+        "skillId": 41,
+        "property": "spellResilienceValue",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "83": {
+        "id": 83,
+        "skillId": 42,
+        "property": "physicalResilienceValue",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "84": {
+        "id": 84,
+        "skillId": 42,
+        "property": "spellResilienceValue",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "85": {
+        "id": 85,
+        "skillId": 43,
+        "property": "physicalResilienceValue",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "86": {
+        "id": 86,
+        "skillId": 43,
+        "property": "spellResilienceValue",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "87": {
+        "id": 87,
+        "skillId": 44,
+        "property": "physicalResilienceValue",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "88": {
+        "id": 88,
+        "skillId": 44,
+        "property": "spellResilienceValue",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "89": {
+        "id": 89,
+        "skillId": 45,
+        "property": "physicalResilienceValue",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "90": {
+        "id": 90,
+        "skillId": 45,
+        "property": "spellResilienceValue",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "91": {
+        "id": 91,
+        "skillId": 46,
+        "property": "physicalResilienceValue",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "92": {
+        "id": 92,
+        "skillId": 46,
+        "property": "spellResilienceValue",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "93": {
+        "id": 93,
+        "skillId": 47,
+        "property": "physicalResilienceValue",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "94": {
+        "id": 94,
+        "skillId": 47,
+        "property": "spellResilienceValue",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "95": {
+        "id": 95,
+        "skillId": 48,
+        "property": "physicalResilienceValue",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "96": {
+        "id": 96,
+        "skillId": 48,
+        "property": "spellResilienceValue",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "97": {
+        "id": 97,
+        "skillId": 49,
+        "property": "physicalResilienceValue",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "98": {
+        "id": 98,
+        "skillId": 49,
+        "property": "spellResilienceValue",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "99": {
+        "id": 99,
+        "skillId": 50,
+        "property": "physicalResilienceValue",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "100": {
+        "id": 100,
+        "skillId": 50,
+        "property": "spellResilienceValue",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "101": {
+        "id": 101,
+        "skillId": 51,
+        "property": "ArPV",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "102": {
+        "id": 102,
+        "skillId": 51,
+        "property": "SRPV",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "103": {
+        "id": 103,
+        "skillId": 52,
+        "property": "ArPV",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "104": {
+        "id": 104,
+        "skillId": 52,
+        "property": "SRPV",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "105": {
+        "id": 105,
+        "skillId": 53,
+        "property": "ArPV",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "106": {
+        "id": 106,
+        "skillId": 53,
+        "property": "SRPV",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "107": {
+        "id": 107,
+        "skillId": 54,
+        "property": "ArPV",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "108": {
+        "id": 108,
+        "skillId": 54,
+        "property": "SRPV",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "109": {
+        "id": 109,
+        "skillId": 55,
+        "property": "ArPV",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "110": {
+        "id": 110,
+        "skillId": 55,
+        "property": "SRPV",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "111": {
+        "id": 111,
+        "skillId": 56,
+        "property": "ArPV",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "112": {
+        "id": 112,
+        "skillId": 56,
+        "property": "SRPV",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "113": {
+        "id": 113,
+        "skillId": 57,
+        "property": "ArPV",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "114": {
+        "id": 114,
+        "skillId": 57,
+        "property": "SRPV",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "115": {
+        "id": 115,
+        "skillId": 58,
+        "property": "ArPV",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "116": {
+        "id": 116,
+        "skillId": 58,
+        "property": "SRPV",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "117": {
+        "id": 117,
+        "skillId": 59,
+        "property": "ArPV",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "118": {
+        "id": 118,
+        "skillId": 59,
+        "property": "SRPV",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "119": {
+        "id": 119,
+        "skillId": 60,
+        "property": "ArPV",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "120": {
+        "id": 120,
+        "skillId": 60,
+        "property": "SRPV",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "121": {
+        "id": 121,
+        "skillId": 61,
+        "property": "atkVamp",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "122": {
+        "id": 122,
+        "skillId": 61,
+        "property": "abilityVamp",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "123": {
+        "id": 123,
+        "skillId": 62,
+        "property": "atkVamp",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "124": {
+        "id": 124,
+        "skillId": 62,
+        "property": "abilityVamp",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "125": {
+        "id": 125,
+        "skillId": 63,
+        "property": "atkVamp",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "126": {
+        "id": 126,
+        "skillId": 63,
+        "property": "abilityVamp",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "127": {
+        "id": 127,
+        "skillId": 64,
+        "property": "atkVamp",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "128": {
+        "id": 128,
+        "skillId": 64,
+        "property": "abilityVamp",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "129": {
+        "id": 129,
+        "skillId": 65,
+        "property": "atkVamp",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "130": {
+        "id": 130,
+        "skillId": 65,
+        "property": "abilityVamp",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "131": {
+        "id": 131,
+        "skillId": 66,
+        "property": "atkVamp",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "132": {
+        "id": 132,
+        "skillId": 66,
+        "property": "abilityVamp",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "133": {
+        "id": 133,
+        "skillId": 67,
+        "property": "atkVamp",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "134": {
+        "id": 134,
+        "skillId": 67,
+        "property": "abilityVamp",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "135": {
+        "id": 135,
+        "skillId": 68,
+        "property": "atkVamp",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "136": {
+        "id": 136,
+        "skillId": 68,
+        "property": "abilityVamp",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "137": {
+        "id": 137,
+        "skillId": 69,
+        "property": "atkVamp",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "138": {
+        "id": 138,
+        "skillId": 69,
+        "property": "abilityVamp",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "139": {
+        "id": 139,
+        "skillId": 70,
+        "property": "atkVamp",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "140": {
+        "id": 140,
+        "skillId": 70,
+        "property": "abilityVamp",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "141": {
+        "id": 141,
+        "skillId": 71,
+        "property": "atkVampRateValue",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "142": {
+        "id": 142,
+        "skillId": 71,
+        "property": "abilityVampRateValue",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "143": {
+        "id": 143,
+        "skillId": 72,
+        "property": "atkVampRateValue",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "144": {
+        "id": 144,
+        "skillId": 72,
+        "property": "abilityVampRateValue",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "145": {
+        "id": 145,
+        "skillId": 73,
+        "property": "atkVampRateValue",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "146": {
+        "id": 146,
+        "skillId": 73,
+        "property": "abilityVampRateValue",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "147": {
+        "id": 147,
+        "skillId": 74,
+        "property": "atkVampRateValue",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "148": {
+        "id": 148,
+        "skillId": 74,
+        "property": "abilityVampRateValue",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "149": {
+        "id": 149,
+        "skillId": 75,
+        "property": "atkVampRateValue",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "150": {
+        "id": 150,
+        "skillId": 75,
+        "property": "abilityVampRateValue",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "151": {
+        "id": 151,
+        "skillId": 76,
+        "property": "atkVampRateValue",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "152": {
+        "id": 152,
+        "skillId": 76,
+        "property": "abilityVampRateValue",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "153": {
+        "id": 153,
+        "skillId": 77,
+        "property": "atkVampRateValue",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "154": {
+        "id": 154,
+        "skillId": 77,
+        "property": "abilityVampRateValue",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "155": {
+        "id": 155,
+        "skillId": 78,
+        "property": "atkVampRateValue",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "156": {
+        "id": 156,
+        "skillId": 78,
+        "property": "abilityVampRateValue",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "157": {
+        "id": 157,
+        "skillId": 79,
+        "property": "atkVampRateValue",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "158": {
+        "id": 158,
+        "skillId": 79,
+        "property": "abilityVampRateValue",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "159": {
+        "id": 159,
+        "skillId": 80,
+        "property": "atkVampRateValue",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "160": {
+        "id": 160,
+        "skillId": 80,
+        "property": "abilityVampRateValue",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "161": {
+        "id": 161,
+        "skillId": 81,
+        "property": "attack",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "162": {
+        "id": 162,
+        "skillId": 81,
+        "property": "power",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "163": {
+        "id": 163,
+        "skillId": 82,
+        "property": "attack",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "164": {
+        "id": 164,
+        "skillId": 82,
+        "property": "power",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "165": {
+        "id": 165,
+        "skillId": 83,
+        "property": "attack",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "166": {
+        "id": 166,
+        "skillId": 83,
+        "property": "power",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "167": {
+        "id": 167,
+        "skillId": 84,
+        "property": "attack",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "168": {
+        "id": 168,
+        "skillId": 84,
+        "property": "power",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "169": {
+        "id": 169,
+        "skillId": 85,
+        "property": "attack",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "170": {
+        "id": 170,
+        "skillId": 85,
+        "property": "power",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "171": {
+        "id": 171,
+        "skillId": 86,
+        "property": "attack",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "172": {
+        "id": 172,
+        "skillId": 86,
+        "property": "power",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "173": {
+        "id": 173,
+        "skillId": 87,
+        "property": "attack",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "174": {
+        "id": 174,
+        "skillId": 87,
+        "property": "power",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "175": {
+        "id": 175,
+        "skillId": 88,
+        "property": "attack",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "176": {
+        "id": 176,
+        "skillId": 88,
+        "property": "power",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "177": {
+        "id": 177,
+        "skillId": 89,
+        "property": "attack",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "178": {
+        "id": 178,
+        "skillId": 89,
+        "property": "power",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "179": {
+        "id": 179,
+        "skillId": 90,
+        "property": "attack",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "180": {
+        "id": 180,
+        "skillId": 90,
+        "property": "power",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "181": {
+        "id": 181,
+        "skillId": 91,
+        "property": "armor",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "182": {
+        "id": 182,
+        "skillId": 91,
+        "property": "resistance",
+        "value": 20,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "183": {
+        "id": 183,
+        "skillId": 92,
+        "property": "armor",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "184": {
+        "id": 184,
+        "skillId": 92,
+        "property": "resistance",
+        "value": 40,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "185": {
+        "id": 185,
+        "skillId": 93,
+        "property": "armor",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "186": {
+        "id": 186,
+        "skillId": 93,
+        "property": "resistance",
+        "value": 80,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "187": {
+        "id": 187,
+        "skillId": 94,
+        "property": "armor",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "188": {
+        "id": 188,
+        "skillId": 94,
+        "property": "resistance",
+        "value": 160,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "189": {
+        "id": 189,
+        "skillId": 95,
+        "property": "armor",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "190": {
+        "id": 190,
+        "skillId": 95,
+        "property": "resistance",
+        "value": 300,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "191": {
+        "id": 191,
+        "skillId": 96,
+        "property": "armor",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "192": {
+        "id": 192,
+        "skillId": 96,
+        "property": "resistance",
+        "value": 600,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "193": {
+        "id": 193,
+        "skillId": 97,
+        "property": "armor",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "194": {
+        "id": 194,
+        "skillId": 97,
+        "property": "resistance",
+        "value": 1000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "195": {
+        "id": 195,
+        "skillId": 98,
+        "property": "armor",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "196": {
+        "id": 196,
+        "skillId": 98,
+        "property": "resistance",
+        "value": 1500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "197": {
+        "id": 197,
+        "skillId": 99,
+        "property": "armor",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "198": {
+        "id": 198,
+        "skillId": 99,
+        "property": "resistance",
+        "value": 2000,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "199": {
+        "id": 199,
+        "skillId": 100,
+        "property": "armor",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "200": {
+        "id": 200,
+        "skillId": 100,
+        "property": "resistance",
+        "value": 2500,
+        "operator": "plus",
+        "ver": "1.0.0"
+    }
+}

@@ -1,0 +1,10 @@
+import "ApiResponse.proto";
+import "TreasureItemPB.proto";
+import "ItemPB.proto";
+
+message MonstersTreasureItemQualityUpResponse{
+	optional ApiResponse		api = 1;								//公用参数
+	optional TreasureItemPB		treasureItem = 2;						//珍宝信息
+	repeated int32				removeTreasureItemInventoryIds = 3;		//需要移除的物品id
+	optional ItemPB				item = 4;								//珍宝升品道具信息
+}

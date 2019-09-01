@@ -1,0 +1,5378 @@
+{
+    "1": {
+        "id": 1,
+        "relationshipLevelId": 1,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "relationshipLevelId": 2,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "relationshipLevelId": 3,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "relationshipLevelId": 4,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "relationshipLevelId": 5,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "relationshipLevelId": 6,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "relationshipLevelId": 7,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "relationshipLevelId": 8,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "relationshipLevelId": 9,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "relationshipLevelId": 10,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "relationshipLevelId": 11,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "relationshipLevelId": 12,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "relationshipLevelId": 13,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "relationshipLevelId": 14,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "relationshipLevelId": 15,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "relationshipLevelId": 16,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "relationshipLevelId": 17,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "relationshipLevelId": 18,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "relationshipLevelId": 19,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "relationshipLevelId": 20,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "relationshipLevelId": 21,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "relationshipLevelId": 22,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "relationshipLevelId": 23,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "relationshipLevelId": 24,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "relationshipLevelId": 25,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "relationshipLevelId": 26,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "relationshipLevelId": 27,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "relationshipLevelId": 28,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "relationshipLevelId": 29,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "relationshipLevelId": 30,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "relationshipLevelId": 31,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "relationshipLevelId": 32,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "relationshipLevelId": 33,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "relationshipLevelId": 34,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "relationshipLevelId": 35,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "relationshipLevelId": 36,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "relationshipLevelId": 37,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "relationshipLevelId": 38,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "relationshipLevelId": 39,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "relationshipLevelId": 40,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "relationshipLevelId": 41,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "relationshipLevelId": 42,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "relationshipLevelId": 43,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "relationshipLevelId": 44,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "relationshipLevelId": 45,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "relationshipLevelId": 46,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "relationshipLevelId": 47,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "relationshipLevelId": 48,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "relationshipLevelId": 49,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "relationshipLevelId": 50,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "51": {
+        "id": 51,
+        "relationshipLevelId": 51,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "52": {
+        "id": 52,
+        "relationshipLevelId": 52,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "53": {
+        "id": 53,
+        "relationshipLevelId": 53,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "54": {
+        "id": 54,
+        "relationshipLevelId": 54,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "55": {
+        "id": 55,
+        "relationshipLevelId": 55,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "56": {
+        "id": 56,
+        "relationshipLevelId": 56,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "57": {
+        "id": 57,
+        "relationshipLevelId": 57,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "58": {
+        "id": 58,
+        "relationshipLevelId": 58,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "59": {
+        "id": 59,
+        "relationshipLevelId": 59,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "60": {
+        "id": 60,
+        "relationshipLevelId": 60,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "61": {
+        "id": 61,
+        "relationshipLevelId": 61,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "62": {
+        "id": 62,
+        "relationshipLevelId": 62,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "63": {
+        "id": 63,
+        "relationshipLevelId": 63,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "64": {
+        "id": 64,
+        "relationshipLevelId": 64,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "65": {
+        "id": 65,
+        "relationshipLevelId": 65,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "66": {
+        "id": 66,
+        "relationshipLevelId": 66,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "67": {
+        "id": 67,
+        "relationshipLevelId": 67,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "68": {
+        "id": 68,
+        "relationshipLevelId": 68,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "69": {
+        "id": 69,
+        "relationshipLevelId": 69,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "70": {
+        "id": 70,
+        "relationshipLevelId": 70,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "71": {
+        "id": 71,
+        "relationshipLevelId": 71,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "72": {
+        "id": 72,
+        "relationshipLevelId": 72,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "73": {
+        "id": 73,
+        "relationshipLevelId": 73,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "74": {
+        "id": 74,
+        "relationshipLevelId": 74,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "75": {
+        "id": 75,
+        "relationshipLevelId": 75,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "76": {
+        "id": 76,
+        "relationshipLevelId": 76,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "77": {
+        "id": 77,
+        "relationshipLevelId": 77,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "78": {
+        "id": 78,
+        "relationshipLevelId": 78,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "79": {
+        "id": 79,
+        "relationshipLevelId": 79,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "80": {
+        "id": 80,
+        "relationshipLevelId": 80,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "81": {
+        "id": 81,
+        "relationshipLevelId": 81,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "82": {
+        "id": 82,
+        "relationshipLevelId": 82,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "83": {
+        "id": 83,
+        "relationshipLevelId": 83,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "84": {
+        "id": 84,
+        "relationshipLevelId": 84,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "85": {
+        "id": 85,
+        "relationshipLevelId": 85,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "86": {
+        "id": 86,
+        "relationshipLevelId": 86,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "87": {
+        "id": 87,
+        "relationshipLevelId": 87,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "88": {
+        "id": 88,
+        "relationshipLevelId": 88,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "89": {
+        "id": 89,
+        "relationshipLevelId": 89,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "90": {
+        "id": 90,
+        "relationshipLevelId": 90,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "91": {
+        "id": 91,
+        "relationshipLevelId": 91,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "92": {
+        "id": 92,
+        "relationshipLevelId": 92,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "93": {
+        "id": 93,
+        "relationshipLevelId": 93,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "94": {
+        "id": 94,
+        "relationshipLevelId": 94,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "95": {
+        "id": 95,
+        "relationshipLevelId": 95,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "96": {
+        "id": 96,
+        "relationshipLevelId": 96,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "97": {
+        "id": 97,
+        "relationshipLevelId": 97,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "98": {
+        "id": 98,
+        "relationshipLevelId": 98,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "99": {
+        "id": 99,
+        "relationshipLevelId": 99,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "100": {
+        "id": 100,
+        "relationshipLevelId": 100,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "101": {
+        "id": 101,
+        "relationshipLevelId": 101,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "102": {
+        "id": 102,
+        "relationshipLevelId": 102,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "103": {
+        "id": 103,
+        "relationshipLevelId": 103,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "104": {
+        "id": 104,
+        "relationshipLevelId": 104,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "105": {
+        "id": 105,
+        "relationshipLevelId": 105,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "106": {
+        "id": 106,
+        "relationshipLevelId": 106,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "107": {
+        "id": 107,
+        "relationshipLevelId": 107,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "108": {
+        "id": 108,
+        "relationshipLevelId": 108,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "109": {
+        "id": 109,
+        "relationshipLevelId": 109,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "110": {
+        "id": 110,
+        "relationshipLevelId": 110,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "111": {
+        "id": 111,
+        "relationshipLevelId": 111,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "112": {
+        "id": 112,
+        "relationshipLevelId": 112,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "113": {
+        "id": 113,
+        "relationshipLevelId": 113,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "114": {
+        "id": 114,
+        "relationshipLevelId": 114,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "115": {
+        "id": 115,
+        "relationshipLevelId": 115,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "116": {
+        "id": 116,
+        "relationshipLevelId": 116,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "117": {
+        "id": 117,
+        "relationshipLevelId": 117,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "118": {
+        "id": 118,
+        "relationshipLevelId": 118,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "119": {
+        "id": 119,
+        "relationshipLevelId": 119,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "120": {
+        "id": 120,
+        "relationshipLevelId": 120,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "121": {
+        "id": 121,
+        "relationshipLevelId": 121,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "122": {
+        "id": 122,
+        "relationshipLevelId": 122,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "123": {
+        "id": 123,
+        "relationshipLevelId": 123,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "124": {
+        "id": 124,
+        "relationshipLevelId": 124,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "125": {
+        "id": 125,
+        "relationshipLevelId": 125,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "126": {
+        "id": 126,
+        "relationshipLevelId": 126,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "127": {
+        "id": 127,
+        "relationshipLevelId": 127,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "128": {
+        "id": 128,
+        "relationshipLevelId": 128,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "129": {
+        "id": 129,
+        "relationshipLevelId": 129,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "130": {
+        "id": 130,
+        "relationshipLevelId": 130,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "131": {
+        "id": 131,
+        "relationshipLevelId": 131,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "132": {
+        "id": 132,
+        "relationshipLevelId": 132,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "133": {
+        "id": 133,
+        "relationshipLevelId": 133,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "134": {
+        "id": 134,
+        "relationshipLevelId": 134,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "135": {
+        "id": 135,
+        "relationshipLevelId": 135,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "136": {
+        "id": 136,
+        "relationshipLevelId": 136,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "137": {
+        "id": 137,
+        "relationshipLevelId": 137,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "138": {
+        "id": 138,
+        "relationshipLevelId": 138,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "139": {
+        "id": 139,
+        "relationshipLevelId": 139,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "140": {
+        "id": 140,
+        "relationshipLevelId": 140,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "141": {
+        "id": 141,
+        "relationshipLevelId": 141,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "142": {
+        "id": 142,
+        "relationshipLevelId": 142,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "143": {
+        "id": 143,
+        "relationshipLevelId": 143,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "144": {
+        "id": 144,
+        "relationshipLevelId": 144,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "145": {
+        "id": 145,
+        "relationshipLevelId": 145,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "146": {
+        "id": 146,
+        "relationshipLevelId": 146,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "147": {
+        "id": 147,
+        "relationshipLevelId": 147,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "148": {
+        "id": 148,
+        "relationshipLevelId": 148,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "149": {
+        "id": 149,
+        "relationshipLevelId": 149,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "150": {
+        "id": 150,
+        "relationshipLevelId": 150,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "151": {
+        "id": 151,
+        "relationshipLevelId": 151,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "152": {
+        "id": 152,
+        "relationshipLevelId": 152,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "153": {
+        "id": 153,
+        "relationshipLevelId": 153,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "154": {
+        "id": 154,
+        "relationshipLevelId": 154,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "155": {
+        "id": 155,
+        "relationshipLevelId": 155,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "156": {
+        "id": 156,
+        "relationshipLevelId": 156,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "157": {
+        "id": 157,
+        "relationshipLevelId": 157,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "158": {
+        "id": 158,
+        "relationshipLevelId": 158,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "159": {
+        "id": 159,
+        "relationshipLevelId": 159,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "160": {
+        "id": 160,
+        "relationshipLevelId": 160,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "161": {
+        "id": 161,
+        "relationshipLevelId": 161,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "162": {
+        "id": 162,
+        "relationshipLevelId": 162,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "163": {
+        "id": 163,
+        "relationshipLevelId": 163,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "164": {
+        "id": 164,
+        "relationshipLevelId": 164,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "165": {
+        "id": 165,
+        "relationshipLevelId": 165,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "166": {
+        "id": 166,
+        "relationshipLevelId": 166,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "167": {
+        "id": 167,
+        "relationshipLevelId": 167,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "168": {
+        "id": 168,
+        "relationshipLevelId": 168,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "169": {
+        "id": 169,
+        "relationshipLevelId": 169,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "170": {
+        "id": 170,
+        "relationshipLevelId": 170,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "171": {
+        "id": 171,
+        "relationshipLevelId": 171,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "172": {
+        "id": 172,
+        "relationshipLevelId": 172,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "173": {
+        "id": 173,
+        "relationshipLevelId": 173,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "174": {
+        "id": 174,
+        "relationshipLevelId": 174,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "175": {
+        "id": 175,
+        "relationshipLevelId": 175,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "176": {
+        "id": 176,
+        "relationshipLevelId": 176,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "177": {
+        "id": 177,
+        "relationshipLevelId": 177,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "178": {
+        "id": 178,
+        "relationshipLevelId": 178,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "179": {
+        "id": 179,
+        "relationshipLevelId": 179,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "180": {
+        "id": 180,
+        "relationshipLevelId": 180,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "181": {
+        "id": 181,
+        "relationshipLevelId": 181,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "182": {
+        "id": 182,
+        "relationshipLevelId": 182,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "183": {
+        "id": 183,
+        "relationshipLevelId": 183,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "184": {
+        "id": 184,
+        "relationshipLevelId": 184,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "185": {
+        "id": 185,
+        "relationshipLevelId": 185,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "186": {
+        "id": 186,
+        "relationshipLevelId": 186,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "187": {
+        "id": 187,
+        "relationshipLevelId": 187,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "188": {
+        "id": 188,
+        "relationshipLevelId": 188,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "189": {
+        "id": 189,
+        "relationshipLevelId": 189,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "190": {
+        "id": 190,
+        "relationshipLevelId": 190,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "191": {
+        "id": 191,
+        "relationshipLevelId": 191,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "192": {
+        "id": 192,
+        "relationshipLevelId": 192,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "193": {
+        "id": 193,
+        "relationshipLevelId": 193,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "194": {
+        "id": 194,
+        "relationshipLevelId": 194,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "195": {
+        "id": 195,
+        "relationshipLevelId": 195,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "196": {
+        "id": 196,
+        "relationshipLevelId": 196,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "197": {
+        "id": 197,
+        "relationshipLevelId": 197,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "198": {
+        "id": 198,
+        "relationshipLevelId": 198,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "199": {
+        "id": 199,
+        "relationshipLevelId": 199,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "200": {
+        "id": 200,
+        "relationshipLevelId": 200,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "201": {
+        "id": 201,
+        "relationshipLevelId": 201,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "202": {
+        "id": 202,
+        "relationshipLevelId": 202,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "203": {
+        "id": 203,
+        "relationshipLevelId": 203,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "204": {
+        "id": 204,
+        "relationshipLevelId": 204,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "205": {
+        "id": 205,
+        "relationshipLevelId": 205,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "206": {
+        "id": 206,
+        "relationshipLevelId": 206,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "207": {
+        "id": 207,
+        "relationshipLevelId": 207,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "208": {
+        "id": 208,
+        "relationshipLevelId": 208,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "209": {
+        "id": 209,
+        "relationshipLevelId": 209,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "210": {
+        "id": 210,
+        "relationshipLevelId": 210,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "211": {
+        "id": 211,
+        "relationshipLevelId": 211,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "212": {
+        "id": 212,
+        "relationshipLevelId": 212,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "213": {
+        "id": 213,
+        "relationshipLevelId": 213,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "214": {
+        "id": 214,
+        "relationshipLevelId": 214,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "215": {
+        "id": 215,
+        "relationshipLevelId": 215,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "216": {
+        "id": 216,
+        "relationshipLevelId": 216,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "217": {
+        "id": 217,
+        "relationshipLevelId": 217,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "218": {
+        "id": 218,
+        "relationshipLevelId": 218,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "219": {
+        "id": 219,
+        "relationshipLevelId": 219,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "220": {
+        "id": 220,
+        "relationshipLevelId": 220,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "221": {
+        "id": 221,
+        "relationshipLevelId": 221,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "222": {
+        "id": 222,
+        "relationshipLevelId": 222,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "223": {
+        "id": 223,
+        "relationshipLevelId": 223,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "224": {
+        "id": 224,
+        "relationshipLevelId": 224,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "225": {
+        "id": 225,
+        "relationshipLevelId": 225,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "226": {
+        "id": 226,
+        "relationshipLevelId": 226,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "227": {
+        "id": 227,
+        "relationshipLevelId": 227,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "228": {
+        "id": 228,
+        "relationshipLevelId": 228,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "229": {
+        "id": 229,
+        "relationshipLevelId": 229,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "230": {
+        "id": 230,
+        "relationshipLevelId": 230,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "231": {
+        "id": 231,
+        "relationshipLevelId": 231,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "232": {
+        "id": 232,
+        "relationshipLevelId": 232,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "233": {
+        "id": 233,
+        "relationshipLevelId": 233,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "234": {
+        "id": 234,
+        "relationshipLevelId": 234,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "235": {
+        "id": 235,
+        "relationshipLevelId": 235,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "236": {
+        "id": 236,
+        "relationshipLevelId": 236,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "237": {
+        "id": 237,
+        "relationshipLevelId": 237,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "238": {
+        "id": 238,
+        "relationshipLevelId": 238,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "239": {
+        "id": 239,
+        "relationshipLevelId": 239,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "240": {
+        "id": 240,
+        "relationshipLevelId": 240,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "241": {
+        "id": 241,
+        "relationshipLevelId": 241,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "242": {
+        "id": 242,
+        "relationshipLevelId": 242,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "243": {
+        "id": 243,
+        "relationshipLevelId": 243,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "244": {
+        "id": 244,
+        "relationshipLevelId": 244,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "245": {
+        "id": 245,
+        "relationshipLevelId": 245,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "246": {
+        "id": 246,
+        "relationshipLevelId": 246,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "247": {
+        "id": 247,
+        "relationshipLevelId": 247,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "248": {
+        "id": 248,
+        "relationshipLevelId": 248,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "249": {
+        "id": 249,
+        "relationshipLevelId": 249,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "250": {
+        "id": 250,
+        "relationshipLevelId": 250,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "251": {
+        "id": 251,
+        "relationshipLevelId": 251,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "252": {
+        "id": 252,
+        "relationshipLevelId": 252,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "253": {
+        "id": 253,
+        "relationshipLevelId": 253,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "254": {
+        "id": 254,
+        "relationshipLevelId": 254,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "255": {
+        "id": 255,
+        "relationshipLevelId": 255,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "256": {
+        "id": 256,
+        "relationshipLevelId": 256,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "257": {
+        "id": 257,
+        "relationshipLevelId": 257,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "258": {
+        "id": 258,
+        "relationshipLevelId": 258,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "259": {
+        "id": 259,
+        "relationshipLevelId": 259,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "260": {
+        "id": 260,
+        "relationshipLevelId": 260,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "261": {
+        "id": 261,
+        "relationshipLevelId": 261,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "262": {
+        "id": 262,
+        "relationshipLevelId": 262,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "263": {
+        "id": 263,
+        "relationshipLevelId": 263,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "264": {
+        "id": 264,
+        "relationshipLevelId": 264,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "265": {
+        "id": 265,
+        "relationshipLevelId": 265,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "266": {
+        "id": 266,
+        "relationshipLevelId": 266,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "267": {
+        "id": 267,
+        "relationshipLevelId": 267,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "268": {
+        "id": 268,
+        "relationshipLevelId": 268,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "269": {
+        "id": 269,
+        "relationshipLevelId": 269,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "270": {
+        "id": 270,
+        "relationshipLevelId": 270,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "271": {
+        "id": 271,
+        "relationshipLevelId": 271,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "272": {
+        "id": 272,
+        "relationshipLevelId": 272,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "273": {
+        "id": 273,
+        "relationshipLevelId": 273,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "274": {
+        "id": 274,
+        "relationshipLevelId": 274,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "275": {
+        "id": 275,
+        "relationshipLevelId": 275,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "276": {
+        "id": 276,
+        "relationshipLevelId": 276,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "277": {
+        "id": 277,
+        "relationshipLevelId": 277,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "278": {
+        "id": 278,
+        "relationshipLevelId": 278,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "279": {
+        "id": 279,
+        "relationshipLevelId": 279,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "280": {
+        "id": 280,
+        "relationshipLevelId": 280,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "281": {
+        "id": 281,
+        "relationshipLevelId": 281,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "282": {
+        "id": 282,
+        "relationshipLevelId": 282,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "283": {
+        "id": 283,
+        "relationshipLevelId": 283,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "284": {
+        "id": 284,
+        "relationshipLevelId": 284,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "285": {
+        "id": 285,
+        "relationshipLevelId": 285,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "286": {
+        "id": 286,
+        "relationshipLevelId": 286,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "287": {
+        "id": 287,
+        "relationshipLevelId": 287,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "288": {
+        "id": 288,
+        "relationshipLevelId": 288,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "289": {
+        "id": 289,
+        "relationshipLevelId": 289,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "290": {
+        "id": 290,
+        "relationshipLevelId": 290,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "291": {
+        "id": 291,
+        "relationshipLevelId": 291,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "292": {
+        "id": 292,
+        "relationshipLevelId": 292,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "293": {
+        "id": 293,
+        "relationshipLevelId": 293,
+        "propertyName": "MP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "294": {
+        "id": 294,
+        "relationshipLevelId": 294,
+        "propertyName": "MP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "295": {
+        "id": 295,
+        "relationshipLevelId": 295,
+        "propertyName": "MP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "296": {
+        "id": 296,
+        "relationshipLevelId": 296,
+        "propertyName": "MP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "297": {
+        "id": 297,
+        "relationshipLevelId": 297,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "298": {
+        "id": 298,
+        "relationshipLevelId": 298,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "299": {
+        "id": 299,
+        "relationshipLevelId": 299,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "300": {
+        "id": 300,
+        "relationshipLevelId": 300,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "301": {
+        "id": 301,
+        "relationshipLevelId": 301,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "302": {
+        "id": 302,
+        "relationshipLevelId": 302,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "303": {
+        "id": 303,
+        "relationshipLevelId": 303,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "304": {
+        "id": 304,
+        "relationshipLevelId": 304,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "305": {
+        "id": 305,
+        "relationshipLevelId": 305,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "306": {
+        "id": 306,
+        "relationshipLevelId": 306,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "307": {
+        "id": 307,
+        "relationshipLevelId": 307,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "308": {
+        "id": 308,
+        "relationshipLevelId": 308,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "309": {
+        "id": 309,
+        "relationshipLevelId": 309,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "310": {
+        "id": 310,
+        "relationshipLevelId": 310,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "311": {
+        "id": 311,
+        "relationshipLevelId": 311,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "312": {
+        "id": 312,
+        "relationshipLevelId": 312,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "313": {
+        "id": 313,
+        "relationshipLevelId": 313,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "314": {
+        "id": 314,
+        "relationshipLevelId": 314,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "315": {
+        "id": 315,
+        "relationshipLevelId": 315,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "316": {
+        "id": 316,
+        "relationshipLevelId": 316,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "317": {
+        "id": 317,
+        "relationshipLevelId": 317,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "318": {
+        "id": 318,
+        "relationshipLevelId": 318,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "319": {
+        "id": 319,
+        "relationshipLevelId": 319,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "320": {
+        "id": 320,
+        "relationshipLevelId": 320,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "321": {
+        "id": 321,
+        "relationshipLevelId": 321,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "322": {
+        "id": 322,
+        "relationshipLevelId": 322,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "323": {
+        "id": 323,
+        "relationshipLevelId": 323,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "324": {
+        "id": 324,
+        "relationshipLevelId": 324,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "325": {
+        "id": 325,
+        "relationshipLevelId": 325,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "326": {
+        "id": 326,
+        "relationshipLevelId": 326,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "327": {
+        "id": 327,
+        "relationshipLevelId": 327,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "328": {
+        "id": 328,
+        "relationshipLevelId": 328,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "329": {
+        "id": 329,
+        "relationshipLevelId": 329,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "330": {
+        "id": 330,
+        "relationshipLevelId": 330,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "331": {
+        "id": 331,
+        "relationshipLevelId": 331,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "332": {
+        "id": 332,
+        "relationshipLevelId": 332,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "333": {
+        "id": 333,
+        "relationshipLevelId": 333,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "334": {
+        "id": 334,
+        "relationshipLevelId": 334,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "335": {
+        "id": 335,
+        "relationshipLevelId": 335,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "336": {
+        "id": 336,
+        "relationshipLevelId": 336,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "337": {
+        "id": 337,
+        "relationshipLevelId": 337,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "338": {
+        "id": 338,
+        "relationshipLevelId": 338,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "339": {
+        "id": 339,
+        "relationshipLevelId": 339,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "340": {
+        "id": 340,
+        "relationshipLevelId": 340,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "341": {
+        "id": 341,
+        "relationshipLevelId": 341,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "342": {
+        "id": 342,
+        "relationshipLevelId": 342,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "343": {
+        "id": 343,
+        "relationshipLevelId": 343,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "344": {
+        "id": 344,
+        "relationshipLevelId": 344,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "345": {
+        "id": 345,
+        "relationshipLevelId": 345,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "346": {
+        "id": 346,
+        "relationshipLevelId": 346,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "347": {
+        "id": 347,
+        "relationshipLevelId": 347,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "348": {
+        "id": 348,
+        "relationshipLevelId": 348,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "349": {
+        "id": 349,
+        "relationshipLevelId": 349,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "350": {
+        "id": 350,
+        "relationshipLevelId": 350,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "351": {
+        "id": 351,
+        "relationshipLevelId": 351,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "352": {
+        "id": 352,
+        "relationshipLevelId": 352,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "353": {
+        "id": 353,
+        "relationshipLevelId": 353,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "354": {
+        "id": 354,
+        "relationshipLevelId": 354,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "355": {
+        "id": 355,
+        "relationshipLevelId": 355,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "356": {
+        "id": 356,
+        "relationshipLevelId": 356,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "357": {
+        "id": 357,
+        "relationshipLevelId": 357,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "358": {
+        "id": 358,
+        "relationshipLevelId": 358,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "359": {
+        "id": 359,
+        "relationshipLevelId": 359,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "360": {
+        "id": 360,
+        "relationshipLevelId": 360,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "361": {
+        "id": 361,
+        "relationshipLevelId": 361,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "362": {
+        "id": 362,
+        "relationshipLevelId": 362,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "363": {
+        "id": 363,
+        "relationshipLevelId": 363,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "364": {
+        "id": 364,
+        "relationshipLevelId": 364,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "365": {
+        "id": 365,
+        "relationshipLevelId": 365,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "366": {
+        "id": 366,
+        "relationshipLevelId": 366,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "367": {
+        "id": 367,
+        "relationshipLevelId": 367,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "368": {
+        "id": 368,
+        "relationshipLevelId": 368,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "369": {
+        "id": 369,
+        "relationshipLevelId": 369,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "370": {
+        "id": 370,
+        "relationshipLevelId": 370,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "371": {
+        "id": 371,
+        "relationshipLevelId": 371,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "372": {
+        "id": 372,
+        "relationshipLevelId": 372,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "373": {
+        "id": 373,
+        "relationshipLevelId": 373,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "374": {
+        "id": 374,
+        "relationshipLevelId": 374,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "375": {
+        "id": 375,
+        "relationshipLevelId": 375,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "376": {
+        "id": 376,
+        "relationshipLevelId": 376,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "377": {
+        "id": 377,
+        "relationshipLevelId": 377,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "378": {
+        "id": 378,
+        "relationshipLevelId": 378,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "379": {
+        "id": 379,
+        "relationshipLevelId": 379,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "380": {
+        "id": 380,
+        "relationshipLevelId": 380,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "381": {
+        "id": 381,
+        "relationshipLevelId": 381,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "382": {
+        "id": 382,
+        "relationshipLevelId": 382,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "383": {
+        "id": 383,
+        "relationshipLevelId": 383,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "384": {
+        "id": 384,
+        "relationshipLevelId": 384,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "385": {
+        "id": 385,
+        "relationshipLevelId": 385,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "386": {
+        "id": 386,
+        "relationshipLevelId": 386,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "387": {
+        "id": 387,
+        "relationshipLevelId": 387,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "388": {
+        "id": 388,
+        "relationshipLevelId": 388,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "389": {
+        "id": 389,
+        "relationshipLevelId": 389,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "390": {
+        "id": 390,
+        "relationshipLevelId": 390,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "391": {
+        "id": 391,
+        "relationshipLevelId": 391,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "392": {
+        "id": 392,
+        "relationshipLevelId": 392,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "393": {
+        "id": 393,
+        "relationshipLevelId": 393,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "394": {
+        "id": 394,
+        "relationshipLevelId": 394,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "395": {
+        "id": 395,
+        "relationshipLevelId": 395,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "396": {
+        "id": 396,
+        "relationshipLevelId": 396,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "397": {
+        "id": 397,
+        "relationshipLevelId": 397,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "398": {
+        "id": 398,
+        "relationshipLevelId": 398,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "399": {
+        "id": 399,
+        "relationshipLevelId": 399,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "400": {
+        "id": 400,
+        "relationshipLevelId": 400,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "401": {
+        "id": 401,
+        "relationshipLevelId": 401,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "402": {
+        "id": 402,
+        "relationshipLevelId": 402,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "403": {
+        "id": 403,
+        "relationshipLevelId": 403,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "404": {
+        "id": 404,
+        "relationshipLevelId": 404,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "405": {
+        "id": 405,
+        "relationshipLevelId": 405,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "406": {
+        "id": 406,
+        "relationshipLevelId": 406,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "407": {
+        "id": 407,
+        "relationshipLevelId": 407,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "408": {
+        "id": 408,
+        "relationshipLevelId": 408,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "409": {
+        "id": 409,
+        "relationshipLevelId": 409,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "410": {
+        "id": 410,
+        "relationshipLevelId": 410,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "411": {
+        "id": 411,
+        "relationshipLevelId": 411,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "412": {
+        "id": 412,
+        "relationshipLevelId": 412,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "413": {
+        "id": 413,
+        "relationshipLevelId": 413,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "414": {
+        "id": 414,
+        "relationshipLevelId": 414,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "415": {
+        "id": 415,
+        "relationshipLevelId": 415,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "416": {
+        "id": 416,
+        "relationshipLevelId": 416,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "417": {
+        "id": 417,
+        "relationshipLevelId": 417,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "418": {
+        "id": 418,
+        "relationshipLevelId": 418,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "419": {
+        "id": 419,
+        "relationshipLevelId": 419,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "420": {
+        "id": 420,
+        "relationshipLevelId": 420,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "421": {
+        "id": 421,
+        "relationshipLevelId": 421,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "422": {
+        "id": 422,
+        "relationshipLevelId": 422,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "423": {
+        "id": 423,
+        "relationshipLevelId": 423,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "424": {
+        "id": 424,
+        "relationshipLevelId": 424,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "425": {
+        "id": 425,
+        "relationshipLevelId": 425,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "426": {
+        "id": 426,
+        "relationshipLevelId": 426,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "427": {
+        "id": 427,
+        "relationshipLevelId": 427,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "428": {
+        "id": 428,
+        "relationshipLevelId": 428,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "429": {
+        "id": 429,
+        "relationshipLevelId": 429,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "430": {
+        "id": 430,
+        "relationshipLevelId": 430,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "431": {
+        "id": 431,
+        "relationshipLevelId": 431,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "432": {
+        "id": 432,
+        "relationshipLevelId": 432,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "433": {
+        "id": 433,
+        "relationshipLevelId": 433,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "434": {
+        "id": 434,
+        "relationshipLevelId": 434,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "435": {
+        "id": 435,
+        "relationshipLevelId": 435,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "436": {
+        "id": 436,
+        "relationshipLevelId": 436,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "437": {
+        "id": 437,
+        "relationshipLevelId": 437,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "438": {
+        "id": 438,
+        "relationshipLevelId": 438,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "439": {
+        "id": 439,
+        "relationshipLevelId": 439,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "440": {
+        "id": 440,
+        "relationshipLevelId": 440,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "441": {
+        "id": 441,
+        "relationshipLevelId": 441,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "442": {
+        "id": 442,
+        "relationshipLevelId": 442,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "443": {
+        "id": 443,
+        "relationshipLevelId": 443,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "444": {
+        "id": 444,
+        "relationshipLevelId": 444,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "445": {
+        "id": 445,
+        "relationshipLevelId": 445,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "446": {
+        "id": 446,
+        "relationshipLevelId": 446,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "447": {
+        "id": 447,
+        "relationshipLevelId": 447,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "448": {
+        "id": 448,
+        "relationshipLevelId": 448,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "449": {
+        "id": 449,
+        "relationshipLevelId": 449,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "450": {
+        "id": 450,
+        "relationshipLevelId": 450,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "451": {
+        "id": 451,
+        "relationshipLevelId": 451,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "452": {
+        "id": 452,
+        "relationshipLevelId": 452,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "453": {
+        "id": 453,
+        "relationshipLevelId": 453,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "454": {
+        "id": 454,
+        "relationshipLevelId": 454,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "455": {
+        "id": 455,
+        "relationshipLevelId": 455,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "456": {
+        "id": 456,
+        "relationshipLevelId": 456,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "457": {
+        "id": 457,
+        "relationshipLevelId": 457,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "458": {
+        "id": 458,
+        "relationshipLevelId": 458,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "459": {
+        "id": 459,
+        "relationshipLevelId": 459,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "460": {
+        "id": 460,
+        "relationshipLevelId": 460,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "461": {
+        "id": 461,
+        "relationshipLevelId": 461,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "462": {
+        "id": 462,
+        "relationshipLevelId": 462,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "463": {
+        "id": 463,
+        "relationshipLevelId": 463,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "464": {
+        "id": 464,
+        "relationshipLevelId": 464,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "465": {
+        "id": 465,
+        "relationshipLevelId": 465,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "466": {
+        "id": 466,
+        "relationshipLevelId": 466,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "467": {
+        "id": 467,
+        "relationshipLevelId": 467,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "468": {
+        "id": 468,
+        "relationshipLevelId": 468,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "469": {
+        "id": 469,
+        "relationshipLevelId": 469,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "470": {
+        "id": 470,
+        "relationshipLevelId": 470,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "471": {
+        "id": 471,
+        "relationshipLevelId": 471,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "472": {
+        "id": 472,
+        "relationshipLevelId": 472,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "473": {
+        "id": 473,
+        "relationshipLevelId": 473,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "474": {
+        "id": 474,
+        "relationshipLevelId": 474,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "475": {
+        "id": 475,
+        "relationshipLevelId": 475,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "476": {
+        "id": 476,
+        "relationshipLevelId": 476,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "477": {
+        "id": 477,
+        "relationshipLevelId": 477,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "478": {
+        "id": 478,
+        "relationshipLevelId": 478,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "479": {
+        "id": 479,
+        "relationshipLevelId": 479,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "480": {
+        "id": 480,
+        "relationshipLevelId": 480,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "481": {
+        "id": 481,
+        "relationshipLevelId": 481,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "482": {
+        "id": 482,
+        "relationshipLevelId": 482,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "483": {
+        "id": 483,
+        "relationshipLevelId": 483,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "484": {
+        "id": 484,
+        "relationshipLevelId": 484,
+        "propertyName": "Leadership",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "485": {
+        "id": 485,
+        "relationshipLevelId": 485,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "486": {
+        "id": 486,
+        "relationshipLevelId": 486,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "487": {
+        "id": 487,
+        "relationshipLevelId": 487,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "488": {
+        "id": 488,
+        "relationshipLevelId": 488,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "489": {
+        "id": 489,
+        "relationshipLevelId": 489,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "490": {
+        "id": 490,
+        "relationshipLevelId": 490,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "491": {
+        "id": 491,
+        "relationshipLevelId": 491,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "492": {
+        "id": 492,
+        "relationshipLevelId": 492,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "493": {
+        "id": 493,
+        "relationshipLevelId": 493,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "494": {
+        "id": 494,
+        "relationshipLevelId": 494,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "495": {
+        "id": 495,
+        "relationshipLevelId": 495,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "496": {
+        "id": 496,
+        "relationshipLevelId": 496,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "497": {
+        "id": 497,
+        "relationshipLevelId": 497,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "498": {
+        "id": 498,
+        "relationshipLevelId": 498,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "499": {
+        "id": 499,
+        "relationshipLevelId": 499,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "500": {
+        "id": 500,
+        "relationshipLevelId": 500,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "501": {
+        "id": 501,
+        "relationshipLevelId": 501,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "502": {
+        "id": 502,
+        "relationshipLevelId": 502,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "503": {
+        "id": 503,
+        "relationshipLevelId": 503,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "504": {
+        "id": 504,
+        "relationshipLevelId": 504,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "505": {
+        "id": 505,
+        "relationshipLevelId": 505,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "506": {
+        "id": 506,
+        "relationshipLevelId": 506,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "507": {
+        "id": 507,
+        "relationshipLevelId": 507,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "508": {
+        "id": 508,
+        "relationshipLevelId": 508,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "509": {
+        "id": 509,
+        "relationshipLevelId": 509,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "510": {
+        "id": 510,
+        "relationshipLevelId": 510,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "511": {
+        "id": 511,
+        "relationshipLevelId": 511,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "512": {
+        "id": 512,
+        "relationshipLevelId": 512,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "513": {
+        "id": 513,
+        "relationshipLevelId": 513,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "514": {
+        "id": 514,
+        "relationshipLevelId": 514,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "515": {
+        "id": 515,
+        "relationshipLevelId": 515,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "516": {
+        "id": 516,
+        "relationshipLevelId": 516,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "517": {
+        "id": 517,
+        "relationshipLevelId": 517,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "518": {
+        "id": 518,
+        "relationshipLevelId": 518,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "519": {
+        "id": 519,
+        "relationshipLevelId": 519,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "520": {
+        "id": 520,
+        "relationshipLevelId": 520,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "521": {
+        "id": 521,
+        "relationshipLevelId": 521,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "522": {
+        "id": 522,
+        "relationshipLevelId": 522,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "523": {
+        "id": 523,
+        "relationshipLevelId": 523,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "524": {
+        "id": 524,
+        "relationshipLevelId": 524,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "525": {
+        "id": 525,
+        "relationshipLevelId": 525,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "526": {
+        "id": 526,
+        "relationshipLevelId": 526,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "527": {
+        "id": 527,
+        "relationshipLevelId": 527,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "528": {
+        "id": 528,
+        "relationshipLevelId": 528,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "529": {
+        "id": 529,
+        "relationshipLevelId": 529,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "530": {
+        "id": 530,
+        "relationshipLevelId": 530,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "531": {
+        "id": 531,
+        "relationshipLevelId": 531,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "532": {
+        "id": 532,
+        "relationshipLevelId": 532,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "533": {
+        "id": 533,
+        "relationshipLevelId": 533,
+        "propertyName": "MP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "534": {
+        "id": 534,
+        "relationshipLevelId": 534,
+        "propertyName": "MP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "535": {
+        "id": 535,
+        "relationshipLevelId": 535,
+        "propertyName": "MP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "536": {
+        "id": 536,
+        "relationshipLevelId": 536,
+        "propertyName": "MP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "537": {
+        "id": 537,
+        "relationshipLevelId": 537,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "538": {
+        "id": 538,
+        "relationshipLevelId": 538,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "539": {
+        "id": 539,
+        "relationshipLevelId": 539,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "540": {
+        "id": 540,
+        "relationshipLevelId": 540,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "541": {
+        "id": 541,
+        "relationshipLevelId": 541,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "542": {
+        "id": 542,
+        "relationshipLevelId": 542,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "543": {
+        "id": 543,
+        "relationshipLevelId": 543,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "544": {
+        "id": 544,
+        "relationshipLevelId": 544,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "545": {
+        "id": 545,
+        "relationshipLevelId": 545,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "546": {
+        "id": 546,
+        "relationshipLevelId": 546,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "547": {
+        "id": 547,
+        "relationshipLevelId": 547,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "548": {
+        "id": 548,
+        "relationshipLevelId": 548,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "549": {
+        "id": 549,
+        "relationshipLevelId": 549,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "550": {
+        "id": 550,
+        "relationshipLevelId": 550,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "551": {
+        "id": 551,
+        "relationshipLevelId": 551,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "552": {
+        "id": 552,
+        "relationshipLevelId": 552,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "553": {
+        "id": 553,
+        "relationshipLevelId": 553,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "554": {
+        "id": 554,
+        "relationshipLevelId": 554,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "555": {
+        "id": 555,
+        "relationshipLevelId": 555,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "556": {
+        "id": 556,
+        "relationshipLevelId": 556,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "557": {
+        "id": 557,
+        "relationshipLevelId": 557,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "558": {
+        "id": 558,
+        "relationshipLevelId": 558,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "559": {
+        "id": 559,
+        "relationshipLevelId": 559,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "560": {
+        "id": 560,
+        "relationshipLevelId": 560,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "561": {
+        "id": 561,
+        "relationshipLevelId": 561,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "562": {
+        "id": 562,
+        "relationshipLevelId": 562,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "563": {
+        "id": 563,
+        "relationshipLevelId": 563,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "564": {
+        "id": 564,
+        "relationshipLevelId": 564,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "565": {
+        "id": 565,
+        "relationshipLevelId": 565,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "566": {
+        "id": 566,
+        "relationshipLevelId": 566,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "567": {
+        "id": 567,
+        "relationshipLevelId": 567,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "568": {
+        "id": 568,
+        "relationshipLevelId": 568,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "569": {
+        "id": 569,
+        "relationshipLevelId": 569,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "570": {
+        "id": 570,
+        "relationshipLevelId": 570,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "571": {
+        "id": 571,
+        "relationshipLevelId": 571,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "572": {
+        "id": 572,
+        "relationshipLevelId": 572,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "573": {
+        "id": 573,
+        "relationshipLevelId": 573,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "574": {
+        "id": 574,
+        "relationshipLevelId": 574,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "575": {
+        "id": 575,
+        "relationshipLevelId": 575,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "576": {
+        "id": 576,
+        "relationshipLevelId": 576,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "577": {
+        "id": 577,
+        "relationshipLevelId": 577,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "578": {
+        "id": 578,
+        "relationshipLevelId": 578,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "579": {
+        "id": 579,
+        "relationshipLevelId": 579,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "580": {
+        "id": 580,
+        "relationshipLevelId": 580,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "581": {
+        "id": 581,
+        "relationshipLevelId": 581,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "582": {
+        "id": 582,
+        "relationshipLevelId": 582,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "583": {
+        "id": 583,
+        "relationshipLevelId": 583,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "584": {
+        "id": 584,
+        "relationshipLevelId": 584,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "585": {
+        "id": 585,
+        "relationshipLevelId": 585,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "586": {
+        "id": 586,
+        "relationshipLevelId": 586,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "587": {
+        "id": 587,
+        "relationshipLevelId": 587,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "588": {
+        "id": 588,
+        "relationshipLevelId": 588,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "589": {
+        "id": 589,
+        "relationshipLevelId": 589,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "590": {
+        "id": 590,
+        "relationshipLevelId": 590,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "591": {
+        "id": 591,
+        "relationshipLevelId": 591,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "592": {
+        "id": 592,
+        "relationshipLevelId": 592,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "593": {
+        "id": 593,
+        "relationshipLevelId": 593,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "594": {
+        "id": 594,
+        "relationshipLevelId": 594,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "595": {
+        "id": 595,
+        "relationshipLevelId": 595,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "596": {
+        "id": 596,
+        "relationshipLevelId": 596,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "597": {
+        "id": 597,
+        "relationshipLevelId": 597,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "598": {
+        "id": 598,
+        "relationshipLevelId": 598,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "599": {
+        "id": 599,
+        "relationshipLevelId": 599,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "600": {
+        "id": 600,
+        "relationshipLevelId": 600,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "601": {
+        "id": 601,
+        "relationshipLevelId": 601,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "602": {
+        "id": 602,
+        "relationshipLevelId": 602,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "603": {
+        "id": 603,
+        "relationshipLevelId": 603,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "604": {
+        "id": 604,
+        "relationshipLevelId": 604,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "605": {
+        "id": 605,
+        "relationshipLevelId": 605,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "606": {
+        "id": 606,
+        "relationshipLevelId": 606,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "607": {
+        "id": 607,
+        "relationshipLevelId": 607,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "608": {
+        "id": 608,
+        "relationshipLevelId": 608,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "609": {
+        "id": 609,
+        "relationshipLevelId": 609,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "610": {
+        "id": 610,
+        "relationshipLevelId": 610,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "611": {
+        "id": 611,
+        "relationshipLevelId": 611,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "612": {
+        "id": 612,
+        "relationshipLevelId": 612,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "613": {
+        "id": 613,
+        "relationshipLevelId": 613,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "614": {
+        "id": 614,
+        "relationshipLevelId": 614,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "615": {
+        "id": 615,
+        "relationshipLevelId": 615,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "616": {
+        "id": 616,
+        "relationshipLevelId": 616,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "617": {
+        "id": 617,
+        "relationshipLevelId": 617,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "618": {
+        "id": 618,
+        "relationshipLevelId": 618,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "619": {
+        "id": 619,
+        "relationshipLevelId": 619,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "620": {
+        "id": 620,
+        "relationshipLevelId": 620,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "621": {
+        "id": 621,
+        "relationshipLevelId": 621,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "622": {
+        "id": 622,
+        "relationshipLevelId": 622,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "623": {
+        "id": 623,
+        "relationshipLevelId": 623,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "624": {
+        "id": 624,
+        "relationshipLevelId": 624,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "625": {
+        "id": 625,
+        "relationshipLevelId": 625,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "626": {
+        "id": 626,
+        "relationshipLevelId": 626,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "627": {
+        "id": 627,
+        "relationshipLevelId": 627,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "628": {
+        "id": 628,
+        "relationshipLevelId": 628,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "629": {
+        "id": 629,
+        "relationshipLevelId": 629,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "630": {
+        "id": 630,
+        "relationshipLevelId": 630,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "631": {
+        "id": 631,
+        "relationshipLevelId": 631,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "632": {
+        "id": 632,
+        "relationshipLevelId": 632,
+        "propertyName": "Intelligence",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "633": {
+        "id": 633,
+        "relationshipLevelId": 633,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "634": {
+        "id": 634,
+        "relationshipLevelId": 634,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "635": {
+        "id": 635,
+        "relationshipLevelId": 635,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "636": {
+        "id": 636,
+        "relationshipLevelId": 636,
+        "propertyName": "Power",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "637": {
+        "id": 637,
+        "relationshipLevelId": 637,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "638": {
+        "id": 638,
+        "relationshipLevelId": 638,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "639": {
+        "id": 639,
+        "relationshipLevelId": 639,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "640": {
+        "id": 640,
+        "relationshipLevelId": 640,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "641": {
+        "id": 641,
+        "relationshipLevelId": 641,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "642": {
+        "id": 642,
+        "relationshipLevelId": 642,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "643": {
+        "id": 643,
+        "relationshipLevelId": 643,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "644": {
+        "id": 644,
+        "relationshipLevelId": 644,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "645": {
+        "id": 645,
+        "relationshipLevelId": 645,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "646": {
+        "id": 646,
+        "relationshipLevelId": 646,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "647": {
+        "id": 647,
+        "relationshipLevelId": 647,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "648": {
+        "id": 648,
+        "relationshipLevelId": 648,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "649": {
+        "id": 649,
+        "relationshipLevelId": 649,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "650": {
+        "id": 650,
+        "relationshipLevelId": 650,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "651": {
+        "id": 651,
+        "relationshipLevelId": 651,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "652": {
+        "id": 652,
+        "relationshipLevelId": 652,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "653": {
+        "id": 653,
+        "relationshipLevelId": 653,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "654": {
+        "id": 654,
+        "relationshipLevelId": 654,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "655": {
+        "id": 655,
+        "relationshipLevelId": 655,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "656": {
+        "id": 656,
+        "relationshipLevelId": 656,
+        "propertyName": "HP",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "657": {
+        "id": 657,
+        "relationshipLevelId": 657,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "658": {
+        "id": 658,
+        "relationshipLevelId": 658,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "659": {
+        "id": 659,
+        "relationshipLevelId": 659,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "660": {
+        "id": 660,
+        "relationshipLevelId": 660,
+        "propertyName": "Armor",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "661": {
+        "id": 661,
+        "relationshipLevelId": 661,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "662": {
+        "id": 662,
+        "relationshipLevelId": 662,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "663": {
+        "id": 663,
+        "relationshipLevelId": 663,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "664": {
+        "id": 664,
+        "relationshipLevelId": 664,
+        "propertyName": "Attack",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "665": {
+        "id": 665,
+        "relationshipLevelId": 665,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "666": {
+        "id": 666,
+        "relationshipLevelId": 666,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "667": {
+        "id": 667,
+        "relationshipLevelId": 667,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "668": {
+        "id": 668,
+        "relationshipLevelId": 668,
+        "propertyName": "Resistance",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "669": {
+        "id": 669,
+        "relationshipLevelId": 669,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "670": {
+        "id": 670,
+        "relationshipLevelId": 670,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "671": {
+        "id": 671,
+        "relationshipLevelId": 671,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "672": {
+        "id": 672,
+        "relationshipLevelId": 672,
+        "propertyName": "Strength",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    }
+}

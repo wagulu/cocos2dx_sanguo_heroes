@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message BattleSetBattleConfigRequest{
+	optional ApiRequest	api = 1;			//公用参数
+	optional int32		monsterId = 2;		//武将id
+	optional int32		formationId = 3;	//阵型 可选值1 2 3
+	optional string		position = 4;		//方位 可选值 f1 b1
+}

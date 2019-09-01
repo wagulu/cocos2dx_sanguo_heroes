@@ -1,0 +1,494 @@
+{
+    "sound":
+    [
+     {
+     "event":"soldierDead",
+     "trigger":"soldier",
+     "audio":"battle_soldier_die_man_1.mp3",
+     "max":1,
+     "loop":false
+     },
+     
+
+     {
+     "event":"soldierHit",
+     "trigger":"bow",
+     "audio":"battle_hitting_by_soldier_bow.mp3",
+     "max":1,
+     "loop":false
+     },
+     {
+     "event":"soldierHit",
+     "trigger":"lweapon",
+     "audio":"battle_hitting_by_soldier_lweapon.mp3",
+     "max":1,
+     "loop":false
+     },
+     {
+     "event":"soldierHit",
+     "trigger":"hweapon",
+     "audio":"battle_hitting_by_soldier_hweapon.mp3",
+     "max":1,
+     "loop":false
+     },
+
+     
+     {
+     "event":"soldierDodge",
+     "trigger":"soldier",
+     "audio":"battle_dodge.mp3",
+     "max":1,
+     "loop":false
+     },
+
+
+     {
+     "event":"soldierSkillHurt",
+     "trigger":"skill_6",
+     "audio":"skill_hit_huoyan.mp3",
+     "max":0,
+     "loop":false
+     },
+	 {
+     "event":"soldierSkillHurt",
+     "trigger":"skill_10",
+     "audio":"skill_hit_douqi.mp3",
+     "max":0,
+     "loop":false
+     },
+	 {
+     "event":"soldierSkillHurt",
+     "trigger":"skill_13",
+     "audio":"skill_hit_huoyan.mp3",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"soldierSkillHurt",
+     "trigger":"skill_18",
+     "audio":"skill_hit_douqi.mp3",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"soldierSkillHurt",
+     "trigger":"skill_19",
+     "audio":"skill_hit_douqi.mp3",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"soldierSkillHurt",
+     "trigger":"skill_26",
+     "audio":"skill_hit_douqi.mp3",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"soldierSkillHurt",
+     "trigger":"skill_39",
+     "audio":"skill_hit_huoyan.mp3",
+     "max":0,
+     "loop":false
+     },
+	
+	
+     
+	 
+     {
+     "event":"heroAttackMan",
+     "trigger":"hero",
+     "audio":"battle_hero_attack_man_1.mp3",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"heroAttackWoman",
+     "trigger":"hero",
+     "audio":"battle_hero_attack_woman_1.mp3",
+     "max":0,
+     "loop":false
+     },
+     
+     {
+     "event":"heroDeadMan",
+     "trigger":"hero",
+     "audio":"battle_hero_die_man_1.mp3",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"heroDeadWoman",
+     "trigger":"hero",
+     "audio":"battle_hero_die_woman_1.mp3",
+     "max":0,
+     "loop":false
+     },
+     
+     
+     {
+     "event":"heroDodge",
+     "trigger":"hero",
+     "audio":"battle_dodge.mp3",
+     "max":0,
+     "loop":false
+     },
+     
+     
+     {
+     "event":"heroHit",
+     "trigger":"blunt",
+     "audio":"battle_hitting_by_hero_blunt.mp3",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"heroHit",
+     "trigger":"lweapon",
+     "audio":"battle_hitting_by_hero_lweapon.mp3",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"heroHit",
+     "trigger":"hweapon",
+     "audio":"battle_hitting_by_hero_hweapon.mp3",
+     "max":0,
+     "loop":false
+     },
+
+     {
+     "event":"heroMove",
+     "trigger":"hero",
+     "audio":"battle_hero_move.mp3",
+     "max":0,
+     "loop":true
+     },
+
+     {
+     "event":"heroAssault",
+     "trigger":"hero",
+     "audio":"battle_hero_assault.mp3",
+     "max":0,
+     "loop":false
+     },
+
+     
+     
+     {
+     "event":"heroSkillHurt",
+     "trigger":"skill_1",
+     "audio":"",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"heroSkillHurt",
+     "trigger":"skill_2",
+     "audio":"",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"heroSkillHurt",
+     "trigger":"skill_3",
+     "audio":"",
+     "max":0,
+     "loop":false
+     },
+     
+     
+     
+
+   
+
+     {
+     "event":"armyAssault",
+     "trigger":"",
+     "audio":"battle_army_assault.mp3",
+     "max":0,
+     "loop":false
+     },
+     {
+     "event":"battleStart",
+     "trigger":"",
+     "audio":"battle_start.mp3",
+     "max":0,
+     "loop":false
+     },
+
+     
+	 
+	 
+     
+     {
+     "event":"skillArrow",
+     "trigger":"skill_",
+     "audio":"",
+     "max":0,
+     "loop":false
+     },
+     
+	 
+	 
+
+     
+     {
+     "event":"recruit",
+     "trigger":"skill",
+     "audio":"skill_hit_zhaobing.mp3",
+     "max":0,
+     "loop":false
+     },
+     
+	 
+	 
+	 
+     
+
+     {
+     "event":"skill_hit",
+     "trigger":"huo_yan",
+     "audio":"skill_hit_huoyan.mp3",
+     "max":0,
+     "loop":false
+     },     
+     
+      {
+     "event":"skill_hit",
+     "trigger":"liu_xing",
+     "audio":"skill_hit_liuxing.mp3",
+     "max":0,
+     "loop":false
+     },      
+	
+	 {
+     "event":"skill_hit",
+     "trigger":"dou_qi",
+     "audio":"skill_hit_douqi.mp3",
+     "max":0,
+     "loop":false
+     }, 
+
+	 {
+     "event":"skill_hit",
+     "trigger":"qing_bing_qi",
+     "audio":"skill_hit_qingbingqi.mp3",
+     "max":0,
+     "loop":false
+     }, 	 
+	 
+	 
+	 
+	 
+	 
+	 {
+     "event":"skill_continued",
+     "trigger":"dou_qi",
+     "audio":"skill_continued_douqi.mp3",
+     "max":0,
+     "loop":true
+     }, 	 
+
+
+	 
+	 
+
+	 
+	
+     {
+     "event":"qishou_chi_tian_ba_fang_yan",
+     "trigger":"hero",
+     "audio":"skill_exclusive_ctbfy.mp3",
+     "max":0,
+     "loop":false
+     },
+  
+     {
+     "event":"qishou_douqi_15fps",
+     "trigger":"hero",
+     "audio":"skill_share_douqi_15fps.mp3",
+     "max":0,
+     "loop":false
+     },
+	 
+     {
+     "event":"qishou_shun_xi_qian_li",
+     "trigger":"hero",
+     "audio":"skill_exclusive_sxql.mp3",
+     "max":0,
+     "loop":false
+     },
+	
+	 {
+     "event":"qishou_dou_qi_lie_kong",
+     "trigger":"hero",
+     "audio":"skill_exclusive_dqht.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_xie_yan_du_hun",
+     "trigger":"hero",
+     "audio":"skill_exclusive_ymgz.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_tian_xia_gui_xin",
+     "trigger":"hero",
+     "audio":"skill_exclusive_txgx.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_zhaobing_25fps",
+     "trigger":"hero",
+     "audio":"skill_share_zhaobing_25fps.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_lu_li_tong_xin",
+     "trigger":"hero",
+     "audio":"skill_exclusive_lltx.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_hong_lian_ye_huo",
+     "trigger":"hero",
+     "audio":"skill_exclusive_hlyh.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_jing_ji_chan_shen",
+     "trigger":"hero",
+     "audio":"skill_exclusive_jjcs.mp3",
+     "max":0,
+     "loop":false
+     },
+	 
+	 {
+     "event":"qishou_xuan_mu_suo_tian",
+     "trigger":"hero",
+     "audio":"skill_exclusive_xmst.mp3",
+     "max":0,
+     "loop":false
+     },
+	 
+	 {
+     "event":"qishou_gui_ji_chi_hun",
+     "trigger":"hero",
+     "audio":"skill_exclusive_gjsh.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_wu_shuang_lian_ci",
+     "trigger":"hero",
+     "audio":"skill_exclusive_wslc.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_shou_xue_jue_xing",
+     "trigger":"hero",
+     "audio":"skill_exclusive_sxjx.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_fei_xue_gui_ren",
+     "trigger":"hero",
+     "audio":"skill_exclusive_fxgr.mp3",
+     "max":0,
+     "loop":false
+     },
+	 
+	 {
+     "event":"qishou_fei_xue_kuang_gong",
+     "trigger":"hero",
+     "audio":"skill_exclusive_fxkg.mp3",
+     "max":0,
+     "loop":false
+     },
+	 
+	 {
+     "event":"qishou_kuang_mang_zhen_tian",
+     "trigger":"hero",
+     "audio":"skill_exclusive_kmzt.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_shi_xue_she_mao",
+     "trigger":"hero",
+     "audio":"skill_exclusive_sxsm.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_jin_shi_zhen_di",
+     "trigger":"hero",
+     "audio":"skill_exclusive_jszd.mp3",
+     "max":0,
+     "loop":false
+     },
+	 
+	 {
+     "event":"qishou_fen_jin_tian_di",
+     "trigger":"hero",
+     "audio":"skill_exclusive_fjtd.mp3",
+     "max":0,
+     "loop":false
+     },
+	 
+	 {
+     "event":"qishou_mie_yuan_zhan",
+     "trigger":"hero",
+     "audio":"skill_exclusive_myz.mp3",
+     "max":0,
+     "loop":false
+     },
+
+	 {
+     "event":"qishou_yan_long_chong_tian",
+     "trigger":"hero",
+     "audio":"skill_exclusive_ylct.mp3",
+     "max":0,
+     "loop":false
+     },
+
+     
+     
+     
+
+     
+     
+     {
+     "event":"DUMMY_END",
+     "trigger":"",
+     "audio":"",
+     "max":0,
+     "loop":false
+     }
+     
+
+	 
+     ]
+}
+
+

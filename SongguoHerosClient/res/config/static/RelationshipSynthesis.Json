@@ -1,0 +1,1100 @@
+{
+    "1": {
+        "id": 1,
+        "relationshipId": 1,
+        "monsterId": 30,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "relationshipId": 2,
+        "monsterId": 5,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "relationshipId": 3,
+        "monsterId": 2,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "relationshipId": 4,
+        "monsterId": 27,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "relationshipId": 5,
+        "monsterId": 29,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "relationshipId": 6,
+        "monsterId": 4,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "relationshipId": 7,
+        "monsterId": 1,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "relationshipId": 8,
+        "monsterId": 17,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "relationshipId": 9,
+        "monsterId": 17,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "relationshipId": 10,
+        "monsterId": 29,
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "relationshipId": 11,
+        "monsterId": 16,
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "relationshipId": 12,
+        "monsterId": 24,
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "relationshipId": 13,
+        "monsterId": 35,
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "relationshipId": 14,
+        "monsterId": 6,
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "relationshipId": 15,
+        "monsterId": 2,
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "relationshipId": 16,
+        "monsterId": 9,
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "relationshipId": 17,
+        "monsterId": 1,
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "relationshipId": 18,
+        "monsterId": 33,
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "relationshipId": 21,
+        "monsterId": 4,
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "relationshipId": 22,
+        "monsterId": 33,
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "relationshipId": 23,
+        "monsterId": 22,
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "relationshipId": 25,
+        "monsterId": 32,
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "relationshipId": 26,
+        "monsterId": 18,
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "relationshipId": 27,
+        "monsterId": 19,
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "relationshipId": 29,
+        "monsterId": 18,
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "relationshipId": 30,
+        "monsterId": 20,
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "relationshipId": 33,
+        "monsterId": 4,
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "relationshipId": 34,
+        "monsterId": 36,
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "relationshipId": 35,
+        "monsterId": 24,
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "relationshipId": 37,
+        "monsterId": 40,
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "relationshipId": 38,
+        "monsterId": 36,
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "relationshipId": 39,
+        "monsterId": 16,
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "relationshipId": 40,
+        "monsterId": 22,
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "relationshipId": 41,
+        "monsterId": 26,
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "relationshipId": 42,
+        "monsterId": 1,
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "relationshipId": 43,
+        "monsterId": 5,
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "relationshipId": 44,
+        "monsterId": 10,
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "relationshipId": 45,
+        "monsterId": 17,
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "relationshipId": 46,
+        "monsterId": 27,
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "relationshipId": 47,
+        "monsterId": 13,
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "relationshipId": 48,
+        "monsterId": 30,
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "relationshipId": 49,
+        "monsterId": 16,
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "relationshipId": 50,
+        "monsterId": 12,
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "relationshipId": 51,
+        "monsterId": 15,
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "relationshipId": 53,
+        "monsterId": 15,
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "relationshipId": 54,
+        "monsterId": 29,
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "relationshipId": 55,
+        "monsterId": 30,
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "relationshipId": 57,
+        "monsterId": 14,
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "relationshipId": 58,
+        "monsterId": 13,
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "relationshipId": 59,
+        "monsterId": 16,
+        "ver": "1.0.0"
+    },
+    "51": {
+        "id": 51,
+        "relationshipId": 61,
+        "monsterId": 13,
+        "ver": "1.0.0"
+    },
+    "52": {
+        "id": 52,
+        "relationshipId": 62,
+        "monsterId": 15,
+        "ver": "1.0.0"
+    },
+    "53": {
+        "id": 53,
+        "relationshipId": 63,
+        "monsterId": 3,
+        "ver": "1.0.0"
+    },
+    "54": {
+        "id": 54,
+        "relationshipId": 64,
+        "monsterId": 10,
+        "ver": "1.0.0"
+    },
+    "55": {
+        "id": 55,
+        "relationshipId": 65,
+        "monsterId": 3,
+        "ver": "1.0.0"
+    },
+    "56": {
+        "id": 56,
+        "relationshipId": 66,
+        "monsterId": 12,
+        "ver": "1.0.0"
+    },
+    "57": {
+        "id": 57,
+        "relationshipId": 67,
+        "monsterId": 2,
+        "ver": "1.0.0"
+    },
+    "58": {
+        "id": 58,
+        "relationshipId": 69,
+        "monsterId": 7,
+        "ver": "1.0.0"
+    },
+    "59": {
+        "id": 59,
+        "relationshipId": 70,
+        "monsterId": 32,
+        "ver": "1.0.0"
+    },
+    "60": {
+        "id": 60,
+        "relationshipId": 71,
+        "monsterId": 34,
+        "ver": "1.0.0"
+    },
+    "61": {
+        "id": 61,
+        "relationshipId": 72,
+        "monsterId": 8,
+        "ver": "1.0.0"
+    },
+    "62": {
+        "id": 62,
+        "relationshipId": 73,
+        "monsterId": 34,
+        "ver": "1.0.0"
+    },
+    "63": {
+        "id": 63,
+        "relationshipId": 74,
+        "monsterId": 7,
+        "ver": "1.0.0"
+    },
+    "64": {
+        "id": 64,
+        "relationshipId": 77,
+        "monsterId": 34,
+        "ver": "1.0.0"
+    },
+    "65": {
+        "id": 65,
+        "relationshipId": 78,
+        "monsterId": 35,
+        "ver": "1.0.0"
+    },
+    "66": {
+        "id": 66,
+        "relationshipId": 79,
+        "monsterId": 8,
+        "ver": "1.0.0"
+    },
+    "67": {
+        "id": 67,
+        "relationshipId": 81,
+        "monsterId": 42,
+        "ver": "1.0.0"
+    },
+    "68": {
+        "id": 68,
+        "relationshipId": 82,
+        "monsterId": 23,
+        "ver": "1.0.0"
+    },
+    "69": {
+        "id": 69,
+        "relationshipId": 83,
+        "monsterId": 37,
+        "ver": "1.0.0"
+    },
+    "70": {
+        "id": 70,
+        "relationshipId": 84,
+        "monsterId": 24,
+        "ver": "1.0.0"
+    },
+    "71": {
+        "id": 71,
+        "relationshipId": 85,
+        "monsterId": 41,
+        "ver": "1.0.0"
+    },
+    "72": {
+        "id": 72,
+        "relationshipId": 86,
+        "monsterId": 6,
+        "ver": "1.0.0"
+    },
+    "73": {
+        "id": 73,
+        "relationshipId": 87,
+        "monsterId": 42,
+        "ver": "1.0.0"
+    },
+    "74": {
+        "id": 74,
+        "relationshipId": 88,
+        "monsterId": 10,
+        "ver": "1.0.0"
+    },
+    "75": {
+        "id": 75,
+        "relationshipId": 89,
+        "monsterId": 21,
+        "ver": "1.0.0"
+    },
+    "76": {
+        "id": 76,
+        "relationshipId": 90,
+        "monsterId": 24,
+        "ver": "1.0.0"
+    },
+    "77": {
+        "id": 77,
+        "relationshipId": 91,
+        "monsterId": 41,
+        "ver": "1.0.0"
+    },
+    "78": {
+        "id": 78,
+        "relationshipId": 93,
+        "monsterId": 23,
+        "ver": "1.0.0"
+    },
+    "79": {
+        "id": 79,
+        "relationshipId": 94,
+        "monsterId": 21,
+        "ver": "1.0.0"
+    },
+    "80": {
+        "id": 80,
+        "relationshipId": 95,
+        "monsterId": 3,
+        "ver": "1.0.0"
+    },
+    "81": {
+        "id": 81,
+        "relationshipId": 96,
+        "monsterId": 9,
+        "ver": "1.0.0"
+    },
+    "82": {
+        "id": 82,
+        "relationshipId": 105,
+        "monsterId": 12,
+        "ver": "1.0.0"
+    },
+    "83": {
+        "id": 83,
+        "relationshipId": 106,
+        "monsterId": 29,
+        "ver": "1.0.0"
+    },
+    "84": {
+        "id": 84,
+        "relationshipId": 107,
+        "monsterId": 1,
+        "ver": "1.0.0"
+    },
+    "85": {
+        "id": 85,
+        "relationshipId": 113,
+        "monsterId": 2,
+        "ver": "1.0.0"
+    },
+    "86": {
+        "id": 86,
+        "relationshipId": 114,
+        "monsterId": 14,
+        "ver": "1.0.0"
+    },
+    "87": {
+        "id": 87,
+        "relationshipId": 115,
+        "monsterId": 27,
+        "ver": "1.0.0"
+    },
+    "88": {
+        "id": 88,
+        "relationshipId": 116,
+        "monsterId": 3,
+        "ver": "1.0.0"
+    },
+    "89": {
+        "id": 89,
+        "relationshipId": 117,
+        "monsterId": 1,
+        "ver": "1.0.0"
+    },
+    "90": {
+        "id": 90,
+        "relationshipId": 118,
+        "monsterId": 12,
+        "ver": "1.0.0"
+    },
+    "91": {
+        "id": 91,
+        "relationshipId": 119,
+        "monsterId": 14,
+        "ver": "1.0.0"
+    },
+    "92": {
+        "id": 92,
+        "relationshipId": 125,
+        "monsterId": 8,
+        "ver": "1.0.0"
+    },
+    "93": {
+        "id": 93,
+        "relationshipId": 126,
+        "monsterId": 7,
+        "ver": "1.0.0"
+    },
+    "94": {
+        "id": 94,
+        "relationshipId": 127,
+        "monsterId": 18,
+        "ver": "1.0.0"
+    },
+    "95": {
+        "id": 95,
+        "relationshipId": 129,
+        "monsterId": 35,
+        "ver": "1.0.0"
+    },
+    "96": {
+        "id": 96,
+        "relationshipId": 130,
+        "monsterId": 6,
+        "ver": "1.0.0"
+    },
+    "97": {
+        "id": 97,
+        "relationshipId": 131,
+        "monsterId": 5,
+        "ver": "1.0.0"
+    },
+    "98": {
+        "id": 98,
+        "relationshipId": 133,
+        "monsterId": 20,
+        "ver": "1.0.0"
+    },
+    "99": {
+        "id": 99,
+        "relationshipId": 134,
+        "monsterId": 18,
+        "ver": "1.0.0"
+    },
+    "100": {
+        "id": 100,
+        "relationshipId": 135,
+        "monsterId": 19,
+        "ver": "1.0.0"
+    },
+    "101": {
+        "id": 101,
+        "relationshipId": 136,
+        "monsterId": 35,
+        "ver": "1.0.0"
+    },
+    "102": {
+        "id": 102,
+        "relationshipId": 137,
+        "monsterId": 4,
+        "ver": "1.0.0"
+    },
+    "103": {
+        "id": 103,
+        "relationshipId": 138,
+        "monsterId": 20,
+        "ver": "1.0.0"
+    },
+    "104": {
+        "id": 104,
+        "relationshipId": 139,
+        "monsterId": 33,
+        "ver": "1.0.0"
+    },
+    "105": {
+        "id": 105,
+        "relationshipId": 140,
+        "monsterId": 34,
+        "ver": "1.0.0"
+    },
+    "106": {
+        "id": 106,
+        "relationshipId": 141,
+        "monsterId": 9,
+        "ver": "1.0.0"
+    },
+    "107": {
+        "id": 107,
+        "relationshipId": 142,
+        "monsterId": 40,
+        "ver": "1.0.0"
+    },
+    "108": {
+        "id": 108,
+        "relationshipId": 143,
+        "monsterId": 10,
+        "ver": "1.0.0"
+    },
+    "109": {
+        "id": 109,
+        "relationshipId": 144,
+        "monsterId": 38,
+        "ver": "1.0.0"
+    },
+    "110": {
+        "id": 110,
+        "relationshipId": 145,
+        "monsterId": 38,
+        "ver": "1.0.0"
+    },
+    "111": {
+        "id": 111,
+        "relationshipId": 146,
+        "monsterId": 21,
+        "ver": "1.0.0"
+    },
+    "112": {
+        "id": 112,
+        "relationshipId": 147,
+        "monsterId": 41,
+        "ver": "1.0.0"
+    },
+    "113": {
+        "id": 113,
+        "relationshipId": 149,
+        "monsterId": 37,
+        "ver": "1.0.0"
+    },
+    "114": {
+        "id": 114,
+        "relationshipId": 150,
+        "monsterId": 40,
+        "ver": "1.0.0"
+    },
+    "115": {
+        "id": 115,
+        "relationshipId": 151,
+        "monsterId": 36,
+        "ver": "1.0.0"
+    },
+    "116": {
+        "id": 116,
+        "relationshipId": 157,
+        "monsterId": 10,
+        "ver": "1.0.0"
+    },
+    "117": {
+        "id": 117,
+        "relationshipId": 158,
+        "monsterId": 36,
+        "ver": "1.0.0"
+    },
+    "118": {
+        "id": 118,
+        "relationshipId": 159,
+        "monsterId": 42,
+        "ver": "1.0.0"
+    },
+    "119": {
+        "id": 119,
+        "relationshipId": 160,
+        "monsterId": 38,
+        "ver": "1.0.0"
+    },
+    "120": {
+        "id": 120,
+        "relationshipId": 161,
+        "monsterId": 22,
+        "ver": "1.0.0"
+    },
+    "121": {
+        "id": 121,
+        "relationshipId": 162,
+        "monsterId": 37,
+        "ver": "1.0.0"
+    },
+    "122": {
+        "id": 122,
+        "relationshipId": 163,
+        "monsterId": 42,
+        "ver": "1.0.0"
+    },
+    "123": {
+        "id": 123,
+        "relationshipId": 164,
+        "monsterId": 23,
+        "ver": "1.0.0"
+    },
+    "124": {
+        "id": 124,
+        "relationshipId": 165,
+        "monsterId": 21,
+        "ver": "1.0.0"
+    },
+    "125": {
+        "id": 125,
+        "relationshipId": 166,
+        "monsterId": 22,
+        "ver": "1.0.0"
+    },
+    "126": {
+        "id": 126,
+        "relationshipId": 167,
+        "monsterId": 41,
+        "ver": "1.0.0"
+    },
+    "127": {
+        "id": 127,
+        "relationshipId": 168,
+        "monsterId": 40,
+        "ver": "1.0.0"
+    },
+    "128": {
+        "id": 128,
+        "relationshipId": 19,
+        "monsterId": 8,
+        "ver": "1.0.0"
+    },
+    "129": {
+        "id": 129,
+        "relationshipId": 19,
+        "monsterId": 19,
+        "ver": "1.0.0"
+    },
+    "130": {
+        "id": 130,
+        "relationshipId": 31,
+        "monsterId": 5,
+        "ver": "1.0.0"
+    },
+    "131": {
+        "id": 131,
+        "relationshipId": 31,
+        "monsterId": 19,
+        "ver": "1.0.0"
+    },
+    "132": {
+        "id": 132,
+        "relationshipId": 52,
+        "monsterId": 14,
+        "ver": "1.0.0"
+    },
+    "133": {
+        "id": 133,
+        "relationshipId": 52,
+        "monsterId": 27,
+        "ver": "1.0.0"
+    },
+    "134": {
+        "id": 134,
+        "relationshipId": 56,
+        "monsterId": 13,
+        "ver": "1.0.0"
+    },
+    "135": {
+        "id": 135,
+        "relationshipId": 56,
+        "monsterId": 27,
+        "ver": "1.0.0"
+    },
+    "136": {
+        "id": 136,
+        "relationshipId": 60,
+        "monsterId": 30,
+        "ver": "1.0.0"
+    },
+    "137": {
+        "id": 137,
+        "relationshipId": 60,
+        "monsterId": 17,
+        "ver": "1.0.0"
+    },
+    "138": {
+        "id": 138,
+        "relationshipId": 68,
+        "monsterId": 30,
+        "ver": "1.0.0"
+    },
+    "139": {
+        "id": 139,
+        "relationshipId": 68,
+        "monsterId": 15,
+        "ver": "1.0.0"
+    },
+    "140": {
+        "id": 140,
+        "relationshipId": 75,
+        "monsterId": 5,
+        "ver": "1.0.0"
+    },
+    "141": {
+        "id": 141,
+        "relationshipId": 75,
+        "monsterId": 8,
+        "ver": "1.0.0"
+    },
+    "142": {
+        "id": 142,
+        "relationshipId": 76,
+        "monsterId": 20,
+        "ver": "1.0.0"
+    },
+    "143": {
+        "id": 143,
+        "relationshipId": 76,
+        "monsterId": 32,
+        "ver": "1.0.0"
+    },
+    "144": {
+        "id": 144,
+        "relationshipId": 80,
+        "monsterId": 32,
+        "ver": "1.0.0"
+    },
+    "145": {
+        "id": 145,
+        "relationshipId": 80,
+        "monsterId": 19,
+        "ver": "1.0.0"
+    },
+    "146": {
+        "id": 146,
+        "relationshipId": 108,
+        "monsterId": 14,
+        "ver": "1.0.0"
+    },
+    "147": {
+        "id": 147,
+        "relationshipId": 108,
+        "monsterId": 13,
+        "ver": "1.0.0"
+    },
+    "148": {
+        "id": 148,
+        "relationshipId": 120,
+        "monsterId": 17,
+        "ver": "1.0.0"
+    },
+    "149": {
+        "id": 149,
+        "relationshipId": 120,
+        "monsterId": 15,
+        "ver": "1.0.0"
+    },
+    "150": {
+        "id": 150,
+        "relationshipId": 128,
+        "monsterId": 20,
+        "ver": "1.0.0"
+    },
+    "151": {
+        "id": 151,
+        "relationshipId": 128,
+        "monsterId": 19,
+        "ver": "1.0.0"
+    },
+    "152": {
+        "id": 152,
+        "relationshipId": 36,
+        "monsterId": 23,
+        "ver": "1.0.0"
+    },
+    "153": {
+        "id": 153,
+        "relationshipId": 36,
+        "monsterId": 38,
+        "ver": "1.0.0"
+    },
+    "154": {
+        "id": 154,
+        "relationshipId": 36,
+        "monsterId": 37,
+        "ver": "1.0.0"
+    },
+    "155": {
+        "id": 155,
+        "relationshipId": 92,
+        "monsterId": 9,
+        "ver": "1.0.0"
+    },
+    "156": {
+        "id": 156,
+        "relationshipId": 92,
+        "monsterId": 38,
+        "ver": "1.0.0"
+    },
+    "157": {
+        "id": 157,
+        "relationshipId": 92,
+        "monsterId": 37,
+        "ver": "1.0.0"
+    },
+    "158": {
+        "id": 158,
+        "relationshipId": 148,
+        "monsterId": 9,
+        "ver": "1.0.0"
+    },
+    "159": {
+        "id": 159,
+        "relationshipId": 148,
+        "monsterId": 23,
+        "ver": "1.0.0"
+    },
+    "160": {
+        "id": 160,
+        "relationshipId": 148,
+        "monsterId": 38,
+        "ver": "1.0.0"
+    },
+    "161": {
+        "id": 161,
+        "relationshipId": 152,
+        "monsterId": 9,
+        "ver": "1.0.0"
+    },
+    "162": {
+        "id": 162,
+        "relationshipId": 152,
+        "monsterId": 23,
+        "ver": "1.0.0"
+    },
+    "163": {
+        "id": 163,
+        "relationshipId": 152,
+        "monsterId": 37,
+        "ver": "1.0.0"
+    },
+    "164": {
+        "id": 164,
+        "relationshipId": 20,
+        "monsterId": 8,
+        "ver": "1.0.0"
+    },
+    "165": {
+        "id": 165,
+        "relationshipId": 20,
+        "monsterId": 6,
+        "ver": "1.0.0"
+    },
+    "166": {
+        "id": 166,
+        "relationshipId": 20,
+        "monsterId": 7,
+        "ver": "1.0.0"
+    },
+    "167": {
+        "id": 167,
+        "relationshipId": 20,
+        "monsterId": 33,
+        "ver": "1.0.0"
+    },
+    "168": {
+        "id": 168,
+        "relationshipId": 24,
+        "monsterId": 5,
+        "ver": "1.0.0"
+    },
+    "169": {
+        "id": 169,
+        "relationshipId": 24,
+        "monsterId": 8,
+        "ver": "1.0.0"
+    },
+    "170": {
+        "id": 170,
+        "relationshipId": 24,
+        "monsterId": 7,
+        "ver": "1.0.0"
+    },
+    "171": {
+        "id": 171,
+        "relationshipId": 24,
+        "monsterId": 33,
+        "ver": "1.0.0"
+    },
+    "172": {
+        "id": 172,
+        "relationshipId": 28,
+        "monsterId": 5,
+        "ver": "1.0.0"
+    },
+    "173": {
+        "id": 173,
+        "relationshipId": 28,
+        "monsterId": 8,
+        "ver": "1.0.0"
+    },
+    "174": {
+        "id": 174,
+        "relationshipId": 28,
+        "monsterId": 6,
+        "ver": "1.0.0"
+    },
+    "175": {
+        "id": 175,
+        "relationshipId": 28,
+        "monsterId": 33,
+        "ver": "1.0.0"
+    },
+    "176": {
+        "id": 176,
+        "relationshipId": 32,
+        "monsterId": 5,
+        "ver": "1.0.0"
+    },
+    "177": {
+        "id": 177,
+        "relationshipId": 32,
+        "monsterId": 6,
+        "ver": "1.0.0"
+    },
+    "178": {
+        "id": 178,
+        "relationshipId": 32,
+        "monsterId": 7,
+        "ver": "1.0.0"
+    },
+    "179": {
+        "id": 179,
+        "relationshipId": 32,
+        "monsterId": 33,
+        "ver": "1.0.0"
+    },
+    "180": {
+        "id": 180,
+        "relationshipId": 132,
+        "monsterId": 5,
+        "ver": "1.0.0"
+    },
+    "181": {
+        "id": 181,
+        "relationshipId": 132,
+        "monsterId": 8,
+        "ver": "1.0.0"
+    },
+    "182": {
+        "id": 182,
+        "relationshipId": 132,
+        "monsterId": 6,
+        "ver": "1.0.0"
+    },
+    "183": {
+        "id": 183,
+        "relationshipId": 132,
+        "monsterId": 7,
+        "ver": "1.0.0"
+    }
+}

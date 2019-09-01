@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message MonstersSkillUpRequest{
+	optional ApiRequest	api = 1;				//公用参数
+	optional int32		monsterId = 2;			//武将Id
+	optional int32		skillId = 3;			//技能Id
+}

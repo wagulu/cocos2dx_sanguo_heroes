@@ -1,0 +1,1682 @@
+{
+    "1": {
+        "id": 1,
+        "monsterId": "1",
+        "equipmentId": "1",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "monsterId": "1",
+        "equipmentId": "61",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "monsterId": "1",
+        "equipmentId": "62",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "monsterId": "1",
+        "equipmentId": "63",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "monsterId": "1",
+        "equipmentId": "64",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "monsterId": "1",
+        "equipmentId": "65",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "monsterId": "2",
+        "equipmentId": "2",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "monsterId": "2",
+        "equipmentId": "51",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "monsterId": "2",
+        "equipmentId": "52",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "monsterId": "2",
+        "equipmentId": "53",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "monsterId": "2",
+        "equipmentId": "54",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "monsterId": "2",
+        "equipmentId": "55",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "monsterId": "3",
+        "equipmentId": "3",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "monsterId": "3",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "monsterId": "3",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "monsterId": "3",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "monsterId": "3",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "monsterId": "3",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "monsterId": "4",
+        "equipmentId": "4",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "monsterId": "4",
+        "equipmentId": "51",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "monsterId": "4",
+        "equipmentId": "52",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "monsterId": "4",
+        "equipmentId": "53",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "monsterId": "4",
+        "equipmentId": "54",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "monsterId": "4",
+        "equipmentId": "55",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "monsterId": "5",
+        "equipmentId": "5",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "monsterId": "5",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "monsterId": "5",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "monsterId": "5",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "monsterId": "5",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "monsterId": "5",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "monsterId": "6",
+        "equipmentId": "6",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "monsterId": "6",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "monsterId": "6",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "monsterId": "6",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "monsterId": "6",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "monsterId": "6",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "monsterId": "7",
+        "equipmentId": "7",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "monsterId": "7",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "monsterId": "7",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "monsterId": "7",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "monsterId": "7",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "monsterId": "7",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "monsterId": "8",
+        "equipmentId": "8",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "monsterId": "8",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "monsterId": "8",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "monsterId": "8",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "monsterId": "8",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "monsterId": "8",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "monsterId": "9",
+        "equipmentId": "9",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "monsterId": "9",
+        "equipmentId": "61",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "51": {
+        "id": 51,
+        "monsterId": "9",
+        "equipmentId": "62",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "52": {
+        "id": 52,
+        "monsterId": "9",
+        "equipmentId": "63",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "53": {
+        "id": 53,
+        "monsterId": "9",
+        "equipmentId": "64",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "54": {
+        "id": 54,
+        "monsterId": "9",
+        "equipmentId": "65",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "55": {
+        "id": 55,
+        "monsterId": "10",
+        "equipmentId": "10",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "56": {
+        "id": 56,
+        "monsterId": "10",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "57": {
+        "id": 57,
+        "monsterId": "10",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "58": {
+        "id": 58,
+        "monsterId": "10",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "59": {
+        "id": 59,
+        "monsterId": "10",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "60": {
+        "id": 60,
+        "monsterId": "10",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "61": {
+        "id": 61,
+        "monsterId": "11",
+        "equipmentId": "11",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "62": {
+        "id": 62,
+        "monsterId": "11",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "63": {
+        "id": 63,
+        "monsterId": "11",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "64": {
+        "id": 64,
+        "monsterId": "11",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "65": {
+        "id": 65,
+        "monsterId": "11",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "66": {
+        "id": 66,
+        "monsterId": "11",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "67": {
+        "id": 67,
+        "monsterId": "12",
+        "equipmentId": "12",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "68": {
+        "id": 68,
+        "monsterId": "12",
+        "equipmentId": "61",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "69": {
+        "id": 69,
+        "monsterId": "12",
+        "equipmentId": "62",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "70": {
+        "id": 70,
+        "monsterId": "12",
+        "equipmentId": "63",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "71": {
+        "id": 71,
+        "monsterId": "12",
+        "equipmentId": "64",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "72": {
+        "id": 72,
+        "monsterId": "12",
+        "equipmentId": "65",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "73": {
+        "id": 73,
+        "monsterId": "13",
+        "equipmentId": "13",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "74": {
+        "id": 74,
+        "monsterId": "13",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "75": {
+        "id": 75,
+        "monsterId": "13",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "76": {
+        "id": 76,
+        "monsterId": "13",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "77": {
+        "id": 77,
+        "monsterId": "13",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "78": {
+        "id": 78,
+        "monsterId": "13",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "79": {
+        "id": 79,
+        "monsterId": "14",
+        "equipmentId": "14",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "80": {
+        "id": 80,
+        "monsterId": "14",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "81": {
+        "id": 81,
+        "monsterId": "14",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "82": {
+        "id": 82,
+        "monsterId": "14",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "83": {
+        "id": 83,
+        "monsterId": "14",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "84": {
+        "id": 84,
+        "monsterId": "14",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "85": {
+        "id": 85,
+        "monsterId": "15",
+        "equipmentId": "15",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "86": {
+        "id": 86,
+        "monsterId": "15",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "87": {
+        "id": 87,
+        "monsterId": "15",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "88": {
+        "id": 88,
+        "monsterId": "15",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "89": {
+        "id": 89,
+        "monsterId": "15",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "90": {
+        "id": 90,
+        "monsterId": "15",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "91": {
+        "id": 91,
+        "monsterId": "16",
+        "equipmentId": "16",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "92": {
+        "id": 92,
+        "monsterId": "16",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "93": {
+        "id": 93,
+        "monsterId": "16",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "94": {
+        "id": 94,
+        "monsterId": "16",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "95": {
+        "id": 95,
+        "monsterId": "16",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "96": {
+        "id": 96,
+        "monsterId": "16",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "97": {
+        "id": 97,
+        "monsterId": "17",
+        "equipmentId": "17",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "98": {
+        "id": 98,
+        "monsterId": "17",
+        "equipmentId": "61",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "99": {
+        "id": 99,
+        "monsterId": "17",
+        "equipmentId": "62",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "100": {
+        "id": 100,
+        "monsterId": "17",
+        "equipmentId": "63",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "101": {
+        "id": 101,
+        "monsterId": "17",
+        "equipmentId": "64",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "102": {
+        "id": 102,
+        "monsterId": "17",
+        "equipmentId": "65",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "103": {
+        "id": 103,
+        "monsterId": "18",
+        "equipmentId": "18",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "104": {
+        "id": 104,
+        "monsterId": "18",
+        "equipmentId": "61",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "105": {
+        "id": 105,
+        "monsterId": "18",
+        "equipmentId": "62",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "106": {
+        "id": 106,
+        "monsterId": "18",
+        "equipmentId": "63",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "107": {
+        "id": 107,
+        "monsterId": "18",
+        "equipmentId": "64",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "108": {
+        "id": 108,
+        "monsterId": "18",
+        "equipmentId": "65",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "109": {
+        "id": 109,
+        "monsterId": "19",
+        "equipmentId": "19",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "110": {
+        "id": 110,
+        "monsterId": "19",
+        "equipmentId": "61",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "111": {
+        "id": 111,
+        "monsterId": "19",
+        "equipmentId": "62",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "112": {
+        "id": 112,
+        "monsterId": "19",
+        "equipmentId": "63",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "113": {
+        "id": 113,
+        "monsterId": "19",
+        "equipmentId": "64",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "114": {
+        "id": 114,
+        "monsterId": "19",
+        "equipmentId": "65",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "115": {
+        "id": 115,
+        "monsterId": "20",
+        "equipmentId": "20",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "116": {
+        "id": 116,
+        "monsterId": "20",
+        "equipmentId": "51",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "117": {
+        "id": 117,
+        "monsterId": "20",
+        "equipmentId": "52",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "118": {
+        "id": 118,
+        "monsterId": "20",
+        "equipmentId": "53",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "119": {
+        "id": 119,
+        "monsterId": "20",
+        "equipmentId": "54",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "120": {
+        "id": 120,
+        "monsterId": "20",
+        "equipmentId": "55",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "121": {
+        "id": 121,
+        "monsterId": "21",
+        "equipmentId": "21",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "122": {
+        "id": 122,
+        "monsterId": "21",
+        "equipmentId": "61",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "123": {
+        "id": 123,
+        "monsterId": "21",
+        "equipmentId": "62",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "124": {
+        "id": 124,
+        "monsterId": "21",
+        "equipmentId": "63",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "125": {
+        "id": 125,
+        "monsterId": "21",
+        "equipmentId": "64",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "126": {
+        "id": 126,
+        "monsterId": "21",
+        "equipmentId": "65",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "127": {
+        "id": 127,
+        "monsterId": "22",
+        "equipmentId": "22",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "128": {
+        "id": 128,
+        "monsterId": "22",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "129": {
+        "id": 129,
+        "monsterId": "22",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "130": {
+        "id": 130,
+        "monsterId": "22",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "131": {
+        "id": 131,
+        "monsterId": "22",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "132": {
+        "id": 132,
+        "monsterId": "22",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "133": {
+        "id": 133,
+        "monsterId": "23",
+        "equipmentId": "23",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "134": {
+        "id": 134,
+        "monsterId": "23",
+        "equipmentId": "61",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "135": {
+        "id": 135,
+        "monsterId": "23",
+        "equipmentId": "62",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "136": {
+        "id": 136,
+        "monsterId": "23",
+        "equipmentId": "63",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "137": {
+        "id": 137,
+        "monsterId": "23",
+        "equipmentId": "64",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "138": {
+        "id": 138,
+        "monsterId": "23",
+        "equipmentId": "65",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "139": {
+        "id": 139,
+        "monsterId": "24",
+        "equipmentId": "24",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "140": {
+        "id": 140,
+        "monsterId": "24",
+        "equipmentId": "41",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "141": {
+        "id": 141,
+        "monsterId": "24",
+        "equipmentId": "42",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "142": {
+        "id": 142,
+        "monsterId": "24",
+        "equipmentId": "43",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "143": {
+        "id": 143,
+        "monsterId": "24",
+        "equipmentId": "44",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "144": {
+        "id": 144,
+        "monsterId": "24",
+        "equipmentId": "45",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "145": {
+        "id": 145,
+        "monsterId": "25",
+        "equipmentId": "25",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "146": {
+        "id": 146,
+        "monsterId": "25",
+        "equipmentId": "66",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "147": {
+        "id": 147,
+        "monsterId": "25",
+        "equipmentId": "67",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "148": {
+        "id": 148,
+        "monsterId": "25",
+        "equipmentId": "68",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "149": {
+        "id": 149,
+        "monsterId": "25",
+        "equipmentId": "69",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "150": {
+        "id": 150,
+        "monsterId": "25",
+        "equipmentId": "70",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "151": {
+        "id": 151,
+        "monsterId": "26",
+        "equipmentId": "26",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "152": {
+        "id": 152,
+        "monsterId": "26",
+        "equipmentId": "56",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "153": {
+        "id": 153,
+        "monsterId": "26",
+        "equipmentId": "57",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "154": {
+        "id": 154,
+        "monsterId": "26",
+        "equipmentId": "58",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "155": {
+        "id": 155,
+        "monsterId": "26",
+        "equipmentId": "59",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "156": {
+        "id": 156,
+        "monsterId": "26",
+        "equipmentId": "60",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "157": {
+        "id": 157,
+        "monsterId": "27",
+        "equipmentId": "27",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "158": {
+        "id": 158,
+        "monsterId": "27",
+        "equipmentId": "56",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "159": {
+        "id": 159,
+        "monsterId": "27",
+        "equipmentId": "57",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "160": {
+        "id": 160,
+        "monsterId": "27",
+        "equipmentId": "58",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "161": {
+        "id": 161,
+        "monsterId": "27",
+        "equipmentId": "59",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "162": {
+        "id": 162,
+        "monsterId": "27",
+        "equipmentId": "60",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "163": {
+        "id": 163,
+        "monsterId": "28",
+        "equipmentId": "28",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "164": {
+        "id": 164,
+        "monsterId": "28",
+        "equipmentId": "46",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "165": {
+        "id": 165,
+        "monsterId": "28",
+        "equipmentId": "47",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "166": {
+        "id": 166,
+        "monsterId": "28",
+        "equipmentId": "48",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "167": {
+        "id": 167,
+        "monsterId": "28",
+        "equipmentId": "49",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "168": {
+        "id": 168,
+        "monsterId": "28",
+        "equipmentId": "50",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "169": {
+        "id": 169,
+        "monsterId": "29",
+        "equipmentId": "29",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "170": {
+        "id": 170,
+        "monsterId": "29",
+        "equipmentId": "56",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "171": {
+        "id": 171,
+        "monsterId": "29",
+        "equipmentId": "57",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "172": {
+        "id": 172,
+        "monsterId": "29",
+        "equipmentId": "58",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "173": {
+        "id": 173,
+        "monsterId": "29",
+        "equipmentId": "59",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "174": {
+        "id": 174,
+        "monsterId": "29",
+        "equipmentId": "60",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "175": {
+        "id": 175,
+        "monsterId": "30",
+        "equipmentId": "30",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "176": {
+        "id": 176,
+        "monsterId": "30",
+        "equipmentId": "46",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "177": {
+        "id": 177,
+        "monsterId": "30",
+        "equipmentId": "47",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "178": {
+        "id": 178,
+        "monsterId": "30",
+        "equipmentId": "48",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "179": {
+        "id": 179,
+        "monsterId": "30",
+        "equipmentId": "49",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "180": {
+        "id": 180,
+        "monsterId": "30",
+        "equipmentId": "50",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "181": {
+        "id": 181,
+        "monsterId": "31",
+        "equipmentId": "31",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "182": {
+        "id": 182,
+        "monsterId": "31",
+        "equipmentId": "66",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "183": {
+        "id": 183,
+        "monsterId": "31",
+        "equipmentId": "67",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "184": {
+        "id": 184,
+        "monsterId": "31",
+        "equipmentId": "68",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "185": {
+        "id": 185,
+        "monsterId": "31",
+        "equipmentId": "69",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "186": {
+        "id": 186,
+        "monsterId": "31",
+        "equipmentId": "70",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "187": {
+        "id": 187,
+        "monsterId": "32",
+        "equipmentId": "32",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "188": {
+        "id": 188,
+        "monsterId": "32",
+        "equipmentId": "46",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "189": {
+        "id": 189,
+        "monsterId": "32",
+        "equipmentId": "47",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "190": {
+        "id": 190,
+        "monsterId": "32",
+        "equipmentId": "48",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "191": {
+        "id": 191,
+        "monsterId": "32",
+        "equipmentId": "49",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "192": {
+        "id": 192,
+        "monsterId": "32",
+        "equipmentId": "50",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "193": {
+        "id": 193,
+        "monsterId": "33",
+        "equipmentId": "33",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "194": {
+        "id": 194,
+        "monsterId": "33",
+        "equipmentId": "46",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "195": {
+        "id": 195,
+        "monsterId": "33",
+        "equipmentId": "47",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "196": {
+        "id": 196,
+        "monsterId": "33",
+        "equipmentId": "48",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "197": {
+        "id": 197,
+        "monsterId": "33",
+        "equipmentId": "49",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "198": {
+        "id": 198,
+        "monsterId": "33",
+        "equipmentId": "50",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "199": {
+        "id": 199,
+        "monsterId": "34",
+        "equipmentId": "34",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "200": {
+        "id": 200,
+        "monsterId": "34",
+        "equipmentId": "56",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "201": {
+        "id": 201,
+        "monsterId": "34",
+        "equipmentId": "57",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "202": {
+        "id": 202,
+        "monsterId": "34",
+        "equipmentId": "58",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "203": {
+        "id": 203,
+        "monsterId": "34",
+        "equipmentId": "59",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "204": {
+        "id": 204,
+        "monsterId": "34",
+        "equipmentId": "60",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "205": {
+        "id": 205,
+        "monsterId": "35",
+        "equipmentId": "35",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "206": {
+        "id": 206,
+        "monsterId": "35",
+        "equipmentId": "56",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "207": {
+        "id": 207,
+        "monsterId": "35",
+        "equipmentId": "57",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "208": {
+        "id": 208,
+        "monsterId": "35",
+        "equipmentId": "58",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "209": {
+        "id": 209,
+        "monsterId": "35",
+        "equipmentId": "59",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "210": {
+        "id": 210,
+        "monsterId": "35",
+        "equipmentId": "60",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "211": {
+        "id": 211,
+        "monsterId": "36",
+        "equipmentId": "36",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "212": {
+        "id": 212,
+        "monsterId": "36",
+        "equipmentId": "56",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "213": {
+        "id": 213,
+        "monsterId": "36",
+        "equipmentId": "57",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "214": {
+        "id": 214,
+        "monsterId": "36",
+        "equipmentId": "58",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "215": {
+        "id": 215,
+        "monsterId": "36",
+        "equipmentId": "59",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "216": {
+        "id": 216,
+        "monsterId": "36",
+        "equipmentId": "60",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "217": {
+        "id": 217,
+        "monsterId": "37",
+        "equipmentId": "37",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "218": {
+        "id": 218,
+        "monsterId": "37",
+        "equipmentId": "66",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "219": {
+        "id": 219,
+        "monsterId": "37",
+        "equipmentId": "67",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "220": {
+        "id": 220,
+        "monsterId": "37",
+        "equipmentId": "68",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "221": {
+        "id": 221,
+        "monsterId": "37",
+        "equipmentId": "69",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "222": {
+        "id": 222,
+        "monsterId": "37",
+        "equipmentId": "70",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "223": {
+        "id": 223,
+        "monsterId": "38",
+        "equipmentId": "38",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "224": {
+        "id": 224,
+        "monsterId": "38",
+        "equipmentId": "56",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "225": {
+        "id": 225,
+        "monsterId": "38",
+        "equipmentId": "57",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "226": {
+        "id": 226,
+        "monsterId": "38",
+        "equipmentId": "58",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "227": {
+        "id": 227,
+        "monsterId": "38",
+        "equipmentId": "59",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "228": {
+        "id": 228,
+        "monsterId": "38",
+        "equipmentId": "60",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "229": {
+        "id": 229,
+        "monsterId": "39",
+        "equipmentId": "39",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "230": {
+        "id": 230,
+        "monsterId": "39",
+        "equipmentId": "56",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "231": {
+        "id": 231,
+        "monsterId": "39",
+        "equipmentId": "57",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "232": {
+        "id": 232,
+        "monsterId": "39",
+        "equipmentId": "58",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "233": {
+        "id": 233,
+        "monsterId": "39",
+        "equipmentId": "59",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "234": {
+        "id": 234,
+        "monsterId": "39",
+        "equipmentId": "60",
+        "flag": "6",
+        "ver": "1.0.0"
+    },
+    "235": {
+        "id": 235,
+        "monsterId": "40",
+        "equipmentId": "40",
+        "flag": "1",
+        "ver": "1.0.0"
+    },
+    "236": {
+        "id": 236,
+        "monsterId": "40",
+        "equipmentId": "56",
+        "flag": "2",
+        "ver": "1.0.0"
+    },
+    "237": {
+        "id": 237,
+        "monsterId": "40",
+        "equipmentId": "57",
+        "flag": "3",
+        "ver": "1.0.0"
+    },
+    "238": {
+        "id": 238,
+        "monsterId": "40",
+        "equipmentId": "58",
+        "flag": "4",
+        "ver": "1.0.0"
+    },
+    "239": {
+        "id": 239,
+        "monsterId": "40",
+        "equipmentId": "59",
+        "flag": "5",
+        "ver": "1.0.0"
+    },
+    "240": {
+        "id": 240,
+        "monsterId": "40",
+        "equipmentId": "60",
+        "flag": "6",
+        "ver": "1.0.0"
+    }
+}

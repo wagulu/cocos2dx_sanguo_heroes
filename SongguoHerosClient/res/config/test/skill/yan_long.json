@@ -1,0 +1,10 @@
+{
+    "config": "yan_long",
+    "id": 49,
+    "name": "yan_long",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 450,
+    "energyCost": 25,
+    "energySpeed": 20
+}

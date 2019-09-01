@@ -1,0 +1,402 @@
+{
+    "1": {
+        "partId": 1,
+        "monsterId": 1,
+        "asset": "1",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 1,
+        "name_zhCN": "\u66f9\u64cd\u788e\u7247",
+        "description_zhCN": "\u66f9\u64cd\u7684\u89d2\u8272\u788e\u7247\uff0c\u66f9\u64cd\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "2": {
+        "partId": 2,
+        "monsterId": 2,
+        "asset": "2",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 2,
+        "name_zhCN": "\u53f8\u9a6c\u61ff\u788e\u7247",
+        "description_zhCN": "\u53f8\u9a6c\u61ff\u7684\u89d2\u8272\u788e\u7247\uff0c\u53f8\u9a6c\u61ff\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "3": {
+        "partId": 3,
+        "monsterId": 3,
+        "asset": "3",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 3,
+        "name_zhCN": "\u8bb8\u891a\u788e\u7247",
+        "description_zhCN": "\u8bb8\u891a\u7684\u89d2\u8272\u788e\u7247\uff0c\u8bb8\u891a\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "4": {
+        "partId": 4,
+        "monsterId": 4,
+        "asset": "4",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 4,
+        "name_zhCN": "\u8bf8\u845b\u4eae\u788e\u7247",
+        "description_zhCN": "\u8bf8\u845b\u4eae\u7684\u89d2\u8272\u788e\u7247\uff0c\u8bf8\u845b\u4eae\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "5": {
+        "partId": 5,
+        "monsterId": 5,
+        "asset": "5",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 5,
+        "name_zhCN": "\u5173\u7fbd\u788e\u7247",
+        "description_zhCN": "\u5173\u7fbd\u7684\u89d2\u8272\u788e\u7247\uff0c\u5173\u7fbd\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "6": {
+        "partId": 6,
+        "monsterId": 6,
+        "asset": "6",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 6,
+        "name_zhCN": "\u8d75\u4e91\u788e\u7247",
+        "description_zhCN": "\u8d75\u4e91\u7684\u89d2\u8272\u788e\u7247\uff0c\u8d75\u4e91\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "7": {
+        "partId": 7,
+        "monsterId": 7,
+        "asset": "7",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 7,
+        "name_zhCN": "\u9a6c\u8d85\u788e\u7247",
+        "description_zhCN": "\u9a6c\u8d85\u7684\u89d2\u8272\u788e\u7247\uff0c\u9a6c\u8d85\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "8": {
+        "partId": 8,
+        "monsterId": 8,
+        "asset": "8",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 8,
+        "name_zhCN": "\u5f20\u98de\u788e\u7247",
+        "description_zhCN": "\u5f20\u98de\u7684\u89d2\u8272\u788e\u7247\uff0c\u5f20\u98de\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "9": {
+        "partId": 9,
+        "monsterId": 9,
+        "asset": "9",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 9,
+        "name_zhCN": "\u5468\u745c\u788e\u7247",
+        "description_zhCN": "\u5468\u745c\u7684\u89d2\u8272\u788e\u7247\uff0c\u5468\u745c\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "10": {
+        "partId": 10,
+        "monsterId": 10,
+        "asset": "10",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 10,
+        "name_zhCN": "\u5b59\u7b56\u788e\u7247",
+        "description_zhCN": "\u5b59\u7b56\u7684\u89d2\u8272\u788e\u7247\uff0c\u5b59\u7b56\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "11": {
+        "partId": 11,
+        "monsterId": 11,
+        "asset": "11",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 11,
+        "name_zhCN": "\u5415\u5e03\u788e\u7247",
+        "description_zhCN": "\u5415\u5e03\u7684\u89d2\u8272\u788e\u7247\uff0c\u5415\u5e03\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "12": {
+        "partId": 12,
+        "monsterId": 12,
+        "asset": "12",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 12,
+        "name_zhCN": "\u5f20\u8fbd\u788e\u7247",
+        "description_zhCN": "\u5f20\u8fbd\u7684\u89d2\u8272\u788e\u7247\uff0c\u5f20\u8fbd\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "13": {
+        "partId": 13,
+        "monsterId": 13,
+        "asset": "13",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 13,
+        "name_zhCN": "\u5f90\u6643\u788e\u7247",
+        "description_zhCN": "\u5f90\u6643\u7684\u89d2\u8272\u788e\u7247\uff0c\u5f90\u6643\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "14": {
+        "partId": 14,
+        "monsterId": 14,
+        "asset": "14",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 14,
+        "name_zhCN": "\u590f\u4faf\u60c7\u788e\u7247",
+        "description_zhCN": "\u590f\u4faf\u60c7\u7684\u89d2\u8272\u788e\u7247\uff0c\u590f\u4faf\u60c7\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "15": {
+        "partId": 15,
+        "monsterId": 15,
+        "asset": "15",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 15,
+        "name_zhCN": "\u66f9\u4ec1\u788e\u7247",
+        "description_zhCN": "\u66f9\u4ec1\u7684\u89d2\u8272\u788e\u7247\uff0c\u66f9\u4ec1\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "16": {
+        "partId": 16,
+        "monsterId": 16,
+        "asset": "16",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 16,
+        "name_zhCN": "\u5178\u97e6\u788e\u7247",
+        "description_zhCN": "\u5178\u97e6\u7684\u89d2\u8272\u788e\u7247\uff0c\u5178\u97e6\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "17": {
+        "partId": 17,
+        "monsterId": 17,
+        "asset": "17",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 17,
+        "name_zhCN": "\u5f20\u90c3\u788e\u7247",
+        "description_zhCN": "\u5f20\u90c3\u7684\u89d2\u8272\u788e\u7247\uff0c\u5f20\u90c3\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "18": {
+        "partId": 18,
+        "monsterId": 18,
+        "asset": "18",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 18,
+        "name_zhCN": "\u59dc\u7ef4\u788e\u7247",
+        "description_zhCN": "\u59dc\u7ef4\u7684\u89d2\u8272\u788e\u7247\uff0c\u59dc\u7ef4\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "19": {
+        "partId": 19,
+        "monsterId": 19,
+        "asset": "19",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 19,
+        "name_zhCN": "\u5218\u5907\u788e\u7247",
+        "description_zhCN": "\u5218\u5907\u7684\u89d2\u8272\u788e\u7247\uff0c\u5218\u5907\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "20": {
+        "partId": 20,
+        "monsterId": 20,
+        "asset": "20",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 20,
+        "name_zhCN": "\u5e9e\u7edf\u788e\u7247",
+        "description_zhCN": "\u5e9e\u7edf\u7684\u89d2\u8272\u788e\u7247\uff0c\u5e9e\u7edf\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "21": {
+        "partId": 21,
+        "monsterId": 21,
+        "asset": "21",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 21,
+        "name_zhCN": "\u5b59\u6743\u788e\u7247",
+        "description_zhCN": "\u5b59\u6743\u7684\u89d2\u8272\u788e\u7247\uff0c\u5b59\u6743\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "22": {
+        "partId": 22,
+        "monsterId": 22,
+        "asset": "22",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 22,
+        "name_zhCN": "\u592a\u53f2\u6148\u788e\u7247",
+        "description_zhCN": "\u592a\u53f2\u6148\u7684\u89d2\u8272\u788e\u7247\uff0c\u592a\u53f2\u6148\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "23": {
+        "partId": 23,
+        "monsterId": 23,
+        "asset": "23",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 23,
+        "name_zhCN": "\u5415\u8499\u788e\u7247",
+        "description_zhCN": "\u5415\u8499\u7684\u89d2\u8272\u788e\u7247\uff0c\u5415\u8499\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "24": {
+        "partId": 24,
+        "monsterId": 24,
+        "asset": "24",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 24,
+        "name_zhCN": "\u7518\u5b81\u788e\u7247",
+        "description_zhCN": "\u7518\u5b81\u7684\u89d2\u8272\u788e\u7247\uff0c\u7518\u5b81\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "25": {
+        "partId": 25,
+        "monsterId": 25,
+        "asset": "25",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 25,
+        "name_zhCN": "\u9ad8\u987a\u788e\u7247",
+        "description_zhCN": "\u9ad8\u987a\u7684\u89d2\u8272\u788e\u7247\uff0c\u9ad8\u987a\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "26": {
+        "partId": 26,
+        "monsterId": 26,
+        "asset": "26",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 26,
+        "name_zhCN": "\u8c82\u8749\u788e\u7247",
+        "description_zhCN": "\u8c82\u8749\u7684\u89d2\u8272\u788e\u7247\uff0c\u8c82\u8749\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "27": {
+        "partId": 27,
+        "monsterId": 27,
+        "asset": "27",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 27,
+        "name_zhCN": "\u90ed\u5609\u788e\u7247",
+        "description_zhCN": "\u90ed\u5609\u7684\u89d2\u8272\u788e\u7247\uff0c\u90ed\u5609\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "28": {
+        "partId": 28,
+        "monsterId": 28,
+        "asset": "28",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 28,
+        "name_zhCN": "\u4e50\u8fdb\u788e\u7247",
+        "description_zhCN": "\u4e50\u8fdb\u7684\u89d2\u8272\u788e\u7247\uff0c\u4e50\u8fdb\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "29": {
+        "partId": 29,
+        "monsterId": 29,
+        "asset": "29",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 29,
+        "name_zhCN": "\u8d3e\u8be9\u788e\u7247",
+        "description_zhCN": "\u8d3e\u8be9\u7684\u89d2\u8272\u788e\u7247\uff0c\u8d3e\u8be9\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "30": {
+        "partId": 30,
+        "monsterId": 30,
+        "asset": "30",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 30,
+        "name_zhCN": "\u590f\u4faf\u6e0a\u788e\u7247",
+        "description_zhCN": "\u590f\u4faf\u6e0a\u7684\u89d2\u8272\u788e\u7247\uff0c\u590f\u4faf\u6e0a\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "31": {
+        "partId": 31,
+        "monsterId": 31,
+        "asset": "31",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 31,
+        "name_zhCN": "\u4e8e\u7981\u788e\u7247",
+        "description_zhCN": "\u4e8e\u7981\u7684\u89d2\u8272\u788e\u7247\uff0c\u4e8e\u7981\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "32": {
+        "partId": 32,
+        "monsterId": 32,
+        "asset": "32",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 32,
+        "name_zhCN": "\u9b4f\u5ef6\u788e\u7247",
+        "description_zhCN": "\u9b4f\u5ef6\u7684\u89d2\u8272\u788e\u7247\uff0c\u9b4f\u5ef6\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "33": {
+        "partId": 33,
+        "monsterId": 33,
+        "asset": "33",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 33,
+        "name_zhCN": "\u9ec4\u5fe0\u788e\u7247",
+        "description_zhCN": "\u9ec4\u5fe0\u7684\u89d2\u8272\u788e\u7247\uff0c\u9ec4\u5fe0\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "34": {
+        "partId": 34,
+        "monsterId": 34,
+        "asset": "34",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 34,
+        "name_zhCN": "\u5f90\u5eb6\u788e\u7247",
+        "description_zhCN": "\u5f90\u5eb6\u7684\u89d2\u8272\u788e\u7247\uff0c\u5f90\u5eb6\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "35": {
+        "partId": 35,
+        "monsterId": 35,
+        "asset": "35",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 35,
+        "name_zhCN": "\u9ec4\u6708\u82f1\u788e\u7247",
+        "description_zhCN": "\u9ec4\u6708\u82f1\u7684\u89d2\u8272\u788e\u7247\uff0c\u9ec4\u6708\u82f1\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "36": {
+        "partId": 36,
+        "monsterId": 36,
+        "asset": "36",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 36,
+        "name_zhCN": "\u5c0f\u4e54\u788e\u7247",
+        "description_zhCN": "\u5c0f\u4e54\u7684\u89d2\u8272\u788e\u7247\uff0c\u5c0f\u4e54\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "37": {
+        "partId": 37,
+        "monsterId": 37,
+        "asset": "37",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 37,
+        "name_zhCN": "\u9c81\u8083\u788e\u7247",
+        "description_zhCN": "\u9c81\u8083\u7684\u89d2\u8272\u788e\u7247\uff0c\u9c81\u8083\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "38": {
+        "partId": 38,
+        "monsterId": 38,
+        "asset": "38",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 38,
+        "name_zhCN": "\u9646\u900a\u788e\u7247",
+        "description_zhCN": "\u9646\u900a\u7684\u89d2\u8272\u788e\u7247\uff0c\u9646\u900a\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "39": {
+        "partId": 39,
+        "monsterId": 39,
+        "asset": "39",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 39,
+        "name_zhCN": "\u5b59\u5c1a\u9999\u788e\u7247",
+        "description_zhCN": "\u5b59\u5c1a\u9999\u7684\u89d2\u8272\u788e\u7247\uff0c\u5b59\u5c1a\u9999\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    },
+    "40": {
+        "partId": 40,
+        "monsterId": 40,
+        "asset": "40",
+        "quality": 3,
+        "ver": "1.0.0",
+        "id": 40,
+        "name_zhCN": "\u5927\u4e54\u788e\u7247",
+        "description_zhCN": "\u5927\u4e54\u7684\u89d2\u8272\u788e\u7247\uff0c\u5927\u4e54\u63d0\u5347\u661f\u7ea7\u7684\u5fc5\u5907\u788e\u7247"
+    }
+}

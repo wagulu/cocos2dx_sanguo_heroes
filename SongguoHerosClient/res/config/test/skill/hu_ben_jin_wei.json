@@ -1,0 +1,10 @@
+{
+    "config": "hu_ben_jin_wei",
+    "id": 18,
+    "name": "hu_ben_jin_wei",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 450,
+    "energyCost": 25,
+    "energySpeed": 20
+}

@@ -1,0 +1,227 @@
+{
+  "energyCost": 440,
+  "energySpeed":20,
+  "energyStart":200,
+  "mpCost": 10,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.2}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_xie_yan_du_hun", "trigger": "hero"}
+    },
+	{
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":4.0}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":3.8}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":1.8}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 1.0,
+      "params": {"tar":1, "S":1}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.4,
+      "params": {"duration": 0.5, "amplitude":5.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "shake_camera",
+      "start": 1.2,
+      "params": {"duration": 0.5, "amplitude":5.0, "mode":5}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation": "animation_skill2", "break_time":15}
+    },
+    {
+      "name": "show_hero_effect",
+      "start": 0.0,
+      "params": {"animation": "hero", "side":1}
+    },
+    {
+        "name": "show_hero_effect",
+        "start": 1.2,
+        "params": {"animation": "boss1", "side":0, "duration":0.8, "follow":1}
+    },
+   {
+   "name": "color_tween",
+   "start": 1.1,
+   "params": {"r":0.5, "g":0.3, "duration":0.1, "side":0}
+   },
+   {
+   "name": "color_tween",
+   "start": 1.2,
+   "params": {"r":1.0, "g":1.0, "duration":0.5, "side":0}
+   },
+   {
+   "name": "color_tween",
+   "start": 2.2,
+   "params": {"r":0.5, "g":0.3, "duration":0.2, "side":0}
+   },
+   {
+   "name": "color_tween",
+   "start": 2.4,
+   "params": {"r":1.0, "g":1.0, "duration":0.5, "side":0}
+   },
+   {
+   "name": "color_tween",
+   "start": 3.2,
+   "params": {"r":0.5, "g":0.3, "duration":0.2, "side":0}
+   },
+   {
+   "name": "color_tween",
+   "start": 3.4,
+   "params": {"r":1.0, "g":1.0, "duration":0.5, "side":0}
+   },
+   {
+   "name": "color_tween",
+   "start": 4.2,
+   "params": {"r":0.5, "g":0.3, "duration":0.2, "side":0}
+   },
+   {
+   "name": "color_tween",
+   "start": 4.4,
+   "params": {"r":1.0, "g":1.0, "duration":0.5, "side":0}
+   },
+    {
+   "name": "color_tween",
+   "start": 5.2,
+   "params": {"r":0.5, "g":0.3, "duration":0.2, "side":0}
+   },
+   {
+   "name": "color_tween",
+   "start": 5.4,
+   "params": {"r":1.0, "g":1.0, "duration":1.0, "side":0}
+   },
+    {
+        "name": "show_hero_effect",
+        "start": 1.6,
+        "params": {"animation": "boss2", "side":0, "duration":4.2, "follow":1}
+    },
+    {
+        "name": "multi_attack",
+        "damage": {"type":1, "side":0, "entityType":2, "base":300, "step":15, "factor":0.1, "speed_h":300, "speed_h_decay":0, "speed_v":800, "speed_v_decay":0, "gravity":1200},
+        "params": {"times":5, "time":1, "type":2},
+        "start": 1.2
+   },
+    {
+      "name": "find_target",
+      "start": 1.2,
+      "params": {"SkillTarget":"OPP_HERO"}
+    },
+    {
+      "name": "set_state_dizzy_on_find_target",
+      "start": 1.2,
+      "params": {"ratio":"dizzyRatio", "time":"dizzyTime", "heroDizzyConfig":"dizzy_on_find_target"}
+    }
+  ],
+
+  "formula":
+  {
+    "dizzyTime": {"formula":"min", "min":3.0, "base":3.0, "factor":0, "divide":0.0},
+    "dizzyRatio": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0}
+  },
+
+  "dizzy":
+  {
+    "dizzy_on_find_target":
+    {
+      "allowBreakByAnotherDizzy":true,
+      "action":
+      [
+        {"name":"stop_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"}
+      ],
+      "condition":
+      [
+        {"name":"by_time", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_xieyan",
+    "effect":
+    {
+        "boss1":
+        [
+         [
+          {
+            "name": "animation_xieyan_hit_front_layer2",
+            "type": 2,
+            "z-order": 3
+          },
+          {
+            "name": "animation_xieyan_hit_front_layer1",
+            "type": 0,
+            "z-order": 1
+          },
+          {
+            "name": "animation_xieyan_hit_back_layer1",
+            "type": 0,
+            "z-order": -1
+          }
+         ]
+        ],
+        "boss2":
+        [
+         [
+          {
+            "name": "animation_xieyan_hit_loop_front_layer1",
+            "type": 2,
+            "z-order": 2
+          },
+          {
+            "name": "animation_xieyan_hit_loop_back_layer1",
+            "type": 0,
+            "z-order": -1
+          }
+         ]
+        ],
+        "hero":
+        [
+         [
+          {
+            "name": "animation_xieyan_front_layer1",
+            "type": 0,
+            "z-order": 1
+          },
+          {
+            "name": "animation_xieyan_front_layer2",
+            "type": 2,
+            "z-order": 2
+          },
+          {
+            "name": "animation_xieyan_back_layer1",
+            "type": 0,
+            "z-order": -1
+          }
+         ]
+        ]
+    }
+}

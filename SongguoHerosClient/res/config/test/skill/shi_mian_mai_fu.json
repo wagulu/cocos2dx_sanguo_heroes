@@ -1,0 +1,10 @@
+{
+    "config": "shi_mian_mai_fu",
+    "id": 37,
+    "name": "shi_mian_mai_fu",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 450,
+    "energyCost": 25,
+    "energySpeed": 20
+}

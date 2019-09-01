@@ -1,0 +1,166 @@
+{
+  "energyCost":10.0,
+  "energySpeed":10.0,
+  "energyStart":10,
+  "mpCost":5,
+  "actions":
+  [
+    {
+        "name": "pause_battle",
+        "start": 0.0,
+        "params": {"duration":1.0}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_hong_lian_ye_huo", "trigger": "hero"}
+    },
+	{
+		"name": "disable_break",
+		"start": 0.5
+    },
+    {
+		"name": "lock_fire_skill",
+		"start": 0.0,
+		"params": {"unlockDelay":6.5}
+    },
+    {
+		"name": "lock_user_control",
+		"start": 0.0,
+		"params": {"unlockDelay":6.3}
+    },
+    {
+		"name": "show_background",
+		"start": 0.0,
+		"params": {"hideDelay":4.3}
+    },
+    {
+        "name": "move_camera_to_hero",
+        "start": 0.0
+    },
+    {
+        "name": "shake_camera",
+        "start": 0.5,
+        "params": {"duration": 0.5, "amplitude":10.0, "mode":4}
+    },
+    {
+        "name": "shake_camera",
+        "start": 1.4,
+        "params": {"duration": 1, "amplitude":10.0, "mode":4}
+    },	
+    {
+        "name": "move_camera_to_hero",
+        "start": 1.2,
+        "params": {"tar":1}
+    },
+    {
+        "name": "play_animation",
+        "start": 0.0,
+        "params": {"animation": "animation_skill4", "break_time":60}
+    },
+    {
+        "name": "show_hero_effect",
+        "start": 0.0,
+        "params": {"animation": "skill", "side":1}
+    },
+    {
+        "name": "show_hero_effect",
+        "start": 1.4,
+        "params": {"animation": "boss", "side":0}
+    },
+    {
+        "name": "show_hero_effect",
+        "start": 1.4,
+        "params": {"animation": "ground", "side":0, "durationFormula":"duration", "rotate":true}
+    },
+    {
+        "name": "interval_trigger",
+        "start": 1.4,
+        "params": {"trigger": "attackRect", "interval":0.7, "duration":"duration"}
+    },
+    {
+        "name": "attack_rect_arround_tile",
+        "damage": {"type":1, "side":0, "entityType":2, "base":200, "step":10, "factor":0.05, "speed_h":200, "speed_h_decay":0, "speed_v":200, "speed_v_decay":0, "gravity":1200},
+        "params": {"width":5, "height":5, "spreadInterval":0.05, "randomDelay":true},
+        "trigger": "attackRect"
+    },
+    {
+        "name":"hong_lian_ye_huo",
+        "start": 0.2,
+        "lifeTime": 12
+    }
+  ],
+    "formula":
+    {
+        "duration":{"formula":"hp", "base":8, "step":0.0}
+    },
+  "asset": "skill_honglian",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_honglian_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+            "name": "animation_honglian_back_layer2",
+            "type": 2,
+            "z-order": -1
+        },
+        {
+            "name": "animation_honglian_front_layer1",
+            "type": 0,
+            "z-order": 1
+        },
+        {
+            "name": "animation_honglian_front_layer2",
+            "type": 2,
+            "z-order": 2
+        }
+      ]
+    ],
+      "boss":
+      [
+       [
+        {
+        "name": "animation_honglian_hit_back_layer1",
+        "type": 0,
+        "z-order": -2
+        },
+        {
+        "name": "animation_honglian_hit_back_layer2",
+        "type": 2,
+        "z-order": -1
+        },
+        {
+        "name": "animation_honglian_hit_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_honglian_hit_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ],
+      "ground":
+      [
+       [
+        {
+        "name": "animation_honglian_bg_ground_layer1",
+        "type": 0,
+        "z-order": -2001
+        },
+        {
+        "name": "animation_honglian_bg_ground_layer2",
+        "type": 2,
+        "z-order": -2000
+        }
+        ]
+       ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+    "1": {
+        "id": 1,
+        "contentId": 1,
+        "startTime": "",
+        "endTime": "",
+        "probability": 1000,
+        "prizeId": 1,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "contentId": 1,
+        "startTime": "",
+        "endTime": "",
+        "probability": 1000,
+        "prizeId": 2,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "contentId": 2,
+        "startTime": "",
+        "endTime": "",
+        "probability": 1000,
+        "prizeId": 3,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "contentId": 3,
+        "startTime": "",
+        "endTime": "",
+        "probability": 1000,
+        "prizeId": 4,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "contentId": 3,
+        "startTime": "",
+        "endTime": "",
+        "probability": 1000,
+        "prizeId": 5,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "contentId": 4,
+        "startTime": "",
+        "endTime": "",
+        "probability": 1000,
+        "prizeId": 6,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "contentId": 5,
+        "startTime": "",
+        "endTime": "",
+        "probability": 1000,
+        "prizeId": 7,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "contentId": 6,
+        "startTime": "",
+        "endTime": "",
+        "probability": 1000,
+        "prizeId": 8,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "contentId": 6,
+        "startTime": "",
+        "endTime": "",
+        "probability": 1000,
+        "prizeId": 9,
+        "ver": "1.0.0"
+    }
+}

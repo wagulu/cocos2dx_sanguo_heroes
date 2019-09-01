@@ -1,0 +1,1186 @@
+{
+    "1": {
+        "id": 1,
+        "monsterId": 1,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u96ea\u4e2d\u9001\u70ad",
+        "description_zhCN": "\u4e0e\u590f\u4faf\u6e0a\u540c\u65f6\u4e0a\u9635"
+    },
+    "2": {
+        "id": 2,
+        "monsterId": 1,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6c49\u5bff\u4ead\u4faf",
+        "description_zhCN": "\u4e0e\u5173\u7fbd\u540c\u65f6\u4e0a\u9635"
+    },
+    "3": {
+        "id": 3,
+        "monsterId": 1,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u91ce\u5fc3\u9690\u5fcd",
+        "description_zhCN": "\u4e0e\u53f8\u9a6c\u61ff\u540c\u65f6\u4e0a\u9635"
+    },
+    "4": {
+        "id": 4,
+        "monsterId": 1,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u591c\u601d\u5949\u5b5d",
+        "description_zhCN": "\u4e0e\u90ed\u5609\u540c\u65f6\u4e0a\u9635"
+    },
+    "5": {
+        "id": 5,
+        "monsterId": 2,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e71\u4e16\u9b3c\u8c0b",
+        "description_zhCN": "\u4e0e\u8d3e\u8be9\u540c\u65f6\u4e0a\u9635"
+    },
+    "6": {
+        "id": 6,
+        "monsterId": 2,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u68cb\u9022\u5bf9\u624b",
+        "description_zhCN": "\u4e0e\u8bf8\u845b\u4eae\u540c\u65f6\u4e0a\u9635"
+    },
+    "7": {
+        "id": 7,
+        "monsterId": 2,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u91ce\u5fc3\u9690\u5fcd",
+        "description_zhCN": "\u4e0e\u66f9\u64cd\u540c\u65f6\u4e0a\u9635"
+    },
+    "8": {
+        "id": 8,
+        "monsterId": 2,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u501f\u5200\u6740\u4eba",
+        "description_zhCN": "\u4e0e\u5f20\u90c3\u540c\u65f6\u4e0a\u9635"
+    },
+    "9": {
+        "id": 9,
+        "monsterId": 3,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5fd7\u540c\u9053\u5408",
+        "description_zhCN": "\u4e0e\u5f20\u90c3\u540c\u65f6\u4e0a\u9635"
+    },
+    "10": {
+        "id": 10,
+        "monsterId": 3,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5de6\u8180\u53f3\u81c2",
+        "description_zhCN": "\u4e0e\u8d3e\u8be9\u540c\u65f6\u4e0a\u9635"
+    },
+    "11": {
+        "id": 11,
+        "monsterId": 3,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u864e\u8d32\u53cc\u96c4",
+        "description_zhCN": "\u4e0e\u5178\u97e6\u540c\u65f6\u4e0a\u9635"
+    },
+    "12": {
+        "id": 12,
+        "monsterId": 3,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u608d\u5c06\u82f1\u52c7",
+        "description_zhCN": "\u4e0e\u7518\u5b81\u540c\u65f6\u4e0a\u9635"
+    },
+    "13": {
+        "id": 13,
+        "monsterId": 4,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u592b\u59bb\u540c\u5fc3",
+        "description_zhCN": "\u4e0e\u9ec4\u6708\u82f1\u540c\u65f6\u4e0a\u9635"
+    },
+    "14": {
+        "id": 14,
+        "monsterId": 4,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u590d\u5174\u6c49\u5ba4",
+        "description_zhCN": "\u4e0e\u8d75\u4e91\u540c\u65f6\u4e0a\u9635"
+    },
+    "15": {
+        "id": 15,
+        "monsterId": 4,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u68cb\u9022\u5bf9\u624b",
+        "description_zhCN": "\u4e0e\u53f8\u9a6c\u61ff\u540c\u65f6\u4e0a\u9635"
+    },
+    "16": {
+        "id": 16,
+        "monsterId": 4,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e00\u65f6\u745c\u4eae",
+        "description_zhCN": "\u4e0e\u5468\u745c\u540c\u65f6\u4e0a\u9635"
+    },
+    "17": {
+        "id": 17,
+        "monsterId": 5,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6c49\u5bff\u4ead\u4faf",
+        "description_zhCN": "\u4e0e\u66f9\u64cd\u540c\u65f6\u4e0a\u9635"
+    },
+    "18": {
+        "id": 18,
+        "monsterId": 5,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u624b\u4e0b\u7559\u60c5",
+        "description_zhCN": "\u4e0e\u9ec4\u5fe0\u540c\u65f6\u4e0a\u9635"
+    },
+    "21": {
+        "id": 21,
+        "monsterId": 6,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u590d\u5174\u6c49\u5ba4",
+        "description_zhCN": "\u4e0e\u8bf8\u845b\u4eae\u540c\u65f6\u4e0a\u9635"
+    },
+    "22": {
+        "id": 22,
+        "monsterId": 6,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u52c7\u51a0\u5343\u519b",
+        "description_zhCN": "\u4e0e\u9ec4\u5fe0\u540c\u65f6\u4e0a\u9635"
+    },
+    "23": {
+        "id": 23,
+        "monsterId": 6,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5fe0\u4fe1\u4e24\u5168",
+        "description_zhCN": "\u4e0e\u592a\u53f2\u6148\u540c\u65f6\u4e0a\u9635"
+    },
+    "25": {
+        "id": 25,
+        "monsterId": 7,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6840\u9a9c\u4e0d\u9a6f",
+        "description_zhCN": "\u4e0e\u9b4f\u5ef6\u540c\u65f6\u4e0a\u9635"
+    },
+    "26": {
+        "id": 26,
+        "monsterId": 7,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9752\u5e74\u624d\u4fca",
+        "description_zhCN": "\u4e0e\u59dc\u7ef4\u540c\u65f6\u4e0a\u9635"
+    },
+    "27": {
+        "id": 27,
+        "monsterId": 7,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5f03\u9b4f\u6295\u8700",
+        "description_zhCN": "\u4e0e\u5218\u5907\u540c\u65f6\u4e0a\u9635"
+    },
+    "29": {
+        "id": 29,
+        "monsterId": 8,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6709\u80c6\u6709\u8c0b",
+        "description_zhCN": "\u4e0e\u59dc\u7ef4\u540c\u65f6\u4e0a\u9635"
+    },
+    "30": {
+        "id": 30,
+        "monsterId": 8,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u522e\u76ee\u76f8\u770b",
+        "description_zhCN": "\u4e0e\u5e9e\u7edf\u540c\u65f6\u4e0a\u9635"
+    },
+    "33": {
+        "id": 33,
+        "monsterId": 9,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e00\u65f6\u745c\u4eae",
+        "description_zhCN": "\u4e0e\u8bf8\u845b\u4eae\u540c\u65f6\u4e0a\u9635"
+    },
+    "34": {
+        "id": 34,
+        "monsterId": 9,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u90ce\u624d\u5973\u8c8c",
+        "description_zhCN": "\u4e0e\u5c0f\u4e54\u540c\u65f6\u4e0a\u9635"
+    },
+    "35": {
+        "id": 35,
+        "monsterId": 9,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5937\u9675\u4e4b\u56f4",
+        "description_zhCN": "\u4e0e\u7518\u5b81\u540c\u65f6\u4e0a\u9635"
+    },
+    "37": {
+        "id": 37,
+        "monsterId": 10,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4f09\u4fea\u60c5\u6df1",
+        "description_zhCN": "\u4e0e\u5927\u4e54\u540c\u65f6\u4e0a\u9635"
+    },
+    "38": {
+        "id": 38,
+        "monsterId": 10,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4eb2\u5982\u4e00\u5bb6",
+        "description_zhCN": "\u4e0e\u5c0f\u4e54\u540c\u65f6\u4e0a\u9635"
+    },
+    "39": {
+        "id": 39,
+        "monsterId": 10,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u82f1\u96c4\u4e4b\u6b87",
+        "description_zhCN": "\u4e0e\u5178\u97e6\u540c\u65f6\u4e0a\u9635"
+    },
+    "40": {
+        "id": 40,
+        "monsterId": 10,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u60fa\u60fa\u76f8\u60dc",
+        "description_zhCN": "\u4e0e\u592a\u53f2\u6148\u540c\u65f6\u4e0a\u9635"
+    },
+    "41": {
+        "id": 41,
+        "monsterId": 11,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u82f1\u96c4\u7f8e\u4eba",
+        "description_zhCN": "\u4e0e\u8c82\u8749\u540c\u65f6\u4e0a\u9635"
+    },
+    "42": {
+        "id": 42,
+        "monsterId": 11,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6094\u4e4b\u83ab\u53ca",
+        "description_zhCN": "\u4e0e\u66f9\u64cd\u540c\u65f6\u4e0a\u9635"
+    },
+    "43": {
+        "id": 43,
+        "monsterId": 11,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u65e0\u53cc\u6218\u795e",
+        "description_zhCN": "\u4e0e\u5173\u7fbd\u540c\u65f6\u4e0a\u9635"
+    },
+    "44": {
+        "id": 44,
+        "monsterId": 11,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9738\u738b\u73b0\u4e16",
+        "description_zhCN": "\u4e0e\u5b59\u7b56\u540c\u65f6\u4e0a\u9635"
+    },
+    "45": {
+        "id": 45,
+        "monsterId": 12,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u826f\u79bd\u62e9\u6728",
+        "description_zhCN": "\u4e0e\u5f20\u90c3\u540c\u65f6\u4e0a\u9635"
+    },
+    "46": {
+        "id": 46,
+        "monsterId": 12,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5175\u8d35\u795e\u901f",
+        "description_zhCN": "\u4e0e\u90ed\u5609\u540c\u65f6\u4e0a\u9635"
+    },
+    "47": {
+        "id": 47,
+        "monsterId": 12,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4ee5\u5c11\u80dc\u591a",
+        "description_zhCN": "\u4e0e\u5f90\u6643\u540c\u65f6\u4e0a\u9635"
+    },
+    "48": {
+        "id": 48,
+        "monsterId": 12,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5408\u56f4\u4e1c\u6d77",
+        "description_zhCN": "\u4e0e\u590f\u4faf\u6e0a\u540c\u65f6\u4e0a\u9635"
+    },
+    "49": {
+        "id": 49,
+        "monsterId": 13,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u53e4\u715e\u6076\u6765",
+        "description_zhCN": "\u4e0e\u5178\u97e6\u540c\u65f6\u4e0a\u9635"
+    },
+    "50": {
+        "id": 50,
+        "monsterId": 13,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4ee5\u5c11\u80dc\u591a",
+        "description_zhCN": "\u4e0e\u5f20\u8fbd\u540c\u65f6\u4e0a\u9635"
+    },
+    "51": {
+        "id": 51,
+        "monsterId": 13,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6b63\u724c\u63f4\u519b",
+        "description_zhCN": "\u4e0e\u66f9\u4ec1\u540c\u65f6\u4e0a\u9635"
+    },
+    "53": {
+        "id": 53,
+        "monsterId": 14,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u66f9\u6c0f\u5b97\u4eb2",
+        "description_zhCN": "\u4e0e\u66f9\u4ec1\u540c\u65f6\u4e0a\u9635"
+    },
+    "54": {
+        "id": 54,
+        "monsterId": 14,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e00\u6587\u4e00\u6b66",
+        "description_zhCN": "\u4e0e\u8d3e\u8be9\u540c\u65f6\u4e0a\u9635"
+    },
+    "55": {
+        "id": 55,
+        "monsterId": 14,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u590f\u4faf\u5144\u5f1f",
+        "description_zhCN": "\u4e0e\u590f\u4faf\u6e0a\u540c\u65f6\u4e0a\u9635"
+    },
+    "57": {
+        "id": 57,
+        "monsterId": 15,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u66f9\u6c0f\u5b97\u4eb2",
+        "description_zhCN": "\u4e0e\u590f\u4faf\u60c7\u540c\u65f6\u4e0a\u9635"
+    },
+    "58": {
+        "id": 58,
+        "monsterId": 15,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6b63\u724c\u63f4\u519b",
+        "description_zhCN": "\u4e0e\u5f90\u6643\u540c\u65f6\u4e0a\u9635"
+    },
+    "59": {
+        "id": 59,
+        "monsterId": 15,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8840\u715e\u6e83\u56f4",
+        "description_zhCN": "\u4e0e\u5178\u97e6\u540c\u65f6\u4e0a\u9635"
+    },
+    "61": {
+        "id": 61,
+        "monsterId": 16,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u53e4\u715e\u6076\u6765",
+        "description_zhCN": "\u4e0e\u5f90\u6643\u540c\u65f6\u4e0a\u9635"
+    },
+    "62": {
+        "id": 62,
+        "monsterId": 16,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8840\u715e\u6e83\u56f4",
+        "description_zhCN": "\u4e0e\u66f9\u4ec1\u540c\u65f6\u4e0a\u9635"
+    },
+    "63": {
+        "id": 63,
+        "monsterId": 16,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u864e\u8d32\u53cc\u96c4",
+        "description_zhCN": "\u4e0e\u8bb8\u891a\u540c\u65f6\u4e0a\u9635"
+    },
+    "64": {
+        "id": 64,
+        "monsterId": 16,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u82f1\u96c4\u4e4b\u6b87",
+        "description_zhCN": "\u4e0e\u5b59\u7b56\u540c\u65f6\u4e0a\u9635"
+    },
+    "65": {
+        "id": 65,
+        "monsterId": 17,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5fd7\u540c\u9053\u5408",
+        "description_zhCN": "\u4e0e\u8bb8\u891a\u540c\u65f6\u4e0a\u9635"
+    },
+    "66": {
+        "id": 66,
+        "monsterId": 17,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u826f\u79bd\u62e9\u6728",
+        "description_zhCN": "\u4e0e\u5f20\u8fbd\u540c\u65f6\u4e0a\u9635"
+    },
+    "67": {
+        "id": 67,
+        "monsterId": 17,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u501f\u5200\u6740\u4eba",
+        "description_zhCN": "\u4e0e\u53f8\u9a6c\u61ff\u540c\u65f6\u4e0a\u9635"
+    },
+    "69": {
+        "id": 69,
+        "monsterId": 18,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9752\u5e74\u624d\u4fca",
+        "description_zhCN": "\u4e0e\u9a6c\u8d85\u540c\u65f6\u4e0a\u9635"
+    },
+    "70": {
+        "id": 70,
+        "monsterId": 18,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e0c\u671b\u4e4b\u661f",
+        "description_zhCN": "\u4e0e\u9b4f\u5ef6\u540c\u65f6\u4e0a\u9635"
+    },
+    "71": {
+        "id": 71,
+        "monsterId": 18,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5927\u5b5d\u5b50",
+        "description_zhCN": "\u4e0e\u5f90\u5eb6\u540c\u65f6\u4e0a\u9635"
+    },
+    "72": {
+        "id": 72,
+        "monsterId": 18,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6709\u80c6\u6709\u8c0b",
+        "description_zhCN": "\u4e0e\u5f20\u98de\u540c\u65f6\u4e0a\u9635"
+    },
+    "73": {
+        "id": 73,
+        "monsterId": 19,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u529b\u8350\u5b54\u660e",
+        "description_zhCN": "\u4e0e\u5f90\u5eb6\u540c\u65f6\u4e0a\u9635"
+    },
+    "74": {
+        "id": 74,
+        "monsterId": 19,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5f03\u9b4f\u6295\u8700",
+        "description_zhCN": "\u4e0e\u9a6c\u8d85\u540c\u65f6\u4e0a\u9635"
+    },
+    "77": {
+        "id": 77,
+        "monsterId": 20,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8d64\u58c1\u7591\u8ba1",
+        "description_zhCN": "\u4e0e\u5f90\u5eb6\u540c\u65f6\u4e0a\u9635"
+    },
+    "78": {
+        "id": 78,
+        "monsterId": 20,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u96cc\u96c4\u53cc\u51e4",
+        "description_zhCN": "\u4e0e\u9ec4\u6708\u82f1\u540c\u65f6\u4e0a\u9635"
+    },
+    "79": {
+        "id": 79,
+        "monsterId": 20,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u522e\u76ee\u76f8\u770b",
+        "description_zhCN": "\u4e0e\u5f20\u98de\u540c\u65f6\u4e0a\u9635"
+    },
+    "81": {
+        "id": 81,
+        "monsterId": 21,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5b59\u6c0f\u7236\u5b50",
+        "description_zhCN": "\u4e0e\u5b59\u575a\u540c\u65f6\u4e0a\u9635"
+    },
+    "82": {
+        "id": 82,
+        "monsterId": 21,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u58eb\u522b\u4e09\u65e5",
+        "description_zhCN": "\u4e0e\u5415\u8499\u540c\u65f6\u4e0a\u9635"
+    },
+    "83": {
+        "id": 83,
+        "monsterId": 21,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u541b\u81e3\u4e00\u5fc3",
+        "description_zhCN": "\u4e0e\u9c81\u8083\u540c\u65f6\u4e0a\u9635"
+    },
+    "84": {
+        "id": 84,
+        "monsterId": 21,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u543e\u6709\u5174\u9738",
+        "description_zhCN": "\u4e0e\u7518\u5b81\u540c\u65f6\u4e0a\u9635"
+    },
+    "85": {
+        "id": 85,
+        "monsterId": 22,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e1c\u5f81\u897f\u8ba8",
+        "description_zhCN": "\u4e0e\u9ec4\u76d6\u540c\u65f6\u4e0a\u9635"
+    },
+    "86": {
+        "id": 86,
+        "monsterId": 22,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5fe0\u4e49\u65e0\u53cc",
+        "description_zhCN": "\u4e0e\u8d75\u4e91\u540c\u65f6\u4e0a\u9635"
+    },
+    "87": {
+        "id": 87,
+        "monsterId": 22,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6240\u5411\u62ab\u9761",
+        "description_zhCN": "\u4e0e\u5b59\u575a\u540c\u65f6\u4e0a\u9635"
+    },
+    "88": {
+        "id": 88,
+        "monsterId": 22,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u60fa\u60fa\u76f8\u60dc",
+        "description_zhCN": "\u4e0e\u5b59\u7b56\u540c\u65f6\u4e0a\u9635"
+    },
+    "89": {
+        "id": 89,
+        "monsterId": 23,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u58eb\u522b\u4e09\u65e5",
+        "description_zhCN": "\u4e0e\u5b59\u6743\u540c\u65f6\u4e0a\u9635"
+    },
+    "90": {
+        "id": 90,
+        "monsterId": 23,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u64c2\u9f13\u52a9\u5a01",
+        "description_zhCN": "\u4e0e\u7518\u5b81\u540c\u65f6\u4e0a\u9635"
+    },
+    "91": {
+        "id": 91,
+        "monsterId": 23,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u52c7\u4e0d\u53ef\u5f53",
+        "description_zhCN": "\u4e0e\u9ec4\u76d6\u540c\u65f6\u4e0a\u9635"
+    },
+    "93": {
+        "id": 93,
+        "monsterId": 24,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u64c2\u9f13\u52a9\u5a01",
+        "description_zhCN": "\u4e0e\u5415\u8499\u540c\u65f6\u4e0a\u9635"
+    },
+    "94": {
+        "id": 94,
+        "monsterId": 24,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u543e\u6709\u5174\u9738",
+        "description_zhCN": "\u4e0e\u5b59\u6743\u540c\u65f6\u4e0a\u9635"
+    },
+    "95": {
+        "id": 95,
+        "monsterId": 24,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u608d\u5c06\u82f1\u52c7",
+        "description_zhCN": "\u4e0e\u8bb8\u891a\u540c\u65f6\u4e0a\u9635"
+    },
+    "96": {
+        "id": 96,
+        "monsterId": 24,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5937\u9675\u4e4b\u56f4",
+        "description_zhCN": "\u4e0e\u5468\u745c\u540c\u65f6\u4e0a\u9635"
+    },
+    "105": {
+        "id": 105,
+        "monsterId": 27,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5175\u8d35\u795e\u901f",
+        "description_zhCN": "\u4e0e\u5f20\u8fbd\u540c\u65f6\u4e0a\u9635"
+    },
+    "106": {
+        "id": 106,
+        "monsterId": 27,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u66f9\u8425\u8c0b\u58eb",
+        "description_zhCN": "\u4e0e\u8d3e\u8be9\u540c\u65f6\u4e0a\u9635"
+    },
+    "107": {
+        "id": 107,
+        "monsterId": 27,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u591c\u601d\u5949\u5b5d",
+        "description_zhCN": "\u4e0e\u66f9\u64cd\u540c\u65f6\u4e0a\u9635"
+    },
+    "113": {
+        "id": 113,
+        "monsterId": 29,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e71\u4e16\u9b3c\u8c0b",
+        "description_zhCN": "\u4e0e\u53f8\u9a6c\u61ff\u540c\u65f6\u4e0a\u9635"
+    },
+    "114": {
+        "id": 114,
+        "monsterId": 29,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e00\u6587\u4e00\u6b66",
+        "description_zhCN": "\u4e0e\u590f\u4faf\u60c7\u540c\u65f6\u4e0a\u9635"
+    },
+    "115": {
+        "id": 115,
+        "monsterId": 29,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u66f9\u8425\u8c0b\u58eb",
+        "description_zhCN": "\u4e0e\u90ed\u5609\u540c\u65f6\u4e0a\u9635"
+    },
+    "116": {
+        "id": 116,
+        "monsterId": 29,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5de6\u8180\u53f3\u81c2",
+        "description_zhCN": "\u4e0e\u8bb8\u891a\u540c\u65f6\u4e0a\u9635"
+    },
+    "117": {
+        "id": 117,
+        "monsterId": 30,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u96ea\u4e2d\u9001\u70ad",
+        "description_zhCN": "\u4e0e\u66f9\u64cd\u540c\u65f6\u4e0a\u9635"
+    },
+    "118": {
+        "id": 118,
+        "monsterId": 30,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5408\u56f4\u4e1c\u6d77",
+        "description_zhCN": "\u4e0e\u5f20\u8fbd\u540c\u65f6\u4e0a\u9635"
+    },
+    "119": {
+        "id": 119,
+        "monsterId": 30,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u590f\u4faf\u5144\u5f1f",
+        "description_zhCN": "\u4e0e\u590f\u4faf\u60c7\u540c\u65f6\u4e0a\u9635"
+    },
+    "125": {
+        "id": 125,
+        "monsterId": 32,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u72c2\u6218\u5929\u4e0b",
+        "description_zhCN": "\u4e0e\u5f20\u98de\u540c\u65f6\u4e0a\u9635"
+    },
+    "126": {
+        "id": 126,
+        "monsterId": 32,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6840\u9a9c\u4e0d\u9a6f",
+        "description_zhCN": "\u4e0e\u9a6c\u8d85\u540c\u65f6\u4e0a\u9635"
+    },
+    "127": {
+        "id": 127,
+        "monsterId": 32,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e0c\u671b\u4e4b\u661f",
+        "description_zhCN": "\u4e0e\u59dc\u7ef4\u540c\u65f6\u4e0a\u9635"
+    },
+    "129": {
+        "id": 129,
+        "monsterId": 33,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u82f1\u70c8\u5fe0\u52c7",
+        "description_zhCN": "\u4e0e\u9ec4\u6708\u82f1\u540c\u65f6\u4e0a\u9635"
+    },
+    "130": {
+        "id": 130,
+        "monsterId": 33,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u52c7\u51a0\u5343\u519b",
+        "description_zhCN": "\u4e0e\u8d75\u4e91\u540c\u65f6\u4e0a\u9635"
+    },
+    "131": {
+        "id": 131,
+        "monsterId": 33,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u624b\u4e0b\u7559\u60c5",
+        "description_zhCN": "\u4e0e\u5173\u7fbd\u540c\u65f6\u4e0a\u9635"
+    },
+    "133": {
+        "id": 133,
+        "monsterId": 34,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8d64\u58c1\u7591\u8ba1",
+        "description_zhCN": "\u4e0e\u5e9e\u7edf\u540c\u65f6\u4e0a\u9635"
+    },
+    "134": {
+        "id": 134,
+        "monsterId": 34,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5927\u5b5d\u5b50",
+        "description_zhCN": "\u4e0e\u59dc\u7ef4\u540c\u65f6\u4e0a\u9635"
+    },
+    "135": {
+        "id": 135,
+        "monsterId": 34,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u529b\u8350\u5b54\u660e",
+        "description_zhCN": "\u4e0e\u5218\u5907\u540c\u65f6\u4e0a\u9635"
+    },
+    "136": {
+        "id": 136,
+        "monsterId": 34,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5de7\u8ba1\u4e0d\u8a00",
+        "description_zhCN": "\u4e0e\u9ec4\u6708\u82f1\u540c\u65f6\u4e0a\u9635"
+    },
+    "137": {
+        "id": 137,
+        "monsterId": 35,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u592b\u59bb\u540c\u5fc3",
+        "description_zhCN": "\u4e0e\u8bf8\u845b\u4eae\u540c\u65f6\u4e0a\u9635"
+    },
+    "138": {
+        "id": 138,
+        "monsterId": 35,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u96cc\u96c4\u53cc\u51e4",
+        "description_zhCN": "\u4e0e\u5e9e\u7edf\u540c\u65f6\u4e0a\u9635"
+    },
+    "139": {
+        "id": 139,
+        "monsterId": 35,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u82f1\u70c8\u5fe0\u52c7",
+        "description_zhCN": "\u4e0e\u9ec4\u5fe0\u540c\u65f6\u4e0a\u9635"
+    },
+    "140": {
+        "id": 140,
+        "monsterId": 35,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5de7\u8ba1\u4e0d\u8a00",
+        "description_zhCN": "\u4e0e\u5f90\u5eb6\u540c\u65f6\u4e0a\u9635"
+    },
+    "141": {
+        "id": 141,
+        "monsterId": 36,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u90ce\u624d\u5973\u8c8c",
+        "description_zhCN": "\u4e0e\u5468\u745c\u540c\u65f6\u4e0a\u9635"
+    },
+    "142": {
+        "id": 142,
+        "monsterId": 36,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u94dc\u96c0\u6625\u68a6",
+        "description_zhCN": "\u4e0e\u5927\u4e54\u540c\u65f6\u4e0a\u9635"
+    },
+    "143": {
+        "id": 143,
+        "monsterId": 36,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4eb2\u5982\u4e00\u5bb6",
+        "description_zhCN": "\u4e0e\u5b59\u7b56\u540c\u65f6\u4e0a\u9635"
+    },
+    "144": {
+        "id": 144,
+        "monsterId": 36,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u91d1\u7ae5\u7389\u5973",
+        "description_zhCN": "\u4e0e\u9646\u900a\u540c\u65f6\u4e0a\u9635"
+    },
+    "145": {
+        "id": 145,
+        "monsterId": 37,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5927\u90fd\u7763",
+        "description_zhCN": "\u4e0e\u9646\u900a\u540c\u65f6\u4e0a\u9635"
+    },
+    "146": {
+        "id": 146,
+        "monsterId": 37,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u541b\u81e3\u4e00\u5fc3",
+        "description_zhCN": "\u4e0e\u5b59\u6743\u540c\u65f6\u4e0a\u9635"
+    },
+    "147": {
+        "id": 147,
+        "monsterId": 37,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e1c\u5434\u5143\u8001",
+        "description_zhCN": "\u4e0e\u9ec4\u76d6\u540c\u65f6\u4e0a\u9635"
+    },
+    "149": {
+        "id": 149,
+        "monsterId": 38,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5927\u90fd\u7763",
+        "description_zhCN": "\u4e0e\u9c81\u8083\u540c\u65f6\u4e0a\u9635"
+    },
+    "150": {
+        "id": 150,
+        "monsterId": 38,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u597d\u5973\u5a7f",
+        "description_zhCN": "\u4e0e\u5927\u4e54\u540c\u65f6\u4e0a\u9635"
+    },
+    "151": {
+        "id": 151,
+        "monsterId": 38,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u91d1\u7ae5\u7389\u5973",
+        "description_zhCN": "\u4e0e\u5c0f\u4e54\u540c\u65f6\u4e0a\u9635"
+    },
+    "157": {
+        "id": 157,
+        "monsterId": 40,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4f09\u4fea\u60c5\u6df1",
+        "description_zhCN": "\u4e0e\u5b59\u7b56\u540c\u65f6\u4e0a\u9635"
+    },
+    "158": {
+        "id": 158,
+        "monsterId": 40,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u94dc\u96c0\u6625\u68a6",
+        "description_zhCN": "\u4e0e\u5c0f\u4e54\u540c\u65f6\u4e0a\u9635"
+    },
+    "159": {
+        "id": 159,
+        "monsterId": 40,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7edd\u8272\u513f\u5ab3",
+        "description_zhCN": "\u4e0e\u5b59\u575a\u540c\u65f6\u4e0a\u9635"
+    },
+    "160": {
+        "id": 160,
+        "monsterId": 40,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u597d\u5973\u5a7f",
+        "description_zhCN": "\u4e0e\u9646\u900a\u540c\u65f6\u4e0a\u9635"
+    },
+    "161": {
+        "id": 161,
+        "monsterId": 41,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e1c\u5f81\u897f\u8ba8",
+        "description_zhCN": "\u4e0e\u592a\u53f2\u6148\u540c\u65f6\u4e0a\u9635"
+    },
+    "162": {
+        "id": 162,
+        "monsterId": 41,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e1c\u5434\u5143\u8001",
+        "description_zhCN": "\u4e0e\u9c81\u8083\u540c\u65f6\u4e0a\u9635"
+    },
+    "163": {
+        "id": 163,
+        "monsterId": 41,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e09\u671d\u529f\u81e3",
+        "description_zhCN": "\u4e0e\u5b59\u575a\u540c\u65f6\u4e0a\u9635"
+    },
+    "164": {
+        "id": 164,
+        "monsterId": 41,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u52c7\u4e0d\u53ef\u5f53",
+        "description_zhCN": "\u4e0e\u5415\u8499\u540c\u65f6\u4e0a\u9635"
+    },
+    "165": {
+        "id": 165,
+        "monsterId": 42,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5b59\u6c0f\u7236\u5b50",
+        "description_zhCN": "\u4e0e\u5b59\u6743\u540c\u65f6\u4e0a\u9635"
+    },
+    "166": {
+        "id": 166,
+        "monsterId": 42,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6240\u5411\u62ab\u9761",
+        "description_zhCN": "\u4e0e\u592a\u53f2\u6148\u540c\u65f6\u4e0a\u9635"
+    },
+    "167": {
+        "id": 167,
+        "monsterId": 42,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e09\u671d\u529f\u81e3",
+        "description_zhCN": "\u4e0e\u9ec4\u76d6\u540c\u65f6\u4e0a\u9635"
+    },
+    "168": {
+        "id": 168,
+        "monsterId": 42,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7edd\u8272\u513f\u5ab3",
+        "description_zhCN": "\u4e0e\u5927\u4e54\u540c\u65f6\u4e0a\u9635"
+    },
+    "19": {
+        "id": 19,
+        "monsterId": 5,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6843\u56ed\u7ed3\u4e49",
+        "description_zhCN": "\u4e0e\u5f20\u98de\u3001\u5218\u5907\u540c\u65f6\u4e0a\u9635"
+    },
+    "31": {
+        "id": 31,
+        "monsterId": 8,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6843\u56ed\u7ed3\u4e49",
+        "description_zhCN": "\u4e0e\u5173\u7fbd\u3001\u5218\u5907\u540c\u65f6\u4e0a\u9635"
+    },
+    "52": {
+        "id": 52,
+        "monsterId": 13,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b3c\u795e\u83ab\u6d4b",
+        "description_zhCN": "\u4e0e\u590f\u4faf\u60c7\u3001\u90ed\u5609\u540c\u65f6\u4e0a\u9635"
+    },
+    "56": {
+        "id": 56,
+        "monsterId": 14,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b3c\u795e\u83ab\u6d4b",
+        "description_zhCN": "\u4e0e\u5f90\u6643\u3001\u90ed\u5609\u540c\u65f6\u4e0a\u9635"
+    },
+    "60": {
+        "id": 60,
+        "monsterId": 15,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9547\u5b88\u6c49\u4e2d",
+        "description_zhCN": "\u4e0e\u590f\u4faf\u6e0a\u3001\u5f20\u90c3\u540c\u65f6\u4e0a\u9635"
+    },
+    "68": {
+        "id": 68,
+        "monsterId": 17,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9547\u5b88\u6c49\u4e2d",
+        "description_zhCN": "\u4e0e\u590f\u4faf\u6e0a\u3001\u66f9\u4ec1\u540c\u65f6\u4e0a\u9635"
+    },
+    "75": {
+        "id": 75,
+        "monsterId": 19,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6843\u56ed\u7ed3\u4e49",
+        "description_zhCN": "\u4e0e\u5173\u7fbd\u3001\u5f20\u98de\u540c\u65f6\u4e0a\u9635"
+    },
+    "76": {
+        "id": 76,
+        "monsterId": 19,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u58ee\u5fd7\u672a\u916c",
+        "description_zhCN": "\u4e0e\u5e9e\u7edf\u3001\u9b4f\u5ef6\u540c\u65f6\u4e0a\u9635"
+    },
+    "80": {
+        "id": 80,
+        "monsterId": 20,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u58ee\u5fd7\u672a\u916c",
+        "description_zhCN": "\u4e0e\u9b4f\u5ef6\u3001\u5218\u5907\u540c\u65f6\u4e0a\u9635"
+    },
+    "108": {
+        "id": 108,
+        "monsterId": 27,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b3c\u795e\u83ab\u6d4b",
+        "description_zhCN": "\u4e0e\u590f\u4faf\u60c7\u3001\u5f90\u6643\u540c\u65f6\u4e0a\u9635"
+    },
+    "120": {
+        "id": 120,
+        "monsterId": 30,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9547\u5b88\u6c49\u4e2d",
+        "description_zhCN": "\u4e0e\u5f20\u90c3\u3001\u66f9\u4ec1\u540c\u65f6\u4e0a\u9635"
+    },
+    "128": {
+        "id": 128,
+        "monsterId": 32,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u58ee\u5fd7\u672a\u916c",
+        "description_zhCN": "\u4e0e\u5e9e\u7edf\u3001\u5218\u5907\u540c\u65f6\u4e0a\u9635"
+    },
+    "36": {
+        "id": 36,
+        "monsterId": 9,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e1c\u5434\u56db\u82f1",
+        "description_zhCN": "\u4e0e\u5415\u8499\u3001\u9646\u900a\u3001\u9c81\u8083\u540c\u65f6\u4e0a\u9635"
+    },
+    "92": {
+        "id": 92,
+        "monsterId": 23,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e1c\u5434\u56db\u82f1",
+        "description_zhCN": "\u4e0e\u5468\u745c\u3001\u9646\u900a\u3001\u9c81\u8083\u540c\u65f6\u4e0a\u9635"
+    },
+    "148": {
+        "id": 148,
+        "monsterId": 37,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e1c\u5434\u56db\u82f1",
+        "description_zhCN": "\u4e0e\u5468\u745c\u3001\u5415\u8499\u3001\u9646\u900a\u540c\u65f6\u4e0a\u9635"
+    },
+    "152": {
+        "id": 152,
+        "monsterId": 38,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e1c\u5434\u56db\u82f1",
+        "description_zhCN": "\u4e0e\u5468\u745c\u3001\u5415\u8499\u3001\u9c81\u8083\u540c\u65f6\u4e0a\u9635"
+    },
+    "20": {
+        "id": 20,
+        "monsterId": 5,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e94\u864e\u4e0a\u5c06",
+        "description_zhCN": "\u4e0e\u5f20\u98de\u3001\u8d75\u4e91\u3001\u9a6c\u8d85\u3001\u9ec4\u5fe0\u540c\u65f6\u4e0a\u9635"
+    },
+    "24": {
+        "id": 24,
+        "monsterId": 6,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e94\u864e\u4e0a\u5c06",
+        "description_zhCN": "\u4e0e\u5173\u7fbd\u3001\u5f20\u98de\u3001\u9a6c\u8d85\u3001\u9ec4\u5fe0\u540c\u65f6\u4e0a\u9635"
+    },
+    "28": {
+        "id": 28,
+        "monsterId": 7,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e94\u864e\u4e0a\u5c06",
+        "description_zhCN": "\u4e0e\u5173\u7fbd\u3001\u5f20\u98de\u3001\u8d75\u4e91\u3001\u9ec4\u5fe0\u540c\u65f6\u4e0a\u9635"
+    },
+    "32": {
+        "id": 32,
+        "monsterId": 8,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e94\u864e\u4e0a\u5c06",
+        "description_zhCN": "\u4e0e\u5173\u7fbd\u3001\u8d75\u4e91\u3001\u9a6c\u8d85\u3001\u9ec4\u5fe0\u540c\u65f6\u4e0a\u9635"
+    },
+    "132": {
+        "id": 132,
+        "monsterId": 33,
+        "flag": 4,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e94\u864e\u4e0a\u5c06",
+        "description_zhCN": "\u4e0e\u5173\u7fbd\u3001\u5f20\u98de\u3001\u8d75\u4e91\u3001\u9a6c\u8d85\u540c\u65f6\u4e0a\u9635"
+    }
+}

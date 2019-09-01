@@ -1,0 +1,10 @@
+{
+    "config": "wu_yue_hua_zhan",
+    "id": 44,
+    "name": "wu_yue_hua_zhan",
+    "level": 1,
+    "mpCost": 100,
+    "energyStart": 90,
+    "energyCost": 100,
+    "energySpeed": 20
+}

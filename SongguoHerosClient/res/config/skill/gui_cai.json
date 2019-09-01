@@ -1,0 +1,52 @@
+{
+  "energyCost": 0.0,
+  "energySpeed":0.0,
+  "energyStart":1.0,
+  "mpCost": 0,
+  "negative": true,
+  "actions":
+  [
+    {
+      "name": "skill_gui_cai",
+      "start": 0.0,
+      "damage": {"type":2, "side":0, "entityType":2, "speed_h":400, "speed_h_decay":0, "speed_v":400, "speed_v_decay":0, "gravity":1200},
+      "params": {"hurt":"hurt", "ratio":"bombRatio", "range":1, "effect":"bomb"}
+    }
+  ],
+
+  "formula":
+  {
+    "bombRatio": {"formula":"max", "min":0.2, "max":0.2, "divide":1.0},
+    "hurt": {"formula":"damage", "base":50, "step":5, "factor":0.01, "property":"power"}
+  },
+
+  "asset": "skill_guicai",
+  "effect":
+  {
+    "bomb":
+    [
+      [
+        {
+        "name": "animation_guicai_hit_soldier_back_layer1",
+        "type": 0,
+        "z-order": -1000
+        },
+        {
+        "name": "animation_guicai_hit_soldier_back_layer2",
+        "type": 2,
+        "z-order": -5
+        },
+        {
+        "name": "animation_guicai_hit_soldier_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_guicai_hit_soldier_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+      ]
+    ]
+  }
+}

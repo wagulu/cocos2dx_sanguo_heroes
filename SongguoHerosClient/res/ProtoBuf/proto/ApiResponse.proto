@@ -1,0 +1,13 @@
+import "EventPB.proto";
+
+
+message ApiResponse{						//response公用参数
+	optional string		version = 1;		//server version
+	optional string		timestamp = 2;		//server 时间戳
+	optional int32		errorNo = 3;		//当前请求错误码 >0为存在错误
+	optional string		errorMessage = 4;	//当前请求错误信息
+	optional string		sign = 5;			//用户身份
+	optional bool		isTest = 6;			//是否强制为dev模式
+	optional EventPB	event = 7;			//通用事件接口
+	optional int32		transactionId = 8;	//从initGame完成后的自增数
+}

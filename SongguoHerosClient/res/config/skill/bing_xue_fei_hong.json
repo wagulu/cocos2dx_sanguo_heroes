@@ -1,0 +1,210 @@
+{
+  "energyCost":40,
+  "energySpeed":20,
+  "energyStart":30,
+  "mpCost":10,
+  "actions":
+  [
+    {
+	  "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.0}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_douqi_15fps", "trigger": "hero"}
+    },
+	{
+      "name": "disable_break",
+      "start": 4.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":4.5}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":4.3}
+    },
+    {
+        "name": "show_background",
+        "start": 0.0,
+        "params": {"hideDelay":4.3}
+    },
+    {
+        "name": "shake_camera",
+        "start": 0,
+        "params": {"duration": 0.5, "amplitude":5.0, "mode":4, "interval":3}
+    },
+    {
+		"name": "move_camera_to_hero",
+		"start": 0.0
+    },
+    {
+        "name": "move_camera_to_hero",
+        "start": 1.2,
+        "params": {"tar":1}
+    },
+    {
+		"name": "play_animation",
+		"start": 0.0,
+		"params": {"animation": "animation_idle", "duration":4.5}
+    },
+    {
+		"name": "add_entity_effect",
+		"start": 0.0,
+		"params": {"SkillTarget":"SELF_HERO", "effect":"hero", "duration":0}
+    },
+    {
+        "name": "add_entity_effect",
+        "start": 1.2,
+        "params": {"SkillTarget":"SELF_HERO", "effect":"heroLoop", "duration":3.0}
+    },
+    {
+        "name": "show_hero_effect",
+        "start": 1.2,
+        "params": {"animation": "screen", "side":0}
+    },   
+    {
+        "name": "assign_enemy_hero_center",
+        "start": 0.0
+    },
+    {
+		"name": "find_random_target_around_tile",
+		"trigger": "find_target",
+		"params": {"width":12, "height":10},
+		"triggerOnRemove": "on_find_center"
+    },
+    {
+        "name": "interval_trigger",
+        "start": 1.2,
+        "params": {"trigger":"find_target", "times":15, "interval":0.2}
+    },
+    {
+        "name": "add_effect_on_skill_attack",
+        "start": 0.0,
+        "lifeTime": 5.5,
+        "params": {"boss":"hitHero", "soldier":"hitSoldier"}
+    },   
+    {
+		"name": "add_tile_effect",
+		"trigger": "on_find_center",
+		"params": {"effect":"target", "duration":0, "randomOffset":10, "reverse":1}
+    },  
+    {
+      "name": "play_sound",
+      "trigger": "on_find_center",
+      "params": {"event":"skill_hit", "trigger":"liu_xing"}
+    },
+    {
+		"name": "attack_diamond_area_center_on_tile",
+		"trigger": "on_find_center",
+		"damage": {"type":1, "side":0, "entityType":2, "delay":0.4, "base":200, "step":25, "factor":0.25, "speed_h":300, "speed_h_decay":100, "speed_v":550, "speed_v_decay":200, "gravity":1500, "dead_animation":"dead"},
+		"params": {"radius":2, "spreadInterval":0}
+    }
+  ],
+    
+  "asset": "skill_bingxuefeihong",
+  "effect":
+  {
+    "target":
+    [
+      [
+        {
+          "name": "animation_bingxuefeihong_hit_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+       {
+       "name": "animation_bingxuefeihong_hit_back_layer2",
+       "type": 2,
+       "z-order": -1
+       },
+       {
+       "name": "animation_bingxuefeihong_hit_front_layer1",
+       "type": 0,
+       "z-order": 1
+       },
+       {
+       "name": "animation_bingxuefeihong_hit_front_layer2",
+       "type": 2,
+       "z-order": 2
+       }
+      ]
+    ],
+      
+      "screen":
+      [
+       [
+        {
+        "name": "animation_bingxuefeihong_full_layer1",
+        "type": 2,
+        "z-order": 2000
+        }
+        ]
+       ],
+    "hero":
+    [
+      [
+        {
+          "name": "animation_bingxuefeihong_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+       {
+       "name": "animation_bingxuefeihong_back_layer2",
+       "type": 2,
+       "z-order": -1
+       },
+       {
+       "name": "animation_bingxuefeihong_front_layer1",
+       "type": 0,
+       "z-order": 1
+       },
+       {
+       "name": "animation_bingxuefeihong_front_layer2",
+       "type": 2,
+       "z-order": 2
+       }
+      ]
+    ],
+      "heroLoop":
+      [
+       [
+        {
+        "name": "animation_bingxuefeihong_loop_back_layer1",
+        "type": 0,
+        "z-order": -1
+        },
+        {
+        "name": "animation_bingxuefeihong_loop_front_layer1",
+        "type": 2,
+        "z-order": 1
+        }
+        ]
+       ],
+    "hitSoldier":
+    [
+      [
+        {
+          "name": "animation_bingxuefeihong_hit_soldier",
+          "type": 0,
+          "z-order": 1
+        }
+      ]
+    ],
+      "hitHero":
+      [
+       [
+        {
+        "name": "animation_bingxuefeihong_hit_general",
+        "type": 0,
+        "z-order": 1
+        }
+        ]
+       ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "config": "yue_ren_lie_zhan",
+    "id": 51,
+    "name": "yue_ren_lie_zhan",
+    "level": 1,
+    "mpCost": 9,
+    "energyStart": 450,
+    "energyCost": 100,
+    "energySpeed": 20
+}

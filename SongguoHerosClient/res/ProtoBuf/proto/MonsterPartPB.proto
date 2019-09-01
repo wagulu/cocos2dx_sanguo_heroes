@@ -1,0 +1,5 @@
+message MonsterPartPB {
+	optional int32 monsterPartId = 1;
+	optional int32 monsterId = 2;
+	optional int32 count = 3;
+}

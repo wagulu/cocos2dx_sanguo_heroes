@@ -1,0 +1,262 @@
+{
+  "asset": "battleEffect",
+  "effect":
+  {
+    "atk":
+    [
+        {
+          "name": "animation_atk_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+    ],
+      
+    "atk_loop":
+    [
+        {
+          "name": "animation_atk_loop_layer1",
+          "type": 2,
+          "z-order": 1
+        },
+        {
+          "name": "animation_atk_loop_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+    ],
+      "spatk":
+      [
+       {
+       "name": "animation_spatk_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      
+      "spatk_loop":
+      [
+       {
+       "name": "animation_spatk_loop_layer1",
+       "type": 2,
+       "z-order": 1
+       },
+       {
+       "name": "animation_spatk_loop_layer2",
+       "type": 2,
+       "z-order": 2
+       }
+       ],
+      "def":
+      [
+       {
+       "name": "animation_def_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      
+      "def_loop":
+      [
+       {
+       "name": "animation_def_loop_layer1",
+       "type": 2,
+       "z-order": 1
+       },
+       {
+       "name": "animation_def_loop_layer2",
+       "type": 2,
+       "z-order": 2
+       }
+       ],
+      "spdef":
+      [
+       {
+       "name": "animation_spdef_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      
+      "spdef_loop":
+      [
+       {
+       "name": "animation_spdef_loop_layer1",
+       "type": 2,
+       "z-order": 1
+       },
+       {
+       "name": "animation_spdef_loop_layer2",
+       "type": 2,
+       "z-order": 2
+       }
+       ],
+      "atkspd":
+      [
+       {
+       "name": "animation_atkspd_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      
+      "atkspd_loop":
+      [
+       {
+       "name": "animation_atkspd_loop_layer1",
+       "type": 2,
+       "z-order": 1
+       },
+       {
+       "name": "animation_atkspd_loop_layer2",
+       "type": 2,
+       "z-order": 2
+       }
+       ],
+      "spd":
+      [
+       {
+       "name": "animation_spd_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      
+      "spd_loop":
+      [
+       {
+       "name": "animation_spd_loop_layer1",
+       "type": 2,
+       "z-order": 1
+       },
+       {
+       "name": "animation_spd_loop_layer2",
+       "type": 2,
+       "z-order": 2
+       }
+       ],
+      "atkdown":
+      [
+       {
+       "name": "animation_atkdown_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      "spatkdown":
+      [
+       {
+       "name": "animation_spatkdown_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      "defdown":
+      [
+       {
+       "name": "animation_defdown_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      "spdefdown":
+      [
+       {
+       "name": "animation_spdefdown_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      "atkspddown":
+      [
+       {
+       "name": "animation_atkspddown_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      "spddown":
+      [
+       {
+       "name": "animation_spddown_layer1",
+       "type": 2,
+       "z-order": 1
+       }
+       ],
+      "down_loop":
+      [
+       {
+       "name": "animation_down_loop_layer1",
+       "type": 0,
+       "z-order": 1
+       },
+       {
+       "name": "animation_down_loop_layer2",
+       "type": 2,
+       "z-order": 2
+       },
+       {
+       "name": "animation_down_loop_layer3",
+       "type": 2,
+       "z-order": 3
+       }
+       ],
+      "fire_loop":
+      [
+       {
+       "name": "animation_fire_layer1",
+       "type": 0,
+       "z-order": 1
+       },
+       {
+       "name": "animation_fire_layer2",
+       "type": 2,
+       "z-order": 2
+       }
+       ],
+      "poison_loop":
+      [
+       {
+       "name": "animation_poison_layer1",
+       "type": 0,
+       "z-order": 1
+       },
+       {
+       "name": "animation_poison_layer2",
+       "type": 0,
+       "z-order": 2
+       }
+       ],
+      "blood_loop":
+      [
+       {
+       "name": "animation_blood_layer1",
+       "type": 0,
+       "z-order": 1
+       },
+       {
+       "name": "animation_blood_layer2",
+       "type": 2,
+       "z-order": 2
+       }
+       ],
+      "lock_loop":
+      [
+       {
+       "name": "animation_lock_layer1",
+       "type": 2,
+       "z-order": 1
+       },
+       {
+       "name": "animation_lock_layer2",
+       "type": 2,
+       "z-order": 2
+       }
+       ]
+  }
+}
+
+
+
+
+
+

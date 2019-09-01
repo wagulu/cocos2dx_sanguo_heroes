@@ -1,0 +1,6 @@
+message FormationPB{
+	optional int32					id = 1;								//阵型id
+	optional int32					level = 2;							//阵型等级
+	repeated int32					skillIds = 3;						//阵型技列表，对应技能列表
+	optional int32					learnCompleteTime = 4;				//阵型学习完成时间
+}

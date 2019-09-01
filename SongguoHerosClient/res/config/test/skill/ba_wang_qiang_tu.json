@@ -1,0 +1,10 @@
+{
+    "config": "ba_wang_qiang_tu",
+    "id": 1,
+    "name": "ba_wang_qiang_tu",
+    "level": 1,
+    "mpCost": 50,
+    "energyStart": 450,
+    "energyCost": 500,
+    "energySpeed": 20
+}

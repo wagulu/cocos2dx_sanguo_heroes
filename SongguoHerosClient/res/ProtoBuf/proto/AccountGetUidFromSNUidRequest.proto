@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message AccountGetUidFromSNUidRequest{
+	optional ApiRequest	api = 1;		//公用参数
+	optional string		loginKey = 2;	//登陆密钥
+	optional string		snUid = 3;		//平台id
+	optional string		serverId = 4;	//区服id
+}

@@ -1,0 +1,128 @@
+{
+  "energyCost":10.0,
+  "energySpeed":20,
+  "energyStart":500,
+  "mpCost": 0,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.0}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_lu_li_tong_xin", "trigger": "hero"}
+    },
+	{
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":1.5}
+    },
+	{
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":1.3}
+    },
+    {
+        "name": "show_background",
+        "start": 0.0,
+        "params": {"hideDelay":1.3}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.5,
+      "params": {"duration":0.3, "amplitude":15.0, "mode":4}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill3", "break_time":15}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"skill", "duration":0}
+    },
+    {
+      "name": "find_target",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_ALL"}
+    },
+    {
+      "name": "add_buff",
+      "start": 0.5,
+      "params": {"property":"physicalDR", "time":"buff_time", "value":"buff_value", "lock":false, "changeByAbsolute":true}
+    },
+    {
+      "name": "add_entity_animation",
+      "start": 0.5,
+      "params": {"duration":"buff_time", "loop":true, "heroAni":"hero_buff", "soldierAni":"soldier_buff"}
+    }
+  ],
+    
+  "formula":
+  {
+      "buff_time": {"formula":"hp", "base":4, "step":0.1},
+      "buff_value": {"formula":"damage", "base":100, "step":20, "factor":0.1, "property":"physicalDR"}
+  },
+    
+  "asset": "skill_luli",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_luli_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "hero_buff": 
+    [
+      [
+        {
+          "name": "animation_luli_loop_layer1",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_luli_loop_layer2",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_luli_loop_layer3",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_luli_loop_layer4",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "soldier_buff": 
+    [
+      [
+        {
+          "name": "animation_luli_loop_little_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ]
+  }
+}

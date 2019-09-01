@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "MaterialPB.proto";
+
+message InitMaterialResponse{
+	optional ApiResponse			api = 1;							//公用参数
+	repeated MaterialPB				materials = 2;						//拥有的材料列表
+}

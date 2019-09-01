@@ -1,0 +1,10 @@
+{
+    "config": "bai_qi_ning_shuang",
+    "id": 2,
+    "name": "bai_qi_ning_shuang",
+    "level": 1,
+    "mpCost": 10,
+    "energyStart": 1100,
+    "energyCost": 100,
+    "energySpeed": 20
+}

@@ -1,0 +1,10 @@
+{
+    "config": "lu_li_tong_xin",
+    "id": 26,
+    "name": "lu_li_tong_xin",
+    "level": 1,
+    "mpCost": 0,
+    "energyStart": 500,
+    "energyCost": 10,
+    "energySpeed": 20
+}

@@ -1,0 +1,195 @@
+{
+  "energyCost":10.0,
+  "energySpeed":20,
+  "energyStart":500,
+  "mpCost": 0,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":2.2}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_shou_xue_jue_xing", "trigger": "hero"}
+    },
+    {
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":2.5}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":2.3}
+    },	
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":2.3}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration":0.3, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"style":4.0}
+    },
+    {
+      "name": "shake_camera",
+      "start": 1.5,
+      "params": {"duration":0.5, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill2"}
+    },
+    {
+      "name": "find_target",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"effect":"skill", "duration":0}
+    },
+    {
+      "name": "attack_on_find_target",
+      "start": 0.5,
+      "damage": {"type":4, "side":1, "entityType":1, "base":1000, "step":100, "factor":0.1}
+    },
+    {
+      "name": "add_effect_on_add_normal_attack",
+      "start": 1.5,
+      "params": {"durationFormula":"buff_time", "effect":"hit", "effectDelay":0.5, "effectDuration":0}
+    },
+    {
+      "name": "add_buff",
+      "start": 1.5,
+      "params": {"property":"attack", "time":"buff_time", "value":"buff_value_attack", "lock":false, "changeByAbsolute":true}
+    },
+    {
+      "name": "add_buff",
+      "start": 1.5,
+      "params": {"property":"atkVampRate", "time":"buff_time", "value":"buff_value_AtkVampRate", "lock":false, "changeByAbsolute":true}
+    },
+    {
+      "name": "add_entity_animation",
+      "start": 1.5,
+      "params": {"duration":"buff_time", "loop":true, "heroAni":"hero_buff"}
+    }
+  ],
+    
+  "formula":
+  {
+    "buff_time": {"formula":"hp", "base":6, "step":0.1},
+    "buff_value_attack": {"formula":"damage", "base":85, "step":35, "factor":0.1, "property":"attack"},
+    "buff_value_AtkVampRate": {"formula":"damage", "base":0, "step":0, "factor":0.005, "property":"atkVampRate"}
+  },
+    
+  "asset": "skill_shouxue",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_shouxue_layer1",
+          "type": 0,
+          "z-order": -3
+        },
+        {
+          "name": "animation_shouxue_layer2",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shouxue_layer3",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shouxue_layer4",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "hero_buff": 
+    [
+      [
+        {
+          "name": "animation_shouxue_loop_layer1",
+          "type": 0,
+          "z-order": -3
+        },
+        {
+          "name": "animation_shouxue_loop_layer2",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shouxue_loop_layer3",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shouxue_loop_layer4",
+          "type": 2,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shouxue_loop_layer5",
+          "type": 2,
+          "z-order": 2
+        },
+        {
+          "name": "animation_shouxue_loop_layer6",
+          "type": 2,
+          "z-order": 3
+        },
+        {
+          "name": "animation_shouxue_loop_layer7",
+          "type": 2,
+          "z-order": 4
+        }
+      ]
+    ],
+    "hit": 
+    [
+      [
+        {
+          "name": "animation_shouxue_hit_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shouxue_hit_layer2",
+          "type": 2,
+          "z-order": 2
+        },
+        {
+          "name": "animation_shouxue_hit_layer3",
+          "type": 0,
+          "z-order": 3
+        },
+        {
+          "name": "animation_shouxue_hit_layer4",
+          "type": 2,
+          "z-order": 4
+        }
+      ]
+    ]
+  }
+}

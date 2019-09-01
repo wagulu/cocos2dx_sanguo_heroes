@@ -1,0 +1,10 @@
+import "ApiRequest.proto";
+
+message BattleMoppingRequest{
+	optional ApiRequest	api = 1;			//公用参数
+	optional int32		islandId = 2;		//区域id
+	optional int32		areaId = 3;			//场景id
+	optional int32		stageId = 4;		//战斗点id
+	optional int32		stageType = 5;		//战斗点类型
+	optional int32		times = 6;			//扫荡次数
+}

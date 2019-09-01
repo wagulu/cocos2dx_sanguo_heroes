@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message AccountLoginRequest{
+	optional ApiRequest		api = 1;		//公用参数
+	optional string			userName = 2;	//平台用户名
+	optional string			passWord = 3;	//平台密码
+}

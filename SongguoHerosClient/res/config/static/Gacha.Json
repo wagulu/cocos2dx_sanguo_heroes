@@ -1,0 +1,68 @@
+{
+    "1": {
+        "id": 1,
+        "class": "NormalGacha",
+        "requiredPoint": 1,
+        "start": "",
+        "end": "",
+        "freeTimes": 5,
+        "ver": "1.0.0",
+        "name_zhCN": "\u864e\u7b26\u70b9\u5c061\u6b21",
+        "description_zhCN": "\u4f7f\u7528\u864e\u7b26\u70b9\u5c06\u4e00\u6b21"
+    },
+    "2": {
+        "id": 2,
+        "class": "NormalMultiGacha",
+        "requiredPoint": 9,
+        "start": "",
+        "end": "",
+        "freeTimes": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u864e\u7b26\u70b9\u5c0610\u6b21",
+        "description_zhCN": "\u4f7f\u7528\u864e\u7b26\u70b9\u5c06\u5341\u6b21"
+    },
+    "3": {
+        "id": 3,
+        "class": "RareGacha",
+        "requiredPoint": 300,
+        "start": "",
+        "end": "",
+        "freeTimes": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5143\u5b9d\u70b9\u5c061\u6b21",
+        "description_zhCN": "\u4f7f\u7528\u5143\u5b9d\u70b9\u5c06\u4e00\u6b21"
+    },
+    "4": {
+        "id": 4,
+        "class": "RareMultiGacha",
+        "requiredPoint": 2700,
+        "start": "",
+        "end": "",
+        "freeTimes": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5143\u5b9d\u70b9\u5c0610\u6b21",
+        "description_zhCN": "\u4f7f\u7528\u5143\u5b9d\u70b9\u5c06\u5341\u6b21"
+    },
+    "5": {
+        "id": 5,
+        "class": "TutorialGacha",
+        "requiredPoint": 0,
+        "start": "",
+        "end": "",
+        "freeTimes": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5143\u5b9d\u70b9\u5c061\u6b21",
+        "description_zhCN": "\u65b0\u624b\u5f15\u5bfc\u4e13\u7528"
+    },
+    "6": {
+        "id": 6,
+        "class": "FirstRareGacha",
+        "requiredPoint": 300,
+        "start": "",
+        "end": "",
+        "freeTimes": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5143\u5b9d\u70b9\u5c061\u6b21",
+        "description_zhCN": "\u975e\u65b0\u624b\u5f15\u5bfc\u9636\u6bb5\u7684\u9996\u62bd"
+    }
+}

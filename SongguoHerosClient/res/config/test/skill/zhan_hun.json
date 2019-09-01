@@ -1,0 +1,10 @@
+{
+    "config": "zhan_hun",
+    "id": 52,
+    "name": "zhan_hun",
+    "level": 1,
+    "mpCost": 0,
+    "energyStart": 1,
+    "energyCost": 0,
+    "energySpeed": 20
+}

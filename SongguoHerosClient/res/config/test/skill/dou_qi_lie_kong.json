@@ -1,0 +1,10 @@
+{
+    "config": "dou_qi_lie_kong",
+    "id": 9,
+    "name": "dou_qi_lie_kong",
+    "level": 1,
+    "mpCost": 100,
+    "energyStart": 80,
+    "energyCost": 100,
+    "energySpeed": 20
+}

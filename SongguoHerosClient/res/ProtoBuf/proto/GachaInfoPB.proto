@@ -1,0 +1,9 @@
+message GachaInfoPB{
+	optional int32				id = 1;						//Gacha id
+    optional string				gachaType = 2;				//Gacha 类型
+    optional int32				freeTimes = 3;				//已用免费次数
+    optional int32				times = 4;					//今日Gacha数
+    optional string				lastFreeTime = 5;			//上次Free gacha时间
+    optional string				resetFreeTime = 6;			//下次reset free gacha时间
+    optional string				resetTime = 7;				//下次reset gacha时间
+}

@@ -1,0 +1,15 @@
+import "ApiRequest.proto";
+import "StarInfoPB.proto";
+
+message BattleBattleResultRequest{
+	optional ApiRequest api = 1;			//公用参数
+	optional int32		islandId = 2;		//island Id
+	optional int32		areaId = 3;			//area Id
+	optional int32		stageId = 4;		//战斗点id
+	optional string		stageType = 5;		//战斗点类型 默认为空 精英elite
+	repeated StarInfoPB	battleStar = 6;		//战斗星级
+	optional int32		wonBattle = 7;		//战斗结果 0战败 1战胜 2平局（两方都死亡 最后一场算攻方战败）
+	optional int32		progress = 8;		//战斗局数
+	repeated int32		monsterIds = 9;		//武将id
+	repeated int32		NPCIds = 10;			//敌将id
+}

@@ -1,0 +1,300 @@
+{
+  "energyCost": 40,
+  "energySpeed":20,
+  "energyStart":50,
+  "mpCost": 5,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+	{
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":3.0}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":2.8}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":2.8}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation": "animation_skill1", "break_time":90}
+    },
+    {
+        "name": "shake_camera",
+        "start": 0.0,
+        "params": {"duration":0.5, "amplitude":5.0, "mode":4, "interval":3}
+    },
+    {
+        "name": "shake_camera",
+        "trigger":"attackHero",
+        "params": {"duration": 0.5, "amplitude":10.0, "mode":4}
+    },   
+    {
+        "name": "skill_ba_jiao_shan",
+        "start": 1.4,
+        "params": {"width":40, "height":20, "duration":2.0, "SkillTarget":"SELF_HERO"}
+    },
+    {
+        "name": "set_state_dizzy_on_find_target",
+        "trigger":"knockBackHero",
+        "params": {"SkillTarget":"OPP_HERO", "time":"dizzyTime", "ratio":"dizzy_ratio", "heroDizzyConfig":"dizzy_config"}
+    },
+    {
+        "name": "show_hero_effect",
+        "start": 0,
+        "params": {"animation": "skill", "side":1}
+    },
+    {
+        "name": "show_hero_effect",
+        "start": 0,
+        "params": {"animation": "screen", "side":1}
+    },
+    {
+        "name": "skill_arrow",
+        "start": 1.4,
+        "params": {"animation": "arrow", "destroy":false, "range":10, "hp":"hp", "type":"skill_arrow_curve", "speed":600, "radius":1, "trigger":"attackHero", "phase":0, "amplitude":300, "frequency":0.6, "follow":false, "soldier_effect":"soldier", "boss_effect":"boss"},
+        "damage": {"type":1, "side":0, "entityType":2, "delay":0.5, "base":1000, "step":1, "factor":1.2, "speed_h":400, "speed_h_decay":0, "speed_v":700, "speed_v_decay":0, "gravity":2000}
+    },
+    {
+        "name": "skill_arrow",
+        "start": 2.4,
+        "params": {"animation": "arrow", "destroy":false, "range":10, "hp":"hp", "type":"skill_arrow_curve", "speed":600, "radius":1, "trigger":"attackHero", "phase":180, "amplitude":300, "frequency":0.6, "soldier_effect":"soldier", "boss_effect":"boss"},
+        "damage": {"type":1, "side":0, "entityType":2, "delay":0.5, "base":1000, "step":1, "factor":1.2, "speed_h":400, "speed_h_decay":0, "speed_v":700, "speed_v_decay":0, "gravity":2000}
+    },
+    {
+        "name": "skill_arrow",
+        "start": 3.4,
+        "params": {"animation": "arrow", "destroy":false, "range":10, "hp":"hp", "type":"skill_arrow_line", "speed":600, "radius":1, "trigger":"attackHero", "follow":false, "soldier_effect":"soldier", "boss_effect":"boss"},
+        "damage": {"type":1, "side":0, "entityType":2, "delay":0.5, "base":1000, "step":1, "factor":1.2, "speed_h":400, "speed_h_decay":0, "speed_v":700, "speed_v_decay":0, "gravity":2000}
+    },
+    {
+        "name": "show_hero_effect",
+        "trigger": "attackHero",
+        "params": {"animation": "boss", "side":0}
+    }
+  ],
+    "dizzy":
+    {
+        "dizzy_config":
+        {
+            "allowBreakByAnotherDizzy":false,
+            "action":
+            [
+             {"name":"play_hit_animation"},
+             {"name":"knock_back", "knockBackTile":4}
+             ],
+            "condition":
+            [
+             {"name":"by_time", "required":true}
+             ]
+        }
+    },
+
+  "formula":
+  {
+    "dizzyTime": {"formula":"min", "min":2.0, "base":1.0, "divide":10.0, "factor":0.3},
+    "dizzyEnable": {"formula":"enable", "step":20.0, "base":0.0},
+    "hp":{"formula":"hp", "step":100.0, "base":300000.0},
+    "dizzy_ratio": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0}
+  },
+    
+    "cameraActions":
+    {
+       "test":
+      {
+          
+              "actionsX":
+              [
+               {
+               "name": "move_camera",
+               "params": {"dur": 0.0, "tar":1, "dtx":0}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "tar":0, "dtx":0}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "tar":1, "dtx":0}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "tar":0, "dtx":0}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "tar":1, "dtx":0}
+               }
+               ],
+              "actionsY":
+              [
+               {
+               "name": "move_camera",
+               "params": {"dur": 0.0, "zoom":0}
+               },
+               {
+               "name": "hold_camera",
+               "params": {"dur": 1.5}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 0.5, "zoom":1, "y":300.0, "A":2}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "zoom":0, "A":2}
+               }
+               ],
+              "actionsZ":
+              [
+               {
+               "name": "move_camera",
+               "params": {"dur": 0.0, "zoom":0}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "zoom":1, "z":0.0, "A":2}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "zoom":1, "z":440.0}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 0.5, "zoom":1, "z":220.0, "A":2}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 0.5, "zoom":0, "A":2}
+               }
+               ],
+              "actionsR3d":
+              [
+               {
+               "name": "move_camera",
+               "params": {"dur": 0.0, "zoom":0, "r":-14}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "zoom":1, "r":-16, "A":2}
+               },
+               {
+               "name": "hold_camera",
+               "params": {"dur": 1.0}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "zoom":1, "r":-14, "A":2}
+               }
+               ],
+              "actionsR2d":
+              [
+               {
+               "name": "move_camera",
+               "params": {"dur": 0.0, "zoom":0, "r":0}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "zoom":1, "r":-5, "A":2}
+               },
+               {
+               "name": "hold_camera",
+               "params": {"dur": 1.0}
+               },
+               {
+               "name": "move_camera",
+               "params": {"dur": 1.0, "zoom":1, "r":0, "A":2}
+               }
+               ]
+          
+      }
+    },
+    "asset": "skill_bajiaoshan",
+    "effect":
+    {
+        "skill":
+        [
+         [
+          {
+          "name": "animation_bajiaoshan_back_layer1",
+          "type": 0,
+          "z-order": -2
+          },
+          {
+          "name": "animation_bajiaoshan_back_layer2",
+          "type": 2,
+          "z-order": -1
+          },
+          {
+          "name": "animation_bajiaoshan_front_layer1",
+          "type": 0,
+          "z-order": 1
+          },
+          {
+          "name": "animation_bajiaoshan_front_layer2",
+          "type": 2,
+          "z-order": 2
+          }
+          ]
+         ],
+        "arrow":
+        [
+         [
+          {
+          "name": "animation_bajiaoshan_send_layer1",
+          "type": 2,
+          "z-order": 1
+          }
+          ]
+         ],
+        "screen":
+        [
+         [
+          {
+          "name": "animation_bajiaoshan_full_layer1",
+          "type": 2,
+          "z-order": 100
+          }
+          ]
+         ],
+        "soldier":
+        [
+         [
+          {
+          "name": "animation_bajiaoshan_hit_general",
+          "type": 0,
+          "z-order": 1
+          }
+          ]
+         ],
+        "boss":
+        [
+         [
+          {
+          "name": "animation_bajiaoshan_hit_soldier",
+          "type": 0,
+          "z-order": 1
+          }
+          ]
+         ]
+  }
+}

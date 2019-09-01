@@ -1,0 +1,14 @@
+import "ApiRequest.proto";
+
+message BattleExecBattleRequest{
+	optional ApiRequest	api = 1;			//公用参数
+	optional int32		islandId = 2;		//island Id
+	optional int32		areaId = 3;			//area Id
+	optional int32		stageId = 4;		//战斗点id
+	optional string		stageType = 5;		//战斗点类型 默认为空 精英elite
+	optional int32		battleId = 6;		//battle id
+	optional int32		progress = 7;		//战斗局数
+	repeated int32		stratagems = 8;		//计策列表
+	repeated int32		monsterIds = 9;		//我方战斗武将
+	repeated int32		NPCIds = 10;		//NPC 武将
+}

@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message MonstersTreasureItemQualityUpRequest{
+	optional ApiRequest	api = 1;						//公用参数
+	optional int32		inventoryTreasureItemId = 2;	//珍宝背包id，注意不是珍宝自身id
+}

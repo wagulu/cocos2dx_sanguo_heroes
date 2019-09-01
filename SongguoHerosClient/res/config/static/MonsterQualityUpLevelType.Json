@@ -1,0 +1,82 @@
+{
+    "1": {
+        "id": 1,
+        "typeId": 1,
+        "quality": 1,
+        "level": 1,
+        "coin": 0,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "typeId": 1,
+        "quality": 2,
+        "level": 10,
+        "coin": 5000,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "typeId": 1,
+        "quality": 3,
+        "level": 20,
+        "coin": 25000,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "typeId": 1,
+        "quality": 4,
+        "level": 30,
+        "coin": 50000,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "typeId": 1,
+        "quality": 5,
+        "level": 40,
+        "coin": 100000,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "typeId": 1,
+        "quality": 6,
+        "level": 50,
+        "coin": 200000,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "typeId": 1,
+        "quality": 7,
+        "level": 60,
+        "coin": 300000,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "typeId": 1,
+        "quality": 8,
+        "level": 70,
+        "coin": 500000,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "typeId": 1,
+        "quality": 9,
+        "level": 80,
+        "coin": 1000000,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "typeId": 1,
+        "quality": 10,
+        "level": 90,
+        "coin": 1500000,
+        "ver": "1.0.0"
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "energyCost": 0.0,
+  "energySpeed":0.0,
+  "energyStart":1.0,
+  "mpCost": 0,
+  "negative": true,
+  "actions":
+  [
+    {
+      "name": "add_buff",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_ALL", "property":"attack", "time":"buff_time", "value":"buff_value_attack", "changeByAbsolute":true, "lock":false}
+    },
+    {
+      "name": "add_buff",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "property":"strikeCD", "time":"buff_time", "value":"buff_value_strikeCD", "changeByAbsolute":false, "lock":false}
+    }
+  ],
+  "formula":
+  {
+    "buff_time": {"formula":"max", "min":-1, "max":-1, "divide":1},
+    "buff_value_attack": {"formula":"buff", "base":0, "step":25},
+    "buff_value_strikeCD": {"formula":"buff", "base":0, "step":-0.2}
+  }
+}

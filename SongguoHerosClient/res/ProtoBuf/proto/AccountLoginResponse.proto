@@ -1,0 +1,6 @@
+import "ApiResponse.proto";
+
+message AccountLoginResponse{
+	optional ApiResponse	api = 1;	//公用参数
+	optional string			snUid = 2;	//平台Uid
+}

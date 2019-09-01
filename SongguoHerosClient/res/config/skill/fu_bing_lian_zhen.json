@@ -1,0 +1,98 @@
+{
+    "energyCost": 25.0,
+    "energySpeed": 20,
+    "energyStart": 450,
+    "mpCost": 1,
+    "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.6}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation": "animation_skill1", "break_time":1.5}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"dur":0.1}
+    },
+    {
+        "name": "shake_camera",
+        "start": 0.3,
+        "params": {"duration": 0.8, "amplitude":10.0, "mode":4, "interval":3}
+    },
+    {
+       "name": "call_solders",
+       "start": 1.0,
+       "params": {"formation": "c4", "mode":1, "effect":"hit_solider", "num":"number"}
+    },
+    {
+      "name": "show_hero_effect",
+      "start": 0.0,
+      "params": {"animation": "start", "side":1}
+    }
+  ],
+    "formula":
+    {
+        "number":{"formula":"max", "property":"attack", "max":1.0, "min":1.0, "divide":10.0, "step":10.0, "base":1.0, "factor":0.1}
+    },
+    
+  "asset": "skill_banbing",
+  "effect":
+  {
+    "start":
+    [
+      [
+        {
+          "name": "animation_huben_back_layer1",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_huben_back_layer2",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_huben_front_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_huben_front_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+      "hit_solider":
+      [
+       [
+        {
+        "name": "animation_huben_hit_back_layer1",
+        "type": 0,
+        "z-order": -1
+        },
+        {
+        "name": "animation_huben_hit_back_layer2",
+        "type": 2,
+        "z-order": -2
+        },
+        {
+        "name": "animation_huben_hit_front_layer1",
+        "type": 0,
+        "z-order": 2
+        },
+        {
+        "name": "animation_huben_hit_front_layer2",
+        "type": 2,
+        "z-order": 1
+        }
+        ]
+       ]
+  }
+}

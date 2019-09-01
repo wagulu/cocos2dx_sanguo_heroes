@@ -1,0 +1,10 @@
+{
+    "config": "sha_qi_nu_hou",
+    "id": 32,
+    "name": "sha_qi_nu_hou",
+    "level": 1,
+    "mpCost": 50,
+    "energyStart": 550,
+    "energyCost": 600,
+    "energySpeed": 20
+}

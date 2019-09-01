@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+
+message PlayerGetOtherUsersMonsterResponse{
+	optional ApiResponse		api = 1;					//公用参数
+	optional MonsterPB			monster = 2;				//武将数据
+}

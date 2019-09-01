@@ -1,0 +1,38 @@
+{
+    "1": {
+        "id": 1,
+        "groupId": 1,
+        "class": "MultiTreasureBox",
+        "startTime": "",
+        "endTime": "",
+        "ver": "1.0.0",
+        "name_zhCN": "\u91d1\u5b9d\u7bb1",
+        "description_zhCN": "\u53ef\u4ee5\u5f00\u51fa\u6a59\u8272\u7269\u54c1\uff0c\u9700\u8981\u91d1\u94a5\u5319\u6253\u5f00",
+        "asset": 1,
+        "quality": 5
+    },
+    "2": {
+        "id": 2,
+        "groupId": 1,
+        "class": "MultiTreasureBox",
+        "startTime": "",
+        "endTime": "",
+        "ver": "1.0.0",
+        "name_zhCN": "\u91d1\u94a5\u5319",
+        "description_zhCN": "\u7528\u4e8e\u6253\u5f00\u91d1\u94a5\u5319",
+        "asset": 2,
+        "quality": 4
+    },
+    "3": {
+        "id": 3,
+        "groupId": 2,
+        "class": "singleTreasureBox",
+        "startTime": "",
+        "endTime": "",
+        "ver": "1.0.0",
+        "name_zhCN": "\u798f\u888b",
+        "description_zhCN": "\u5f00\u542f\u540e\u968f\u673a\u83b7\u5f97\u4e00\u4ef6\u7269\u54c1",
+        "asset": 3,
+        "quality": 3
+    }
+}

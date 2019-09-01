@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message MonstersUseExpItemRequest{
+	optional ApiRequest	api = 1;		//公用参数
+	optional int32		monsterId = 2;	//武将id
+	optional int32		itemId = 3;		//道具id
+	optional int32		count = 4;		//使用数量
+}

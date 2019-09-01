@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message DepositReceiveBatchRequest{
+	optional ApiRequest	api = 1;			//公用参数
+	optional string		channel = 2;		//获取类型 可选 sys guild
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "id": 1,
+        "parts": 20,
+        "totalParts": 20,
+        "gain": "0",
+        "coin": 0,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "parts": 40,
+        "totalParts": 60,
+        "gain": "0.21",
+        "coin": 25000,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "parts": 80,
+        "totalParts": 140,
+        "gain": "0.42",
+        "coin": 100000,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "parts": 120,
+        "totalParts": 260,
+        "gain": "0.63",
+        "coin": 250000,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "parts": 240,
+        "totalParts": 500,
+        "gain": "0.85",
+        "coin": 1000000,
+        "ver": "1.0.0"
+    }
+}

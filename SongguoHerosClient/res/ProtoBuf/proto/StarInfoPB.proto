@@ -1,0 +1,12 @@
+message StarConditionPB {
+	optional int32					flag = 1;					//条件序列
+	optional string					condition = 2;				//条件内容
+}
+
+message StarInfoPB {
+	optional int32					flag = 1;					//星级顺位
+	optional string					conditionDisplay = 2;		//条件说明
+	optional int32					status = 3;					//是否已经获取
+	repeated StarConditionPB		conditions = 4;				//条件列表
+}
+

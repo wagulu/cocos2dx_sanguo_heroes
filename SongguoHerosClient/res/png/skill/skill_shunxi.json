@@ -1,0 +1,14 @@
+{
+  "damage": 200,
+  "cool_down": 10,
+  "animation": "animation_skill2",
+  "skill": [
+    [
+      {
+        "name": "animation_shunxi_layer1",
+        "type": 0,
+        "z-order": 2
+      }
+    ]
+  ]
+}

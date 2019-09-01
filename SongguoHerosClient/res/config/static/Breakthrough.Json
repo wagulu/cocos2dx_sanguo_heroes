@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "itemNum": 10,
+        "exclusiveItemNum": 1,
+        "coin": 100000,
+        "levelLimit": 10,
+        "Strength": 0,
+        "Intelligence": 0,
+        "Leadership": 0,
+        "HP": 0,
+        "ver": "1.0.0"
+    },
+    {
+        "id": 1,
+        "itemNum": 20,
+        "exclusiveItemNum": 2,
+        "coin": 150000,
+        "levelLimit": 20,
+        "Strength": 4,
+        "Intelligence": 4,
+        "Leadership": 4,
+        "HP": 315,
+        "ver": "1.0.0"
+    },
+    {
+        "id": 2,
+        "itemNum": 30,
+        "exclusiveItemNum": 3,
+        "coin": 200000,
+        "levelLimit": 30,
+        "Strength": 12,
+        "Intelligence": 12,
+        "Leadership": 12,
+        "HP": 945,
+        "ver": "1.0.0"
+    },
+    {
+        "id": 3,
+        "itemNum": 40,
+        "exclusiveItemNum": 4,
+        "coin": 250000,
+        "levelLimit": 40,
+        "Strength": 28,
+        "Intelligence": 28,
+        "Leadership": 28,
+        "HP": 2205,
+        "ver": "1.0.0"
+    },
+    {
+        "id": 4,
+        "itemNum": 50,
+        "exclusiveItemNum": 5,
+        "coin": 300000,
+        "levelLimit": 50,
+        "Strength": 52,
+        "Intelligence": 52,
+        "Leadership": 52,
+        "HP": 4095,
+        "ver": "1.0.0"
+    },
+    {
+        "id": 5,
+        "itemNum": 60,
+        "exclusiveItemNum": 6,
+        "coin": 350000,
+        "levelLimit": 60,
+        "Strength": 84,
+        "Intelligence": 84,
+        "Leadership": 84,
+        "HP": 6615,
+        "ver": "1.0.0"
+    },
+    {
+        "id": 6,
+        "itemNum": 70,
+        "exclusiveItemNum": 7,
+        "coin": 400000,
+        "levelLimit": 70,
+        "Strength": 132,
+        "Intelligence": 132,
+        "Leadership": 132,
+        "HP": 10395,
+        "ver": "1.0.0"
+    },
+    {
+        "id": 7,
+        "itemNum": 80,
+        "exclusiveItemNum": 8,
+        "coin": 450000,
+        "levelLimit": 80,
+        "Strength": 200,
+        "Intelligence": 200,
+        "Leadership": 200,
+        "HP": 15750,
+        "ver": "1.0.0"
+    },
+    {
+        "id": 8,
+        "itemNum": 90,
+        "exclusiveItemNum": 9,
+        "coin": 500000,
+        "levelLimit": 90,
+        "Strength": 280,
+        "Intelligence": 280,
+        "Leadership": 280,
+        "HP": 22050,
+        "ver": "1.0.0"
+    },
+    {
+        "id": 9,
+        "itemNum": 0,
+        "exclusiveItemNum": 0,
+        "coin": 0,
+        "levelLimit": 0,
+        "Strength": 400,
+        "Intelligence": 400,
+        "Leadership": 400,
+        "HP": 31500,
+        "ver": "1.0.0"
+    }
+]

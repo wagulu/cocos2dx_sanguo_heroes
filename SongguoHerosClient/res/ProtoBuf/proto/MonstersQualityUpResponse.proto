@@ -1,0 +1,8 @@
+import "MonsterPB.proto";
+import "ApiResponse.proto";
+
+message MonstersQualityUpResponse {
+	optional ApiResponse	api = 1;				//公用参数
+	optional int32			quality = 2;			//新等级
+	optional MonsterPB		monster = 3;			//武将数据
+}

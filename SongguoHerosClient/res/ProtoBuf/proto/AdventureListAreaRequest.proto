@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message AdventureListAreaRequest{
+	optional ApiRequest	api = 1;		//固定通讯模块
+	optional int32		islandId = 2;	//扩展属性暂时不用
+}

@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message PlayerGetOtherUsersMonsterRequest{
+	optional ApiRequest	api = 1;			//公用参数
+	optional int32		uid = 2;			//用户id
+	optional int32		monsterId = 3;		//武将id
+}

@@ -1,0 +1,145 @@
+{
+  "energyCost": 100.0,
+  "energySpeed":20,
+  "energyStart":90,
+  "mpCost": 100,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.0}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_douqi_15fps", "trigger": "hero"}
+    },
+	{
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockTrigger":"on_all_arrow_dead"}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":100.0, "unlockTrigger":"on_all_arrow_dead"}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideTrigger":"on_all_arrow_dead"}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"style":1.0}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill3"}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.7,
+      "params": {"duration":0.3, "amplitude":15.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"skill", "duration":0}
+    },
+    {
+      "name": "skill_wu_yue_hua_zhan",
+      "start": 0.9,
+      "params": {"animation": "moveSkill","type":"skill_arrow_line_track", "speed":1500, "breakDistance":400, "hp":"hp", "radius":0, "trigger":"attackHero"},
+      "damage": {"type":1, "side":0, "entityType":2, "delay":0.0, "base":100, "step":30, "factor":0.25, "speed_h":400, "speed_h_decay":0, "speed_v":400, "speed_v_decay":0, "gravity":1500},
+      "triggerOnRemove": "on_all_arrow_dead"
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "attackHero",
+      "params": {"SkillTarget":"OPP_HERO", "effect":"boss", "duration":0}
+    },
+    {
+      "name": "play_sound",
+      "trigger": "attackHero",
+      "params": {"event":"skill_hit", "trigger":"dou_qi"}
+    },
+    {
+      "name": "shake_camera",
+	  "trigger":"attackHero",
+      "params": {"duration": 0.5, "amplitude":2.0, "mode":4, "interval":3}
+    }
+  ],
+
+  "formula":
+  {
+      "hp":{"formula":"damage", "base":1200, "step":110, "factor":0.1, "property":"HP"}
+  },
+    
+  "asset": "skill_wuyue",
+  "effect":
+  {
+    "boss":
+    [
+      [
+        {
+          "name": "animation_fensheni_hit_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_fensheni_hit_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "moveSkill":
+    [
+      [
+        {
+          "name": "animation_fensheni_fly_little_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_fensheni_fly_little_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "skill":
+    [
+      [
+        {
+          "name": "animation_fensheni_layer0",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_fensheni_layer1",
+          "type": 2,
+          "z-order": 1
+        },
+        {
+          "name": "animation_fensheni_layer2",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_fensheni_layer3",
+          "type": 2,
+          "z-order": 3
+        }
+      ]
+    ]
+  }
+}

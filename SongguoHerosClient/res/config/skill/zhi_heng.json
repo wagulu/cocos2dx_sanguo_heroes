@@ -1,0 +1,26 @@
+{
+  "energyCost": 0.0,
+  "energySpeed":0.0,
+  "energyStart":1.0,
+  "mpCost": 0,
+  "negative": true,
+  "actions":
+  [
+    {
+      "name": "add_buff",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_SOLDIER", "property":"attack", "time":"buff_time", "value":"buff_value_Attack", "changeByAbsolute":true, "lock":false}
+    },
+    {
+      "name": "add_buff",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_SOLDIER", "property":"physicalDR", "time":"buff_time", "value":"buff_value_physicalDR", "changeByAbsolute":true, "lock":false}
+    }
+  ],
+  "formula":
+  {
+    "buff_time": {"formula":"max", "min":-1, "max":-1, "divide":1},
+    "buff_value_Attack": {"formula":"buff", "base":0, "step":25},
+    "buff_value_physicalDR": {"formula":"damage", "base":0.1, "step":0.009, "factor":0, "property":"physicalDR"}
+  }
+}

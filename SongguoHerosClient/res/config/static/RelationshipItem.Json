@@ -1,0 +1,1112 @@
+{
+    "1": {
+        "id": 1,
+        "monsterId": 1,
+        "itemType": "TreasureItem",
+        "itemId": 17,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5148\u79e6\u53e4\u8ff9",
+        "description_zhCN": "\u88c5\u5907\u53f8\u9a6c\u6cd5\u7269\u7406\u97e7\u6027\u503c\u63d0\u53472%"
+    },
+    "2": {
+        "id": 2,
+        "monsterId": 1,
+        "itemType": "TreasureItem",
+        "itemId": 29,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6587\u5fb7\u6b66\u5907",
+        "description_zhCN": "\u88c5\u5907\u5b5f\u5fb7\u65b0\u4e66\u7269\u7406\u97e7\u6027\u503c\u63d0\u53475%"
+    },
+    "3": {
+        "id": 3,
+        "monsterId": 1,
+        "itemType": "TreasureItem",
+        "itemId": 37,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5de6\u6148\u9057\u8ff9",
+        "description_zhCN": "\u88c5\u5907\u9041\u7532\u5929\u4e66\u7269\u7406\u97e7\u6027\u503c\u63d0\u534710%"
+    },
+    "4": {
+        "id": 4,
+        "monsterId": 2,
+        "itemType": "TreasureItem",
+        "itemId": 15,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7978\u798f\u4e4b\u67a2",
+        "description_zhCN": "\u88c5\u5907\u8d2a\u72fc\u4f69\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u53472%"
+    },
+    "5": {
+        "id": 5,
+        "monsterId": 2,
+        "itemType": "TreasureItem",
+        "itemId": 27,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5143\u59cb\u4ed9\u5c0a",
+        "description_zhCN": "\u88c5\u5907\u7389\u6e05\u5b9d\u4f69\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u53475%"
+    },
+    "6": {
+        "id": 6,
+        "monsterId": 2,
+        "itemType": "TreasureItem",
+        "itemId": 43,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8f9f\u5730\u4e4b\u8d50",
+        "description_zhCN": "\u88c5\u5907\u76d8\u53e4\u4ed9\u4f69\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u534710%"
+    },
+    "7": {
+        "id": 7,
+        "monsterId": 3,
+        "itemType": "TreasureItem",
+        "itemId": 22,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5730\u4e4b\u5229",
+        "description_zhCN": "\u88c5\u5907\u5730\u715e\u7b26\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53472%"
+    },
+    "8": {
+        "id": 8,
+        "monsterId": 3,
+        "itemType": "TreasureItem",
+        "itemId": 34,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e8f\u4e4b\u59cb",
+        "description_zhCN": "\u88c5\u5907\u592a\u6781\u7075\u7b26\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53475%"
+    },
+    "9": {
+        "id": 9,
+        "monsterId": 3,
+        "itemType": "TreasureItem",
+        "itemId": 46,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5996\u7075\u62dc\u8c12",
+        "description_zhCN": "\u88c5\u5907\u90aa\u6708\u795e\u7b26\u666e\u653b\u547d\u4e2d\u503c\u63d0\u534710%"
+    },
+    "10": {
+        "id": 10,
+        "monsterId": 16,
+        "itemType": "TreasureItem",
+        "itemId": 24,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u98ce\u4e4b\u6240\u5411",
+        "description_zhCN": "\u88c5\u5907\u906e\u5929\u5e06\u666e\u653b\u66b4\u51fb\u503c\u63d0\u53472%"
+    },
+    "11": {
+        "id": 11,
+        "monsterId": 16,
+        "itemType": "TreasureItem",
+        "itemId": 36,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u718f\u9999\u62a4\u4f53",
+        "description_zhCN": "\u88c5\u5907\u827e\u8349\u9999\u56ca\u666e\u653b\u66b4\u51fb\u503c\u63d0\u53475%"
+    },
+    "12": {
+        "id": 12,
+        "monsterId": 16,
+        "itemType": "TreasureItem",
+        "itemId": 48,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8f7d\u8fd0\u5b9d\u5177",
+        "description_zhCN": "\u88c5\u5907\u6728\u725b\u6d41\u9a6c\u666e\u653b\u66b4\u51fb\u503c\u63d0\u534710%"
+    },
+    "13": {
+        "id": 13,
+        "monsterId": 12,
+        "itemType": "TreasureItem",
+        "itemId": 18,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u4e4b\u65f6",
+        "description_zhCN": "\u88c5\u5907\u5929\u7f61\u7b26\u7269\u7406\u97e7\u6027\u503c\u63d0\u53472%"
+    },
+    "14": {
+        "id": 14,
+        "monsterId": 12,
+        "itemType": "TreasureItem",
+        "itemId": 30,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6708\u4e4b\u9668",
+        "description_zhCN": "\u88c5\u5907\u7384\u9634\u7075\u7b26\u7269\u7406\u97e7\u6027\u503c\u63d0\u53475%"
+    },
+    "15": {
+        "id": 15,
+        "monsterId": 12,
+        "itemType": "TreasureItem",
+        "itemId": 38,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9057\u661f\u73b0\u4e16",
+        "description_zhCN": "\u88c5\u5907\u661f\u9668\u795e\u7b26\u7269\u7406\u97e7\u6027\u503c\u63d0\u534710%"
+    },
+    "16": {
+        "id": 16,
+        "monsterId": 13,
+        "itemType": "TreasureItem",
+        "itemId": 21,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u53cd\u9b3c\u5947\u4e66",
+        "description_zhCN": "\u88c5\u5907\u5c09\u7f2d\u5b50\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53472%"
+    },
+    "17": {
+        "id": 17,
+        "monsterId": 13,
+        "itemType": "TreasureItem",
+        "itemId": 33,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5175\u4e2d\u4e4b\u9053",
+        "description_zhCN": "\u88c5\u5907\u5b59\u8191\u5175\u6cd5\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53475%"
+    },
+    "18": {
+        "id": 18,
+        "monsterId": 13,
+        "itemType": "TreasureItem",
+        "itemId": 45,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5175\u4e66\u5e08\u7956",
+        "description_zhCN": "\u88c5\u5907\u5b59\u5b50\u5175\u6cd5\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u534710%"
+    },
+    "19": {
+        "id": 19,
+        "monsterId": 17,
+        "itemType": "TreasureItem",
+        "itemId": 19,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7834\u800c\u540e\u7acb",
+        "description_zhCN": "\u88c5\u5907\u7834\u519b\u4f69\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53472%"
+    },
+    "20": {
+        "id": 20,
+        "monsterId": 17,
+        "itemType": "TreasureItem",
+        "itemId": 31,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7075\u5b9d\u9053\u541b",
+        "description_zhCN": "\u88c5\u5907\u4e0a\u6e05\u5b9d\u4f69\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53475%"
+    },
+    "21": {
+        "id": 21,
+        "monsterId": 17,
+        "itemType": "TreasureItem",
+        "itemId": 39,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8865\u5929\u4e4b\u9057",
+        "description_zhCN": "\u88c5\u5907\u5973\u5a32\u4ed9\u4f69\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u534710%"
+    },
+    "22": {
+        "id": 22,
+        "monsterId": 27,
+        "itemType": "TreasureItem",
+        "itemId": 14,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4eba\u4e4b\u548c",
+        "description_zhCN": "\u88c5\u5907\u4eba\u738b\u7b26\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u53472%"
+    },
+    "23": {
+        "id": 23,
+        "monsterId": 27,
+        "itemType": "TreasureItem",
+        "itemId": 26,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e1d\u4e4b\u540d",
+        "description_zhCN": "\u88c5\u5907\u660a\u5929\u7075\u7b26\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u53475%"
+    },
+    "24": {
+        "id": 24,
+        "monsterId": 27,
+        "itemType": "TreasureItem",
+        "itemId": 42,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u9633\u7470\u5b9d",
+        "description_zhCN": "\u88c5\u5907\u5143\u9633\u795e\u7b26\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u534710%"
+    },
+    "25": {
+        "id": 25,
+        "monsterId": 14,
+        "itemType": "TreasureItem",
+        "itemId": 23,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u715e\u5b64\u661f",
+        "description_zhCN": "\u88c5\u5907\u4e03\u6740\u4f69\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53472%"
+    },
+    "26": {
+        "id": 26,
+        "monsterId": 14,
+        "itemType": "TreasureItem",
+        "itemId": 35,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9053\u7956\u4e4b\u798f",
+        "description_zhCN": "\u88c5\u5907\u592a\u6e05\u5b9d\u4f69\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53475%"
+    },
+    "27": {
+        "id": 27,
+        "monsterId": 14,
+        "itemType": "TreasureItem",
+        "itemId": 47,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6587\u4e66\u59cb\u7956",
+        "description_zhCN": "\u88c5\u5907\u4f0f\u7fb2\u4ed9\u4f69\u666e\u653b\u547d\u4e2d\u503c\u63d0\u534710%"
+    },
+    "28": {
+        "id": 28,
+        "monsterId": 30,
+        "itemType": "TreasureItem",
+        "itemId": 22,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5730\u4e4b\u5229",
+        "description_zhCN": "\u88c5\u5907\u5730\u715e\u7b26\u666e\u653b\u95ea\u907f\u503c\u63d0\u53472%"
+    },
+    "29": {
+        "id": 29,
+        "monsterId": 30,
+        "itemType": "TreasureItem",
+        "itemId": 34,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e8f\u4e4b\u59cb",
+        "description_zhCN": "\u88c5\u5907\u592a\u6781\u7075\u7b26\u666e\u653b\u95ea\u907f\u503c\u63d0\u53475%"
+    },
+    "30": {
+        "id": 30,
+        "monsterId": 30,
+        "itemType": "TreasureItem",
+        "itemId": 46,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5996\u7075\u62dc\u8c12",
+        "description_zhCN": "\u88c5\u5907\u90aa\u6708\u795e\u7b26\u666e\u653b\u95ea\u907f\u503c\u63d0\u534710%"
+    },
+    "31": {
+        "id": 31,
+        "monsterId": 29,
+        "itemType": "TreasureItem",
+        "itemId": 16,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b3c\u4e4b\u62a4",
+        "description_zhCN": "\u88c5\u5907\u9b3c\u738b\u76fe\u666e\u653b\u66b4\u6297\u503c\u63d0\u53472%"
+    },
+    "32": {
+        "id": 32,
+        "monsterId": 29,
+        "itemType": "TreasureItem",
+        "itemId": 28,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e07\u706b\u4e4b\u6e90",
+        "description_zhCN": "\u88c5\u5907\u51c0\u708e\u706b\u77e2\u666e\u653b\u66b4\u6297\u503c\u63d0\u53475%"
+    },
+    "33": {
+        "id": 33,
+        "monsterId": 29,
+        "itemType": "TreasureItem",
+        "itemId": 44,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u547d\u6570\u4e4b\u5149",
+        "description_zhCN": "\u88c5\u5907\u516b\u5b9d\u7075\u706f\u666e\u653b\u66b4\u6297\u503c\u63d0\u534710%"
+    },
+    "34": {
+        "id": 34,
+        "monsterId": 15,
+        "itemType": "TreasureItem",
+        "itemId": 20,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u62a4\u5fc3\u5b9d\u955c",
+        "description_zhCN": "\u88c5\u5907\u5929\u7075\u955c\u7269\u7406\u66b4\u4f24\u503c\u63d0\u53472%"
+    },
+    "35": {
+        "id": 35,
+        "monsterId": 15,
+        "itemType": "TreasureItem",
+        "itemId": 32,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7389\u4e4b\u9b42",
+        "description_zhCN": "\u88c5\u5907\u78a7\u7389\u846b\u82a6\u7269\u7406\u66b4\u4f24\u503c\u63d0\u53475%"
+    },
+    "36": {
+        "id": 36,
+        "monsterId": 15,
+        "itemType": "TreasureItem",
+        "itemId": 40,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e1d\u738b\u4e4b\u6c14",
+        "description_zhCN": "\u88c5\u5907\u771f\u9f99\u7384\u5370\u7269\u7406\u66b4\u4f24\u503c\u63d0\u534710%"
+    },
+    "37": {
+        "id": 37,
+        "monsterId": 5,
+        "itemType": "TreasureItem",
+        "itemId": 21,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u53cd\u9b3c\u5947\u4e66",
+        "description_zhCN": "\u88c5\u5907\u5c09\u7f2d\u5b50\u666e\u653b\u66b4\u6297\u503c\u63d0\u53472%"
+    },
+    "38": {
+        "id": 38,
+        "monsterId": 5,
+        "itemType": "TreasureItem",
+        "itemId": 33,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5175\u4e2d\u4e4b\u9053",
+        "description_zhCN": "\u88c5\u5907\u5b59\u8191\u5175\u6cd5\u666e\u653b\u66b4\u6297\u503c\u63d0\u53475%"
+    },
+    "39": {
+        "id": 39,
+        "monsterId": 5,
+        "itemType": "TreasureItem",
+        "itemId": 45,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5175\u4e66\u5e08\u7956",
+        "description_zhCN": "\u88c5\u5907\u5b59\u5b50\u5175\u6cd5\u666e\u653b\u66b4\u6297\u503c\u63d0\u534710%"
+    },
+    "40": {
+        "id": 40,
+        "monsterId": 4,
+        "itemType": "TreasureItem",
+        "itemId": 16,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b3c\u4e4b\u62a4",
+        "description_zhCN": "\u88c5\u5907\u9b3c\u738b\u76fe\u666e\u653b\u95ea\u907f\u503c\u63d0\u53472%"
+    },
+    "41": {
+        "id": 41,
+        "monsterId": 4,
+        "itemType": "TreasureItem",
+        "itemId": 28,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e07\u706b\u4e4b\u6e90",
+        "description_zhCN": "\u88c5\u5907\u51c0\u708e\u706b\u77e2\u666e\u653b\u95ea\u907f\u503c\u63d0\u53475%"
+    },
+    "42": {
+        "id": 42,
+        "monsterId": 4,
+        "itemType": "TreasureItem",
+        "itemId": 44,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u547d\u6570\u4e4b\u5149",
+        "description_zhCN": "\u88c5\u5907\u516b\u5b9d\u7075\u706f\u666e\u653b\u95ea\u907f\u503c\u63d0\u534710%"
+    },
+    "43": {
+        "id": 43,
+        "monsterId": 8,
+        "itemType": "TreasureItem",
+        "itemId": 23,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u715e\u5b64\u661f",
+        "description_zhCN": "\u88c5\u5907\u4e03\u6740\u4f69\u7269\u7406\u66b4\u4f24\u503c\u63d0\u53472%"
+    },
+    "44": {
+        "id": 44,
+        "monsterId": 8,
+        "itemType": "TreasureItem",
+        "itemId": 35,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9053\u7956\u4e4b\u798f",
+        "description_zhCN": "\u88c5\u5907\u592a\u6e05\u5b9d\u4f69\u7269\u7406\u66b4\u4f24\u503c\u63d0\u53475%"
+    },
+    "45": {
+        "id": 45,
+        "monsterId": 8,
+        "itemType": "TreasureItem",
+        "itemId": 47,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6587\u4e66\u59cb\u7956",
+        "description_zhCN": "\u88c5\u5907\u4f0f\u7fb2\u4ed9\u4f69\u7269\u7406\u66b4\u4f24\u503c\u63d0\u534710%"
+    },
+    "46": {
+        "id": 46,
+        "monsterId": 6,
+        "itemType": "TreasureItem",
+        "itemId": 24,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u98ce\u4e4b\u6240\u5411",
+        "description_zhCN": "\u88c5\u5907\u906e\u5929\u5e06\u666e\u653b\u95ea\u907f\u503c\u63d0\u53472%"
+    },
+    "47": {
+        "id": 47,
+        "monsterId": 6,
+        "itemType": "TreasureItem",
+        "itemId": 36,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u718f\u9999\u62a4\u4f53",
+        "description_zhCN": "\u88c5\u5907\u827e\u8349\u9999\u56ca\u666e\u653b\u95ea\u907f\u503c\u63d0\u53475%"
+    },
+    "48": {
+        "id": 48,
+        "monsterId": 6,
+        "itemType": "TreasureItem",
+        "itemId": 48,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8f7d\u8fd0\u5b9d\u5177",
+        "description_zhCN": "\u88c5\u5907\u6728\u725b\u6d41\u9a6c\u666e\u653b\u95ea\u907f\u503c\u63d0\u534710%"
+    },
+    "49": {
+        "id": 49,
+        "monsterId": 18,
+        "itemType": "TreasureItem",
+        "itemId": 17,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5148\u79e6\u53e4\u8ff9",
+        "description_zhCN": "\u88c5\u5907\u53f8\u9a6c\u6cd5\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53472%"
+    },
+    "50": {
+        "id": 50,
+        "monsterId": 18,
+        "itemType": "TreasureItem",
+        "itemId": 29,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6587\u5fb7\u6b66\u5907",
+        "description_zhCN": "\u88c5\u5907\u5b5f\u5fb7\u65b0\u4e66\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53475%"
+    },
+    "51": {
+        "id": 51,
+        "monsterId": 18,
+        "itemType": "TreasureItem",
+        "itemId": 37,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5de6\u6148\u9057\u8ff9",
+        "description_zhCN": "\u88c5\u5907\u9041\u7532\u5929\u4e66\u666e\u653b\u547d\u4e2d\u503c\u63d0\u534710%"
+    },
+    "52": {
+        "id": 52,
+        "monsterId": 7,
+        "itemType": "TreasureItem",
+        "itemId": 22,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5730\u4e4b\u5229",
+        "description_zhCN": "\u88c5\u5907\u5730\u715e\u7b26\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53472%"
+    },
+    "53": {
+        "id": 53,
+        "monsterId": 7,
+        "itemType": "TreasureItem",
+        "itemId": 34,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e8f\u4e4b\u59cb",
+        "description_zhCN": "\u88c5\u5907\u592a\u6781\u7075\u7b26\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53475%"
+    },
+    "54": {
+        "id": 54,
+        "monsterId": 7,
+        "itemType": "TreasureItem",
+        "itemId": 46,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5996\u7075\u62dc\u8c12",
+        "description_zhCN": "\u88c5\u5907\u90aa\u6708\u795e\u7b26\u666e\u653b\u547d\u4e2d\u503c\u63d0\u534710%"
+    },
+    "55": {
+        "id": 55,
+        "monsterId": 19,
+        "itemType": "TreasureItem",
+        "itemId": 19,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7834\u800c\u540e\u7acb",
+        "description_zhCN": "\u88c5\u5907\u7834\u519b\u4f69\u666e\u653b\u95ea\u907f\u503c\u63d0\u53472%"
+    },
+    "56": {
+        "id": 56,
+        "monsterId": 19,
+        "itemType": "TreasureItem",
+        "itemId": 31,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7075\u5b9d\u9053\u541b",
+        "description_zhCN": "\u88c5\u5907\u4e0a\u6e05\u5b9d\u4f69\u666e\u653b\u95ea\u907f\u503c\u63d0\u53475%"
+    },
+    "57": {
+        "id": 57,
+        "monsterId": 19,
+        "itemType": "TreasureItem",
+        "itemId": 39,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8865\u5929\u4e4b\u9057",
+        "description_zhCN": "\u88c5\u5907\u5973\u5a32\u4ed9\u4f69\u666e\u653b\u95ea\u907f\u503c\u63d0\u534710%"
+    },
+    "58": {
+        "id": 58,
+        "monsterId": 35,
+        "itemType": "TreasureItem",
+        "itemId": 13,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5931\u4f20\u7edd\u827a",
+        "description_zhCN": "\u88c5\u5907\u9752\u56ca\u4e66\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u53472%"
+    },
+    "59": {
+        "id": 59,
+        "monsterId": 35,
+        "itemType": "TreasureItem",
+        "itemId": 25,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6218\u56fd\u7edd\u827a",
+        "description_zhCN": "\u88c5\u5907\u5434\u5b50\u5175\u6cd5\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u53475%"
+    },
+    "60": {
+        "id": 60,
+        "monsterId": 35,
+        "itemType": "TreasureItem",
+        "itemId": 41,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9ec4\u5dfe\u4e4b\u5b9d",
+        "description_zhCN": "\u88c5\u5907\u592a\u5e73\u8981\u672f\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u534710%"
+    },
+    "61": {
+        "id": 61,
+        "monsterId": 33,
+        "itemType": "TreasureItem",
+        "itemId": 21,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u53cd\u9b3c\u5947\u4e66",
+        "description_zhCN": "\u88c5\u5907\u5c09\u7f2d\u5b50\u666e\u653b\u66b4\u51fb\u503c\u63d0\u53472%"
+    },
+    "62": {
+        "id": 62,
+        "monsterId": 33,
+        "itemType": "TreasureItem",
+        "itemId": 33,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5175\u4e2d\u4e4b\u9053",
+        "description_zhCN": "\u88c5\u5907\u5b59\u8191\u5175\u6cd5\u666e\u653b\u66b4\u51fb\u503c\u63d0\u53475%"
+    },
+    "63": {
+        "id": 63,
+        "monsterId": 33,
+        "itemType": "TreasureItem",
+        "itemId": 45,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5175\u4e66\u5e08\u7956",
+        "description_zhCN": "\u88c5\u5907\u5b59\u5b50\u5175\u6cd5\u666e\u653b\u66b4\u51fb\u503c\u63d0\u534710%"
+    },
+    "64": {
+        "id": 64,
+        "monsterId": 32,
+        "itemType": "TreasureItem",
+        "itemId": 23,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u715e\u5b64\u661f",
+        "description_zhCN": "\u88c5\u5907\u4e03\u6740\u4f69\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53472%"
+    },
+    "65": {
+        "id": 65,
+        "monsterId": 32,
+        "itemType": "TreasureItem",
+        "itemId": 35,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9053\u7956\u4e4b\u798f",
+        "description_zhCN": "\u88c5\u5907\u592a\u6e05\u5b9d\u4f69\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53475%"
+    },
+    "66": {
+        "id": 66,
+        "monsterId": 32,
+        "itemType": "TreasureItem",
+        "itemId": 47,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6587\u4e66\u59cb\u7956",
+        "description_zhCN": "\u88c5\u5907\u4f0f\u7fb2\u4ed9\u4f69\u666e\u653b\u547d\u4e2d\u503c\u63d0\u534710%"
+    },
+    "67": {
+        "id": 67,
+        "monsterId": 20,
+        "itemType": "TreasureItem",
+        "itemId": 18,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u4e4b\u65f6",
+        "description_zhCN": "\u88c5\u5907\u5929\u7f61\u7b26\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u53472%"
+    },
+    "68": {
+        "id": 68,
+        "monsterId": 20,
+        "itemType": "TreasureItem",
+        "itemId": 30,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6708\u4e4b\u9668",
+        "description_zhCN": "\u88c5\u5907\u7384\u9634\u7075\u7b26\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u53475%"
+    },
+    "69": {
+        "id": 69,
+        "monsterId": 20,
+        "itemType": "TreasureItem",
+        "itemId": 38,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9057\u661f\u73b0\u4e16",
+        "description_zhCN": "\u88c5\u5907\u661f\u9668\u795e\u7b26\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u534710%"
+    },
+    "70": {
+        "id": 70,
+        "monsterId": 34,
+        "itemType": "TreasureItem",
+        "itemId": 15,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7978\u798f\u4e4b\u67a2",
+        "description_zhCN": "\u88c5\u5907\u8d2a\u72fc\u4f69\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53472%"
+    },
+    "71": {
+        "id": 71,
+        "monsterId": 34,
+        "itemType": "TreasureItem",
+        "itemId": 27,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5143\u59cb\u4ed9\u5c0a",
+        "description_zhCN": "\u88c5\u5907\u7389\u6e05\u5b9d\u4f69\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53475%"
+    },
+    "72": {
+        "id": 72,
+        "monsterId": 34,
+        "itemType": "TreasureItem",
+        "itemId": 43,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8f9f\u5730\u4e4b\u8d50",
+        "description_zhCN": "\u88c5\u5907\u76d8\u53e4\u4ed9\u4f69\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u534710%"
+    },
+    "73": {
+        "id": 73,
+        "monsterId": 10,
+        "itemType": "TreasureItem",
+        "itemId": 21,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u53cd\u9b3c\u5947\u4e66",
+        "description_zhCN": "\u88c5\u5907\u5c09\u7f2d\u5b50\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53472%"
+    },
+    "74": {
+        "id": 74,
+        "monsterId": 10,
+        "itemType": "TreasureItem",
+        "itemId": 33,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5175\u4e2d\u4e4b\u9053",
+        "description_zhCN": "\u88c5\u5907\u5b59\u8191\u5175\u6cd5\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53475%"
+    },
+    "75": {
+        "id": 75,
+        "monsterId": 10,
+        "itemType": "TreasureItem",
+        "itemId": 45,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5175\u4e66\u5e08\u7956",
+        "description_zhCN": "\u88c5\u5907\u5b59\u5b50\u5175\u6cd5\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u534710%"
+    },
+    "76": {
+        "id": 76,
+        "monsterId": 9,
+        "itemType": "TreasureItem",
+        "itemId": 14,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4eba\u4e4b\u548c",
+        "description_zhCN": "\u88c5\u5907\u4eba\u738b\u7b26\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53472%"
+    },
+    "77": {
+        "id": 77,
+        "monsterId": 9,
+        "itemType": "TreasureItem",
+        "itemId": 26,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e1d\u4e4b\u540d",
+        "description_zhCN": "\u88c5\u5907\u660a\u5929\u7075\u7b26\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53475%"
+    },
+    "78": {
+        "id": 78,
+        "monsterId": 9,
+        "itemType": "TreasureItem",
+        "itemId": 42,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u9633\u7470\u5b9d",
+        "description_zhCN": "\u88c5\u5907\u5143\u9633\u795e\u7b26\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u534710%"
+    },
+    "79": {
+        "id": 79,
+        "monsterId": 22,
+        "itemType": "TreasureItem",
+        "itemId": 22,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5730\u4e4b\u5229",
+        "description_zhCN": "\u88c5\u5907\u5730\u715e\u7b26\u7269\u7406\u97e7\u6027\u503c\u63d0\u53472%"
+    },
+    "80": {
+        "id": 80,
+        "monsterId": 22,
+        "itemType": "TreasureItem",
+        "itemId": 34,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e8f\u4e4b\u59cb",
+        "description_zhCN": "\u88c5\u5907\u592a\u6781\u7075\u7b26\u7269\u7406\u97e7\u6027\u503c\u63d0\u53475%"
+    },
+    "81": {
+        "id": 81,
+        "monsterId": 22,
+        "itemType": "TreasureItem",
+        "itemId": 46,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5996\u7075\u62dc\u8c12",
+        "description_zhCN": "\u88c5\u5907\u90aa\u6708\u795e\u7b26\u7269\u7406\u97e7\u6027\u503c\u63d0\u534710%"
+    },
+    "82": {
+        "id": 82,
+        "monsterId": 24,
+        "itemType": "TreasureItem",
+        "itemId": 24,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u98ce\u4e4b\u6240\u5411",
+        "description_zhCN": "\u88c5\u5907\u906e\u5929\u5e06\u666e\u653b\u66b4\u6297\u503c\u63d0\u53472%"
+    },
+    "83": {
+        "id": 83,
+        "monsterId": 24,
+        "itemType": "TreasureItem",
+        "itemId": 36,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u718f\u9999\u62a4\u4f53",
+        "description_zhCN": "\u88c5\u5907\u827e\u8349\u9999\u56ca\u666e\u653b\u66b4\u6297\u503c\u63d0\u53475%"
+    },
+    "84": {
+        "id": 84,
+        "monsterId": 24,
+        "itemType": "TreasureItem",
+        "itemId": 48,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8f7d\u8fd0\u5b9d\u5177",
+        "description_zhCN": "\u88c5\u5907\u6728\u725b\u6d41\u9a6c\u666e\u653b\u66b4\u6297\u503c\u63d0\u534710%"
+    },
+    "85": {
+        "id": 85,
+        "monsterId": 23,
+        "itemType": "TreasureItem",
+        "itemId": 17,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5148\u79e6\u53e4\u8ff9",
+        "description_zhCN": "\u88c5\u5907\u53f8\u9a6c\u6cd5\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53472%"
+    },
+    "86": {
+        "id": 86,
+        "monsterId": 23,
+        "itemType": "TreasureItem",
+        "itemId": 29,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6587\u5fb7\u6b66\u5907",
+        "description_zhCN": "\u88c5\u5907\u5b5f\u5fb7\u65b0\u4e66\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53475%"
+    },
+    "87": {
+        "id": 87,
+        "monsterId": 23,
+        "itemType": "TreasureItem",
+        "itemId": 37,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5de6\u6148\u9057\u8ff9",
+        "description_zhCN": "\u88c5\u5907\u9041\u7532\u5929\u4e66\u666e\u653b\u547d\u4e2d\u503c\u63d0\u534710%"
+    },
+    "88": {
+        "id": 88,
+        "monsterId": 42,
+        "itemType": "TreasureItem",
+        "itemId": 23,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u715e\u5b64\u661f",
+        "description_zhCN": "\u88c5\u5907\u4e03\u6740\u4f69\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53472%"
+    },
+    "89": {
+        "id": 89,
+        "monsterId": 42,
+        "itemType": "TreasureItem",
+        "itemId": 35,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9053\u7956\u4e4b\u798f",
+        "description_zhCN": "\u88c5\u5907\u592a\u6e05\u5b9d\u4f69\u666e\u653b\u547d\u4e2d\u503c\u63d0\u53475%"
+    },
+    "90": {
+        "id": 90,
+        "monsterId": 42,
+        "itemType": "TreasureItem",
+        "itemId": 47,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6587\u4e66\u59cb\u7956",
+        "description_zhCN": "\u88c5\u5907\u4f0f\u7fb2\u4ed9\u4f69\u666e\u653b\u547d\u4e2d\u503c\u63d0\u534710%"
+    },
+    "91": {
+        "id": 91,
+        "monsterId": 21,
+        "itemType": "TreasureItem",
+        "itemId": 20,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u62a4\u5fc3\u5b9d\u955c",
+        "description_zhCN": "\u88c5\u5907\u5929\u7075\u955c\u666e\u653b\u95ea\u907f\u503c\u63d0\u53472%"
+    },
+    "92": {
+        "id": 92,
+        "monsterId": 21,
+        "itemType": "TreasureItem",
+        "itemId": 32,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7389\u4e4b\u9b42",
+        "description_zhCN": "\u88c5\u5907\u78a7\u7389\u846b\u82a6\u666e\u653b\u95ea\u907f\u503c\u63d0\u53475%"
+    },
+    "93": {
+        "id": 93,
+        "monsterId": 21,
+        "itemType": "TreasureItem",
+        "itemId": 40,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e1d\u738b\u4e4b\u6c14",
+        "description_zhCN": "\u88c5\u5907\u771f\u9f99\u7384\u5370\u666e\u653b\u95ea\u907f\u503c\u63d0\u534710%"
+    },
+    "94": {
+        "id": 94,
+        "monsterId": 36,
+        "itemType": "TreasureItem",
+        "itemId": 16,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b3c\u4e4b\u62a4",
+        "description_zhCN": "\u88c5\u5907\u9b3c\u738b\u76fe\u666e\u653b\u95ea\u907f\u503c\u63d0\u53472%"
+    },
+    "95": {
+        "id": 95,
+        "monsterId": 36,
+        "itemType": "TreasureItem",
+        "itemId": 28,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e07\u706b\u4e4b\u6e90",
+        "description_zhCN": "\u88c5\u5907\u51c0\u708e\u706b\u77e2\u666e\u653b\u95ea\u907f\u503c\u63d0\u53475%"
+    },
+    "96": {
+        "id": 96,
+        "monsterId": 36,
+        "itemType": "TreasureItem",
+        "itemId": 44,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u547d\u6570\u4e4b\u5149",
+        "description_zhCN": "\u88c5\u5907\u516b\u5b9d\u7075\u706f\u666e\u653b\u95ea\u907f\u503c\u63d0\u534710%"
+    },
+    "97": {
+        "id": 97,
+        "monsterId": 38,
+        "itemType": "TreasureItem",
+        "itemId": 13,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5931\u4f20\u7edd\u827a",
+        "description_zhCN": "\u88c5\u5907\u9752\u56ca\u4e66\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53472%"
+    },
+    "98": {
+        "id": 98,
+        "monsterId": 38,
+        "itemType": "TreasureItem",
+        "itemId": 25,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6218\u56fd\u7edd\u827a",
+        "description_zhCN": "\u88c5\u5907\u5434\u5b50\u5175\u6cd5\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u53475%"
+    },
+    "99": {
+        "id": 99,
+        "monsterId": 38,
+        "itemType": "TreasureItem",
+        "itemId": 41,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9ec4\u5dfe\u4e4b\u5b9d",
+        "description_zhCN": "\u88c5\u5907\u592a\u5e73\u8981\u672f\u6cd5\u672f\u97e7\u6027\u503c\u63d0\u534710%"
+    },
+    "100": {
+        "id": 100,
+        "monsterId": 37,
+        "itemType": "TreasureItem",
+        "itemId": 18,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u4e4b\u65f6",
+        "description_zhCN": "\u88c5\u5907\u5929\u7f61\u7b26\u7269\u7406\u97e7\u6027\u503c\u63d0\u53472%"
+    },
+    "101": {
+        "id": 101,
+        "monsterId": 37,
+        "itemType": "TreasureItem",
+        "itemId": 30,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6708\u4e4b\u9668",
+        "description_zhCN": "\u88c5\u5907\u7384\u9634\u7075\u7b26\u7269\u7406\u97e7\u6027\u503c\u63d0\u53475%"
+    },
+    "102": {
+        "id": 102,
+        "monsterId": 37,
+        "itemType": "TreasureItem",
+        "itemId": 38,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9057\u661f\u73b0\u4e16",
+        "description_zhCN": "\u88c5\u5907\u661f\u9668\u795e\u7b26\u7269\u7406\u97e7\u6027\u503c\u63d0\u534710%"
+    },
+    "103": {
+        "id": 103,
+        "monsterId": 40,
+        "itemType": "TreasureItem",
+        "itemId": 15,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7978\u798f\u4e4b\u67a2",
+        "description_zhCN": "\u88c5\u5907\u8d2a\u72fc\u4f69\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u53472%"
+    },
+    "104": {
+        "id": 104,
+        "monsterId": 40,
+        "itemType": "TreasureItem",
+        "itemId": 27,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5143\u59cb\u4ed9\u5c0a",
+        "description_zhCN": "\u88c5\u5907\u7389\u6e05\u5b9d\u4f69\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u53475%"
+    },
+    "105": {
+        "id": 105,
+        "monsterId": 40,
+        "itemType": "TreasureItem",
+        "itemId": 43,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8f9f\u5730\u4e4b\u8d50",
+        "description_zhCN": "\u88c5\u5907\u76d8\u53e4\u4ed9\u4f69\u6cd5\u672f\u66b4\u4f24\u503c\u63d0\u534710%"
+    },
+    "106": {
+        "id": 106,
+        "monsterId": 41,
+        "itemType": "TreasureItem",
+        "itemId": 24,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u98ce\u4e4b\u6240\u5411",
+        "description_zhCN": "\u88c5\u5907\u906e\u5929\u5e06\u666e\u653b\u66b4\u51fb\u503c\u63d0\u53472%"
+    },
+    "107": {
+        "id": 107,
+        "monsterId": 41,
+        "itemType": "TreasureItem",
+        "itemId": 36,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u718f\u9999\u62a4\u4f53",
+        "description_zhCN": "\u88c5\u5907\u827e\u8349\u9999\u56ca\u666e\u653b\u66b4\u51fb\u503c\u63d0\u53475%"
+    },
+    "108": {
+        "id": 108,
+        "monsterId": 41,
+        "itemType": "TreasureItem",
+        "itemId": 48,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8f7d\u8fd0\u5b9d\u5177",
+        "description_zhCN": "\u88c5\u5907\u6728\u725b\u6d41\u9a6c\u666e\u653b\u66b4\u51fb\u503c\u63d0\u534710%"
+    },
+    "109": {
+        "id": 109,
+        "monsterId": 11,
+        "itemType": "TreasureItem",
+        "itemId": 22,
+        "flag": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5730\u4e4b\u5229",
+        "description_zhCN": "\u88c5\u5907\u5730\u715e\u7b26\u666e\u653b\u66b4\u51fb\u503c\u63d0\u53472%"
+    },
+    "110": {
+        "id": 110,
+        "monsterId": 11,
+        "itemType": "TreasureItem",
+        "itemId": 34,
+        "flag": 2,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e8f\u4e4b\u59cb",
+        "description_zhCN": "\u88c5\u5907\u592a\u6781\u7075\u7b26\u666e\u653b\u66b4\u51fb\u503c\u63d0\u53475%"
+    },
+    "111": {
+        "id": 111,
+        "monsterId": 11,
+        "itemType": "TreasureItem",
+        "itemId": 46,
+        "flag": 3,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5996\u7075\u62dc\u8c12",
+        "description_zhCN": "\u88c5\u5907\u90aa\u6708\u795e\u7b26\u666e\u653b\u66b4\u51fb\u503c\u63d0\u534710%"
+    }
+}

@@ -1,0 +1,12 @@
+import "ApiResponse.proto";
+import "AdventureListAreaResponse.proto";
+import "AdventureListIslandResponse.proto";
+import "AdventureListStageResponse.proto";
+
+message InitUserResponse{
+	optional ApiResponse			api = 1;							//公用参数
+	repeated IslandsInfoPB			userIslands = 2;
+	repeated AreasInfoPB			userAreas = 3;
+	repeated StagesInfoPB			userStages = 4;
+	repeated StagesInfoPB			userEliteStages = 5;
+}

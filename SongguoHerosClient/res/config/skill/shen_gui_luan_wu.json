@@ -1,0 +1,172 @@
+{
+  "energyCost": 1,
+  "energySpeed":20,
+  "energyStart":240,
+  "mpCost": 1,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.0}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_wu_shuang_lian_ci", "trigger": "hero"}
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":3.5}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":3.3}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":3.3}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation": "animation_skill4", "break_time":75}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"skill", "duration":0}
+    },
+    {
+      "name": "set_state_dizzy_on_skill_attack",
+      "start": 0.0,
+      "lifeTime": 3.0,
+      "params": {"ratio":"dizzy_ratio", "heroDizzyConfig":"dizzy_on_skill_hit"}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration":0.3, "amplitude":5.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "find_target",
+      "start": 1.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "interval_trigger",
+      "start": 1.0,
+      "params": {"trigger":"on_multi_attack", "interval":0.1, "times":8}
+    },
+    {
+      "name": "attack_rect",
+      "trigger": "on_multi_attack",
+      "damage": {"type":0, "side":0, "entityType":2,
+                 "base":25, "step":5, "factor":0.001, 
+                 "speed_h":600, "speed_h_decay":300, "speed_v":500, "speed_v_decay":100, "gravity":1000, 
+                 "trigger":"on_multi_hit", 
+                 "showDefaultSkillHitEffect":true},
+      "params": {"width":3, "height":3, "spreadInterval":0.0}
+    },
+    {
+      "name": "play_sound",
+      "trigger":"on_multi_hit",
+      "params": {"event": "skill_hit", "trigger": "qing_bing_qi"}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "on_multi_hit",
+      "params": {"duration":0.1, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "attack_rect",
+      "start": 2.5,
+      "damage": {"type":0, "side":0, "entityType":2,
+                 "base":0, "step":0, "factor":1.0, 
+                 "speed_h":300, "speed_h_decay":300, "speed_v":600, "speed_v_decay":100, "gravity":1200, 
+                 "trigger":"on_last_hit", 
+                 "showDefaultSkillHitEffect":true},
+      "params": {"width":3, "height":3, "spreadInterval":0.0}
+    },
+    {
+      "name": "play_sound",
+      "trigger":"on_last_hit",
+      "params": {"event": "skill_hit", "trigger": "qing_bing_qi"}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "on_last_hit",
+      "params": {"delay":0.1, "duration":0.3, "amplitude":20.0, "mode":4}
+    }
+  ],
+
+  "formula":
+  {
+    "dizzy_ratio": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0}
+  },
+
+  "dizzy":
+  {
+    "dizzy_on_skill_hit":
+    {
+      "allowBreakByAnotherDizzy":false,
+      "action":
+      [
+        {"name":"play_hit_animation"},
+        {"name":"change_color"},
+        {"name":"knock_back", "knockBackTile":2, "knockBackTrigger":"on_last_hit"}
+      ],
+      "condition":
+      [
+        {"name":"by_skill_end", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_shengui",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_shengui_layer1",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shengui_layer2",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shengui_layer3",
+          "type": 2,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shengui_layer4",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shengui_layer5",
+          "type": 2,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shengui_layer6",
+          "type": 0,
+          "z-order": 1
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "1": {
+        "id": 1,
+        "asset": "1",
+        "quality": 2,
+        "quippedType": 1,
+        "levelUpType": 1,
+        "qualityUpType": 1,
+        "baseExp": 100,
+        "ver": "1.0.0",
+        "name_zhCN": "\u73cd\u5b9d1\u540d\u79f0",
+        "description_zhCN": "\u73cd\u5b9d1\u8bf4\u660e"
+    },
+    "2": {
+        "id": 2,
+        "asset": "1",
+        "quality": 3,
+        "quippedType": 2,
+        "levelUpType": 1,
+        "qualityUpType": 1,
+        "baseExp": 100,
+        "ver": "1.0.0",
+        "name_zhCN": "\u73cd\u5b9d2\u540d\u79f0",
+        "description_zhCN": "\u73cd\u5b9d2\u8bf4\u660e"
+    }
+}

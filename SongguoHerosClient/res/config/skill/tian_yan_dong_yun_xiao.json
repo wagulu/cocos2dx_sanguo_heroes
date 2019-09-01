@@ -1,0 +1,153 @@
+{
+  "energyCost": 100.0,
+  "energySpeed":100,
+  "energyStart":1100,
+  "mpCost": 10,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.0}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation": "animation_skill2", "break_time":1.3}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"hero", "duration":0}
+    },
+    {
+      "name": "set_state_dizzy_on_skill_attack",
+      "start": 0.0,
+      "lifeTime": 10.0,
+      "params": {"time":"dizzy_time", "enable":"dizzy_enable", "heroDizzyConfig":"hero_dizzy"}
+    },
+    {
+      "name": "find_tile_center_on_most_people",
+      "start": 1.0,
+      "params": {"DamageSide":"ENEMY", "squareSize":3},
+      "triggerOnRemove": "on_find_center"
+    },
+    {
+      "name": "find_tile_center_on_most_people",
+      "start": 2.0,
+      "params": {"DamageSide":"ENEMY", "squareSize":3},
+      "triggerOnRemove": "on_find_center"
+    },
+    {
+      "name": "find_tile_center_on_most_people",
+      "start": 3.0,
+      "params": {"DamageSide":"ENEMY", "squareSize":3},
+      "triggerOnRemove": "on_find_center"
+    },
+    {
+      "name": "find_tile_center_on_most_people",
+      "start": 4.0,
+      "params": {"DamageSide":"ENEMY", "squareSize":3},
+      "triggerOnRemove": "on_find_center"
+    },
+    {
+      "name": "move_camera_to_tile",
+      "trigger": "on_find_center",
+      "params": {"time":0.2, "delay":0}
+    },
+    {
+      "name": "add_tile_effect",
+      "trigger": "on_find_center",
+      "params": {"effect":"target", "duration":0, "randomOffset":80}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "on_find_center",
+      "params": {"duration":0.4, "amplitude":20.0, "mode":5, "interval":2, "delay":0.4}
+    },
+    {
+      "name": "attack_diamond_area_center_on_tile",
+      "trigger": "on_find_center",
+      "damage": {"type":0, "side":0, "entityType":2, "delay":0.4, "base":200, "step":10, "factor":1.2, "speed_h":300, "speed_h_decay":100, "speed_v":550, "speed_v_decay":200, "gravity":1500, "dead_animation":"dead"},
+      "params": {"radius":2, "spreadInterval":0}
+    }
+  ],
+
+  "formula":
+  {
+    "dizzy_time": {"formula":"min", "min":2.0, "base":1.0, "factor":0.3, "divide":10.0},
+    "dizzy_enable": {"formula":"enable", "base":0, "step":20}
+  },
+
+  "dizzy":
+  {
+    "hero_dizzy":
+    {
+      "allowBreakByAnotherDizzy":true,
+      "action":
+      [
+        {"name":"stop_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"}
+      ],
+      "condition":
+      [
+        {"name":"by_time", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_liuxing",
+  "effect":
+  {
+    "target":
+    [
+      [
+        {
+          "name": "animation_liuxing_soldier_front_layer2",
+          "type": 2,
+          "z-order": 2
+        },
+        {
+          "name": "animation_liuxing_soldier_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_liuxing_soldier_back_layer1",
+          "type": 0,
+          "z-order": -1
+        }
+      ]
+    ],
+    "hero":
+    [
+      [
+        {
+          "name": "animation_liuxing_front_layer1",
+          "type": 2,
+          "z-order": 1
+        },
+        {
+          "name": "animation_liuxing_back_layer1",
+          "type": 0,
+          "z-order": -1
+        }
+      ]
+    ],
+	  "dead":
+    [
+      [
+        {
+          "name": "animation_liuxing_soldier_hit_back_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ]
+  }
+}

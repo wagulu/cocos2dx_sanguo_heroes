@@ -1,0 +1,74 @@
+{
+    "1": {
+        "id": 1,
+        "relativeId": 1,
+        "property": "AtkHitRate",
+        "value": "-0.1",
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "relativeId": 2,
+        "property": "AtkHitRate",
+        "value": "-0.1",
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "relativeId": 3,
+        "property": "AtkHitRate",
+        "value": "-0.1",
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "relativeId": 4,
+        "property": "AtkHitRate",
+        "value": "-0.1",
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "relativeId": 5,
+        "property": "AtkHitRate",
+        "value": "-0.1",
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "relativeId": 6,
+        "property": "AtkHitRate",
+        "value": "-0.1",
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "relativeId": 7,
+        "property": "AtkHitRate",
+        "value": "-0.1",
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "relativeId": 8,
+        "property": "AtkHitRate",
+        "value": "-0.1",
+        "operator": "plus",
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "relativeId": 9,
+        "property": "AtkHitRate",
+        "value": "-0.1",
+        "operator": "plus",
+        "ver": "1.0.0"
+    }
+}

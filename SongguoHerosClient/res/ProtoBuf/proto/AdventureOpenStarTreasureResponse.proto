@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "PrizePB.proto";
+
+message AdventureOpenStarTreasureResponse{
+	optional ApiResponse 	api = 1;					//公用参数
+	repeated PrizePB		starTreasureBoxInfo = 2;	//获取列表
+}

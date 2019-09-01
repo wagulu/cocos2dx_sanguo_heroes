@@ -1,0 +1,148 @@
+{
+  "energyCost":10.0,
+  "energySpeed":20,
+  "energyStart":500,
+  "mpCost": 10,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.8,
+      "params": {"event": "qishou_mie_yuan_zhan", "trigger": "hero"}
+    },
+	  {
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":4.5}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":4.3}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":4.3}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"tar":0}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration":0.3, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill2"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"skill", "duration":0}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 1.5,
+      "params": {"tar":1}
+    },
+    {
+      "name": "find_target",
+      "start": 1.5,
+      "params": {"SkillTarget":"OPP_HERO"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 1.5,
+      "params": {"effect":"hit", "duration":0, "follow":false}
+    },
+    {
+      "name": "attack_on_find_target",
+      "start": 1.5,
+      "damage": {"type":1, "side":0, "entityType":1, "base":300, "step":15, "factor":0.1}
+    },
+    {
+      "name": "shake_camera",
+      "start": 1.5,
+      "params": {"duration":0.2, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "find_tile_on_enemy_hero",
+      "start": 1.5
+    },
+    {
+      "name": "attack_diamond_area_center_on_tile",
+      "start": 3.7,
+      "damage": {"type":0, "side":0, "entityType":2, "base":100, "step":60, "factor":0, "speed_h":400, "speed_h_decay":0, "speed_v":400, "speed_v_decay":0, "gravity":1200},
+      "params": {"radius":5, "spreadInterval":0.0}
+    }
+  ],
+    
+  "asset": "skill_bingjing",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_bingjing_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_bingjing_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_bingjing_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_bingjing_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "hit": 
+    [
+      [
+        {
+          "name": "animation_bingjing_hit_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_bingjing_hit_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_bingjing_hit_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_bingjing_hit_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ]
+  }
+}

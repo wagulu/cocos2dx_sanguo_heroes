@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "HighladderShopPB.proto";
+
+message HighladderGetShopResponse {
+	optional ApiResponse	api = 1;	//公用参数
+	optional HighladderShopPB shop = 2;	//天梯商店
+}

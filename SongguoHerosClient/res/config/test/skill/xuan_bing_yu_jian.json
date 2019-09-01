@@ -1,0 +1,10 @@
+{
+    "config": "xuan_bing_yu_jian",
+    "id": 46,
+    "name": "xuan_bing_yu_jian",
+    "level": 1,
+    "mpCost": 5,
+    "energyStart": 50,
+    "energyCost": 40,
+    "energySpeed": 20
+}

@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "ItemPB.proto";
+
+message PlayerUseItemResponse{
+	optional ApiResponse			api = 1;				//公用参数
+	optional ItemPB					item = 2;				//道具信息
+}

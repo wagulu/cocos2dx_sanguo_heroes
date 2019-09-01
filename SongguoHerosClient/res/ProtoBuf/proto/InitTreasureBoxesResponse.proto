@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "TreasureBoxesPB.proto";
+
+message InitTreasureBoxesResponse{
+	optional ApiResponse		api = 1;							//公用参数
+	repeated TreasureBoxesPB	treasureBoxes = 2;					//拥有的宝箱列表
+}

@@ -1,0 +1,247 @@
+{
+  "energyCost":200,
+  "energySpeed":20,
+  "energyStart":180,
+  "mpCost":1,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.0}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_gui_ji_chi_hun", "trigger": "hero"}
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockTrigger":"finalHitAttack"}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":10.0, "unlockTrigger":"finalHitAttack", "noBack":1}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideTrigger":"finalHitAttack"}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"dtx":-300, "style":3}
+    },
+    {
+      "name": "find_target",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill6_1"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"effect":"skill", "duration":0}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration": 0.5, "amplitude":10.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "skill_gui_ji_shi_hun",
+      "start": 0.8,
+      "damage": {"type":0, "side":0, "entityType":1, "base":50, "step":15, "factor":0.001, "trigger":"repeatHitShake", "showDefaultSkillHitEffect":true},
+      "params": {"radius":5, "attackInterval":0.25, "blackHoleRepeatDuration":0.1, "finalHitAnimationDelay":0.86, "finalHitAttackDelay":1.66,
+                 "absorbFastDelay":0.6, "knockBackDelay":1.3,
+                 "heroDizzyConfig":"dizzy_by_skill"}
+    },
+    {
+      "name": "play_sound",
+      "trigger":"repeatHitShake",
+      "params": {"event": "skill_hit", "trigger": "qing_bing_qi"}
+    },
+    {
+      "name": "play_animation",
+      "trigger": "blackHoleStart",
+      "params": {"animation":"animation_skill6_2", "duration":5.0}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "blackHoleStart",
+      "params": {"effect":"loopSkill"}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "repeatHitShake",
+      "params": {"duration":0.5, "amplitude":5.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "attack_diamond_area_center_on_hero",
+      "trigger": "attackEnemySoldier",
+      "damage": {"type":0, "side":0, "entityType":0, "base":50, "step":15, "factor":0.001, "speed_h":-600, "speed_h_decay":-100, "speed_v":700, "speed_v_decay":100, "gravity":1400},
+      "params": {"SkillTarget":"SELF_HERO", "radius":3, "spreadInterval":0.0}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "finalHitEffect",
+      "params": {"effect":"finalHit", "duration":0}
+    },
+    {
+      "name": "play_animation",
+      "trigger": "finalHitAnimation",
+      "params": {"animation":"animation_skill6_3"}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "finalHitAnimation",
+      "params": {"delay":0.3, "duration":0.6, "amplitude":20.0, "mode":5, "interval":3}
+    },
+    {
+      "name": "attack_rect",
+      "trigger": "finalHitAttack",
+      "damage": {"type":0, "side":0, "entityType":0, "base":50, "step":5, "factor":0.5, "speed_h":1100, "speed_h_decay":100, "speed_v":800, "speed_v_decay":100, "gravity":1200},
+      "params": {"SkillTarget":"SELF_HERO", "width":8, "height":4, "spreadInterval":0}
+    },
+    {
+      "name": "attack_rect",
+      "trigger": "finalHitAttack",
+      "damage": {"type":0, "side":0, "entityType":1, "base":50, "step":5, "factor":0.5, "trigger":"finalHitHero"},
+      "params": {"SkillTarget":"SELF_HERO", "width":3, "height":1, "spreadInterval":0}
+    },
+    {
+      "name": "play_sound",
+      "trigger":"finalHitHero",
+      "params": {"event": "skill_hit", "trigger": "qing_bing_qi"}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger":"finalHitHero",
+      "params": {"effect":"finalHitFire", "duration":0}
+    }
+  ],
+
+  "formula":
+  {
+    "black_hole_repeat": {"formula":"max", "min":10, "max":30, "divide":3}  
+  },
+
+  "dizzy":
+  {
+    "dizzy_by_skill":
+    {
+      "allowBreakByAnotherDizzy":false,
+      "action":
+      [
+        {"name":"skill_gui_ji_shi_hun", 
+         "absorbSlowSpeed":300, "absorbFastTile":2, "knockBackValidDistance":2, "knockBackDuration":0.15, "knockBackTile":3, "knockBackDizzyDuration":0.5}
+      ],
+      "condition":
+      [
+        {"name":"by_action_complete", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_guiji",
+  "effect":
+  {
+    "skill":
+    [
+      [
+        {
+          "name": "animation_guiji_loop_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_guiji_loop_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "loopSkill":
+    [
+      [
+        {
+            "name": "animation_guiji_attack_layer1",
+            "type": 2,
+            "z-order": -5
+        },
+        {
+            "name": "animation_guiji_attack_layer2",
+            "type": 0,
+            "z-order": -4
+        },
+        {
+            "name": "animation_guiji_attack_layer3",
+            "type": 2,
+            "z-order": -3
+        },
+        {
+            "name": "animation_guiji_attack_layer4",
+            "type": 0,
+            "z-order": -2
+        },
+        {
+            "name": "animation_guiji_attack_layer5",
+            "type": 0,
+            "z-order": -1
+        },
+        {
+            "name": "animation_guiji_attack_layer6",
+            "type": 2,
+            "z-order": 2
+        },
+        {
+            "name": "animation_guiji_attack_layer7",
+            "type": 0,
+            "z-order": 3
+        }
+      ]
+    ],
+    "finalHit":
+    [
+      [
+        {
+            "name": "animation_guiji_hit_layer1",
+            "type": 2,
+            "z-order": 3
+        },
+        {
+            "name": "animation_guiji_hit_layer2",
+            "type": 0,
+            "z-order": 4
+        },
+        {
+            "name": "animation_guiji_hit_layer3",
+            "type": 2,
+            "z-order": 5
+        },
+        {
+            "name": "animation_guiji_hit_layer4",
+            "type": 0,
+            "z-order": 6
+        }
+      ]
+    ],
+    "finalHitFire":
+    [
+      [
+        {
+            "name": "animation_guiji_fire_layer1",
+            "type": 0,
+            "z-order": 8
+        }
+      ]
+    ]
+  }
+}

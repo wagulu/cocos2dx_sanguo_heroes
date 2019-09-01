@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message DepositGetListRequest{
+	optional ApiRequest	api = 1;			//公用参数
+	optional string		type = 2;			//获取状态 默认不填 可选new history
+	optional string		channel = 3;		//获取类型 可选 sys guild
+}

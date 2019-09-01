@@ -1,0 +1,194 @@
+{
+    "1": {
+        "id": 1,
+        "areaId": 1,
+        "stageId": 1,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "2": {
+        "id": 2,
+        "areaId": 1,
+        "stageId": 1,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "3": {
+        "id": 3,
+        "areaId": 1,
+        "stageId": 1,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "4": {
+        "id": 4,
+        "areaId": 1,
+        "stageId": 2,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "5": {
+        "id": 5,
+        "areaId": 1,
+        "stageId": 2,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "6": {
+        "id": 6,
+        "areaId": 1,
+        "stageId": 2,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "7": {
+        "id": 7,
+        "areaId": 1,
+        "stageId": 3,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "8": {
+        "id": 8,
+        "areaId": 1,
+        "stageId": 3,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "9": {
+        "id": 9,
+        "areaId": 1,
+        "stageId": 3,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "10": {
+        "id": 10,
+        "areaId": 1,
+        "stageId": 4,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "11": {
+        "id": 11,
+        "areaId": 1,
+        "stageId": 4,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "12": {
+        "id": 12,
+        "areaId": 1,
+        "stageId": 4,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "13": {
+        "id": 13,
+        "areaId": 1,
+        "stageId": 5,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "14": {
+        "id": 14,
+        "areaId": 1,
+        "stageId": 5,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "15": {
+        "id": 15,
+        "areaId": 1,
+        "stageId": 5,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "16": {
+        "id": 16,
+        "areaId": 1,
+        "stageId": 6,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "17": {
+        "id": 17,
+        "areaId": 1,
+        "stageId": 6,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "18": {
+        "id": 18,
+        "areaId": 1,
+        "stageId": 6,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "19": {
+        "id": 19,
+        "areaId": 1,
+        "stageId": 7,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "20": {
+        "id": 20,
+        "areaId": 1,
+        "stageId": 7,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "21": {
+        "id": 21,
+        "areaId": 1,
+        "stageId": 7,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "22": {
+        "id": 22,
+        "areaId": 1,
+        "stageId": 8,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "23": {
+        "id": 23,
+        "areaId": 1,
+        "stageId": 8,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "24": {
+        "id": 24,
+        "areaId": 1,
+        "stageId": 8,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    }
+}

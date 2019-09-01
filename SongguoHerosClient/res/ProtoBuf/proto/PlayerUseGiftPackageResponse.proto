@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "PrizePB.proto";
+import "GiftPackagePB.proto";
+
+message PlayerUseGiftPackageResponse{
+	optional ApiResponse			api = 1;			//公用参数
+	repeated PrizePB				prizes = 2;			//道具信息
+	repeated GiftPackagePB			giftPackage = 3;	//宝箱信息
+}

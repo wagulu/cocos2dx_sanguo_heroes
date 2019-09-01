@@ -1,0 +1,10 @@
+message ApiRequest{						//接口请求公用参数
+	optional string version = 1;		//client version
+	optional string timestamp = 2;		//请求发起时的时间戳
+	optional string sign = 3;			//用户身份
+	optional bool   isTest = 4;			//是否强制为dev模式
+	optional string lang = 5;			//客户端语言
+	optional string deviceName = 6;		//客户端名称	iPhone android iPad androidTable iPadMini
+	optional int32	clientId = 7;		//客户端编号 2-iPhone 3-android 4-iPad 5-androidTable 6-iPadMini
+	optional int32	transactionId = 8;	//从initGame完成后的自增数
+}

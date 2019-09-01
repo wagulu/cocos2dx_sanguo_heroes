@@ -1,0 +1,24 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+
+message HighladderGetListResponse {
+	optional ApiResponse		api = 1;			//公用参数
+	repeated HighladderRankItemPB	ranks = 2;			//对手信息
+	optional HighladderSelfItemPB	self = 3;			//自己排名信息
+}
+message HighladderRankItemPB{
+	optional int32				rank = 1;			//排名
+	optional string				name = 2;			//用户名
+	repeated MonsterPB			monsters = 3;		//武将
+	optional MonsterPB			showMonster = 4;	//玩家头像
+	optional int32				power = 5;			//玩家战力
+	optional int32				level = 6;			//玩家等级
+}
+message HighladderSelfItemPB{
+	optional int32				rank = 1;			//排名
+	optional int32				prestige = 2;		//声望值
+	optional int32				rankCash = 3;		//排名每小时奖励元宝
+	optional int32				rankPrestige = 4;	//排名每小时奖励声望
+	optional int32				cash2Draw = 5;		//可领取元宝
+	optional int32				prestige2Draw = 6;	//可领取声望
+}

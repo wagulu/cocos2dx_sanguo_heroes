@@ -1,0 +1,20 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+
+message MonsterCanCompose{
+	optional int32					monsterId = 1;			//武将id
+	optional string					name = 2;				//武将名
+}
+message MonsterCannotCompose{
+	optional int32					monsterId = 1;			//武将id
+	optional string					name = 2;				//武将名
+	optional int32					partNum = 3;			//拥有碎片数
+	optional int32					composeNum = 4;			//合成所需碎片数
+}
+
+message MonstersListResponse{
+	optional ApiResponse			api = 1;						//公用参数
+	repeated MonsterPB				monsters = 2;					//武将列表
+	repeated MonsterCanCompose 		canComposeMonsters = 3;			//可合成武将
+	repeated MonsterCannotCompose 	cannotComposeMonsters = 4;		//不可合成武将
+}

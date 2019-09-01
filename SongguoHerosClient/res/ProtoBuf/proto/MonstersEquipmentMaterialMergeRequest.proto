@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message MonstersEquipmentMaterialMergeRequest {
+	optional ApiRequest	api = 1;			//公用参数
+	optional int32		materialId = 3;		//装备id
+}

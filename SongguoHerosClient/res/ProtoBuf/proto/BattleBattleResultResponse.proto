@@ -1,0 +1,32 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+import "PrizePB.proto";
+import "StarInfoPB.proto";
+
+message UnlockPB{
+	optional string 			type = 1;		//解锁类型 island area stage elite
+	repeated int32  			id = 2;			//解锁id
+}
+
+message BattleBattleResultResponse{
+	optional ApiResponse		api = 1;		//公用参数
+	repeated MonsterPB			monsters = 2;	//武将列表
+	repeated PrizePB			treasures = 3;	//掉落物列表
+	repeated UnlockPB			unlocks = 4;	//章节解锁列表
+	optional RefreshListPB		refresh = 5;
+}
+
+message RefreshListPB{
+	repeated RefreshPB			island = 1;
+	repeated RefreshPB			area = 2;
+	repeated RefreshPB			stage = 3;
+	repeated RefreshPB			eliteStage = 4;
+}
+
+message RefreshPB{
+	optional int32				id = 1;
+	optional int32				status = 2;
+	optional int32				stageTotalStar = 3;
+	optional int32				eliteStageTotalStar = 4;
+	repeated StarInfoPB			starInfo = 5;
+}

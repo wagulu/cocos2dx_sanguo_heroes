@@ -1,0 +1,6 @@
+import "ApiResponse.proto";
+
+message PlayerBuyVitalityResponse{
+	optional ApiResponse			api = 1;						//公用参数
+	optional int32					newVitality = 2;				//武将列表
+}

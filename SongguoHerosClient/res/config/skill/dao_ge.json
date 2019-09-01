@@ -1,0 +1,159 @@
+{
+  "energyCost": 25.0,
+  "energySpeed": 20,
+  "energyStart": 450,
+  "mpCost": 7,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_tian_xia_gui_xin", "trigger": "hero"}
+    },
+	{
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":5.0}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":4.8}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":4.8}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation": "animation_skill1"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"start", "duration":0}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.5,
+      "params": {"duration": 0.5, "amplitude":15.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "find_tile_center_on_most_people",
+      "start": 2.8,
+      "params": {"DamageSide":"ENEMY", "squareSize":3},
+      "triggerOnRemove": "on_find_center"
+    },
+    {
+      "name": "move_camera_to_tile",
+      "trigger": "on_find_center",
+      "params": {"time":0.2, "delay":0}
+    },
+    {
+      "name": "add_tile_effect",
+      "trigger": "on_find_center",
+      "params": {"effect":"flash", "duration":0}
+    },
+    {
+      "name": "turn_solders",
+      "start": 3.2,
+      "params": {"mode":3, "durFormula":"turnTime", "effect":"hit_solider", "turnNum":"turnNum"}
+    }
+  ],
+    
+  "formula":
+  {
+      "turnTime":{"formula":"hp", "base":100, "step":0.0},
+      "turnNum":{"formula":"min", "min":100, "base":10, "factor":0.5, "divide":1}
+  },
+    
+  "asset": "skill_ganhua",
+  "effect":
+  {
+    "start":
+    [
+      [
+        {
+          "name": "animation_ganhua_back_layer1",
+          "type": 2,
+          "z-order": -3
+        },
+        {
+          "name": "animation_ganhua_back_layer2",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_ganhua_back_layer3",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_ganhua_front_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "hit_solider":
+    [
+      [
+        {
+          "name": "animation_ganhua_hit_back_layer1",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_ganhua_hit_front_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "hit_solider2":
+    [
+      [
+        {
+          "name": "animation_ganhua_over_front_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "flash":
+    [
+      [
+        {
+          "name": "animation_ganhua_front_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "loop_solider":
+    [
+      [
+        {
+          "name": "animation_ganhua_last_front_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ]
+  }
+}

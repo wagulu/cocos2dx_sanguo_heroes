@@ -1,0 +1,143 @@
+{
+  "energyCost":10.0,
+  "energySpeed":20,
+  "energyStart":500,
+  "mpCost": 0,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.1}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_fei_xue_gui_ren", "trigger": "hero"}
+    },
+	{
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":2.0}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":1.8}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":1.8}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration": 0.3, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "find_target",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"effect":"skill", "duration":0, "follow":false}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation": "animation_skill2", "break_time":0}
+    },
+    {
+      "name": "attack_on_find_target",
+      "start": 0.0,
+      "damage": {"type":5, "side":1, "entityType":1, "percent":0.3}
+    },
+    {
+      "name": "set_state_dizzy_on_skill_attack",
+      "start": 1.0,
+      "lifeTime": 1.0,
+      "params": {"time":"dizzy_time", "enable":"dizzy_enable", "heroDizzyConfig":"hero_dizzy"}
+    },
+    {
+      "name": "shake_camera",
+      "start": 1.0,
+      "params": {"duration": 0.5, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "attack_diamond_area_center_on_hero",
+      "start": 1.0,
+      "damage": {"type":0, "side":0, "entityType":2, "base":400, "step":35, "factor":0.5, "speed_h":600, "speed_h_decay":100, "speed_v":300, "speed_v_decay":100, "gravity":1200},
+      "params": {"radius":4, "spreadInterval":0.05}
+    }
+  ],
+
+  "formula":
+  {
+    "dizzy_time": {"formula":"hp", "base":1, "step":0.1},
+    "dizzy_enable": {"formula":"enable", "base":0, "step":20}
+  },
+
+  "dizzy":
+  {
+    "hero_dizzy":
+    {
+      "allowBreakByAnotherDizzy":true,
+      "action":
+      [
+        {"name":"stop_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"}
+      ],
+      "condition":
+      [
+        {"name":"by_time", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_shixueren",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_shixue_layer1",
+          "type": 0,
+          "z-order": -3
+        },
+        {
+          "name": "animation_shixue_layer2",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shixue_layer3",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shixue_layer4",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shixue_layer5",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ]
+  }
+}

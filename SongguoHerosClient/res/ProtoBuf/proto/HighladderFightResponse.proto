@@ -1,0 +1,10 @@
+import "ApiResponse.proto";
+import "PrizePB.proto";
+
+message HighladderFightResponse {
+	optional ApiResponse	api = 1;	//公用参数
+	repeated PrizePB fightPrizes = 2;	//战斗奖励
+	repeated PrizePB highRankPrizes = 3;//最高排名奖励
+	optional PrizePB prize = 4;			//翻牌奖励
+	repeated PrizePB displayPrizes = 5;	//没翻到的奖励
+}

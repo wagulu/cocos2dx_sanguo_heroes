@@ -1,0 +1,173 @@
+{
+    "1": {
+        "id": 1,
+        "formationId": 1,
+        "level": 1,
+        "property": "HP",
+        "value": "100",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "formationId": 1,
+        "level": 2,
+        "property": "HP",
+        "value": "200",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "formationId": 1,
+        "level": 3,
+        "property": "HP",
+        "value": "300",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "formationId": 1,
+        "level": 4,
+        "property": "HP",
+        "value": "400",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "formationId": 1,
+        "level": 5,
+        "property": "HP",
+        "value": "500",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "formationId": 1,
+        "level": 6,
+        "property": "HP",
+        "value": "600",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "formationId": 1,
+        "level": 7,
+        "property": "HP",
+        "value": "700",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "formationId": 1,
+        "level": 8,
+        "property": "HP",
+        "value": "800",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "formationId": 1,
+        "level": 9,
+        "property": "HP",
+        "value": "900",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "formationId": 1,
+        "level": 10,
+        "property": "HP",
+        "value": "1000",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "formationId": 1,
+        "level": 11,
+        "property": "HP",
+        "value": "1100",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "formationId": 1,
+        "level": 12,
+        "property": "HP",
+        "value": "1200",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "formationId": 1,
+        "level": 13,
+        "property": "HP",
+        "value": "1300",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "formationId": 1,
+        "level": 14,
+        "property": "HP",
+        "value": "1400",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "formationId": 1,
+        "level": 15,
+        "property": "HP",
+        "value": "1500",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "formationId": 1,
+        "level": 16,
+        "property": "HP",
+        "value": "1600",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "formationId": 1,
+        "level": 17,
+        "property": "HP",
+        "value": "1700",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "formationId": 1,
+        "level": 18,
+        "property": "HP",
+        "value": "1800",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "formationId": 1,
+        "level": 19,
+        "property": "HP",
+        "value": "1900",
+        "operator": "Multiplication",
+        "ver": "1.0.0"
+    }
+}

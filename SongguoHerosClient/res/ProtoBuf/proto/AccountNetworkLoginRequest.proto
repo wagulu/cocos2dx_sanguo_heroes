@@ -1,0 +1,13 @@
+import "ApiRequest.proto";
+
+message AccountNetworkLoginRequest{
+	optional ApiRequest	api = 1;			//公用参数
+	optional string		userKey = 2;		//
+	optional string		token = 3;			//平台token
+	optional string		tokenSecret = 4;	//平台tokenSecret
+	optional string		snUid = 5;			//平台uid
+	optional string		snUserName = 6;		//平台用户名
+	optional string		timestamp = 7;		//登陆时间戳
+	optional string		password = 8;		//平台密码
+	optional string		account = 9;		//渠道的帐户名
+}

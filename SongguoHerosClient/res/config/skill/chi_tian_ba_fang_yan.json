@@ -1,0 +1,283 @@
+{
+  "energyCost": 400,
+  "energySpeed":20,
+  "energyStart":360,
+  "mpCost": 1,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":2.0}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_chi_tian_ba_fang_yan", "trigger": "hero"}
+    },
+    {
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockTrigger":"on_hero_drop"}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":10, "unlockTrigger":"on_hero_drop"}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideTrigger":"on_hero_drop"}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill1"}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"dur":0.1,  "dtx":-110, "style":4.0}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"skill", "duration":0}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 1.8,
+      "params": {"tar":1, "S":1}
+    },
+    {
+      "name": "shake_camera",
+      "start": 2.0,
+      "params": {"duration": 0.5, "amplitude":10.0, "mode":4}
+    },
+    {
+      "name": "find_target",
+      "start": 2.0,
+      "params": {"SkillTarget":"OPP_HERO"}
+    },
+    {
+      "name": "attack_on_find_target",
+      "start": 2.0,
+      "damage": {"type":1, "side":0, "entityType":1, "base":300, "step":35, "factor":0.5}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 2.0,
+      "params": {"effect":"hit_hero", "duration":0, "follow":false}
+    },
+    {
+      "name": "skill_chi_tian_ba_fang_yan",
+      "start": 2.0,
+      "damage": {"type":1, "side":0, "entityType":1, "base":0, "step":0, "factor":0.1, "trigger":"on_ghost_hit_hero"},
+      "params": {"radius":1,
+                 "heroDizzyConfig":"dizzy_by_skill",
+                 "lastHitDelay":0.3, "hitTotalTime":2.0, "hitIntervalMax":0.08,
+                 "ghostFlyUpTime":1.0, "ghostFlyUpHeight":80.0, "ghostFlyUpStartSpeed":900.0, "ghostFlyUpEndSpeed":100.0, "ghostFlyUpSpeedFactor":0.1, "ghostFlyUpFactorX":0.4,
+                 "ghostScaleFactor":0.007, "ghostScaleMax":2, 
+                 "ghostChangeTime":0.6,
+                 "ghostMoveAwayTime":0.5, "ghostMoveAwayDistance":120,
+                 "ghostMoveCloseTime":0.3,
+                 "ghostHitOffset":30}
+    },
+    {
+      "name": "attack_on_find_target",
+      "trigger": "kill_soldier",
+      "damage": {"type":3, "side":0, "entityType":0, "showHpFlyText":false}
+    },
+    {
+      "name": "show_background",
+      "trigger": "kill_soldier",
+      "params": {"showDuration":2.0, "showColor":0, "hideDuration":0.2, "hideTrigger":"on_hero_drop"}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "trigger": "kill_soldier",
+      "params": {"dur":0.5, "tar":1, "S":1, "zoom":1, "z":200, "r":-0, "y":100, "backDelay":5}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "on_ghost_hit_hero",
+      "params": {"duration":0.15, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "play_sound",
+      "trigger": "on_ghost_hit_hero",
+      "params": {"event":"skill_hit", "trigger":"huo_yan"}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "on_last_hit",
+      "params": {"duration":0.3, "amplitude":15.0, "mode":4}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "trigger": "on_hero_drop",
+      "params": {"dur":0.4, "tar":1, "S":1}
+    }
+  ],
+
+  "dizzy":
+  {
+    "dizzy_by_skill":
+    {
+      "allowBreakByAnotherDizzy":false,
+      "action":
+      [
+        {"name":"skill_chi_tian_ba_fang_yan", 
+         "lastHitTrigger":"on_last_hit", "heroDropTrigger":"on_hero_drop",
+         "flyUpTime":1.0, "flyUpHeight":80.0, 
+         "dropDownDelay":0.1, "dropDownTime":0.2,
+         "knockBackTime":0.3, "knockBackTile":2, "knockBackDizzyTime":0.1}
+      ],
+      "condition":
+      [
+        {"name":"by_action_complete", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_zhitian",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_zhitian_back_layer1",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_zhitian_back_layer2",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_zhitian_front_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_zhitian_front_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+      
+    "hero_fire":
+    [
+      [
+        {
+          "name": "animation_zhitian_general_loop_layer1",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+
+    "hit_hero":
+    [
+      [
+        {
+          "name": "animation_zhitian_hit_back_layer1",
+          "type": 0,
+          "z-order": -9004
+        },
+        {
+          "name": "animation_zhitian_hit_back_layer2",
+          "type": 2,
+          "z-order": -9003
+        },
+        {
+          "name": "animation_zhitian_hit_back_layer3",
+          "type": 0,
+          "z-order": -9002
+        },
+        {
+          "name": "animation_zhitian_hit_back_layer4",
+          "type": 2,
+          "z-order": -9001
+        },
+        {
+          "name": "animation_zhitian_hit_front_layer1",
+          "type": 0,
+          "z-order": 1
+        }
+      ]
+    ],
+
+    "soldier_to_ghost": 
+    [
+      [
+        {
+          "name": "animation_zhitian_soldier_hit_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_zhitian_soldier_hit_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+
+    "ghost":
+    [
+      [
+        {
+          "name": "animation_zhitian_soldier_loop_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_zhitian_soldier_loop_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+
+    "ghost_hit_hero":
+    [
+      [
+        {
+          "name": "animation_zhitian_soldier_attack_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_zhitian_soldier_attack_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+      
+    "ghost_hit_hero_critical":
+    [
+      [
+        {
+          "name": "animation_zhitian_soldier_thump_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_zhitian_soldier_thump_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ]
+  }
+}

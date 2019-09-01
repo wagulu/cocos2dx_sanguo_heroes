@@ -1,0 +1,20 @@
+{
+    "energyCost": 0.0,
+    "energySpeed":0.0,
+    "energyStart":1.0,
+    "mpCost": 0,
+    "negative": true,
+    "actions":
+    [
+      {
+        "name": "add_buff",
+        "trigger": "reborn",
+        "params": {"SkillTarget":"SELF_HERO", "Property":"physicalDR", "PropertyFactor":"attack", "base":0.1, "step":0.001, "factor":0.0, "lock":false, "changeByAbsolute":true}
+      },
+      {
+        "name": "zhan_hun",
+        "start": 0.0,
+        "params": {"hpBase":0.3, "hpFactor":0.0, "hpMin":0.3, "lifeBase":10.0, "lifeFactor":0.0, "lifeMin":0.5}
+      }
+    ]
+}

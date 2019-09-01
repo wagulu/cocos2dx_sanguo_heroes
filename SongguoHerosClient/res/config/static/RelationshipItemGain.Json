@@ -1,0 +1,890 @@
+{
+    "1": {
+        "id": 1,
+        "relationshipId": 1,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "relationshipId": 2,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "relationshipId": 3,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "relationshipId": 4,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "relationshipId": 5,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "relationshipId": 6,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "relationshipId": 7,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "relationshipId": 8,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "relationshipId": 9,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "relationshipId": 10,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "relationshipId": 11,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "relationshipId": 12,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "relationshipId": 13,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "relationshipId": 14,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "relationshipId": 15,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "relationshipId": 16,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "relationshipId": 17,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "relationshipId": 18,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "relationshipId": 19,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "relationshipId": 20,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "relationshipId": 21,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "relationshipId": 22,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "relationshipId": 23,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "relationshipId": 24,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "relationshipId": 25,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "relationshipId": 26,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "relationshipId": 27,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "relationshipId": 28,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "relationshipId": 29,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "relationshipId": 30,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "relationshipId": 31,
+        "propertyName": "AtkAntiCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "relationshipId": 32,
+        "propertyName": "AtkAntiCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "relationshipId": 33,
+        "propertyName": "AtkAntiCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "relationshipId": 34,
+        "propertyName": "PhysicalCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "relationshipId": 35,
+        "propertyName": "PhysicalCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "relationshipId": 36,
+        "propertyName": "PhysicalCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "relationshipId": 37,
+        "propertyName": "AtkAntiCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "relationshipId": 38,
+        "propertyName": "AtkAntiCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "relationshipId": 39,
+        "propertyName": "AtkAntiCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "relationshipId": 40,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "relationshipId": 41,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "relationshipId": 42,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "relationshipId": 43,
+        "propertyName": "PhysicalCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "relationshipId": 44,
+        "propertyName": "PhysicalCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "relationshipId": 45,
+        "propertyName": "PhysicalCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "relationshipId": 46,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "relationshipId": 47,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "relationshipId": 48,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "relationshipId": 49,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "relationshipId": 50,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "51": {
+        "id": 51,
+        "relationshipId": 51,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "52": {
+        "id": 52,
+        "relationshipId": 52,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "53": {
+        "id": 53,
+        "relationshipId": 53,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "54": {
+        "id": 54,
+        "relationshipId": 54,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "55": {
+        "id": 55,
+        "relationshipId": 55,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "56": {
+        "id": 56,
+        "relationshipId": 56,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "57": {
+        "id": 57,
+        "relationshipId": 57,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "58": {
+        "id": 58,
+        "relationshipId": 58,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "59": {
+        "id": 59,
+        "relationshipId": 59,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "60": {
+        "id": 60,
+        "relationshipId": 60,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "61": {
+        "id": 61,
+        "relationshipId": 61,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "62": {
+        "id": 62,
+        "relationshipId": 62,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "63": {
+        "id": 63,
+        "relationshipId": 63,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "64": {
+        "id": 64,
+        "relationshipId": 64,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "65": {
+        "id": 65,
+        "relationshipId": 65,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "66": {
+        "id": 66,
+        "relationshipId": 66,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "67": {
+        "id": 67,
+        "relationshipId": 67,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "68": {
+        "id": 68,
+        "relationshipId": 68,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "69": {
+        "id": 69,
+        "relationshipId": 69,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "70": {
+        "id": 70,
+        "relationshipId": 70,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "71": {
+        "id": 71,
+        "relationshipId": 71,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "72": {
+        "id": 72,
+        "relationshipId": 72,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "73": {
+        "id": 73,
+        "relationshipId": 73,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "74": {
+        "id": 74,
+        "relationshipId": 74,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "75": {
+        "id": 75,
+        "relationshipId": 75,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "76": {
+        "id": 76,
+        "relationshipId": 76,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "77": {
+        "id": 77,
+        "relationshipId": 77,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "78": {
+        "id": 78,
+        "relationshipId": 78,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "79": {
+        "id": 79,
+        "relationshipId": 79,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "80": {
+        "id": 80,
+        "relationshipId": 80,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "81": {
+        "id": 81,
+        "relationshipId": 81,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "82": {
+        "id": 82,
+        "relationshipId": 82,
+        "propertyName": "AtkAntiCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "83": {
+        "id": 83,
+        "relationshipId": 83,
+        "propertyName": "AtkAntiCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "84": {
+        "id": 84,
+        "relationshipId": 84,
+        "propertyName": "AtkAntiCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "85": {
+        "id": 85,
+        "relationshipId": 85,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "86": {
+        "id": 86,
+        "relationshipId": 86,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "87": {
+        "id": 87,
+        "relationshipId": 87,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "88": {
+        "id": 88,
+        "relationshipId": 88,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "89": {
+        "id": 89,
+        "relationshipId": 89,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "90": {
+        "id": 90,
+        "relationshipId": 90,
+        "propertyName": "AtkHitRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "91": {
+        "id": 91,
+        "relationshipId": 91,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "92": {
+        "id": 92,
+        "relationshipId": 92,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "93": {
+        "id": 93,
+        "relationshipId": 93,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "94": {
+        "id": 94,
+        "relationshipId": 94,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "95": {
+        "id": 95,
+        "relationshipId": 95,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "96": {
+        "id": 96,
+        "relationshipId": 96,
+        "propertyName": "AtkDodgeRateValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "97": {
+        "id": 97,
+        "relationshipId": 97,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "98": {
+        "id": 98,
+        "relationshipId": 98,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "99": {
+        "id": 99,
+        "relationshipId": 99,
+        "propertyName": "SpellResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "100": {
+        "id": 100,
+        "relationshipId": 100,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "101": {
+        "id": 101,
+        "relationshipId": 101,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "102": {
+        "id": 102,
+        "relationshipId": 102,
+        "propertyName": "PhysicalResilienceValue",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "103": {
+        "id": 103,
+        "relationshipId": 103,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "104": {
+        "id": 104,
+        "relationshipId": 104,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "105": {
+        "id": 105,
+        "relationshipId": 105,
+        "propertyName": "SpellCSDV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "106": {
+        "id": 106,
+        "relationshipId": 106,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "107": {
+        "id": 107,
+        "relationshipId": 107,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "108": {
+        "id": 108,
+        "relationshipId": 108,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "109": {
+        "id": 109,
+        "relationshipId": 109,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "110": {
+        "id": 110,
+        "relationshipId": 110,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    },
+    "111": {
+        "id": 111,
+        "relationshipId": 111,
+        "propertyName": "AtkCSV",
+        "propertyOperator": "Multiplication",
+        "propertyValue": 1,
+        "ver": "1.0.0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "config": "fei_xue_nu_ji",
+    "id": 10,
+    "name": "fei_xue_nu_ji",
+    "level": 1,
+    "mpCost": 0,
+    "energyStart": 500,
+    "energyCost": 10,
+    "energySpeed": 20
+}

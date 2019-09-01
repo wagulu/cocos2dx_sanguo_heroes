@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message HighladderQuickBattleRequest{
+	optional ApiRequest api = 1;			//公用参数
+	optional int32		rank = 2;			//对手排名	
+	optional int32		progress = 3;		//战斗局数
+}

@@ -1,0 +1,1738 @@
+{
+    "1": {
+        "id": 1,
+        "battleId": 1,
+        "flag": 1,
+        "NPCId": 91,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "2": {
+        "id": 2,
+        "battleId": 2,
+        "flag": 1,
+        "NPCId": 902,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "3": {
+        "id": 3,
+        "battleId": 3,
+        "flag": 1,
+        "NPCId": 3512,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "battleId": 4,
+        "flag": 1,
+        "NPCId": 363,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "5": {
+        "id": 5,
+        "battleId": 5,
+        "flag": 1,
+        "NPCId": 1622,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "battleId": 6,
+        "flag": 1,
+        "NPCId": 183,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "battleId": 7,
+        "flag": 1,
+        "NPCId": 1803,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "battleId": 8,
+        "flag": 1,
+        "NPCId": 274,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "battleId": 9,
+        "flag": 1,
+        "NPCId": 633,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "battleId": 10,
+        "flag": 1,
+        "NPCId": 94,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "battleId": 10,
+        "flag": 2,
+        "NPCId": 904,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "battleId": 11,
+        "flag": 1,
+        "NPCId": 3515,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "battleId": 11,
+        "flag": 2,
+        "NPCId": 364,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "battleId": 12,
+        "flag": 1,
+        "NPCId": 1625,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "battleId": 12,
+        "flag": 2,
+        "NPCId": 185,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "battleId": 13,
+        "flag": 1,
+        "NPCId": 1806,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "battleId": 13,
+        "flag": 2,
+        "NPCId": 275,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "battleId": 14,
+        "flag": 1,
+        "NPCId": 636,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "battleId": 14,
+        "flag": 2,
+        "NPCId": 96,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "battleId": 15,
+        "flag": 1,
+        "NPCId": 907,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "battleId": 15,
+        "flag": 2,
+        "NPCId": 3516,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "battleId": 16,
+        "flag": 1,
+        "NPCId": 367,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "battleId": 16,
+        "flag": 2,
+        "NPCId": 1627,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "battleId": 17,
+        "flag": 1,
+        "NPCId": 188,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "battleId": 17,
+        "flag": 2,
+        "NPCId": 1807,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "battleId": 18,
+        "flag": 1,
+        "NPCId": 278,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "battleId": 18,
+        "flag": 2,
+        "NPCId": 638,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "battleId": 19,
+        "flag": 1,
+        "NPCId": 99,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "battleId": 19,
+        "flag": 2,
+        "NPCId": 908,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "battleId": 20,
+        "flag": 1,
+        "NPCId": 3519,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "battleId": 20,
+        "flag": 2,
+        "NPCId": 369,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "battleId": 20,
+        "flag": 3,
+        "NPCId": 1630,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "battleId": 21,
+        "flag": 1,
+        "NPCId": 189,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "battleId": 21,
+        "flag": 2,
+        "NPCId": 1810,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "battleId": 22,
+        "flag": 1,
+        "NPCId": 280,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "battleId": 22,
+        "flag": 2,
+        "NPCId": 641,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "battleId": 23,
+        "flag": 1,
+        "NPCId": 100,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "battleId": 23,
+        "flag": 2,
+        "NPCId": 911,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "battleId": 24,
+        "flag": 1,
+        "NPCId": 3521,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "battleId": 24,
+        "flag": 2,
+        "NPCId": 372,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "battleId": 25,
+        "flag": 1,
+        "NPCId": 1631,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "battleId": 25,
+        "flag": 2,
+        "NPCId": 192,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "battleId": 26,
+        "flag": 1,
+        "NPCId": 1812,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "battleId": 26,
+        "flag": 2,
+        "NPCId": 283,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "battleId": 27,
+        "flag": 1,
+        "NPCId": 642,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "battleId": 27,
+        "flag": 2,
+        "NPCId": 103,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "battleId": 27,
+        "flag": 3,
+        "NPCId": 913,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "battleId": 28,
+        "flag": 1,
+        "NPCId": 3524,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "battleId": 28,
+        "flag": 2,
+        "NPCId": 373,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "battleId": 28,
+        "flag": 3,
+        "NPCId": 1634,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "51": {
+        "id": 51,
+        "battleId": 29,
+        "flag": 1,
+        "NPCId": 194,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "52": {
+        "id": 52,
+        "battleId": 29,
+        "flag": 2,
+        "NPCId": 1815,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "53": {
+        "id": 53,
+        "battleId": 29,
+        "flag": 3,
+        "NPCId": 284,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "54": {
+        "id": 54,
+        "battleId": 30,
+        "flag": 1,
+        "NPCId": 645,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "55": {
+        "id": 55,
+        "battleId": 30,
+        "flag": 2,
+        "NPCId": 105,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "56": {
+        "id": 56,
+        "battleId": 30,
+        "flag": 3,
+        "NPCId": 916,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "57": {
+        "id": 57,
+        "battleId": 31,
+        "flag": 1,
+        "NPCId": 3525,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "58": {
+        "id": 58,
+        "battleId": 31,
+        "flag": 2,
+        "NPCId": 376,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "59": {
+        "id": 59,
+        "battleId": 31,
+        "flag": 3,
+        "NPCId": 1636,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "60": {
+        "id": 60,
+        "battleId": 32,
+        "flag": 1,
+        "NPCId": 197,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "61": {
+        "id": 61,
+        "battleId": 32,
+        "flag": 2,
+        "NPCId": 1816,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "62": {
+        "id": 62,
+        "battleId": 32,
+        "flag": 3,
+        "NPCId": 287,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "63": {
+        "id": 63,
+        "battleId": 33,
+        "flag": 1,
+        "NPCId": 647,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "64": {
+        "id": 64,
+        "battleId": 33,
+        "flag": 2,
+        "NPCId": 108,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "65": {
+        "id": 65,
+        "battleId": 33,
+        "flag": 3,
+        "NPCId": 917,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "66": {
+        "id": 66,
+        "battleId": 34,
+        "flag": 1,
+        "NPCId": 3528,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "67": {
+        "id": 67,
+        "battleId": 34,
+        "flag": 2,
+        "NPCId": 378,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "68": {
+        "id": 68,
+        "battleId": 34,
+        "flag": 3,
+        "NPCId": 1639,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "69": {
+        "id": 69,
+        "battleId": 35,
+        "flag": 1,
+        "NPCId": 198,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "70": {
+        "id": 70,
+        "battleId": 35,
+        "flag": 2,
+        "NPCId": 1819,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "71": {
+        "id": 71,
+        "battleId": 35,
+        "flag": 3,
+        "NPCId": 289,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "72": {
+        "id": 72,
+        "battleId": 36,
+        "flag": 1,
+        "NPCId": 650,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "73": {
+        "id": 73,
+        "battleId": 36,
+        "flag": 2,
+        "NPCId": 109,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "74": {
+        "id": 74,
+        "battleId": 36,
+        "flag": 3,
+        "NPCId": 920,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "75": {
+        "id": 75,
+        "battleId": 37,
+        "flag": 1,
+        "NPCId": 3530,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "76": {
+        "id": 76,
+        "battleId": 37,
+        "flag": 2,
+        "NPCId": 381,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "77": {
+        "id": 77,
+        "battleId": 37,
+        "flag": 3,
+        "NPCId": 1640,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "78": {
+        "id": 78,
+        "battleId": 38,
+        "flag": 1,
+        "NPCId": 201,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "79": {
+        "id": 79,
+        "battleId": 38,
+        "flag": 2,
+        "NPCId": 1821,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "80": {
+        "id": 80,
+        "battleId": 38,
+        "flag": 3,
+        "NPCId": 292,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "81": {
+        "id": 81,
+        "battleId": 39,
+        "flag": 1,
+        "NPCId": 651,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "82": {
+        "id": 82,
+        "battleId": 39,
+        "flag": 2,
+        "NPCId": 112,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "83": {
+        "id": 83,
+        "battleId": 39,
+        "flag": 3,
+        "NPCId": 922,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "84": {
+        "id": 84,
+        "battleId": 40,
+        "flag": 1,
+        "NPCId": 3533,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "85": {
+        "id": 85,
+        "battleId": 40,
+        "flag": 2,
+        "NPCId": 382,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "86": {
+        "id": 86,
+        "battleId": 40,
+        "flag": 3,
+        "NPCId": 1643,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "87": {
+        "id": 87,
+        "battleId": 41,
+        "flag": 1,
+        "NPCId": 203,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "88": {
+        "id": 88,
+        "battleId": 41,
+        "flag": 2,
+        "NPCId": 1824,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "89": {
+        "id": 89,
+        "battleId": 41,
+        "flag": 3,
+        "NPCId": 293,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "90": {
+        "id": 90,
+        "battleId": 42,
+        "flag": 1,
+        "NPCId": 654,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "91": {
+        "id": 91,
+        "battleId": 42,
+        "flag": 2,
+        "NPCId": 114,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "92": {
+        "id": 92,
+        "battleId": 42,
+        "flag": 3,
+        "NPCId": 925,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "93": {
+        "id": 93,
+        "battleId": 43,
+        "flag": 1,
+        "NPCId": 3534,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "94": {
+        "id": 94,
+        "battleId": 43,
+        "flag": 2,
+        "NPCId": 385,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "95": {
+        "id": 95,
+        "battleId": 43,
+        "flag": 3,
+        "NPCId": 1645,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "96": {
+        "id": 96,
+        "battleId": 44,
+        "flag": 1,
+        "NPCId": 206,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "97": {
+        "id": 97,
+        "battleId": 44,
+        "flag": 2,
+        "NPCId": 1825,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "98": {
+        "id": 98,
+        "battleId": 44,
+        "flag": 3,
+        "NPCId": 296,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "99": {
+        "id": 99,
+        "battleId": 45,
+        "flag": 1,
+        "NPCId": 656,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "100": {
+        "id": 100,
+        "battleId": 45,
+        "flag": 2,
+        "NPCId": 117,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "101": {
+        "id": 101,
+        "battleId": 45,
+        "flag": 3,
+        "NPCId": 926,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "102": {
+        "id": 102,
+        "battleId": 46,
+        "flag": 1,
+        "NPCId": 3537,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "103": {
+        "id": 103,
+        "battleId": 46,
+        "flag": 2,
+        "NPCId": 387,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "104": {
+        "id": 104,
+        "battleId": 46,
+        "flag": 3,
+        "NPCId": 1648,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "105": {
+        "id": 105,
+        "battleId": 47,
+        "flag": 1,
+        "NPCId": 207,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "106": {
+        "id": 106,
+        "battleId": 47,
+        "flag": 2,
+        "NPCId": 1828,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "107": {
+        "id": 107,
+        "battleId": 47,
+        "flag": 3,
+        "NPCId": 298,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "108": {
+        "id": 108,
+        "battleId": 48,
+        "flag": 1,
+        "NPCId": 659,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "109": {
+        "id": 109,
+        "battleId": 48,
+        "flag": 2,
+        "NPCId": 118,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "110": {
+        "id": 110,
+        "battleId": 48,
+        "flag": 3,
+        "NPCId": 929,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "111": {
+        "id": 111,
+        "battleId": 49,
+        "flag": 1,
+        "NPCId": 3539,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "112": {
+        "id": 112,
+        "battleId": 49,
+        "flag": 2,
+        "NPCId": 390,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "113": {
+        "id": 113,
+        "battleId": 49,
+        "flag": 3,
+        "NPCId": 1649,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "114": {
+        "id": 114,
+        "battleId": 50,
+        "flag": 1,
+        "NPCId": 210,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "115": {
+        "id": 115,
+        "battleId": 50,
+        "flag": 2,
+        "NPCId": 1830,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "116": {
+        "id": 116,
+        "battleId": 50,
+        "flag": 3,
+        "NPCId": 301,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "117": {
+        "id": 117,
+        "battleId": 50,
+        "flag": 4,
+        "NPCId": 660,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "118": {
+        "id": 118,
+        "battleId": 51,
+        "flag": 1,
+        "NPCId": 121,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "119": {
+        "id": 119,
+        "battleId": 51,
+        "flag": 2,
+        "NPCId": 931,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "120": {
+        "id": 120,
+        "battleId": 51,
+        "flag": 3,
+        "NPCId": 3542,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "121": {
+        "id": 121,
+        "battleId": 51,
+        "flag": 4,
+        "NPCId": 391,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "122": {
+        "id": 122,
+        "battleId": 52,
+        "flag": 1,
+        "NPCId": 1652,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "123": {
+        "id": 123,
+        "battleId": 52,
+        "flag": 2,
+        "NPCId": 212,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "124": {
+        "id": 124,
+        "battleId": 52,
+        "flag": 3,
+        "NPCId": 1833,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "125": {
+        "id": 125,
+        "battleId": 52,
+        "flag": 4,
+        "NPCId": 302,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "126": {
+        "id": 126,
+        "battleId": 53,
+        "flag": 1,
+        "NPCId": 663,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "127": {
+        "id": 127,
+        "battleId": 53,
+        "flag": 2,
+        "NPCId": 123,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "128": {
+        "id": 128,
+        "battleId": 53,
+        "flag": 3,
+        "NPCId": 934,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "129": {
+        "id": 129,
+        "battleId": 53,
+        "flag": 4,
+        "NPCId": 3543,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "130": {
+        "id": 130,
+        "battleId": 54,
+        "flag": 1,
+        "NPCId": 394,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "131": {
+        "id": 131,
+        "battleId": 54,
+        "flag": 2,
+        "NPCId": 1654,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "132": {
+        "id": 132,
+        "battleId": 54,
+        "flag": 3,
+        "NPCId": 215,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "133": {
+        "id": 133,
+        "battleId": 54,
+        "flag": 4,
+        "NPCId": 1834,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "134": {
+        "id": 134,
+        "battleId": 55,
+        "flag": 1,
+        "NPCId": 305,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "135": {
+        "id": 135,
+        "battleId": 55,
+        "flag": 2,
+        "NPCId": 665,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "136": {
+        "id": 136,
+        "battleId": 55,
+        "flag": 3,
+        "NPCId": 126,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "137": {
+        "id": 137,
+        "battleId": 55,
+        "flag": 4,
+        "NPCId": 935,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "138": {
+        "id": 138,
+        "battleId": 56,
+        "flag": 1,
+        "NPCId": 3546,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "139": {
+        "id": 139,
+        "battleId": 56,
+        "flag": 2,
+        "NPCId": 396,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "140": {
+        "id": 140,
+        "battleId": 56,
+        "flag": 3,
+        "NPCId": 1657,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "141": {
+        "id": 141,
+        "battleId": 56,
+        "flag": 4,
+        "NPCId": 216,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "142": {
+        "id": 142,
+        "battleId": 57,
+        "flag": 1,
+        "NPCId": 1837,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "143": {
+        "id": 143,
+        "battleId": 57,
+        "flag": 2,
+        "NPCId": 307,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "144": {
+        "id": 144,
+        "battleId": 57,
+        "flag": 3,
+        "NPCId": 668,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "145": {
+        "id": 145,
+        "battleId": 57,
+        "flag": 4,
+        "NPCId": 127,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "146": {
+        "id": 146,
+        "battleId": 58,
+        "flag": 1,
+        "NPCId": 634,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "147": {
+        "id": 147,
+        "battleId": 58,
+        "flag": 2,
+        "NPCId": 95,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "148": {
+        "id": 148,
+        "battleId": 58,
+        "flag": 3,
+        "NPCId": 905,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "149": {
+        "id": 149,
+        "battleId": 59,
+        "flag": 1,
+        "NPCId": 3514,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "150": {
+        "id": 150,
+        "battleId": 59,
+        "flag": 2,
+        "NPCId": 365,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "151": {
+        "id": 151,
+        "battleId": 59,
+        "flag": 3,
+        "NPCId": 1626,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "152": {
+        "id": 152,
+        "battleId": 60,
+        "flag": 1,
+        "NPCId": 188,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "153": {
+        "id": 153,
+        "battleId": 60,
+        "flag": 2,
+        "NPCId": 1809,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "154": {
+        "id": 154,
+        "battleId": 60,
+        "flag": 3,
+        "NPCId": 279,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "155": {
+        "id": 155,
+        "battleId": 61,
+        "flag": 1,
+        "NPCId": 638,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "156": {
+        "id": 156,
+        "battleId": 61,
+        "flag": 2,
+        "NPCId": 99,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "157": {
+        "id": 157,
+        "battleId": 61,
+        "flag": 3,
+        "NPCId": 910,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "158": {
+        "id": 158,
+        "battleId": 62,
+        "flag": 1,
+        "NPCId": 3522,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "159": {
+        "id": 159,
+        "battleId": 62,
+        "flag": 2,
+        "NPCId": 373,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "160": {
+        "id": 160,
+        "battleId": 62,
+        "flag": 3,
+        "NPCId": 1633,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "161": {
+        "id": 161,
+        "battleId": 63,
+        "flag": 1,
+        "NPCId": 192,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "162": {
+        "id": 162,
+        "battleId": 63,
+        "flag": 2,
+        "NPCId": 1813,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "163": {
+        "id": 163,
+        "battleId": 63,
+        "flag": 3,
+        "NPCId": 284,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "164": {
+        "id": 164,
+        "battleId": 64,
+        "flag": 1,
+        "NPCId": 646,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "165": {
+        "id": 165,
+        "battleId": 64,
+        "flag": 2,
+        "NPCId": 107,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "166": {
+        "id": 166,
+        "battleId": 64,
+        "flag": 3,
+        "NPCId": 917,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "167": {
+        "id": 167,
+        "battleId": 65,
+        "flag": 1,
+        "NPCId": 3526,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "168": {
+        "id": 168,
+        "battleId": 65,
+        "flag": 2,
+        "NPCId": 377,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "169": {
+        "id": 169,
+        "battleId": 65,
+        "flag": 3,
+        "NPCId": 1638,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "170": {
+        "id": 170,
+        "battleId": 66,
+        "flag": 1,
+        "NPCId": 200,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "171": {
+        "id": 171,
+        "battleId": 66,
+        "flag": 2,
+        "NPCId": 1821,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "172": {
+        "id": 172,
+        "battleId": 66,
+        "flag": 3,
+        "NPCId": 291,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "173": {
+        "id": 173,
+        "battleId": 67,
+        "flag": 1,
+        "NPCId": 650,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "174": {
+        "id": 174,
+        "battleId": 67,
+        "flag": 2,
+        "NPCId": 111,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "175": {
+        "id": 175,
+        "battleId": 67,
+        "flag": 3,
+        "NPCId": 922,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "176": {
+        "id": 176,
+        "battleId": 68,
+        "flag": 1,
+        "NPCId": 3534,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "177": {
+        "id": 177,
+        "battleId": 68,
+        "flag": 2,
+        "NPCId": 385,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "178": {
+        "id": 178,
+        "battleId": 68,
+        "flag": 3,
+        "NPCId": 1645,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "179": {
+        "id": 179,
+        "battleId": 69,
+        "flag": 1,
+        "NPCId": 204,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "180": {
+        "id": 180,
+        "battleId": 69,
+        "flag": 2,
+        "NPCId": 1825,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "181": {
+        "id": 181,
+        "battleId": 69,
+        "flag": 3,
+        "NPCId": 296,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "182": {
+        "id": 182,
+        "battleId": 70,
+        "flag": 1,
+        "NPCId": 658,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "183": {
+        "id": 183,
+        "battleId": 70,
+        "flag": 2,
+        "NPCId": 119,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "184": {
+        "id": 184,
+        "battleId": 70,
+        "flag": 3,
+        "NPCId": 929,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "185": {
+        "id": 185,
+        "battleId": 71,
+        "flag": 1,
+        "NPCId": 3538,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "186": {
+        "id": 186,
+        "battleId": 71,
+        "flag": 2,
+        "NPCId": 389,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "187": {
+        "id": 187,
+        "battleId": 71,
+        "flag": 3,
+        "NPCId": 1650,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "188": {
+        "id": 188,
+        "battleId": 72,
+        "flag": 1,
+        "NPCId": 212,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "189": {
+        "id": 189,
+        "battleId": 72,
+        "flag": 2,
+        "NPCId": 1833,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "190": {
+        "id": 190,
+        "battleId": 72,
+        "flag": 3,
+        "NPCId": 303,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "191": {
+        "id": 191,
+        "battleId": 73,
+        "flag": 1,
+        "NPCId": 662,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "192": {
+        "id": 192,
+        "battleId": 73,
+        "flag": 2,
+        "NPCId": 123,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "193": {
+        "id": 193,
+        "battleId": 73,
+        "flag": 3,
+        "NPCId": 934,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "194": {
+        "id": 194,
+        "battleId": 74,
+        "flag": 1,
+        "NPCId": 3546,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "195": {
+        "id": 195,
+        "battleId": 74,
+        "flag": 2,
+        "NPCId": 397,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "196": {
+        "id": 196,
+        "battleId": 74,
+        "flag": 3,
+        "NPCId": 1657,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "197": {
+        "id": 197,
+        "battleId": 75,
+        "flag": 1,
+        "NPCId": 216,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "198": {
+        "id": 198,
+        "battleId": 75,
+        "flag": 2,
+        "NPCId": 1837,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "199": {
+        "id": 199,
+        "battleId": 75,
+        "flag": 3,
+        "NPCId": 308,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "200": {
+        "id": 200,
+        "battleId": 76,
+        "flag": 1,
+        "NPCId": 670,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "201": {
+        "id": 201,
+        "battleId": 76,
+        "flag": 2,
+        "NPCId": 131,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "202": {
+        "id": 202,
+        "battleId": 76,
+        "flag": 3,
+        "NPCId": 941,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "203": {
+        "id": 203,
+        "battleId": 77,
+        "flag": 1,
+        "NPCId": 3550,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "204": {
+        "id": 204,
+        "battleId": 77,
+        "flag": 2,
+        "NPCId": 401,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "205": {
+        "id": 205,
+        "battleId": 77,
+        "flag": 3,
+        "NPCId": 1662,
+        "isBoss": 0,
+        "ver": "1.0.0"
+    },
+    "206": {
+        "id": 206,
+        "battleId": 78,
+        "flag": 1,
+        "NPCId": 633,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "207": {
+        "id": 207,
+        "battleId": 78,
+        "flag": 2,
+        "NPCId": 1622,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "208": {
+        "id": 208,
+        "battleId": 79,
+        "flag": 1,
+        "NPCId": 274,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "209": {
+        "id": 209,
+        "battleId": 79,
+        "flag": 2,
+        "NPCId": 3512,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "210": {
+        "id": 210,
+        "battleId": 80,
+        "flag": 1,
+        "NPCId": 1622,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "211": {
+        "id": 211,
+        "battleId": 80,
+        "flag": 2,
+        "NPCId": 91,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "212": {
+        "id": 212,
+        "battleId": 80,
+        "flag": 3,
+        "NPCId": 183,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "213": {
+        "id": 213,
+        "battleId": 81,
+        "flag": 1,
+        "NPCId": 275,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "214": {
+        "id": 214,
+        "battleId": 81,
+        "flag": 2,
+        "NPCId": 1803,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "215": {
+        "id": 215,
+        "battleId": 82,
+        "flag": 1,
+        "NPCId": 185,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "216": {
+        "id": 216,
+        "battleId": 82,
+        "flag": 2,
+        "NPCId": 3512,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    },
+    "217": {
+        "id": 217,
+        "battleId": 82,
+        "flag": 3,
+        "NPCId": 905,
+        "isBoss": 0,
+        "ver": "0.0.0.1"
+    }
+}

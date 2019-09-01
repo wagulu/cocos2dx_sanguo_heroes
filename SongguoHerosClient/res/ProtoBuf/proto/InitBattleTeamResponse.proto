@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "BattleTeamPB.proto";
+
+message InitBattleTeamResponse{
+	optional ApiResponse			api = 1;							//公用参数
+	repeated BattleTeamPB			battleTeam = 2;						//拥有的材料列表
+}

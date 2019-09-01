@@ -1,0 +1,10 @@
+{
+    "config": "xie_yan_du_hun",
+    "id": 45,
+    "name": "xie_yan_du_hun",
+    "level": 1,
+    "mpCost": 10,
+    "energyStart": 200,
+    "energyCost": 440,
+    "energySpeed": 20
+}

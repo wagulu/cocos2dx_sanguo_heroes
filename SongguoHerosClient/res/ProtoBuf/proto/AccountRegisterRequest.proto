@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message AccountRegisterRequest{
+	optional ApiRequest	api = 1;		//公用参数
+	optional string		userName = 2;	//注册用户名
+	optional string		passWord = 3;	//注册密码
+	optional string		email = 4;		//注册email
+}

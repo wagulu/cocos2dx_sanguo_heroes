@@ -1,0 +1,702 @@
+{
+    "1": {
+        "id": 1,
+        "equipmentId": "1",
+        "asset": "",
+        "quality": 1,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u666e\u901a\u7684\u9752\u91ed\u501a\u5929\u5251",
+        "description_zhCN": "\u666e\u901a\u7684\u9752\u91ed\u501a\u5929\u5251\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "2": {
+        "id": 2,
+        "equipmentId": "1",
+        "asset": "",
+        "quality": 2,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u9752\u91ed\u501a\u5929\u5251",
+        "description_zhCN": "\u4f18\u79c0\u7684\u9752\u91ed\u501a\u5929\u5251\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "3": {
+        "id": 3,
+        "equipmentId": "1",
+        "asset": "",
+        "quality": 3,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u9752\u91ed\u501a\u5929\u5251+1",
+        "description_zhCN": "\u4f18\u79c0\u7684\u9752\u91ed\u501a\u5929\u5251+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "4": {
+        "id": 4,
+        "equipmentId": "1",
+        "asset": "",
+        "quality": 4,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u9752\u91ed\u501a\u5929\u5251",
+        "description_zhCN": "\u7a00\u6709\u7684\u9752\u91ed\u501a\u5929\u5251\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "5": {
+        "id": 5,
+        "equipmentId": "1",
+        "asset": "",
+        "quality": 5,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u9752\u91ed\u501a\u5929\u5251+1",
+        "description_zhCN": "\u7a00\u6709\u7684\u9752\u91ed\u501a\u5929\u5251+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "6": {
+        "id": 6,
+        "equipmentId": "1",
+        "asset": "",
+        "quality": 6,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u9752\u91ed\u501a\u5929\u5251+2",
+        "description_zhCN": "\u7a00\u6709\u7684\u9752\u91ed\u501a\u5929\u5251+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "7": {
+        "id": 7,
+        "equipmentId": "1",
+        "asset": "",
+        "quality": 7,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9752\u91ed\u501a\u5929\u5251",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9752\u91ed\u501a\u5929\u5251\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "8": {
+        "id": 8,
+        "equipmentId": "1",
+        "asset": "",
+        "quality": 8,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9752\u91ed\u501a\u5929\u5251+1",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9752\u91ed\u501a\u5929\u5251+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "9": {
+        "id": 9,
+        "equipmentId": "1",
+        "asset": "",
+        "quality": 9,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9752\u91ed\u501a\u5929\u5251+2",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9752\u91ed\u501a\u5929\u5251+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "10": {
+        "id": 10,
+        "equipmentId": "1",
+        "asset": "",
+        "quality": 10,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9752\u91ed\u501a\u5929\u5251+3",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9752\u91ed\u501a\u5929\u5251+3\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "11": {
+        "id": 11,
+        "equipmentId": "2",
+        "asset": "",
+        "quality": 1,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u666e\u901a\u7684\u7384\u51a5\u9b3c\u7075\u6247",
+        "description_zhCN": "\u666e\u901a\u7684\u7384\u51a5\u9b3c\u7075\u6247\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "12": {
+        "id": 12,
+        "equipmentId": "2",
+        "asset": "",
+        "quality": 2,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u7384\u51a5\u9b3c\u7075\u6247",
+        "description_zhCN": "\u4f18\u79c0\u7684\u7384\u51a5\u9b3c\u7075\u6247\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "13": {
+        "id": 13,
+        "equipmentId": "2",
+        "asset": "",
+        "quality": 3,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u7384\u51a5\u9b3c\u7075\u6247+1",
+        "description_zhCN": "\u4f18\u79c0\u7684\u7384\u51a5\u9b3c\u7075\u6247+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "14": {
+        "id": 14,
+        "equipmentId": "2",
+        "asset": "",
+        "quality": 4,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u7384\u51a5\u9b3c\u7075\u6247",
+        "description_zhCN": "\u7a00\u6709\u7684\u7384\u51a5\u9b3c\u7075\u6247\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "15": {
+        "id": 15,
+        "equipmentId": "2",
+        "asset": "",
+        "quality": 5,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u7384\u51a5\u9b3c\u7075\u6247+1",
+        "description_zhCN": "\u7a00\u6709\u7684\u7384\u51a5\u9b3c\u7075\u6247+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "16": {
+        "id": 16,
+        "equipmentId": "2",
+        "asset": "",
+        "quality": 6,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u7384\u51a5\u9b3c\u7075\u6247+2",
+        "description_zhCN": "\u7a00\u6709\u7684\u7384\u51a5\u9b3c\u7075\u6247+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "17": {
+        "id": 17,
+        "equipmentId": "2",
+        "asset": "",
+        "quality": 7,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u7384\u51a5\u9b3c\u7075\u6247",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u7384\u51a5\u9b3c\u7075\u6247\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "18": {
+        "id": 18,
+        "equipmentId": "2",
+        "asset": "",
+        "quality": 8,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u7384\u51a5\u9b3c\u7075\u6247+1",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u7384\u51a5\u9b3c\u7075\u6247+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "19": {
+        "id": 19,
+        "equipmentId": "2",
+        "asset": "",
+        "quality": 9,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u7384\u51a5\u9b3c\u7075\u6247+2",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u7384\u51a5\u9b3c\u7075\u6247+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "20": {
+        "id": 20,
+        "equipmentId": "2",
+        "asset": "",
+        "quality": 10,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u7384\u51a5\u9b3c\u7075\u6247+3",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u7384\u51a5\u9b3c\u7075\u6247+3\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "21": {
+        "id": 21,
+        "equipmentId": "3",
+        "asset": "",
+        "quality": 1,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u666e\u901a\u7684\u65e5\u6708\u9547\u9b42\u9524",
+        "description_zhCN": "\u666e\u901a\u7684\u65e5\u6708\u9547\u9b42\u9524\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "22": {
+        "id": 22,
+        "equipmentId": "3",
+        "asset": "",
+        "quality": 2,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u65e5\u6708\u9547\u9b42\u9524",
+        "description_zhCN": "\u4f18\u79c0\u7684\u65e5\u6708\u9547\u9b42\u9524\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "23": {
+        "id": 23,
+        "equipmentId": "3",
+        "asset": "",
+        "quality": 3,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u65e5\u6708\u9547\u9b42\u9524+1",
+        "description_zhCN": "\u4f18\u79c0\u7684\u65e5\u6708\u9547\u9b42\u9524+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "24": {
+        "id": 24,
+        "equipmentId": "3",
+        "asset": "",
+        "quality": 4,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u65e5\u6708\u9547\u9b42\u9524",
+        "description_zhCN": "\u7a00\u6709\u7684\u65e5\u6708\u9547\u9b42\u9524\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "25": {
+        "id": 25,
+        "equipmentId": "3",
+        "asset": "",
+        "quality": 5,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u65e5\u6708\u9547\u9b42\u9524+1",
+        "description_zhCN": "\u7a00\u6709\u7684\u65e5\u6708\u9547\u9b42\u9524+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "26": {
+        "id": 26,
+        "equipmentId": "3",
+        "asset": "",
+        "quality": 6,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u65e5\u6708\u9547\u9b42\u9524+2",
+        "description_zhCN": "\u7a00\u6709\u7684\u65e5\u6708\u9547\u9b42\u9524+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "27": {
+        "id": 27,
+        "equipmentId": "3",
+        "asset": "",
+        "quality": 7,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u65e5\u6708\u9547\u9b42\u9524",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u65e5\u6708\u9547\u9b42\u9524\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "28": {
+        "id": 28,
+        "equipmentId": "3",
+        "asset": "",
+        "quality": 8,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u65e5\u6708\u9547\u9b42\u9524+1",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u65e5\u6708\u9547\u9b42\u9524+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "29": {
+        "id": 29,
+        "equipmentId": "3",
+        "asset": "",
+        "quality": 9,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u65e5\u6708\u9547\u9b42\u9524+2",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u65e5\u6708\u9547\u9b42\u9524+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "30": {
+        "id": 30,
+        "equipmentId": "3",
+        "asset": "",
+        "quality": 10,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u65e5\u6708\u9547\u9b42\u9524+3",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u65e5\u6708\u9547\u9b42\u9524+3\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "31": {
+        "id": 31,
+        "equipmentId": "4",
+        "asset": "",
+        "quality": 1,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u666e\u901a\u7684\u771f\u706b\u6731\u96c0\u6247",
+        "description_zhCN": "\u666e\u901a\u7684\u771f\u706b\u6731\u96c0\u6247\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "32": {
+        "id": 32,
+        "equipmentId": "4",
+        "asset": "",
+        "quality": 2,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u771f\u706b\u6731\u96c0\u6247",
+        "description_zhCN": "\u4f18\u79c0\u7684\u771f\u706b\u6731\u96c0\u6247\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "33": {
+        "id": 33,
+        "equipmentId": "4",
+        "asset": "",
+        "quality": 3,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u771f\u706b\u6731\u96c0\u6247+1",
+        "description_zhCN": "\u4f18\u79c0\u7684\u771f\u706b\u6731\u96c0\u6247+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "34": {
+        "id": 34,
+        "equipmentId": "4",
+        "asset": "",
+        "quality": 4,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u771f\u706b\u6731\u96c0\u6247",
+        "description_zhCN": "\u7a00\u6709\u7684\u771f\u706b\u6731\u96c0\u6247\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "35": {
+        "id": 35,
+        "equipmentId": "4",
+        "asset": "",
+        "quality": 5,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u771f\u706b\u6731\u96c0\u6247+1",
+        "description_zhCN": "\u7a00\u6709\u7684\u771f\u706b\u6731\u96c0\u6247+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "36": {
+        "id": 36,
+        "equipmentId": "4",
+        "asset": "",
+        "quality": 6,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u771f\u706b\u6731\u96c0\u6247+2",
+        "description_zhCN": "\u7a00\u6709\u7684\u771f\u706b\u6731\u96c0\u6247+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "37": {
+        "id": 37,
+        "equipmentId": "4",
+        "asset": "",
+        "quality": 7,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u771f\u706b\u6731\u96c0\u6247",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u771f\u706b\u6731\u96c0\u6247\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "38": {
+        "id": 38,
+        "equipmentId": "4",
+        "asset": "",
+        "quality": 8,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u771f\u706b\u6731\u96c0\u6247+1",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u771f\u706b\u6731\u96c0\u6247+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "39": {
+        "id": 39,
+        "equipmentId": "4",
+        "asset": "",
+        "quality": 9,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u771f\u706b\u6731\u96c0\u6247+2",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u771f\u706b\u6731\u96c0\u6247+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "40": {
+        "id": 40,
+        "equipmentId": "4",
+        "asset": "",
+        "quality": 10,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u771f\u706b\u6731\u96c0\u6247+3",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u771f\u706b\u6731\u96c0\u6247+3\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "41": {
+        "id": 41,
+        "equipmentId": "5",
+        "asset": "",
+        "quality": 1,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u666e\u901a\u7684\u9752\u9f99\u5043\u6708\u5200",
+        "description_zhCN": "\u666e\u901a\u7684\u9752\u9f99\u5043\u6708\u5200\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "42": {
+        "id": 42,
+        "equipmentId": "5",
+        "asset": "",
+        "quality": 2,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u9752\u9f99\u5043\u6708\u5200",
+        "description_zhCN": "\u4f18\u79c0\u7684\u9752\u9f99\u5043\u6708\u5200\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "43": {
+        "id": 43,
+        "equipmentId": "5",
+        "asset": "",
+        "quality": 3,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u9752\u9f99\u5043\u6708\u5200+1",
+        "description_zhCN": "\u4f18\u79c0\u7684\u9752\u9f99\u5043\u6708\u5200+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "44": {
+        "id": 44,
+        "equipmentId": "5",
+        "asset": "",
+        "quality": 4,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u9752\u9f99\u5043\u6708\u5200",
+        "description_zhCN": "\u7a00\u6709\u7684\u9752\u9f99\u5043\u6708\u5200\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "45": {
+        "id": 45,
+        "equipmentId": "5",
+        "asset": "",
+        "quality": 5,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u9752\u9f99\u5043\u6708\u5200+1",
+        "description_zhCN": "\u7a00\u6709\u7684\u9752\u9f99\u5043\u6708\u5200+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "46": {
+        "id": 46,
+        "equipmentId": "5",
+        "asset": "",
+        "quality": 6,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u9752\u9f99\u5043\u6708\u5200+2",
+        "description_zhCN": "\u7a00\u6709\u7684\u9752\u9f99\u5043\u6708\u5200+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "47": {
+        "id": 47,
+        "equipmentId": "5",
+        "asset": "",
+        "quality": 7,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9752\u9f99\u5043\u6708\u5200",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9752\u9f99\u5043\u6708\u5200\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "48": {
+        "id": 48,
+        "equipmentId": "5",
+        "asset": "",
+        "quality": 8,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9752\u9f99\u5043\u6708\u5200+1",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9752\u9f99\u5043\u6708\u5200+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "49": {
+        "id": 49,
+        "equipmentId": "5",
+        "asset": "",
+        "quality": 9,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9752\u9f99\u5043\u6708\u5200+2",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9752\u9f99\u5043\u6708\u5200+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "50": {
+        "id": 50,
+        "equipmentId": "5",
+        "asset": "",
+        "quality": 10,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9752\u9f99\u5043\u6708\u5200+3",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9752\u9f99\u5043\u6708\u5200+3\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "51": {
+        "id": 51,
+        "equipmentId": "6",
+        "asset": "",
+        "quality": 1,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u666e\u901a\u7684\u9f99\u80c6\u4eae\u94f6\u67aa",
+        "description_zhCN": "\u666e\u901a\u7684\u9f99\u80c6\u4eae\u94f6\u67aa\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "52": {
+        "id": 52,
+        "equipmentId": "6",
+        "asset": "",
+        "quality": 2,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u9f99\u80c6\u4eae\u94f6\u67aa",
+        "description_zhCN": "\u4f18\u79c0\u7684\u9f99\u80c6\u4eae\u94f6\u67aa\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "53": {
+        "id": 53,
+        "equipmentId": "6",
+        "asset": "",
+        "quality": 3,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+1",
+        "description_zhCN": "\u4f18\u79c0\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "54": {
+        "id": 54,
+        "equipmentId": "6",
+        "asset": "",
+        "quality": 4,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u9f99\u80c6\u4eae\u94f6\u67aa",
+        "description_zhCN": "\u7a00\u6709\u7684\u9f99\u80c6\u4eae\u94f6\u67aa\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "55": {
+        "id": 55,
+        "equipmentId": "6",
+        "asset": "",
+        "quality": 5,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+1",
+        "description_zhCN": "\u7a00\u6709\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "56": {
+        "id": 56,
+        "equipmentId": "6",
+        "asset": "",
+        "quality": 6,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+2",
+        "description_zhCN": "\u7a00\u6709\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "57": {
+        "id": 57,
+        "equipmentId": "6",
+        "asset": "",
+        "quality": 7,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9f99\u80c6\u4eae\u94f6\u67aa",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9f99\u80c6\u4eae\u94f6\u67aa\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "58": {
+        "id": 58,
+        "equipmentId": "6",
+        "asset": "",
+        "quality": 8,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+1",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "59": {
+        "id": 59,
+        "equipmentId": "6",
+        "asset": "",
+        "quality": 9,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+2",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "60": {
+        "id": 60,
+        "equipmentId": "6",
+        "asset": "",
+        "quality": 10,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+3",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u9f99\u80c6\u4eae\u94f6\u67aa+3\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "61": {
+        "id": 61,
+        "equipmentId": "7",
+        "asset": "",
+        "quality": 1,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u666e\u901a\u7684\u864e\u5934\u6e5b\u91d1\u67aa",
+        "description_zhCN": "\u666e\u901a\u7684\u864e\u5934\u6e5b\u91d1\u67aa\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "62": {
+        "id": 62,
+        "equipmentId": "7",
+        "asset": "",
+        "quality": 2,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u864e\u5934\u6e5b\u91d1\u67aa",
+        "description_zhCN": "\u4f18\u79c0\u7684\u864e\u5934\u6e5b\u91d1\u67aa\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "63": {
+        "id": 63,
+        "equipmentId": "7",
+        "asset": "",
+        "quality": 3,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u4f18\u79c0\u7684\u864e\u5934\u6e5b\u91d1\u67aa+1",
+        "description_zhCN": "\u4f18\u79c0\u7684\u864e\u5934\u6e5b\u91d1\u67aa+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "64": {
+        "id": 64,
+        "equipmentId": "7",
+        "asset": "",
+        "quality": 4,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u864e\u5934\u6e5b\u91d1\u67aa",
+        "description_zhCN": "\u7a00\u6709\u7684\u864e\u5934\u6e5b\u91d1\u67aa\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "65": {
+        "id": 65,
+        "equipmentId": "7",
+        "asset": "",
+        "quality": 5,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u864e\u5934\u6e5b\u91d1\u67aa+1",
+        "description_zhCN": "\u7a00\u6709\u7684\u864e\u5934\u6e5b\u91d1\u67aa+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "66": {
+        "id": 66,
+        "equipmentId": "7",
+        "asset": "",
+        "quality": 6,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7a00\u6709\u7684\u864e\u5934\u6e5b\u91d1\u67aa+2",
+        "description_zhCN": "\u7a00\u6709\u7684\u864e\u5934\u6e5b\u91d1\u67aa+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "67": {
+        "id": 67,
+        "equipmentId": "7",
+        "asset": "",
+        "quality": 7,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u864e\u5934\u6e5b\u91d1\u67aa",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u864e\u5934\u6e5b\u91d1\u67aa\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "68": {
+        "id": 68,
+        "equipmentId": "7",
+        "asset": "",
+        "quality": 8,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u864e\u5934\u6e5b\u91d1\u67aa+1",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u864e\u5934\u6e5b\u91d1\u67aa+1\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "69": {
+        "id": 69,
+        "equipmentId": "7",
+        "asset": "",
+        "quality": 9,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u864e\u5934\u6e5b\u91d1\u67aa+2",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u864e\u5934\u6e5b\u91d1\u67aa+2\u6682\u65e0\u63cf\u8ff0\u54e6"
+    },
+    "70": {
+        "id": 70,
+        "equipmentId": "7",
+        "asset": "",
+        "quality": 10,
+        "resetLocaleKey": "equipmentId,quality",
+        "ver": 0,
+        "name_zhCN": "\u7cbe\u81f4\u7684\u864e\u5934\u6e5b\u91d1\u67aa+3",
+        "description_zhCN": "\u7cbe\u81f4\u7684\u864e\u5934\u6e5b\u91d1\u67aa+3\u6682\u65e0\u63cf\u8ff0\u54e6"
+    }
+}

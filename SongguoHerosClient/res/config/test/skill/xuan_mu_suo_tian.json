@@ -1,0 +1,10 @@
+{
+    "config": "xuan_mu_suo_tian",
+    "id": 47,
+    "name": "xuan_mu_suo_tian",
+    "level": 1,
+    "mpCost": 3,
+    "energyStart": 200,
+    "energyCost": 440,
+    "energySpeed": 20
+}

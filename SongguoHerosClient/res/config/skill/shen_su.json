@@ -1,0 +1,46 @@
+{
+  "energyCost": 0.0,
+  "energySpeed":0.0,
+  "energyStart":1.0,
+  "mpCost": 0,
+  "negative": true,
+  "actions":
+  [
+    {
+      "name": "add_buff",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "time":"buff_time", "value":"buff_value", "property":"speed", "lock":false, "changeByAbsolute":false}
+    },
+    {
+      "name": "set_state_dizzy_on_normal_attack",
+      "start": 0.0,
+      "params": {"time":"dizzyTime", "ratio":"dizzyRatio", "heroDizzyConfig":"hero_dizzy"}
+    }
+  ],
+
+  "formula":
+  {
+    "buff_time": {"formula":"max", "min":-1, "max":-1, "divide":1.0},
+    "buff_value": {"formula":"min", "min":0.3, "base":0.2, "divide":100.0, "factor":0.2},
+    "dizzyTime": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0},
+    "dizzyRatio": {"formula":"min", "min":0.3, "base":0.1, "divide":100.0, "factor":0.2}
+  },
+
+  "dizzy":
+  {
+    "hero_dizzy":
+    {
+      "allowBreakByAnotherDizzy":true,
+      "action":
+      [
+        {"name":"stop_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"}
+      ],
+      "condition":
+      [
+        {"name":"by_time", "required":true}
+      ]
+    }
+  }
+}

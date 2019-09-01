@@ -1,0 +1,10 @@
+{
+    "config": "shan_qiang_lian_ci",
+    "id": 33,
+    "name": "shan_qiang_lian_ci",
+    "level": 1,
+    "mpCost": 8,
+    "energyStart": 450,
+    "energyCost": 100,
+    "energySpeed": 20
+}

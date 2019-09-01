@@ -1,0 +1,69 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "482A98E7D39291A3A894D64C82154B9551C9E295+++3985207",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++C005881" : {
+
+    },
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++3A92CB6" : {
+
+    },
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++6030+++9DADF40" : {
+
+    },
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++A35707A" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++6030+++9DADF40" : 9223372036854775807,
+    "482A98E7D39291A3A894D64C82154B9551C9E295+++1FCF32F" : 0,
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++3A92CB6" : 0,
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++C005881" : 0,
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++A35707A" : 0,
+    "482A98E7D39291A3A894D64C82154B9551C9E295+++3985207" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "32B4818E-77EB-46D8-9220-707AA963DE95",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++6030+++9DADF40" : "",
+    "482A98E7D39291A3A894D64C82154B9551C9E295+++1FCF32F" : "sanguo",
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++3A92CB6" : "sanguoGit\/Client\/game\/res\/items\/TreasureItemPart\/",
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++C005881" : "sanguoGit\/Client\/game\/res\/items\/TreasureItemPart\/",
+    "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++A35707A" : "sanguoGit\/Client\/game\/res\/items\/TreasureItem\/",
+    "482A98E7D39291A3A894D64C82154B9551C9E295+++3985207" : "sanguoGit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "sanguoGame",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Client\/game\/frameworks\/runtime-src\/proj.ios_mac\/sanguoGame.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.zjfygames.com:sanguo\/sanguo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "482A98E7D39291A3A894D64C82154B9551C9E295+++1FCF32F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/gitlab.zjfygames.com\/sanguo\/sanguo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "482A98E7D39291A3A894D64C82154B9551C9E295+++3985207"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.200",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++6030+++9DADF40"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/zhai.kaiyu@192.168.0.200",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++3A92CB6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/zhai.kaiyu@192.168.0.200",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++A35707A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/zhai.kaiyu@192.168.0.200",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d5d7e636-54eb-11e4-b987-7db3c6bff7d9++8366+++C005881"
+    }
+  ]
+}

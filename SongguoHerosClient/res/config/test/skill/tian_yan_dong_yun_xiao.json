@@ -1,0 +1,10 @@
+{
+    "config": "tian_yan_dong_yun_xiao",
+    "id": 43,
+    "name": "tian_yan_dong_yun_xiao",
+    "level": 1,
+    "mpCost": 10,
+    "energyStart": 1100,
+    "energyCost": 100,
+    "energySpeed": 20
+}

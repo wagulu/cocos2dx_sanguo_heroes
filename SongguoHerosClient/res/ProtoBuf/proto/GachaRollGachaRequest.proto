@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message GachaRollGachaRequest {
+	optional ApiRequest	api = 1;			//公用参数
+	optional int32		gachaId = 2;		//购买位置
+}

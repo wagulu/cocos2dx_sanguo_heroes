@@ -1,0 +1,10 @@
+{
+    "config": "mu_lun_qiang_xi",
+    "id": 29,
+    "name": "mu_lun_qiang_xi",
+    "level": 1,
+    "mpCost": 100,
+    "energyStart": 80,
+    "energyCost": 100,
+    "energySpeed": 20
+}

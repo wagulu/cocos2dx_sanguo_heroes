@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "TreasureItemPB.proto";
+import "TreasureItemPartPB.proto";
+
+message MonstersTreasureItemMergeResponse{
+	optional ApiResponse			api = 1;				//公用参数
+	optional TreasureItemPB			treasureItem = 2;		//珍宝信息
+	optional TreasureItemPartPB		treasureItemPart = 3;	//珍宝升级道具信息
+}

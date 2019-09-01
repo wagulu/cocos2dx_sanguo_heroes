@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message MonstersTreasureItemLevelUpRequest{
+	optional ApiRequest	api = 1;						//公用参数
+	optional int32		inventoryTreasureItemId = 2;	//珍宝背包id，注意不是珍宝自身id
+	optional int32		itemId = 3;						//珍宝升级道具id
+	optional int32		count = 4;						//珍宝升级道具数量
+}

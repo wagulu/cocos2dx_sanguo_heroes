@@ -1,0 +1,40 @@
+message UserPB{ 										//用户信息同步
+	optional int32			level = 1;							//用户等级
+	optional int32			exp = 2;								//用户经验
+	optional int32			VipLevel = 3;						//用户vip等级
+	optional int32			energy = 4;							//用户当前体力
+	optional int32			energy_max = 5;						//用户总体力
+	optional int32			vitality = 6;						//用户当前精力
+	optional int32			vitality_max = 7;					//用户总精力
+	optional int32			coin = 8;							//用户金币总数
+	optional int32			cash = 9;							//用户cash总数
+	optional int32			prestige = 10;						//用户威望总数
+	optional int32			gacha_token = 11;					//用户gacha代币
+	optional int32			time_to_energy_max = 12;			//距离满体力时间戳
+	optional int32			time_to_next_energy = 13;			//距离恢复下一体力秒数
+	optional int32			time_to_vitality_max = 14;			//距离满精力时间戳
+	optional int32			time_to_next_vitality = 15;			//距离满精力时间戳
+	optional int32			exp_for_current_level = 16;			//当前等级最大经验值
+	repeated DepositCountPB	deposit_count = 17;					//当前收件箱未读数量
+	optional int32			skill_up_point = 18;				//技能点
+	optional int32			time_to_next_skill_up_point = 19;	//距离满技能点时间戳
+	optional int32			energy_buy_times = 20;				//今日购买体力次数
+	optional int32			vitality_buy_times = 21;			//今日购买精力次数
+	optional int32			skill_up_point_buy_times = 22;		//今日购买技能点次数
+}
+
+message DepositCountPB {
+	optional string type = 1;
+	optional int32	count = 2;
+}
+
+message EventInfoPB{									//server主动下发信息的具体内容
+	optional int32	eventId = 1;						//下发事件类型
+	optional string	eventInfo = 2;						//下发事件具体内容 json模式
+}
+
+message EventPB{										//server主动下发通用事件模型
+	optional UserPB			user = 1;					//用户信息同步
+	repeated EventInfoPB	eventInfo = 2;				//其他信息
+}
+

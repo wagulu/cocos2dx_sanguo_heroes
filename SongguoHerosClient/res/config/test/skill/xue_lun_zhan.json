@@ -1,0 +1,10 @@
+{
+    "config": "xue_lun_zhan",
+    "id": 48,
+    "name": "xue_lun_zhan",
+    "level": 1,
+    "mpCost": 50,
+    "energyStart": 550,
+    "energyCost": 600,
+    "energySpeed": 20
+}

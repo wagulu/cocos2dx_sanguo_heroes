@@ -1,0 +1,20 @@
+{
+  "energyCost": 0.0,
+  "energySpeed":0.0,
+  "energyStart":1.0,
+  "mpCost": 0,
+  "negative": true,
+  "actions":
+  [
+    {
+      "name": "add_buff",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "property":"HP", "time":"buff_time", "value":"buff_value_HP", "changeByAbsolute":true, "lock":false}
+    }
+  ],
+  "formula":
+  {
+    "buff_time": {"formula":"max", "min":-1, "max":-1, "divide":1},
+    "buff_value_HP": {"formula":"buff", "base":1500, "step":100}
+  }
+}

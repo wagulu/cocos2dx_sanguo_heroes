@@ -1,0 +1,65 @@
+{
+    "1": {
+        "id": 1,
+        "enemyId": 2,
+        "soldierId": 1,
+        "relativeId": 1,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "enemyId": 3,
+        "soldierId": 1,
+        "relativeId": 2,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "enemyId": 4,
+        "soldierId": 1,
+        "relativeId": 3,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "enemyId": 5,
+        "soldierId": 1,
+        "relativeId": 4,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "enemyId": 6,
+        "soldierId": 1,
+        "relativeId": 5,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "enemyId": 7,
+        "soldierId": 1,
+        "relativeId": 6,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "enemyId": 8,
+        "soldierId": 1,
+        "relativeId": 7,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "enemyId": 9,
+        "soldierId": 1,
+        "relativeId": 8,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "enemyId": 10,
+        "soldierId": 1,
+        "relativeId": 9,
+        "ver": "1.0.0"
+    }
+}

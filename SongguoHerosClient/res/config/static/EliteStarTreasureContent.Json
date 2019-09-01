@@ -1,0 +1,218 @@
+{
+    "1": {
+        "id": 1,
+        "starTreasureId": 1,
+        "prizeId": 62,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "starTreasureId": 1,
+        "prizeId": 63,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "starTreasureId": 1,
+        "prizeId": 64,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "starTreasureId": 1,
+        "prizeId": 65,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "starTreasureId": 2,
+        "prizeId": 66,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "starTreasureId": 2,
+        "prizeId": 67,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "starTreasureId": 2,
+        "prizeId": 68,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "starTreasureId": 2,
+        "prizeId": 69,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "starTreasureId": 3,
+        "prizeId": 70,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "starTreasureId": 3,
+        "prizeId": 255,
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "starTreasureId": 3,
+        "prizeId": 256,
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "starTreasureId": 3,
+        "prizeId": 257,
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "starTreasureId": 4,
+        "prizeId": 258,
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "starTreasureId": 4,
+        "prizeId": 259,
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "starTreasureId": 4,
+        "prizeId": 260,
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "starTreasureId": 4,
+        "prizeId": 261,
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "starTreasureId": 5,
+        "prizeId": 262,
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "starTreasureId": 5,
+        "prizeId": 263,
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "starTreasureId": 5,
+        "prizeId": 264,
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "starTreasureId": 5,
+        "prizeId": 265,
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "starTreasureId": 6,
+        "prizeId": 266,
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "starTreasureId": 6,
+        "prizeId": 267,
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "starTreasureId": 6,
+        "prizeId": 268,
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "starTreasureId": 6,
+        "prizeId": 269,
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "starTreasureId": 7,
+        "prizeId": 270,
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "starTreasureId": 7,
+        "prizeId": 271,
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "starTreasureId": 7,
+        "prizeId": 272,
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "starTreasureId": 7,
+        "prizeId": 273,
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "starTreasureId": 8,
+        "prizeId": 274,
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "starTreasureId": 8,
+        "prizeId": 275,
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "starTreasureId": 8,
+        "prizeId": 276,
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "starTreasureId": 8,
+        "prizeId": 277,
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "starTreasureId": 9,
+        "prizeId": 278,
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "starTreasureId": 9,
+        "prizeId": 279,
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "starTreasureId": 9,
+        "prizeId": 280,
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "starTreasureId": 9,
+        "prizeId": 281,
+        "ver": "1.0.0"
+    }
+}

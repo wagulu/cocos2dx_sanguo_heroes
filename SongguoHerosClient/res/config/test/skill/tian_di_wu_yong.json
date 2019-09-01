@@ -1,0 +1,10 @@
+{
+    "config": "tian_di_wu_yong",
+    "id": 42,
+    "name": "tian_di_wu_yong",
+    "level": 1,
+    "mpCost": 5,
+    "energyStart": 10,
+    "energyCost": 10,
+    "energySpeed": 20
+}

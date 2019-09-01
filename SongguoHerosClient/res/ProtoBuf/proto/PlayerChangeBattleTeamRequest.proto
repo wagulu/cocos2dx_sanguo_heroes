@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+import "BattleTeamPB.proto";
+
+message PlayerChangeBattleTeamRequest{
+	optional ApiRequest			api = 1;			//公用参数
+	repeated BattleTeamPB		battleTeam = 2;		//阵容信息
+}

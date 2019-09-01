@@ -1,0 +1,6 @@
+message TreasureItemPartPB {
+	optional int32		treasureItemPartId = 1;			//珍宝碎片id
+	optional int32		treasureItemId = 2;				//珍宝id
+	optional int32		count = 3;						//碎片数量
+}
+

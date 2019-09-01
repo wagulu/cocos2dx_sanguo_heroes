@@ -1,0 +1,2402 @@
+{
+    "1": {
+        "id": 1,
+        "pos": 1,
+        "skillId": 1,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "pos": 1,
+        "skillId": 2,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "pos": 1,
+        "skillId": 3,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "pos": 1,
+        "skillId": 4,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "pos": 1,
+        "skillId": 5,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "pos": 1,
+        "skillId": 6,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "pos": 1,
+        "skillId": 7,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "pos": 1,
+        "skillId": 8,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "pos": 1,
+        "skillId": 9,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "pos": 1,
+        "skillId": 10,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "pos": 1,
+        "skillId": 11,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "pos": 1,
+        "skillId": 12,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "pos": 1,
+        "skillId": 13,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "pos": 1,
+        "skillId": 14,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "pos": 1,
+        "skillId": 15,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "pos": 1,
+        "skillId": 16,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "pos": 1,
+        "skillId": 17,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "pos": 1,
+        "skillId": 18,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "pos": 1,
+        "skillId": 19,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "pos": 1,
+        "skillId": 20,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "pos": 1,
+        "skillId": 21,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "pos": 1,
+        "skillId": 22,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "pos": 1,
+        "skillId": 23,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "pos": 1,
+        "skillId": 24,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "pos": 1,
+        "skillId": 25,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "pos": 1,
+        "skillId": 26,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "pos": 1,
+        "skillId": 27,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "pos": 1,
+        "skillId": 28,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "pos": 1,
+        "skillId": 29,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "pos": 1,
+        "skillId": 30,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "pos": 1,
+        "skillId": 31,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "pos": 1,
+        "skillId": 32,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "pos": 1,
+        "skillId": 33,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "pos": 1,
+        "skillId": 34,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "pos": 1,
+        "skillId": 35,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "pos": 1,
+        "skillId": 36,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "pos": 1,
+        "skillId": 37,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "pos": 1,
+        "skillId": 38,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "pos": 1,
+        "skillId": 39,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "pos": 1,
+        "skillId": 40,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "pos": 1,
+        "skillId": 41,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "pos": 1,
+        "skillId": 42,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "pos": 1,
+        "skillId": 43,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "pos": 1,
+        "skillId": 44,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "pos": 1,
+        "skillId": 45,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "pos": 1,
+        "skillId": 46,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "pos": 1,
+        "skillId": 47,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "pos": 1,
+        "skillId": 48,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "pos": 1,
+        "skillId": 49,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "pos": 1,
+        "skillId": 50,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "51": {
+        "id": 51,
+        "pos": 1,
+        "skillId": 51,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "52": {
+        "id": 52,
+        "pos": 1,
+        "skillId": 52,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "53": {
+        "id": 53,
+        "pos": 1,
+        "skillId": 53,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "54": {
+        "id": 54,
+        "pos": 1,
+        "skillId": 54,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "55": {
+        "id": 55,
+        "pos": 1,
+        "skillId": 55,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "56": {
+        "id": 56,
+        "pos": 1,
+        "skillId": 56,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "57": {
+        "id": 57,
+        "pos": 1,
+        "skillId": 57,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "58": {
+        "id": 58,
+        "pos": 1,
+        "skillId": 58,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "59": {
+        "id": 59,
+        "pos": 1,
+        "skillId": 59,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "60": {
+        "id": 60,
+        "pos": 1,
+        "skillId": 60,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "61": {
+        "id": 61,
+        "pos": 1,
+        "skillId": 61,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "62": {
+        "id": 62,
+        "pos": 1,
+        "skillId": 62,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "63": {
+        "id": 63,
+        "pos": 1,
+        "skillId": 63,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "64": {
+        "id": 64,
+        "pos": 1,
+        "skillId": 64,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "65": {
+        "id": 65,
+        "pos": 1,
+        "skillId": 65,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "66": {
+        "id": 66,
+        "pos": 1,
+        "skillId": 66,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "67": {
+        "id": 67,
+        "pos": 1,
+        "skillId": 67,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "68": {
+        "id": 68,
+        "pos": 1,
+        "skillId": 68,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "69": {
+        "id": 69,
+        "pos": 1,
+        "skillId": 69,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "70": {
+        "id": 70,
+        "pos": 1,
+        "skillId": 70,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "71": {
+        "id": 71,
+        "pos": 1,
+        "skillId": 71,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "72": {
+        "id": 72,
+        "pos": 1,
+        "skillId": 72,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "73": {
+        "id": 73,
+        "pos": 1,
+        "skillId": 73,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "74": {
+        "id": 74,
+        "pos": 1,
+        "skillId": 74,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "75": {
+        "id": 75,
+        "pos": 1,
+        "skillId": 75,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "76": {
+        "id": 76,
+        "pos": 1,
+        "skillId": 76,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "77": {
+        "id": 77,
+        "pos": 1,
+        "skillId": 77,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "78": {
+        "id": 78,
+        "pos": 1,
+        "skillId": 78,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "79": {
+        "id": 79,
+        "pos": 1,
+        "skillId": 79,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "80": {
+        "id": 80,
+        "pos": 1,
+        "skillId": 80,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "81": {
+        "id": 81,
+        "pos": 1,
+        "skillId": 81,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "82": {
+        "id": 82,
+        "pos": 1,
+        "skillId": 82,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "83": {
+        "id": 83,
+        "pos": 1,
+        "skillId": 83,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "84": {
+        "id": 84,
+        "pos": 1,
+        "skillId": 84,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "85": {
+        "id": 85,
+        "pos": 1,
+        "skillId": 85,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "86": {
+        "id": 86,
+        "pos": 1,
+        "skillId": 86,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "87": {
+        "id": 87,
+        "pos": 1,
+        "skillId": 87,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "88": {
+        "id": 88,
+        "pos": 1,
+        "skillId": 88,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "89": {
+        "id": 89,
+        "pos": 1,
+        "skillId": 89,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "90": {
+        "id": 90,
+        "pos": 1,
+        "skillId": 90,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "91": {
+        "id": 91,
+        "pos": 1,
+        "skillId": 91,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "92": {
+        "id": 92,
+        "pos": 1,
+        "skillId": 92,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "93": {
+        "id": 93,
+        "pos": 1,
+        "skillId": 93,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "94": {
+        "id": 94,
+        "pos": 1,
+        "skillId": 94,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "95": {
+        "id": 95,
+        "pos": 1,
+        "skillId": 95,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "96": {
+        "id": 96,
+        "pos": 1,
+        "skillId": 96,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "97": {
+        "id": 97,
+        "pos": 1,
+        "skillId": 97,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "98": {
+        "id": 98,
+        "pos": 1,
+        "skillId": 98,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "99": {
+        "id": 99,
+        "pos": 1,
+        "skillId": 99,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "100": {
+        "id": 100,
+        "pos": 1,
+        "skillId": 100,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "101": {
+        "id": 101,
+        "pos": 2,
+        "skillId": 1,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "102": {
+        "id": 102,
+        "pos": 2,
+        "skillId": 2,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "103": {
+        "id": 103,
+        "pos": 2,
+        "skillId": 3,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "104": {
+        "id": 104,
+        "pos": 2,
+        "skillId": 4,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "105": {
+        "id": 105,
+        "pos": 2,
+        "skillId": 5,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "106": {
+        "id": 106,
+        "pos": 2,
+        "skillId": 6,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "107": {
+        "id": 107,
+        "pos": 2,
+        "skillId": 7,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "108": {
+        "id": 108,
+        "pos": 2,
+        "skillId": 8,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "109": {
+        "id": 109,
+        "pos": 2,
+        "skillId": 9,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "110": {
+        "id": 110,
+        "pos": 2,
+        "skillId": 10,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "111": {
+        "id": 111,
+        "pos": 2,
+        "skillId": 11,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "112": {
+        "id": 112,
+        "pos": 2,
+        "skillId": 12,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "113": {
+        "id": 113,
+        "pos": 2,
+        "skillId": 13,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "114": {
+        "id": 114,
+        "pos": 2,
+        "skillId": 14,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "115": {
+        "id": 115,
+        "pos": 2,
+        "skillId": 15,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "116": {
+        "id": 116,
+        "pos": 2,
+        "skillId": 16,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "117": {
+        "id": 117,
+        "pos": 2,
+        "skillId": 17,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "118": {
+        "id": 118,
+        "pos": 2,
+        "skillId": 18,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "119": {
+        "id": 119,
+        "pos": 2,
+        "skillId": 19,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "120": {
+        "id": 120,
+        "pos": 2,
+        "skillId": 20,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "121": {
+        "id": 121,
+        "pos": 2,
+        "skillId": 21,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "122": {
+        "id": 122,
+        "pos": 2,
+        "skillId": 22,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "123": {
+        "id": 123,
+        "pos": 2,
+        "skillId": 23,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "124": {
+        "id": 124,
+        "pos": 2,
+        "skillId": 24,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "125": {
+        "id": 125,
+        "pos": 2,
+        "skillId": 25,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "126": {
+        "id": 126,
+        "pos": 2,
+        "skillId": 26,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "127": {
+        "id": 127,
+        "pos": 2,
+        "skillId": 27,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "128": {
+        "id": 128,
+        "pos": 2,
+        "skillId": 28,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "129": {
+        "id": 129,
+        "pos": 2,
+        "skillId": 29,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "130": {
+        "id": 130,
+        "pos": 2,
+        "skillId": 30,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "131": {
+        "id": 131,
+        "pos": 2,
+        "skillId": 31,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "132": {
+        "id": 132,
+        "pos": 2,
+        "skillId": 32,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "133": {
+        "id": 133,
+        "pos": 2,
+        "skillId": 33,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "134": {
+        "id": 134,
+        "pos": 2,
+        "skillId": 34,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "135": {
+        "id": 135,
+        "pos": 2,
+        "skillId": 35,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "136": {
+        "id": 136,
+        "pos": 2,
+        "skillId": 36,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "137": {
+        "id": 137,
+        "pos": 2,
+        "skillId": 37,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "138": {
+        "id": 138,
+        "pos": 2,
+        "skillId": 38,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "139": {
+        "id": 139,
+        "pos": 2,
+        "skillId": 39,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "140": {
+        "id": 140,
+        "pos": 2,
+        "skillId": 40,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "141": {
+        "id": 141,
+        "pos": 2,
+        "skillId": 41,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "142": {
+        "id": 142,
+        "pos": 2,
+        "skillId": 42,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "143": {
+        "id": 143,
+        "pos": 2,
+        "skillId": 43,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "144": {
+        "id": 144,
+        "pos": 2,
+        "skillId": 44,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "145": {
+        "id": 145,
+        "pos": 2,
+        "skillId": 45,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "146": {
+        "id": 146,
+        "pos": 2,
+        "skillId": 46,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "147": {
+        "id": 147,
+        "pos": 2,
+        "skillId": 47,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "148": {
+        "id": 148,
+        "pos": 2,
+        "skillId": 48,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "149": {
+        "id": 149,
+        "pos": 2,
+        "skillId": 49,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "150": {
+        "id": 150,
+        "pos": 2,
+        "skillId": 50,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "151": {
+        "id": 151,
+        "pos": 2,
+        "skillId": 51,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "152": {
+        "id": 152,
+        "pos": 2,
+        "skillId": 52,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "153": {
+        "id": 153,
+        "pos": 2,
+        "skillId": 53,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "154": {
+        "id": 154,
+        "pos": 2,
+        "skillId": 54,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "155": {
+        "id": 155,
+        "pos": 2,
+        "skillId": 55,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "156": {
+        "id": 156,
+        "pos": 2,
+        "skillId": 56,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "157": {
+        "id": 157,
+        "pos": 2,
+        "skillId": 57,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "158": {
+        "id": 158,
+        "pos": 2,
+        "skillId": 58,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "159": {
+        "id": 159,
+        "pos": 2,
+        "skillId": 59,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "160": {
+        "id": 160,
+        "pos": 2,
+        "skillId": 60,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "161": {
+        "id": 161,
+        "pos": 2,
+        "skillId": 61,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "162": {
+        "id": 162,
+        "pos": 2,
+        "skillId": 62,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "163": {
+        "id": 163,
+        "pos": 2,
+        "skillId": 63,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "164": {
+        "id": 164,
+        "pos": 2,
+        "skillId": 64,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "165": {
+        "id": 165,
+        "pos": 2,
+        "skillId": 65,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "166": {
+        "id": 166,
+        "pos": 2,
+        "skillId": 66,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "167": {
+        "id": 167,
+        "pos": 2,
+        "skillId": 67,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "168": {
+        "id": 168,
+        "pos": 2,
+        "skillId": 68,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "169": {
+        "id": 169,
+        "pos": 2,
+        "skillId": 69,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "170": {
+        "id": 170,
+        "pos": 2,
+        "skillId": 70,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "171": {
+        "id": 171,
+        "pos": 2,
+        "skillId": 71,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "172": {
+        "id": 172,
+        "pos": 2,
+        "skillId": 72,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "173": {
+        "id": 173,
+        "pos": 2,
+        "skillId": 73,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "174": {
+        "id": 174,
+        "pos": 2,
+        "skillId": 74,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "175": {
+        "id": 175,
+        "pos": 2,
+        "skillId": 75,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "176": {
+        "id": 176,
+        "pos": 2,
+        "skillId": 76,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "177": {
+        "id": 177,
+        "pos": 2,
+        "skillId": 77,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "178": {
+        "id": 178,
+        "pos": 2,
+        "skillId": 78,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "179": {
+        "id": 179,
+        "pos": 2,
+        "skillId": 79,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "180": {
+        "id": 180,
+        "pos": 2,
+        "skillId": 80,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "181": {
+        "id": 181,
+        "pos": 2,
+        "skillId": 81,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "182": {
+        "id": 182,
+        "pos": 2,
+        "skillId": 82,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "183": {
+        "id": 183,
+        "pos": 2,
+        "skillId": 83,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "184": {
+        "id": 184,
+        "pos": 2,
+        "skillId": 84,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "185": {
+        "id": 185,
+        "pos": 2,
+        "skillId": 85,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "186": {
+        "id": 186,
+        "pos": 2,
+        "skillId": 86,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "187": {
+        "id": 187,
+        "pos": 2,
+        "skillId": 87,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "188": {
+        "id": 188,
+        "pos": 2,
+        "skillId": 88,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "189": {
+        "id": 189,
+        "pos": 2,
+        "skillId": 89,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "190": {
+        "id": 190,
+        "pos": 2,
+        "skillId": 90,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "191": {
+        "id": 191,
+        "pos": 2,
+        "skillId": 91,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "192": {
+        "id": 192,
+        "pos": 2,
+        "skillId": 92,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "193": {
+        "id": 193,
+        "pos": 2,
+        "skillId": 93,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "194": {
+        "id": 194,
+        "pos": 2,
+        "skillId": 94,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "195": {
+        "id": 195,
+        "pos": 2,
+        "skillId": 95,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "196": {
+        "id": 196,
+        "pos": 2,
+        "skillId": 96,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "197": {
+        "id": 197,
+        "pos": 2,
+        "skillId": 97,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "198": {
+        "id": 198,
+        "pos": 2,
+        "skillId": 98,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "199": {
+        "id": 199,
+        "pos": 2,
+        "skillId": 99,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "200": {
+        "id": 200,
+        "pos": 2,
+        "skillId": 100,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "201": {
+        "id": 201,
+        "pos": 3,
+        "skillId": 1,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "202": {
+        "id": 202,
+        "pos": 3,
+        "skillId": 2,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "203": {
+        "id": 203,
+        "pos": 3,
+        "skillId": 3,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "204": {
+        "id": 204,
+        "pos": 3,
+        "skillId": 4,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "205": {
+        "id": 205,
+        "pos": 3,
+        "skillId": 5,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "206": {
+        "id": 206,
+        "pos": 3,
+        "skillId": 6,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "207": {
+        "id": 207,
+        "pos": 3,
+        "skillId": 7,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "208": {
+        "id": 208,
+        "pos": 3,
+        "skillId": 8,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "209": {
+        "id": 209,
+        "pos": 3,
+        "skillId": 9,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "210": {
+        "id": 210,
+        "pos": 3,
+        "skillId": 10,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "211": {
+        "id": 211,
+        "pos": 3,
+        "skillId": 11,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "212": {
+        "id": 212,
+        "pos": 3,
+        "skillId": 12,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "213": {
+        "id": 213,
+        "pos": 3,
+        "skillId": 13,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "214": {
+        "id": 214,
+        "pos": 3,
+        "skillId": 14,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "215": {
+        "id": 215,
+        "pos": 3,
+        "skillId": 15,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "216": {
+        "id": 216,
+        "pos": 3,
+        "skillId": 16,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "217": {
+        "id": 217,
+        "pos": 3,
+        "skillId": 17,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "218": {
+        "id": 218,
+        "pos": 3,
+        "skillId": 18,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "219": {
+        "id": 219,
+        "pos": 3,
+        "skillId": 19,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "220": {
+        "id": 220,
+        "pos": 3,
+        "skillId": 20,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "221": {
+        "id": 221,
+        "pos": 3,
+        "skillId": 21,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "222": {
+        "id": 222,
+        "pos": 3,
+        "skillId": 22,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "223": {
+        "id": 223,
+        "pos": 3,
+        "skillId": 23,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "224": {
+        "id": 224,
+        "pos": 3,
+        "skillId": 24,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "225": {
+        "id": 225,
+        "pos": 3,
+        "skillId": 25,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "226": {
+        "id": 226,
+        "pos": 3,
+        "skillId": 26,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "227": {
+        "id": 227,
+        "pos": 3,
+        "skillId": 27,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "228": {
+        "id": 228,
+        "pos": 3,
+        "skillId": 28,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "229": {
+        "id": 229,
+        "pos": 3,
+        "skillId": 29,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "230": {
+        "id": 230,
+        "pos": 3,
+        "skillId": 30,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "231": {
+        "id": 231,
+        "pos": 3,
+        "skillId": 31,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "232": {
+        "id": 232,
+        "pos": 3,
+        "skillId": 32,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "233": {
+        "id": 233,
+        "pos": 3,
+        "skillId": 33,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "234": {
+        "id": 234,
+        "pos": 3,
+        "skillId": 34,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "235": {
+        "id": 235,
+        "pos": 3,
+        "skillId": 35,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "236": {
+        "id": 236,
+        "pos": 3,
+        "skillId": 36,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "237": {
+        "id": 237,
+        "pos": 3,
+        "skillId": 37,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "238": {
+        "id": 238,
+        "pos": 3,
+        "skillId": 38,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "239": {
+        "id": 239,
+        "pos": 3,
+        "skillId": 39,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "240": {
+        "id": 240,
+        "pos": 3,
+        "skillId": 40,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "241": {
+        "id": 241,
+        "pos": 3,
+        "skillId": 41,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "242": {
+        "id": 242,
+        "pos": 3,
+        "skillId": 42,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "243": {
+        "id": 243,
+        "pos": 3,
+        "skillId": 43,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "244": {
+        "id": 244,
+        "pos": 3,
+        "skillId": 44,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "245": {
+        "id": 245,
+        "pos": 3,
+        "skillId": 45,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "246": {
+        "id": 246,
+        "pos": 3,
+        "skillId": 46,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "247": {
+        "id": 247,
+        "pos": 3,
+        "skillId": 47,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "248": {
+        "id": 248,
+        "pos": 3,
+        "skillId": 48,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "249": {
+        "id": 249,
+        "pos": 3,
+        "skillId": 49,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "250": {
+        "id": 250,
+        "pos": 3,
+        "skillId": 50,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "251": {
+        "id": 251,
+        "pos": 3,
+        "skillId": 51,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "252": {
+        "id": 252,
+        "pos": 3,
+        "skillId": 52,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "253": {
+        "id": 253,
+        "pos": 3,
+        "skillId": 53,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "254": {
+        "id": 254,
+        "pos": 3,
+        "skillId": 54,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "255": {
+        "id": 255,
+        "pos": 3,
+        "skillId": 55,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "256": {
+        "id": 256,
+        "pos": 3,
+        "skillId": 56,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "257": {
+        "id": 257,
+        "pos": 3,
+        "skillId": 57,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "258": {
+        "id": 258,
+        "pos": 3,
+        "skillId": 58,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "259": {
+        "id": 259,
+        "pos": 3,
+        "skillId": 59,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "260": {
+        "id": 260,
+        "pos": 3,
+        "skillId": 60,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "261": {
+        "id": 261,
+        "pos": 3,
+        "skillId": 61,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "262": {
+        "id": 262,
+        "pos": 3,
+        "skillId": 62,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "263": {
+        "id": 263,
+        "pos": 3,
+        "skillId": 63,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "264": {
+        "id": 264,
+        "pos": 3,
+        "skillId": 64,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "265": {
+        "id": 265,
+        "pos": 3,
+        "skillId": 65,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "266": {
+        "id": 266,
+        "pos": 3,
+        "skillId": 66,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "267": {
+        "id": 267,
+        "pos": 3,
+        "skillId": 67,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "268": {
+        "id": 268,
+        "pos": 3,
+        "skillId": 68,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "269": {
+        "id": 269,
+        "pos": 3,
+        "skillId": 69,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "270": {
+        "id": 270,
+        "pos": 3,
+        "skillId": 70,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "271": {
+        "id": 271,
+        "pos": 3,
+        "skillId": 71,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "272": {
+        "id": 272,
+        "pos": 3,
+        "skillId": 72,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "273": {
+        "id": 273,
+        "pos": 3,
+        "skillId": 73,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "274": {
+        "id": 274,
+        "pos": 3,
+        "skillId": 74,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "275": {
+        "id": 275,
+        "pos": 3,
+        "skillId": 75,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "276": {
+        "id": 276,
+        "pos": 3,
+        "skillId": 76,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "277": {
+        "id": 277,
+        "pos": 3,
+        "skillId": 77,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "278": {
+        "id": 278,
+        "pos": 3,
+        "skillId": 78,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "279": {
+        "id": 279,
+        "pos": 3,
+        "skillId": 79,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "280": {
+        "id": 280,
+        "pos": 3,
+        "skillId": 80,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "281": {
+        "id": 281,
+        "pos": 3,
+        "skillId": 81,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "282": {
+        "id": 282,
+        "pos": 3,
+        "skillId": 82,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "283": {
+        "id": 283,
+        "pos": 3,
+        "skillId": 83,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "284": {
+        "id": 284,
+        "pos": 3,
+        "skillId": 84,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "285": {
+        "id": 285,
+        "pos": 3,
+        "skillId": 85,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "286": {
+        "id": 286,
+        "pos": 3,
+        "skillId": 86,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "287": {
+        "id": 287,
+        "pos": 3,
+        "skillId": 87,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "288": {
+        "id": 288,
+        "pos": 3,
+        "skillId": 88,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "289": {
+        "id": 289,
+        "pos": 3,
+        "skillId": 89,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "290": {
+        "id": 290,
+        "pos": 3,
+        "skillId": 90,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    },
+    "291": {
+        "id": 291,
+        "pos": 3,
+        "skillId": 91,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "292": {
+        "id": 292,
+        "pos": 3,
+        "skillId": 92,
+        "free_weight": 25,
+        "cash_weight": 10,
+        "ver": "1.0.0"
+    },
+    "293": {
+        "id": 293,
+        "pos": 3,
+        "skillId": 93,
+        "free_weight": 15,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "294": {
+        "id": 294,
+        "pos": 3,
+        "skillId": 94,
+        "free_weight": 14,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "295": {
+        "id": 295,
+        "pos": 3,
+        "skillId": 95,
+        "free_weight": 10,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "296": {
+        "id": 296,
+        "pos": 3,
+        "skillId": 96,
+        "free_weight": 7,
+        "cash_weight": 15,
+        "ver": "1.0.0"
+    },
+    "297": {
+        "id": 297,
+        "pos": 3,
+        "skillId": 97,
+        "free_weight": 4,
+        "cash_weight": 7,
+        "ver": "1.0.0"
+    },
+    "298": {
+        "id": 298,
+        "pos": 3,
+        "skillId": 98,
+        "free_weight": 0,
+        "cash_weight": 6,
+        "ver": "1.0.0"
+    },
+    "299": {
+        "id": 299,
+        "pos": 3,
+        "skillId": 99,
+        "free_weight": 0,
+        "cash_weight": 5,
+        "ver": "1.0.0"
+    },
+    "300": {
+        "id": 300,
+        "pos": 3,
+        "skillId": 100,
+        "free_weight": 0,
+        "cash_weight": 2,
+        "ver": "1.0.0"
+    }
+}

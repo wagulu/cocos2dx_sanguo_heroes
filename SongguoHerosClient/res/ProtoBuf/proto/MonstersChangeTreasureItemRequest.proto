@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message MonstersChangeTreasureItemRequest{
+	optional ApiRequest	api = 1;						//公用参数
+	optional int32		monsterId = 2;					//武将id
+	optional int32		slotId = 3;						//槽位id
+	optional int32		inventoryTreasureItemId = 4;	//珍宝背包id
+}

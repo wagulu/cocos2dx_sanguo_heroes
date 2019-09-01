@@ -1,0 +1,109 @@
+{
+  "ai":
+  [
+	{
+		"repeated":false,
+  		"condition":
+		[
+		{"name":"hero_and_hero_distance_less_than", "value":2}
+		],
+  		"action":{"name":"hero_rush", "delay":0}
+  	},
+  	{
+		"repeated":false,
+  		"condition":
+		[
+		{"name":"battle_start"}
+		],
+  		"action":{"name":"soldier_attack_soldier", "delay":1}
+  	},
+  	{
+		"repeated":false,
+  		"condition":
+		[
+		{"name":"battle_start"}
+		],
+  		"action":{"name":"hero_rush", "delay":30}
+  	},
+  	{
+		"repeated":false,
+  		"condition":
+		[
+		{"name":"hero_and_soldier_distance_less_than", "value":2}		
+		],
+  		"action":{"name":"soldier_attack_hero", "delay":1}
+  	},
+  	{
+		"repeated":false,
+  		"condition":
+		[
+		{"name":"skill_ok", "value":0},
+		{"name":"no_opp_skill_fired"},
+		{"name":"no_self_skill_fired"},		
+		{"name":"opp_soldiers_more_than", "value":10}		
+		],
+  		"action":{"name":"fire_skill", "delay":3, "value":0}
+  	},
+  	{
+		"repeated":true,
+  		"condition":
+		[
+		{"name":"skill_ok", "value":0},
+		{"name":"opp_soldiers_more_than", "value":10},
+		{"name":"after_any_skill_release", "value":3}			
+		],
+  		"action":{"name":"fire_skill", "delay":1, "value":0}
+  	},
+  	{
+		"repeated":false,
+  		"condition":
+		[
+		{"name":"skill_ok", "value":1},
+		{"name":"no_opp_skill_fired"},
+		{"name":"no_self_skill_fired"},		
+		{"name":"soldiers_less_than", "value":70}		
+		],
+  		"action":{"name":"fire_skill", "delay":3, "value":1}
+  	},
+  	{
+		"repeated":true,
+  		"condition":
+		[
+		{"name":"skill_ok", "value":1},
+		{"name":"soldiers_less_than", "value":50},
+		{"name":"after_any_skill_release", "value":3}			
+		],
+  		"action":{"name":"fire_skill", "delay":1, "value":1}
+  	},
+  	{
+		"repeated":false,
+  		"condition":
+		[
+		{"name":"skill_ok", "value":2},
+		{"name":"no_opp_skill_fired"},
+		{"name":"no_self_skill_fired"}		
+		],
+  		"action":{"name":"fire_skill", "delay":3, "value":2}
+  	},
+  	{
+		"repeated":true,
+  		"condition":
+		[
+		{"name":"skill_ok", "value":2},
+		{"name":"after_any_skill_release", "value":3},
+		{"name":"soldiers_more_than", "value":10}	
+		],
+  		"action":{"name":"fire_skill", "delay":1, "value":2}
+  	},
+  	{
+		"repeated":true,
+  		"condition":
+		[
+		{"name":"skill_ok", "value":2},
+		{"name":"after_any_skill_release", "value":3},
+		{"name":"self_main_hero_be_attacked"}	
+		],
+  		"action":{"name":"fire_skill", "delay":1, "value":2}
+  	}
+  ]
+}

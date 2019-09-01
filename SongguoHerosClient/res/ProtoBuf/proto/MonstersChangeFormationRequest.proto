@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message MonstersChangeFormationRequest{
+	optional ApiRequest	api = 1;			//公用参数
+	optional int32		monsterId = 2;		//武将id
+	optional int32		slotId = 3;			//槽位id
+	optional int32		formationId = 4;	//阵型id
+}

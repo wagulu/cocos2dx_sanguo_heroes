@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message ShopBuyItemRequest {
+	optional ApiRequest	api = 1;	//公用参数
+	optional int32 shopType = 2;		//商店类型，1：道具
+	optional int32	prizeId = 3;//要购买的prizeId
+	optional int32	buyNum = 4;//要购买的数量
+}

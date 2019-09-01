@@ -1,0 +1,5 @@
+message BattleTeamPB {
+	optional int32			pos = 1;
+	optional int32			monsterId = 2;			//武将id
+	optional int32			isUse = 3;				//是否出战
+}

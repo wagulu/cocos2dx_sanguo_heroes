@@ -1,0 +1,8 @@
+import "ApiResponse.proto";
+import "FormationPB.proto";
+
+message InitFormationsResponse{
+	optional ApiResponse			api = 1;							//公用参数
+	repeated FormationPB			formation = 2;						//解锁的阵型列表
+	repeated FormationPB			unlockFormation = 3;				//未解锁的阵型列表
+}

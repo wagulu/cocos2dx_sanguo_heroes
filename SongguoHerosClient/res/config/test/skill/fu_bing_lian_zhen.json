@@ -1,0 +1,10 @@
+{
+    "config": "fu_bing_lian_zhen",
+    "id": 15,
+    "name": "fu_bing_lian_zhen",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 450,
+    "energyCost": 25,
+    "energySpeed": 20
+}

@@ -1,0 +1,5 @@
+import "ApiRequest.proto";
+
+message InitUserRequest{
+	optional ApiRequest	 api = 1;		//公用参数
+}

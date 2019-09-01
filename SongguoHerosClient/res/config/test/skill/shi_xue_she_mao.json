@@ -1,0 +1,10 @@
+{
+    "config": "shi_xue_she_mao",
+    "id": 39,
+    "name": "shi_xue_she_mao",
+    "level": 1,
+    "mpCost": 0,
+    "energyStart": 500,
+    "energyCost": 10,
+    "energySpeed": 20
+}

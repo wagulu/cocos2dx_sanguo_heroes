@@ -1,0 +1,10 @@
+{
+    "config": "shun_xi_qian_li",
+    "id": 41,
+    "name": "shun_xi_qian_li",
+    "level": 1,
+    "mpCost": 6,
+    "energyStart": 100,
+    "energyCost": 120,
+    "energySpeed": 20
+}

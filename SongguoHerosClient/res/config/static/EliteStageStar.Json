@@ -1,0 +1,506 @@
+{
+    "1": {
+        "id": 1,
+        "areaId": 1,
+        "stageId": 1,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "2": {
+        "id": 2,
+        "areaId": 1,
+        "stageId": 1,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "3": {
+        "id": 3,
+        "areaId": 1,
+        "stageId": 1,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "4": {
+        "id": 4,
+        "areaId": 1,
+        "stageId": 2,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "5": {
+        "id": 5,
+        "areaId": 1,
+        "stageId": 2,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "6": {
+        "id": 6,
+        "areaId": 1,
+        "stageId": 2,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "7": {
+        "id": 7,
+        "areaId": 1,
+        "stageId": 3,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "8": {
+        "id": 8,
+        "areaId": 1,
+        "stageId": 3,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "9": {
+        "id": 9,
+        "areaId": 1,
+        "stageId": 3,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "10": {
+        "id": 10,
+        "areaId": 1,
+        "stageId": 4,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "11": {
+        "id": 11,
+        "areaId": 1,
+        "stageId": 4,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "12": {
+        "id": 12,
+        "areaId": 1,
+        "stageId": 4,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "13": {
+        "id": 13,
+        "areaId": 1,
+        "stageId": 5,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "14": {
+        "id": 14,
+        "areaId": 1,
+        "stageId": 5,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "15": {
+        "id": 15,
+        "areaId": 1,
+        "stageId": 5,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "16": {
+        "id": 16,
+        "areaId": 1,
+        "stageId": 6,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "17": {
+        "id": 17,
+        "areaId": 1,
+        "stageId": 6,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "18": {
+        "id": 18,
+        "areaId": 1,
+        "stageId": 6,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "19": {
+        "id": 19,
+        "areaId": 1,
+        "stageId": 7,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "20": {
+        "id": 20,
+        "areaId": 1,
+        "stageId": 7,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "21": {
+        "id": 21,
+        "areaId": 1,
+        "stageId": 7,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "22": {
+        "id": 22,
+        "areaId": 2,
+        "stageId": 8,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "23": {
+        "id": 23,
+        "areaId": 2,
+        "stageId": 8,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "24": {
+        "id": 24,
+        "areaId": 2,
+        "stageId": 8,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "25": {
+        "id": 25,
+        "areaId": 2,
+        "stageId": 9,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "26": {
+        "id": 26,
+        "areaId": 2,
+        "stageId": 9,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "27": {
+        "id": 27,
+        "areaId": 2,
+        "stageId": 9,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "28": {
+        "id": 28,
+        "areaId": 2,
+        "stageId": 10,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "29": {
+        "id": 29,
+        "areaId": 2,
+        "stageId": 10,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "30": {
+        "id": 30,
+        "areaId": 2,
+        "stageId": 10,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "31": {
+        "id": 31,
+        "areaId": 2,
+        "stageId": 11,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "32": {
+        "id": 32,
+        "areaId": 2,
+        "stageId": 11,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "33": {
+        "id": 33,
+        "areaId": 2,
+        "stageId": 11,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "34": {
+        "id": 34,
+        "areaId": 2,
+        "stageId": 12,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "35": {
+        "id": 35,
+        "areaId": 2,
+        "stageId": 12,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "36": {
+        "id": 36,
+        "areaId": 2,
+        "stageId": 12,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "37": {
+        "id": 37,
+        "areaId": 2,
+        "stageId": 13,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "38": {
+        "id": 38,
+        "areaId": 2,
+        "stageId": 13,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "39": {
+        "id": 39,
+        "areaId": 2,
+        "stageId": 13,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "40": {
+        "id": 40,
+        "areaId": 3,
+        "stageId": 14,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "41": {
+        "id": 41,
+        "areaId": 3,
+        "stageId": 14,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "42": {
+        "id": 42,
+        "areaId": 3,
+        "stageId": 14,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "43": {
+        "id": 43,
+        "areaId": 3,
+        "stageId": 15,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "44": {
+        "id": 44,
+        "areaId": 3,
+        "stageId": 15,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "45": {
+        "id": 45,
+        "areaId": 3,
+        "stageId": 15,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "46": {
+        "id": 46,
+        "areaId": 3,
+        "stageId": 16,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "47": {
+        "id": 47,
+        "areaId": 3,
+        "stageId": 16,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "48": {
+        "id": 48,
+        "areaId": 3,
+        "stageId": 16,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "49": {
+        "id": 49,
+        "areaId": 3,
+        "stageId": 17,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "50": {
+        "id": 50,
+        "areaId": 3,
+        "stageId": 17,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "51": {
+        "id": 51,
+        "areaId": 3,
+        "stageId": 17,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "52": {
+        "id": 52,
+        "areaId": 3,
+        "stageId": 18,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "53": {
+        "id": 53,
+        "areaId": 3,
+        "stageId": 18,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "54": {
+        "id": 54,
+        "areaId": 3,
+        "stageId": 18,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "55": {
+        "id": 55,
+        "areaId": 3,
+        "stageId": 19,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "56": {
+        "id": 56,
+        "areaId": 3,
+        "stageId": 19,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "57": {
+        "id": 57,
+        "areaId": 3,
+        "stageId": 19,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "58": {
+        "id": 58,
+        "areaId": 3,
+        "stageId": 20,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "59": {
+        "id": 59,
+        "areaId": 3,
+        "stageId": 20,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "60": {
+        "id": 60,
+        "areaId": 3,
+        "stageId": 20,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    },
+    "61": {
+        "id": 61,
+        "areaId": 4,
+        "stageId": 21,
+        "flag": 1,
+        "ver": "1.0.0",
+        "display_zhCN": "\u6218\u6597\u80dc\u5229"
+    },
+    "62": {
+        "id": 62,
+        "areaId": 4,
+        "stageId": 21,
+        "flag": 2,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u6b66\u5c06\u6218\u8d25\u4e0d\u8d85\u8fc71\u4eba"
+    },
+    "63": {
+        "id": 63,
+        "areaId": 4,
+        "stageId": 21,
+        "flag": 3,
+        "ver": "1.0.0",
+        "display_zhCN": "\u672c\u65b9\u65e0\u6218\u8d25\u6b66\u5c06"
+    }
+}

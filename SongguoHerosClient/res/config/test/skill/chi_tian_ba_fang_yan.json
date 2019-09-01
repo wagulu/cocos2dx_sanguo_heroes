@@ -1,0 +1,10 @@
+{
+    "config": "chi_tian_ba_fang_yan",
+    "id": 5,
+    "name": "chi_tian_ba_fang_yan",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 360,
+    "energyCost": 400,
+    "energySpeed": 20
+}

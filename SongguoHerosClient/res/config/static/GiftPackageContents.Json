@@ -1,0 +1,42 @@
+{
+    "1": {
+        "id": 1,
+        "packageId": 1,
+        "startTime": "",
+        "endTime": "",
+        "prizeId": 1,
+        "ver": ""
+    },
+    "2": {
+        "id": 2,
+        "packageId": 1,
+        "startTime": "",
+        "endTime": "",
+        "prizeId": 2,
+        "ver": ""
+    },
+    "3": {
+        "id": 3,
+        "packageId": 2,
+        "startTime": "",
+        "endTime": "",
+        "prizeId": 3,
+        "ver": ""
+    },
+    "4": {
+        "id": 4,
+        "packageId": 3,
+        "startTime": "",
+        "endTime": "",
+        "prizeId": 4,
+        "ver": ""
+    },
+    "5": {
+        "id": 5,
+        "packageId": 3,
+        "startTime": "",
+        "endTime": "",
+        "prizeId": 5,
+        "ver": ""
+    }
+}

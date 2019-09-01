@@ -1,0 +1,6 @@
+import "ApiResponse.proto";
+
+message BattleBuyTimesResponse{
+	optional ApiResponse				api = 1;					//公用参数
+	optional int32						newTimes = 2;				//新的扫荡次数
+}

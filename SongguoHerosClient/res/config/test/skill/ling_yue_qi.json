@@ -1,0 +1,10 @@
+{
+    "config": "ling_yue_qi",
+    "id": 23,
+    "name": "ling_yue_qi",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 240,
+    "energyCost": 300,
+    "energySpeed": 20
+}

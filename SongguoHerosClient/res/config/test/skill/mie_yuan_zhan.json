@@ -1,0 +1,10 @@
+{
+    "config": "mie_yuan_zhan",
+    "id": 28,
+    "name": "mie_yuan_zhan",
+    "level": 1,
+    "mpCost": 10,
+    "energyStart": 500,
+    "energyCost": 10,
+    "energySpeed": 20
+}

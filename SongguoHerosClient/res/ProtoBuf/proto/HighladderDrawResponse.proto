@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+
+message HighladderDrawResponse {
+	optional ApiResponse	api = 1;	//公用参数
+	optional int32 cash = 2;			//领取的元宝
+	optional int32 prestige = 3;		//领取的声望
+}

@@ -1,0 +1,52 @@
+{
+    "1": {
+        "id": 1,
+        "asset": "1",
+        "quality": 2,
+        "coin": 100,
+        "gain": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5bab\u5ef7\u4f9b\u9152",
+        "description_zhCN": "\u6682\u65e0[\u5bab\u5ef7\u4f9b\u9152]\u7684\u63cf\u8ff0\u4ecb\u7ecd"
+    },
+    "2": {
+        "id": 2,
+        "asset": "2",
+        "quality": 3,
+        "coin": 200,
+        "gain": 100,
+        "ver": "1.0.0",
+        "name_zhCN": "\u78a7\u7389\u739b\u7459",
+        "description_zhCN": "\u6682\u65e0[\u78a7\u7389\u739b\u7459]\u7684\u63cf\u8ff0\u4ecb\u7ecd"
+    },
+    "3": {
+        "id": 3,
+        "asset": "3",
+        "quality": 4,
+        "coin": 300,
+        "gain": 500,
+        "ver": "1.0.0",
+        "name_zhCN": "\u591c\u660e\u73e0",
+        "description_zhCN": "\u6682\u65e0[\u591c\u660e\u73e0]\u7684\u63cf\u8ff0\u4ecb\u7ecd"
+    },
+    "4": {
+        "id": 4,
+        "asset": "4",
+        "quality": 5,
+        "coin": 400,
+        "gain": 2500,
+        "ver": "1.0.0",
+        "name_zhCN": "\u56db\u7075\u6587\u955c",
+        "description_zhCN": "\u6682\u65e0[\u56db\u7075\u6587\u955c]\u7684\u63cf\u8ff0\u4ecb\u7ecd"
+    },
+    "5": {
+        "id": 5,
+        "asset": "5",
+        "quality": 5,
+        "coin": 500,
+        "gain": 10000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9955\u992e\u7eb9\u9f0e",
+        "description_zhCN": "\u6682\u65e0[\u9955\u992e\u7eb9\u9f0e]\u7684\u63cf\u8ff0\u4ecb\u7ecd"
+    }
+}

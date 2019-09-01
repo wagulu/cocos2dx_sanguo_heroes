@@ -1,0 +1,114 @@
+{
+    "1": {
+        "id": 1,
+        "VIPLevel": 0,
+        "dailyTotalStageResetTimes": 16,
+        "dailyTotalEnergyBuyTimes": 16,
+        "dailyTotalVitalityBuyTimes": 16
+    },
+    "2": {
+        "id": 2,
+        "VIPLevel": 1,
+        "dailyTotalStageResetTimes": 2,
+        "dailyTotalEnergyBuyTimes": 2,
+        "dailyTotalVitalityBuyTimes": 2
+    },
+    "3": {
+        "id": 3,
+        "VIPLevel": 2,
+        "dailyTotalStageResetTimes": 3,
+        "dailyTotalEnergyBuyTimes": 3,
+        "dailyTotalVitalityBuyTimes": 3
+    },
+    "4": {
+        "id": 4,
+        "VIPLevel": 3,
+        "dailyTotalStageResetTimes": 4,
+        "dailyTotalEnergyBuyTimes": 4,
+        "dailyTotalVitalityBuyTimes": 4
+    },
+    "5": {
+        "id": 5,
+        "VIPLevel": 4,
+        "dailyTotalStageResetTimes": 5,
+        "dailyTotalEnergyBuyTimes": 5,
+        "dailyTotalVitalityBuyTimes": 5
+    },
+    "6": {
+        "id": 6,
+        "VIPLevel": 5,
+        "dailyTotalStageResetTimes": 6,
+        "dailyTotalEnergyBuyTimes": 6,
+        "dailyTotalVitalityBuyTimes": 6
+    },
+    "7": {
+        "id": 7,
+        "VIPLevel": 6,
+        "dailyTotalStageResetTimes": 7,
+        "dailyTotalEnergyBuyTimes": 7,
+        "dailyTotalVitalityBuyTimes": 7
+    },
+    "8": {
+        "id": 8,
+        "VIPLevel": 7,
+        "dailyTotalStageResetTimes": 8,
+        "dailyTotalEnergyBuyTimes": 8,
+        "dailyTotalVitalityBuyTimes": 8
+    },
+    "9": {
+        "id": 9,
+        "VIPLevel": 8,
+        "dailyTotalStageResetTimes": 9,
+        "dailyTotalEnergyBuyTimes": 9,
+        "dailyTotalVitalityBuyTimes": 9
+    },
+    "10": {
+        "id": 10,
+        "VIPLevel": 9,
+        "dailyTotalStageResetTimes": 10,
+        "dailyTotalEnergyBuyTimes": 10,
+        "dailyTotalVitalityBuyTimes": 10
+    },
+    "11": {
+        "id": 11,
+        "VIPLevel": 10,
+        "dailyTotalStageResetTimes": 11,
+        "dailyTotalEnergyBuyTimes": 11,
+        "dailyTotalVitalityBuyTimes": 11
+    },
+    "12": {
+        "id": 12,
+        "VIPLevel": 11,
+        "dailyTotalStageResetTimes": 12,
+        "dailyTotalEnergyBuyTimes": 12,
+        "dailyTotalVitalityBuyTimes": 12
+    },
+    "13": {
+        "id": 13,
+        "VIPLevel": 12,
+        "dailyTotalStageResetTimes": 13,
+        "dailyTotalEnergyBuyTimes": 13,
+        "dailyTotalVitalityBuyTimes": 13
+    },
+    "14": {
+        "id": 14,
+        "VIPLevel": 13,
+        "dailyTotalStageResetTimes": 14,
+        "dailyTotalEnergyBuyTimes": 14,
+        "dailyTotalVitalityBuyTimes": 14
+    },
+    "15": {
+        "id": 15,
+        "VIPLevel": 14,
+        "dailyTotalStageResetTimes": 15,
+        "dailyTotalEnergyBuyTimes": 15,
+        "dailyTotalVitalityBuyTimes": 15
+    },
+    "16": {
+        "id": 16,
+        "VIPLevel": 15,
+        "dailyTotalStageResetTimes": 16,
+        "dailyTotalEnergyBuyTimes": 16,
+        "dailyTotalVitalityBuyTimes": 16
+    }
+}

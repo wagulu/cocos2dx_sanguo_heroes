@@ -1,0 +1,10 @@
+{
+    "config": "qi_bing",
+    "id": 31,
+    "name": "qi_bing",
+    "level": 1,
+    "mpCost": 11,
+    "energyStart": 450,
+    "energyCost": 25,
+    "energySpeed": 20
+}

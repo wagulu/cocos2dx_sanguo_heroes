@@ -1,0 +1,282 @@
+{
+    "1": {
+        "id": 1,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 990,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 27,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "level": 1,
+        "propertyName": "Armor",
+        "propertyValue": 44,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "level": 1,
+        "propertyName": "Resistance",
+        "propertyValue": 44,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "level": 2,
+        "propertyName": "HP",
+        "propertyValue": 1980,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "level": 2,
+        "propertyName": "MP",
+        "propertyValue": 55,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "level": 2,
+        "propertyName": "Armor",
+        "propertyValue": 88,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "level": 2,
+        "propertyName": "Resistance",
+        "propertyValue": 88,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "level": 3,
+        "propertyName": "HP",
+        "propertyValue": 2970,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "level": 3,
+        "propertyName": "MP",
+        "propertyValue": 82,
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "level": 3,
+        "propertyName": "Armor",
+        "propertyValue": 132,
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "level": 3,
+        "propertyName": "Resistance",
+        "propertyValue": 132,
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "level": 4,
+        "propertyName": "HP",
+        "propertyValue": 3960,
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "level": 4,
+        "propertyName": "MP",
+        "propertyValue": 110,
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "level": 4,
+        "propertyName": "Armor",
+        "propertyValue": 176,
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "level": 4,
+        "propertyName": "Resistance",
+        "propertyValue": 176,
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "level": 5,
+        "propertyName": "HP",
+        "propertyValue": 4950,
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "level": 5,
+        "propertyName": "MP",
+        "propertyValue": 137,
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "level": 5,
+        "propertyName": "Armor",
+        "propertyValue": 220,
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "level": 5,
+        "propertyName": "Resistance",
+        "propertyValue": 220,
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "level": 6,
+        "propertyName": "HP",
+        "propertyValue": 5940,
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "level": 6,
+        "propertyName": "MP",
+        "propertyValue": 165,
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "level": 6,
+        "propertyName": "Armor",
+        "propertyValue": 264,
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "level": 6,
+        "propertyName": "Resistance",
+        "propertyValue": 264,
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "level": 7,
+        "propertyName": "HP",
+        "propertyValue": 6930,
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "level": 7,
+        "propertyName": "MP",
+        "propertyValue": 192,
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "level": 7,
+        "propertyName": "Armor",
+        "propertyValue": 308,
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "level": 7,
+        "propertyName": "Resistance",
+        "propertyValue": 308,
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "level": 8,
+        "propertyName": "HP",
+        "propertyValue": 7920,
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "level": 8,
+        "propertyName": "MP",
+        "propertyValue": 220,
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "level": 8,
+        "propertyName": "Armor",
+        "propertyValue": 352,
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "level": 8,
+        "propertyName": "Resistance",
+        "propertyValue": 352,
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "level": 9,
+        "propertyName": "HP",
+        "propertyValue": 8910,
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "level": 9,
+        "propertyName": "MP",
+        "propertyValue": 247,
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "level": 9,
+        "propertyName": "Armor",
+        "propertyValue": 396,
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "level": 9,
+        "propertyName": "Resistance",
+        "propertyValue": 396,
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "level": 10,
+        "propertyName": "HP",
+        "propertyValue": 9900,
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "level": 10,
+        "propertyName": "MP",
+        "propertyValue": 275,
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "level": 10,
+        "propertyName": "Armor",
+        "propertyValue": 440,
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "level": 10,
+        "propertyName": "Resistance",
+        "propertyValue": 440,
+        "ver": "1.0.0"
+    }
+}

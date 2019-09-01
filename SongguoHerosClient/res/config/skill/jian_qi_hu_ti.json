@@ -1,0 +1,176 @@
+{
+  "energyCost": 300,
+  "energySpeed": 20,
+  "energyStart": 240,
+  "mpCost": 1,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_jing_ji_chan_shen", "trigger": "hero"}
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":2.5}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":2.3}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"dur":0.1}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration":0.5, "amplitude":15.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "find_target",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill1"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"effect":"start", "duration":0}
+    },
+    {
+      "name": "add_entity_animation",
+      "start": 1.5,
+      "params": {"duration":"buff_time", "loop":true, "heroAni":"loop", "tag":"jian_qi_hu_ti"}
+    },
+    {
+      "name": "shake_camera",
+      "start": 1.5,
+      "params": {"duration":0.5, "amplitude":15.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "add_buff",
+      "start": 1.5,
+      "params": {"property":"spellShield", "time":"buff_time", "value":"buff_value", "lock":false}
+    },
+    {
+      "name": "interval_trigger",
+      "start": 1.5,
+      "params": {"trigger":"attackDiamond", "interval":1.0, "duration":"buff_time"}
+    },
+    {
+      "name": "attack_diamond_area_center_on_hero",
+      "trigger": "attackDiamond",
+      "damage": {"type":0, "side":0, "entityType":2, "base":10, "step":0, "factor":0, "speed_h":400, "speed_h_decay":0, "speed_v":400, "speed_v_decay":0, "gravity":1200},
+      "params": {"radius":1, "spreadInterval":0.0}
+    },
+    {
+      "name": "remove_shield_animation_on_use_up",
+      "start": 1.5,
+      "params": {"property":"spellShield", "tag":"jian_qi_hu_ti"},
+      "triggerOnRemove": "onShieldUseUp"
+    },
+    {
+      "name": "cancel_skill",
+      "trigger": "onShieldUseUp"
+    }
+  ],
+
+  "formula":
+  {
+    "buff_time": {"formula":"max", "min":5.0, "max":10.0, "divide":10.0},
+    "buff_value": {"formula":"hp", "base":30, "step":0}
+  },
+    
+  "asset": "skill_jianqi",
+  "effect":
+  {
+    "start":
+    [
+      [
+        {
+          "name": "animation_jianqi_back_layer1",
+          "type": 2,
+          "z-order": -3
+        },
+        {
+          "name": "animation_jianqi_back_layer2",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_jianqi_back_layer3",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_jianqi_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_jianqi_layer2",
+          "type": 2,
+          "z-order": 2
+        },
+        {
+          "name": "animation_jianqi_layer3",
+          "type": 0,
+          "z-order": 3
+        }
+      ]
+    ],
+    "loop":
+    [
+      [
+        {
+          "name": "animation_jianqi_loop_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_jianqi_loop_back_layer2",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_jianqi_loop_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_jianqi_loop_layer2",
+          "type": 2,
+          "z-order": 2
+        },
+        {
+          "name": "animation_jianqi_loop_layer3",
+          "type": 0,
+          "z-order": 3
+        },
+        {
+          "name": "animation_jianqi_loop_layer4",
+          "type": 2,
+          "z-order": 4
+        },
+        {
+          "name": "animation_jianqi_loop_layer5",
+          "type": 2,
+          "z-order": 5
+        }
+      ]
+    ]
+  }
+}

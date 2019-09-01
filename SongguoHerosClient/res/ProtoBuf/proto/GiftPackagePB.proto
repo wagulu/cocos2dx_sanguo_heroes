@@ -1,0 +1,4 @@
+message GiftPackagePB {
+	optional int32		giftPackageId = 1;		//礼包 id
+	optional int32		count = 2;				//剩余数量
+}

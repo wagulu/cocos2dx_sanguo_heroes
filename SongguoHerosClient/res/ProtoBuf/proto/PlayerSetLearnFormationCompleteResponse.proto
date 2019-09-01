@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "FormationPB.proto";
+
+message PlayerSetLearnFormationCompleteResponse{
+	optional ApiResponse		api = 1;						//公用参数
+	optional FormationPB		formation = 2;					//阵型信息
+}

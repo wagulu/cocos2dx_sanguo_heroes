@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "ShopItemPB.proto";
+import "PrizePB.proto";
+
+message ShopBuyItemResponse{
+	optional ApiResponse		api = 1;	//公用参数
+	optional ShopItemPB goods = 2; //商品相关的新数据
+	optional PrizePB prize = 3; //购买得到的prize
+}

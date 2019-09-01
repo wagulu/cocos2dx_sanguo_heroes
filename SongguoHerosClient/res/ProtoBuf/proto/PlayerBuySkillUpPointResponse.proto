@@ -1,0 +1,6 @@
+import "ApiResponse.proto";
+
+message PlayerBuySkillUpPointResponse{
+	optional ApiResponse		api = 1;						//公用参数
+	optional int32				newSkillUpPoint = 2;			//技能升级点
+}

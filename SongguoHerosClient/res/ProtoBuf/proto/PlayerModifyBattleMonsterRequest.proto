@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message PlayerModifyBattleMonsterRequest{
+	optional ApiRequest			api = 1;					//公用参数
+	repeated int32				battleTeamMonsters = 2;		//武将id
+}

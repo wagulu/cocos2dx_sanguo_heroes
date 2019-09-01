@@ -1,0 +1,10 @@
+{
+    "config": "shen_gui_luan_wu",
+    "id": 35,
+    "name": "shen_gui_luan_wu",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 240,
+    "energyCost": 1,
+    "energySpeed": 20
+}

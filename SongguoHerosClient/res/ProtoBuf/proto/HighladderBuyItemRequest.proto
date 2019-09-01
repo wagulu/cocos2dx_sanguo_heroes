@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message HighladderBuyItemRequest {
+	optional ApiRequest	api = 1;	//公用参数
+	optional int32	pos = 2;		//购买位置
+}

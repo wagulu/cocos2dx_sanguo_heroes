@@ -1,0 +1,5 @@
+message TreasureBoxesPB {
+	optional int32 treasureBoxId = 1;
+	optional int32 groupId = 2;
+	optional int32 count = 3;
+}

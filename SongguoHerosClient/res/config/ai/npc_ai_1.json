@@ -1,0 +1,21 @@
+{
+  "ai":
+  [
+    {
+      "repeated":false,
+      "condition":
+      [
+        {"name":"battle_start"}
+      ],
+      "action":{"name":"hero_rush", "delay":1}
+    },
+    {
+      "repeated":false,
+      "condition":
+      [
+        {"name":"battle_start"}
+      ],
+      "action":{"name":"soldier_attack_hero", "delay":1}
+    }
+  ]
+}

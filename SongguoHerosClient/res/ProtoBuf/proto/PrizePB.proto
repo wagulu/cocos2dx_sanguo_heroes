@@ -1,0 +1,33 @@
+import "MonsterPB.proto";
+import "ItemPB.proto";
+import "MonsterPartPB.proto";
+import "TreasureItemPartPB.proto";
+import "TreasureItemPB.proto";
+import "FormationPB.proto";
+import "MaterialPB.proto";
+import "GiftPackagePB.proto";
+
+message PrizePB{
+	optional int32					id = 1;								//PrizeId
+	optional string					type = 2;							//物品类型 coin cash item monster monsterParts...
+	optional int32					value = 3;							//物品id  monster item monsterParts时为物品具体id coin cash时为0
+	optional int32					content = 4;						//物品数量
+	optional string					name = 5;							//物品名
+	optional string					des = 6;							//物品描述
+	optional int32					quality = 7;						//物品品阶
+	optional MonsterPB				monster = 8;						//物品品阶
+	optional ToPartsPB				toParts = 9;						//Monster类型特有属性
+	optional ItemPB					dropItem_Item = 10;
+	optional MonsterPB				dropItem_Monster = 11;
+	optional MonsterPartPB			dropItem_MonsterPart = 12;
+	optional TreasureItemPartPB		dropItem_TreasureItemPart = 13;
+	optional TreasureItemPB			dropItem_TreasureItem = 14;
+	optional FormationPB			dropItem_Formation = 15;
+	optional MaterialPB				dropItem_Material = 16;
+	optional GiftPackagePB			dropItem_GiftPackage = 17;
+}
+
+message ToPartsPB{
+	optional int32	partId = 1;
+	optional int32	num = 2;
+}

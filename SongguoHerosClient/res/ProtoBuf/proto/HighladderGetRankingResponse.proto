@@ -1,0 +1,18 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+
+message HighladderGetRankingResponse {
+	optional ApiResponse				api = 1;			//公用参数
+	optional HighladderRankingItemPB		self = 2;			//自己排名信息
+	repeated HighladderRankingItemPB		rankings = 3;		//排行榜
+}
+
+message HighladderRankingItemPB{
+	optional int32						rank = 1;			//排名
+	optional string						name = 2;			//用户名
+	repeated MonsterPB					monsters = 3;		//武将
+	optional MonsterPB					showMonster = 4;	//玩家头像
+	optional int32						power = 5;			//战力
+	optional int32						level = 6;			//玩家等级
+	optional int32						uid = 7;			//用户id
+}

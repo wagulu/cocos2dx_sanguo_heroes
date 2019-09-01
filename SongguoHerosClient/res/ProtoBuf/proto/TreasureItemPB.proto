@@ -1,0 +1,9 @@
+message TreasureItemPB {
+	optional int32					inventoryTreasureItemId = 1;	//背包序列
+	optional int32					treasureItemId = 2;				//珍宝id
+	optional int32					level = 3;						//珍宝等级
+	optional int32					exp = 4;						//珍宝经验
+	optional int32					quality = 5;					//珍宝品级
+	optional int32					quippedType = 6;				//珍宝装备类型
+	optional int32					useMonster = 7;					//使用中的武将id 0为没有武将使用
+}

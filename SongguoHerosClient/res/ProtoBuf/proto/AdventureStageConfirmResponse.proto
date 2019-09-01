@@ -1,0 +1,33 @@
+import "ApiResponse.proto";
+import "StarInfoPB.proto";
+import "PrizePB.proto";
+import "MonsterPB.proto";
+import "BattleTeamPB.proto";
+import "DramaPB.proto";
+
+message NPCInfoPB{
+	optional int32			monsterId = 1;
+	optional bool			isBoss = 2;				//是否是Boss
+	optional int32			NPCId = 3;				//NPCId
+}
+
+message UserStagePB{
+	repeated StarInfoPB		starInfo = 1;			//星级完成情况
+	optional int32			exp = 2;				//胜利后武将获得经验
+	optional int32			coin = 3;				//胜利后角色获得金币
+	optional int32			energyBefore = 4;		//战斗开始消耗精力
+	optional int32			energyAfter = 5;		//战斗完结消耗精力
+	optional int32			battleTimes = 6;		//当前剩余战斗次数
+	optional int32			moppingTicket = 7;		//当前扫荡卷数量
+	optional int32			dailyResetTimes = 8;	//每日已购买战斗次数
+}
+message AdventureStageConfirmResponse{
+	optional ApiResponse	api = 1;				//公用参数
+	repeated PrizePB		treasures = 2;			//掉落物
+	repeated MonsterPB		NPC = 3;				//NPC信息
+	repeated NPCInfoPB		NPCInfo = 4;			//NPC扩展
+	optional UserStagePB	userStage = 5;			//stage配置信息
+	repeated BattleTeamPB	battleTeam = 6;			//玩家战斗队列
+	repeated DramaPB		dramas = 7;				//剧情
+}
+

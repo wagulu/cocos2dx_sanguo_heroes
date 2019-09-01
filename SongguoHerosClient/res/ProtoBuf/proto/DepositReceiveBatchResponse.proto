@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "PrizePB.proto";
+
+message DepositReceiveBatchResponse{
+	optional ApiResponse	api = 1;			//公用参数
+	repeated PrizePB		prizes = 2;		//收取的物品数据
+}

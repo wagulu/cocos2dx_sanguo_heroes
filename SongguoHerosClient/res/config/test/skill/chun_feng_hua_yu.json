@@ -1,0 +1,10 @@
+{
+    "config": "chun_feng_hua_yu",
+    "id": 6,
+    "name": "chun_feng_hua_yu",
+    "level": 1,
+    "mpCost": 10,
+    "energyStart": 180,
+    "energyCost": 200,
+    "energySpeed": 20
+}

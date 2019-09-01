@@ -1,0 +1,169 @@
+{
+  "energyCost":500.0,
+  "energySpeed":20.0,
+  "energyStart":450,
+  "mpCost":50,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.0}
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":3.0}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":2.8}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":2.8}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill5", "duration":2.5}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"skill", "duration":0}
+    },
+    {
+      "name": "add_effect_on_skill_attack",
+      "start": 0.0,
+      "lifeTime": 4.0,
+      "params": {"boss":"hero", "soldier":"soldier"}
+    },
+    {
+        "name": "trigger_on_skill_attack",
+        "start": 0.0,
+        "lifeTime": 4.0,
+        "params": {"boss":"hitBoss"}
+    },
+    {
+        "name": "shake_camera",
+        "trigger": "hitBoss",
+        "params": {"duration": 1, "amplitude":30.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "set_state_dizzy_on_skill_attack",
+      "start": 0.0,
+      "lifeTime": 4.0,
+      "params": {"ratio":"dizzyRatio", "heroDizzyConfig":"dizzy_on_skill_hit"}
+    },
+    {
+      "name": "find_target",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "attack_rect",
+      "start": 2.4,
+      "damage": {"type":1, "side":0, "entityType":2, "base":500, "step":30, "factor":0.3, "speed_h":300, "speed_h_decay":200, "speed_v":800, "speed_v_decay":100, "gravity":1200},
+      "params": {"width":8, "height":3, "spreadInterval":0.02}
+    }
+  ],
+
+  "formula":
+  {
+    "dizzyRatio": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0}
+  },
+
+  "dizzy":
+  {
+    "dizzy_on_skill_hit":
+    {
+      "allowBreakByAnotherDizzy":false,
+      "action":
+      [
+        {"name":"play_hit_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"}
+      ],
+      "condition":
+      [
+        {"name":"by_skill_end", "required":true}
+      ]
+    }
+  },
+
+  "asset": "skill_fengmozhan",
+    
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_skill_fengmozhan_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_skill_fengmozhan_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_skill_fengmozhan_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_skill_fengmozhan_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+      "hero":
+      [
+       [
+        {
+        "name": "animation_skill_fengmozhan_hit_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_skill_fengmozhan_hit_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ],
+      "soldier":
+      [
+       [
+        {
+        "name": "animation_skill_fengmozhan_soldier_hit_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_skill_fengmozhan_soldier_hit_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ]
+      
+  }
+}
+
+
+
+
+
+
+

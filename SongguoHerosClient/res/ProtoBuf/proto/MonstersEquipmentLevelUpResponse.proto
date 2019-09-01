@@ -1,0 +1,16 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+
+message MonstersEquipmentLevelUpResponse {
+	optional ApiResponse			api = 1;		//公用参数
+	optional int32					level = 2;		//新等级
+	optional int32					coin = 3;		//消耗金币
+	repeated EquipmentLevelUpTurns	turns = 4;		//升级具体情况
+	optional MonsterPB				monster = 5;
+}
+
+message EquipmentLevelUpTurns {
+	optional int32					level = 1;		//实际升级等级
+	optional int32					isCrit = 2;		//是否暴击
+	optional int32					coin = 3;		//实际花费金额
+}

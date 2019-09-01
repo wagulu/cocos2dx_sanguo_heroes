@@ -1,0 +1,302 @@
+{
+    "1": {
+        "id": 1,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 1,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u53f8\u5dde",
+        "description_zhCN": "\u6682\u65e0\u53f8\u5dde\u7684\u63cf\u8ff0"
+    },
+    "2": {
+        "id": 2,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 8,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8c6b\u5dde",
+        "description_zhCN": "\u6682\u65e0\u8c6b\u5dde\u7684\u63cf\u8ff0"
+    },
+    "3": {
+        "id": 3,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 14,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5180\u5dde",
+        "description_zhCN": "\u6682\u65e0\u5180\u5dde\u7684\u63cf\u8ff0"
+    },
+    "4": {
+        "id": 4,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 21,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5156\u5dde",
+        "description_zhCN": "\u6682\u65e0\u5156\u5dde\u7684\u63cf\u8ff0"
+    },
+    "5": {
+        "id": 5,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5f90\u5dde",
+        "description_zhCN": "\u6682\u65e0\u5f90\u5dde\u7684\u63cf\u8ff0"
+    },
+    "6": {
+        "id": 6,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9752\u5dde",
+        "description_zhCN": "\u6682\u65e0\u9752\u5dde\u7684\u63cf\u8ff0"
+    },
+    "7": {
+        "id": 7,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8346\u5dde",
+        "description_zhCN": "\u6682\u65e0\u8346\u5dde\u7684\u63cf\u8ff0"
+    },
+    "8": {
+        "id": 8,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u76ca\u5dde",
+        "description_zhCN": "\u6682\u65e0\u76ca\u5dde\u7684\u63cf\u8ff0"
+    },
+    "9": {
+        "id": 9,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u626c\u5dde",
+        "description_zhCN": "\u6682\u65e0\u626c\u5dde\u7684\u63cf\u8ff0"
+    },
+    "10": {
+        "id": 10,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e76\u5dde",
+        "description_zhCN": "\u6682\u65e0\u5e76\u5dde\u7684\u63cf\u8ff0"
+    },
+    "11": {
+        "id": 11,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u51c9\u5dde",
+        "description_zhCN": "\u6682\u65e0\u51c9\u5dde\u7684\u63cf\u8ff0"
+    },
+    "12": {
+        "id": 12,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e7d\u5dde",
+        "description_zhCN": "\u6682\u65e0\u5e7d\u5dde\u7684\u63cf\u8ff0"
+    },
+    "13": {
+        "id": 13,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4ea4\u5dde",
+        "description_zhCN": "\u6682\u65e0\u4ea4\u5dde\u7684\u63cf\u8ff0"
+    },
+    "14": {
+        "id": 14,
+        "islandId": 1,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e7f\u5dde",
+        "description_zhCN": "\u6682\u65e0\u5e7f\u5dde\u7684\u63cf\u8ff0"
+    },
+    "15": {
+        "id": 15,
+        "islandId": 1,
+        "isLast": true,
+        "eliteStageId": 0,
+        "status": 1,
+        "ver": "1.0.0",
+        "name_zhCN": "\u96cd\u5dde",
+        "description_zhCN": "\u6682\u65e0\u96cd\u5dde\u7684\u63cf\u8ff0"
+    },
+    "16": {
+        "id": 16,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "17": {
+        "id": 17,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "18": {
+        "id": 18,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "19": {
+        "id": 19,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "20": {
+        "id": 20,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "21": {
+        "id": 21,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "22": {
+        "id": 22,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "23": {
+        "id": 23,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "24": {
+        "id": 24,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "25": {
+        "id": 25,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "26": {
+        "id": 26,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "27": {
+        "id": 27,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "28": {
+        "id": 28,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "29": {
+        "id": 29,
+        "islandId": 2,
+        "isLast": false,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    },
+    "30": {
+        "id": 30,
+        "islandId": 2,
+        "isLast": true,
+        "eliteStageId": 0,
+        "status": 0,
+        "ver": "1.0.0",
+        "name_zhCN": "\u672a\u5f00\u653e",
+        "description_zhCN": "\u6b64\u5730\u57df\u6682\u672a\u5f00\u653e\uff0c\u656c\u8bf7\u671f\u5f85"
+    }
+}

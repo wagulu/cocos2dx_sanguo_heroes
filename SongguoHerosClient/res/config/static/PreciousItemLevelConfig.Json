@@ -1,0 +1,29 @@
+{
+    "1": {
+        "id": 1,
+        "preciousItemId": 1,
+        "level": 1,
+        "propertyName": 0,
+        "propertyValue": 100,
+        "gain": 10,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "preciousItemId": 1,
+        "level": 20,
+        "propertyName": 0,
+        "propertyValue": 10,
+        "gain": 10,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "preciousItemId": 1,
+        "level": 30,
+        "propertyName": 0,
+        "propertyValue": 10,
+        "gain": 10,
+        "ver": "1.0.0"
+    }
+}

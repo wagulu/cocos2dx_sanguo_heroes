@@ -1,0 +1,752 @@
+{
+    "1": {
+        "id": 1,
+        "asset": "1",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u94a2\u952d",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u94a2\u952d\u7684\u63cf\u8ff0"
+    },
+    "2": {
+        "id": 2,
+        "asset": "2",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u91d1\u7532\u7247",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u91d1\u7532\u7247\u7684\u63cf\u8ff0"
+    },
+    "3": {
+        "id": 3,
+        "asset": "3",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7cbe\u94c1",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7cbe\u94c1\u7684\u63cf\u8ff0"
+    },
+    "4": {
+        "id": 4,
+        "asset": "4",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u94dc\u5757",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u94dc\u5757\u7684\u63cf\u8ff0"
+    },
+    "5": {
+        "id": 5,
+        "asset": "5",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b42\u77f3",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9b42\u77f3\u7684\u63cf\u8ff0"
+    },
+    "6": {
+        "id": 6,
+        "asset": "6",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5996\u73e0",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u5996\u73e0\u7684\u63cf\u8ff0"
+    },
+    "7": {
+        "id": 7,
+        "asset": "7",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u767e\u70bc\u94a2",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u767e\u70bc\u94a2\u7684\u63cf\u8ff0"
+    },
+    "8": {
+        "id": 8,
+        "asset": "8",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7cbe\u91d1\u7532\u7247",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7cbe\u91d1\u7532\u7247\u7684\u63cf\u8ff0"
+    },
+    "9": {
+        "id": 9,
+        "asset": "9",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5bd2\u94c1",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u5bd2\u94c1\u7684\u63cf\u8ff0"
+    },
+    "10": {
+        "id": 10,
+        "asset": "10",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9752\u94dc",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9752\u94dc\u7684\u63cf\u8ff0"
+    },
+    "11": {
+        "id": 11,
+        "asset": "11",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6708\u4eae\u77f3",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u6708\u4eae\u77f3\u7684\u63cf\u8ff0"
+    },
+    "12": {
+        "id": 12,
+        "asset": "12",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5438\u9b42\u73e0",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u5438\u9b42\u73e0\u7684\u63cf\u8ff0"
+    },
+    "13": {
+        "id": 13,
+        "asset": "13",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6bdb\u5e03\u5377",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u6bdb\u5e03\u5377\u7684\u63cf\u8ff0"
+    },
+    "14": {
+        "id": 14,
+        "asset": "14",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7c97\u9ebb\u7ebf",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7c97\u9ebb\u7ebf\u7684\u63cf\u8ff0"
+    },
+    "15": {
+        "id": 15,
+        "asset": "15",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7eb1\u7ebf",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7eb1\u7ebf\u7684\u63cf\u8ff0"
+    },
+    "16": {
+        "id": 16,
+        "asset": "16",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7ed2\u5e03\u5377",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7ed2\u5e03\u5377\u7684\u63cf\u8ff0"
+    },
+    "17": {
+        "id": 17,
+        "asset": "17",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7ec6\u4e1d\u7ebf",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7ec6\u4e1d\u7ebf\u7684\u63cf\u8ff0"
+    },
+    "18": {
+        "id": 18,
+        "asset": "18",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7d20\u7f57\u7eb1",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7d20\u7f57\u7eb1\u7684\u63cf\u8ff0"
+    },
+    "19": {
+        "id": 19,
+        "asset": "19",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6bdb\u76ae",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u6bdb\u76ae\u7684\u63cf\u8ff0"
+    },
+    "20": {
+        "id": 20,
+        "asset": "20",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u76ae\u9769",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u76ae\u9769\u7684\u63cf\u8ff0"
+    },
+    "21": {
+        "id": 21,
+        "asset": "21",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7eb9\u5e03",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7eb9\u5e03\u7684\u63cf\u8ff0"
+    },
+    "22": {
+        "id": 22,
+        "asset": "22",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u539a\u6bdb\u76ae",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u539a\u6bdb\u76ae\u7684\u63cf\u8ff0"
+    },
+    "23": {
+        "id": 23,
+        "asset": "23",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u91cd\u76ae\u9769",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u91cd\u76ae\u9769\u7684\u63cf\u8ff0"
+    },
+    "24": {
+        "id": 24,
+        "asset": "24",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u98ce\u7eb9\u5e03",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u98ce\u7eb9\u5e03\u7684\u63cf\u8ff0"
+    },
+    "25": {
+        "id": 25,
+        "asset": "25",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u51b0\u7389",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u51b0\u7389\u7684\u63cf\u8ff0"
+    },
+    "26": {
+        "id": 26,
+        "asset": "26",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6728\u6750",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u6728\u6750\u7684\u63cf\u8ff0"
+    },
+    "27": {
+        "id": 27,
+        "asset": "27",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u98de\u9f99\u7389",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u98de\u9f99\u7389\u7684\u63cf\u8ff0"
+    },
+    "28": {
+        "id": 28,
+        "asset": "28",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7075\u6728",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7075\u6728\u7684\u63cf\u8ff0"
+    },
+    "29": {
+        "id": 29,
+        "asset": "29",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7ef8\u7f0e",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7ef8\u7f0e\u7684\u63cf\u8ff0"
+    },
+    "30": {
+        "id": 30,
+        "asset": "30",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u76ae\u6599",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u76ae\u6599\u7684\u63cf\u8ff0"
+    },
+    "31": {
+        "id": 31,
+        "asset": "31",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7ec7\u9526\u7f0e",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7ec7\u9526\u7f0e\u7684\u63cf\u8ff0"
+    },
+    "32": {
+        "id": 32,
+        "asset": "32",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8f7b\u76ae\u6599",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u8f7b\u76ae\u6599\u7684\u63cf\u8ff0"
+    },
+    "33": {
+        "id": 33,
+        "asset": "33",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7eeb\u7f57",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7eeb\u7f57\u7684\u63cf\u8ff0"
+    },
+    "34": {
+        "id": 34,
+        "asset": "34",
+        "quality": 2,
+        "coin": 50,
+        "mergeCoin": 200,
+        "ver": "1.0.0",
+        "name_zhCN": "\u86c7\u76ae",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u86c7\u76ae\u7684\u63cf\u8ff0"
+    },
+    "35": {
+        "id": 35,
+        "asset": "35",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6563\u82b1\u7eeb",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u6563\u82b1\u7eeb\u7684\u63cf\u8ff0"
+    },
+    "36": {
+        "id": 36,
+        "asset": "36",
+        "quality": 3,
+        "coin": 300,
+        "mergeCoin": 2700,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u72fc\u76ae",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u5929\u72fc\u76ae\u7684\u63cf\u8ff0"
+    },
+    "37": {
+        "id": 37,
+        "asset": "37",
+        "quality": 2,
+        "coin": 100,
+        "mergeCoin": 400,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8840\u77f3\u788e\u7247",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u8840\u77f3\u788e\u7247\u7684\u63cf\u8ff0"
+    },
+    "38": {
+        "id": 38,
+        "asset": "38",
+        "quality": 2,
+        "coin": 100,
+        "mergeCoin": 400,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b54\u77f3\u788e\u7247",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9b54\u77f3\u788e\u7247\u7684\u63cf\u8ff0"
+    },
+    "39": {
+        "id": 39,
+        "asset": "39",
+        "quality": 2,
+        "coin": 100,
+        "mergeCoin": 400,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7075\u77f3\u788e\u7247",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7075\u77f3\u788e\u7247\u7684\u63cf\u8ff0"
+    },
+    "40": {
+        "id": 40,
+        "asset": "40",
+        "quality": 3,
+        "coin": 500,
+        "mergeCoin": 4500,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8840\u77f3",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u8840\u77f3\u7684\u63cf\u8ff0"
+    },
+    "41": {
+        "id": 41,
+        "asset": "41",
+        "quality": 3,
+        "coin": 500,
+        "mergeCoin": 4500,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b54\u77f3",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9b54\u77f3\u7684\u63cf\u8ff0"
+    },
+    "42": {
+        "id": 42,
+        "asset": "42",
+        "quality": 3,
+        "coin": 500,
+        "mergeCoin": 4500,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7075\u77f3",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7075\u77f3\u7684\u63cf\u8ff0"
+    },
+    "43": {
+        "id": 43,
+        "asset": "43",
+        "quality": 3,
+        "coin": 150,
+        "mergeCoin": 1350,
+        "ver": "1.0.0",
+        "name_zhCN": "\u51e4\u7fbd\u788e\u7247",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u51e4\u7fbd\u788e\u7247\u7684\u63cf\u8ff0"
+    },
+    "44": {
+        "id": 44,
+        "asset": "44",
+        "quality": 3,
+        "coin": 150,
+        "mergeCoin": 1350,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9f99\u9aa8\u788e\u7247",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9f99\u9aa8\u788e\u7247\u7684\u63cf\u8ff0"
+    },
+    "45": {
+        "id": 45,
+        "asset": "45",
+        "quality": 3,
+        "coin": 150,
+        "mergeCoin": 1350,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9f9f\u7532\u788e\u7247",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9f9f\u7532\u788e\u7247\u7684\u63cf\u8ff0"
+    },
+    "46": {
+        "id": 46,
+        "asset": "46",
+        "quality": 3,
+        "coin": 150,
+        "mergeCoin": 1350,
+        "ver": "1.0.0",
+        "name_zhCN": "\u864e\u9f7f\u788e\u7247",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u864e\u9f7f\u788e\u7247\u7684\u63cf\u8ff0"
+    },
+    "47": {
+        "id": 47,
+        "asset": "47",
+        "quality": 4,
+        "coin": 750,
+        "mergeCoin": 12000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u51e4\u7fbd",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u51e4\u7fbd\u7684\u63cf\u8ff0"
+    },
+    "48": {
+        "id": 48,
+        "asset": "48",
+        "quality": 4,
+        "coin": 750,
+        "mergeCoin": 12000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9f99\u9aa8",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9f99\u9aa8\u7684\u63cf\u8ff0"
+    },
+    "49": {
+        "id": 49,
+        "asset": "49",
+        "quality": 4,
+        "coin": 750,
+        "mergeCoin": 12000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9f9f\u7532",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9f9f\u7532\u7684\u63cf\u8ff0"
+    },
+    "50": {
+        "id": 50,
+        "asset": "50",
+        "quality": 4,
+        "coin": 750,
+        "mergeCoin": 12000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u864e\u9f7f",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u864e\u9f7f\u7684\u63cf\u8ff0"
+    },
+    "51": {
+        "id": 51,
+        "asset": "51",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7edd\u5730\u4e4c\u94a2",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7edd\u5730\u4e4c\u94a2\u7684\u63cf\u8ff0"
+    },
+    "52": {
+        "id": 52,
+        "asset": "52",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7d2b\u91d1\u7532\u7247",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7d2b\u91d1\u7532\u7247\u7684\u63cf\u8ff0"
+    },
+    "53": {
+        "id": 53,
+        "asset": "53",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e5d\u5929\u7384\u94c1",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u4e5d\u5929\u7384\u94c1\u7684\u63cf\u8ff0"
+    },
+    "54": {
+        "id": 54,
+        "asset": "54",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5e7d\u51a5\u8d64\u94dc",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u5e7d\u51a5\u8d64\u94dc\u7684\u63cf\u8ff0"
+    },
+    "55": {
+        "id": 55,
+        "asset": "55",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e03\u66dc\u7075\u77f3",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u4e03\u66dc\u7075\u77f3\u7684\u63cf\u8ff0"
+    },
+    "56": {
+        "id": 56,
+        "asset": "56",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u706d\u9b54\u5929\u73e0",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u706d\u9b54\u5929\u73e0\u7684\u63cf\u8ff0"
+    },
+    "57": {
+        "id": 57,
+        "asset": "57",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7075\u7eb9\u5e03\u5377",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7075\u7eb9\u5e03\u5377\u7684\u63cf\u8ff0"
+    },
+    "58": {
+        "id": 58,
+        "asset": "58",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6697\u5f71\u86db\u4e1d",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u6697\u5f71\u86db\u4e1d\u7684\u63cf\u8ff0"
+    },
+    "59": {
+        "id": 59,
+        "asset": "59",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u767e\u53d8\u5e7b\u7eb1",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u767e\u53d8\u5e7b\u7eb1\u7684\u63cf\u8ff0"
+    },
+    "60": {
+        "id": 60,
+        "asset": "60",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6781\u5730\u6bdb\u76ae",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u6781\u5730\u6bdb\u76ae\u7684\u63cf\u8ff0"
+    },
+    "61": {
+        "id": 61,
+        "asset": "61",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u786c\u7532\u76ae\u9769",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u786c\u7532\u76ae\u9769\u7684\u63cf\u8ff0"
+    },
+    "62": {
+        "id": 62,
+        "asset": "62",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u51f6\u9b54\u7eb9\u5e03",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u51f6\u9b54\u7eb9\u5e03\u7684\u63cf\u8ff0"
+    },
+    "63": {
+        "id": 63,
+        "asset": "63",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7075\u9704\u5b9d\u7389",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7075\u9704\u5b9d\u7389\u7684\u63cf\u8ff0"
+    },
+    "64": {
+        "id": 64,
+        "asset": "64",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e7e\u5764\u4ed9\u6728",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u4e7e\u5764\u4ed9\u6728\u7684\u63cf\u8ff0"
+    },
+    "65": {
+        "id": 65,
+        "asset": "65",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9f99\u51e4\u79d8\u7f0e",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9f99\u51e4\u79d8\u7f0e\u7684\u63cf\u8ff0"
+    },
+    "66": {
+        "id": 66,
+        "asset": "66",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7384\u51a5\u76ae\u6599",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7384\u51a5\u76ae\u6599\u7684\u63cf\u8ff0"
+    },
+    "67": {
+        "id": 67,
+        "asset": "67",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u592a\u865a\u51a5\u7eeb",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u592a\u865a\u51a5\u7eeb\u7684\u63cf\u8ff0"
+    },
+    "68": {
+        "id": 68,
+        "asset": "68",
+        "quality": 4,
+        "coin": 2000,
+        "mergeCoin": 32000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8680\u9aa8\u864e\u76ae",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u8680\u9aa8\u864e\u76ae\u7684\u63cf\u8ff0"
+    },
+    "69": {
+        "id": 69,
+        "asset": "69",
+        "quality": 4,
+        "coin": 3000,
+        "mergeCoin": 48000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8840\u6676\u77f3",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u8840\u6676\u77f3\u7684\u63cf\u8ff0"
+    },
+    "70": {
+        "id": 70,
+        "asset": "70",
+        "quality": 4,
+        "coin": 3000,
+        "mergeCoin": 48000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b54\u6676\u77f3",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9b54\u6676\u77f3\u7684\u63cf\u8ff0"
+    },
+    "71": {
+        "id": 71,
+        "asset": "71",
+        "quality": 4,
+        "coin": 3000,
+        "mergeCoin": 48000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7075\u6676\u77f3",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7075\u6676\u77f3\u7684\u63cf\u8ff0"
+    },
+    "72": {
+        "id": 72,
+        "asset": "72",
+        "quality": 5,
+        "coin": 5000,
+        "mergeCoin": 125000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6731\u96c0\u708e\u7fbd",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u6731\u96c0\u708e\u7fbd\u7684\u63cf\u8ff0"
+    },
+    "73": {
+        "id": 73,
+        "asset": "73",
+        "quality": 5,
+        "coin": 5000,
+        "mergeCoin": 125000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9752\u9f99\u9006\u9cde",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u9752\u9f99\u9006\u9cde\u7684\u63cf\u8ff0"
+    },
+    "74": {
+        "id": 74,
+        "asset": "74",
+        "quality": 5,
+        "coin": 5000,
+        "mergeCoin": 125000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7384\u6b66\u7075\u58f3",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u7384\u6b66\u7075\u58f3\u7684\u63cf\u8ff0"
+    },
+    "75": {
+        "id": 75,
+        "asset": "75",
+        "quality": 5,
+        "coin": 5000,
+        "mergeCoin": 125000,
+        "ver": "1.0.0",
+        "name_zhCN": "\u767d\u864e\u795e\u70d9",
+        "description_zhCN": "\u6682\u65f6\u6ca1\u6709\u767d\u864e\u795e\u70d9\u7684\u63cf\u8ff0"
+    }
+}

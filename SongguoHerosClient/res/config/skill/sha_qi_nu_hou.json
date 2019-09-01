@@ -1,0 +1,170 @@
+{
+  "energyCost": 600.0,
+  "energySpeed":20,
+  "energyStart":550,
+  "mpCost": 50,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":0.5}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_kuang_mang_zhen_tian", "trigger": "hero"}
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":2.5}
+    },
+	  {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":2.3}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"dtx":-30, "style":7.0}
+    },
+	  {
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":2.3}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill3"}
+    },
+    {
+      "name": "find_target",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"effect":"skill", "duration":0}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"effect":"screen", "duration":0}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.8,
+      "params": {"duration": 0.5, "amplitude":10.0, "mode":4}
+    },
+    {
+      "name": "attack_diamond_area_center_on_hero",
+      "start": 1.0,
+      "damage": {"type":1, "side":0, "entityType":2, "base":250, "step":25, "factor":0.3, "speed_h":500, "speed_h_decay":0, "speed_v":300, "speed_v_decay":0, "gravity":1200},
+      "params": {"radius":5, "spreadInterval":0.03}
+    },
+    {
+      "name": "set_state_dizzy_on_skill_attack",
+      "start": 0.0,
+      "lifeTime": 5.0,
+      "params": {"time":"dizzyTime", "enable":"dizzyEnable", "heroDizzyConfig":"hero_dizzy"}
+    },
+    {
+      "name": "add_effect_on_skill_attack",
+      "start": 0.0,
+      "lifeTime": 5.0,
+      "params": {"boss":"boss", "soldier":"soldier"}
+    }
+  ],
+
+  "formula":
+  {
+    "dizzyTime": {"formula":"hp", "base":3, "step":0.0},
+    "dizzyEnable": {"formula":"enable", "step":20.0, "base":0.0}
+  },
+
+  "dizzy":
+  {
+    "hero_dizzy":
+    {
+      "allowBreakByAnotherDizzy":true,
+      "action":
+      [
+        {"name":"stop_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"}
+      ],
+      "condition":
+      [
+        {"name":"by_time", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_shaqi",
+  "effect":
+  {
+    "boss":
+    [
+      [
+        {
+          "name": "animation_shaqi_general_attack_layer1",
+          "type": 0,
+          "z-order": 1
+        }
+      ]
+    ],
+    "soldier":
+    [
+      [
+        {
+          "name": "animation_shaqi_soldier_attack_layer1",
+          "type": 0,
+          "z-order": 1
+        }
+      ]
+    ],
+    "screen":
+    [
+      [
+        {
+          "name": "animation_shaqi_full_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "skill":
+    [
+      [
+        {
+          "name": "animation_shaqi_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shaqi_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shaqi_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shaqi_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ]
+  }
+}

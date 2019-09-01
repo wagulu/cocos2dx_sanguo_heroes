@@ -1,0 +1,10 @@
+{
+    "config": "luo_cha_dun",
+    "id": 27,
+    "name": "luo_cha_dun",
+    "level": 1,
+    "mpCost": 0,
+    "energyStart": 500,
+    "energyCost": 10,
+    "energySpeed": 20
+}

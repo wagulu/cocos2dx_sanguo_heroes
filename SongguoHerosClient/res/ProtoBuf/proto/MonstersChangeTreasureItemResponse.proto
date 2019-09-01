@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+import "TreasureItemPB.proto";
+
+message MonstersChangeTreasureItemResponse {
+	optional ApiResponse		api = 1;				//公用参数
+	optional MonsterPB			monster = 2;			//武将信息
+	repeated TreasureItemPB		treasureItems = 3;		//珍宝信息
+}

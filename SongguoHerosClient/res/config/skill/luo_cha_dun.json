@@ -1,0 +1,94 @@
+{
+  "energyCost":10.0,
+  "energySpeed":20,
+  "energyStart":500,
+  "mpCost": 0,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.0}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration":0.2, "amplitude":30.0, "mode":4}
+    },
+    {
+      "name": "find_target",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"effect":"skill", "duration":0}
+    },
+    {
+      "name": "add_buff",
+      "start": 0.5,
+      "params": {"property":"physicalShield", "time":"buff_time", "value":"buff_value", "lock":false}
+    },
+    {
+      "name": "add_entity_animation",
+      "start": 0.5,
+      "params": {"duration":"buff_time", "loop":true, "heroAni":"hero_buff", "tag":"luo_cha_dun"}
+    },
+    {
+      "name": "remove_shield_animation_on_use_up",
+      "start": 0.5,
+      "params": {"property":"physicalShield", "tag":"luo_cha_dun"}
+    }
+  ],
+    
+  "formula":
+  {
+      "buff_time": {"formula":"max", "min":5.0, "max":10.0, "divide":10.0},
+      "buff_value": {"formula":"hp", "base":3000, "step":100}
+  },
+    
+  "asset": "skill_luli",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_luli_layer1",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "hero_buff": 
+    [
+      [
+        {
+          "name": "animation_luli_loop_layer1 ",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_luli_loop_layer2",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_luli_loop_layer3",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_luli_loop_layer4",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ]
+  }
+}

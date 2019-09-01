@@ -1,0 +1,10 @@
+{
+    "config": "yi_jue",
+    "id": 50,
+    "name": "yi_jue",
+    "level": 1,
+    "mpCost": 0,
+    "energyStart": 1,
+    "energyCost": 0,
+    "energySpeed": 20
+}

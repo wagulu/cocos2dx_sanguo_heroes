@@ -1,0 +1,10 @@
+{
+    "config": "nie_pan",
+    "id": 30,
+    "name": "nie_pan",
+    "level": 1,
+    "mpCost": 0,
+    "energyStart": 1,
+    "energyCost": 0,
+    "energySpeed": 20
+}

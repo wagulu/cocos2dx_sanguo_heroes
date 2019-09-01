@@ -1,0 +1,13 @@
+import "ApiResponse.proto";
+
+message IslandsInfoPB{
+	optional int32				islandId = 1;			//所属island id
+	optional string				name = 2;				//Island国际化后的名称
+	optional int32				status = 3;				//island状态 0未开放 1未解锁 2未清关 3未完成 4已完成
+}
+
+message AdventureListIslandResponse{
+	optional ApiResponse		api = 1;				//公用参数
+	repeated IslandsInfoPB		islandsInfo = 2;		//用户世界场景信息
+}
+

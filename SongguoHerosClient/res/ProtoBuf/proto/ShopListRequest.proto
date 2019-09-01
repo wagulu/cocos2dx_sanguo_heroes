@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message ShopListRequest{
+	optional ApiRequest	api = 1;		//公用参数
+	optional int32 shopType = 2;		//商店类型，1：道具
+}

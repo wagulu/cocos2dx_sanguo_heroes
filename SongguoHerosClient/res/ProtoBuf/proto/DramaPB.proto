@@ -1,0 +1,7 @@
+message DramaPB{
+	optional string		asset = 1;							//说话人形象
+	optional string		name = 2;							//说话人名称
+	optional int32		side = 3;							//出现位置
+	optional string		content = 4;						//脚本内容
+	optional int32		flag = 5;							//顺序
+}

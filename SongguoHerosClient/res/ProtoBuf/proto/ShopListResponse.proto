@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "ShopItemPB.proto";
+
+message ShopListResponse{
+	optional ApiResponse		api = 1;			//公用参数
+	repeated ShopItemPB goodsList = 2; //商品列表
+}

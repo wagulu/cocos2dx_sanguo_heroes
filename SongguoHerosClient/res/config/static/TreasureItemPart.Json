@@ -1,0 +1,482 @@
+{
+    "1": {
+        "id": 1,
+        "treasureItemId": 1,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u53f2\u8bb0\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u53f2\u8bb0\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "1",
+        "quality": "3"
+    },
+    "2": {
+        "id": 2,
+        "treasureItemId": 2,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u72fc\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u72fc\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "2",
+        "quality": "3"
+    },
+    "3": {
+        "id": 3,
+        "treasureItemId": 3,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7389\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u7389\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "3",
+        "quality": "3"
+    },
+    "4": {
+        "id": 4,
+        "treasureItemId": 4,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7389\u73ba\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u7389\u73ba\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "4",
+        "quality": "3"
+    },
+    "5": {
+        "id": 5,
+        "treasureItemId": 5,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u516d\u97ec\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u516d\u97ec\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "5",
+        "quality": "3"
+    },
+    "6": {
+        "id": 6,
+        "treasureItemId": 6,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9f99\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u9f99\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "6",
+        "quality": "3"
+    },
+    "7": {
+        "id": 7,
+        "treasureItemId": 7,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u77f3\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u77f3\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "7",
+        "quality": "3"
+    },
+    "8": {
+        "id": 8,
+        "treasureItemId": 8,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u94dc\u96c0\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u94dc\u96c0\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "8",
+        "quality": "3"
+    },
+    "9": {
+        "id": 9,
+        "treasureItemId": 9,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e09\u7565\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u4e09\u7565\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "9",
+        "quality": "3"
+    },
+    "10": {
+        "id": 10,
+        "treasureItemId": 10,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u864e\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u864e\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "10",
+        "quality": "3"
+    },
+    "11": {
+        "id": 11,
+        "treasureItemId": 11,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9aa8\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u9aa8\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "11",
+        "quality": "3"
+    },
+    "12": {
+        "id": 12,
+        "treasureItemId": 12,
+        "needNum": 20,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9526\u56ca\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u9526\u56ca\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "12",
+        "quality": "3"
+    },
+    "13": {
+        "id": 13,
+        "treasureItemId": 13,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9752\u56ca\u4e66\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u9752\u56ca\u4e66\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "13",
+        "quality": "4"
+    },
+    "14": {
+        "id": 14,
+        "treasureItemId": 14,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4eba\u738b\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u4eba\u738b\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "14",
+        "quality": "4"
+    },
+    "15": {
+        "id": 15,
+        "treasureItemId": 15,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u8d2a\u72fc\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u8d2a\u72fc\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "15",
+        "quality": "4"
+    },
+    "16": {
+        "id": 16,
+        "treasureItemId": 16,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9b3c\u738b\u76fe\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u9b3c\u738b\u76fe\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "16",
+        "quality": "4"
+    },
+    "17": {
+        "id": 17,
+        "treasureItemId": 17,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u53f8\u9a6c\u6cd5\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u53f8\u9a6c\u6cd5\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "17",
+        "quality": "4"
+    },
+    "18": {
+        "id": 18,
+        "treasureItemId": 18,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u7f61\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u5929\u7f61\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "18",
+        "quality": "4"
+    },
+    "19": {
+        "id": 19,
+        "treasureItemId": 19,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7834\u519b\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u7834\u519b\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "19",
+        "quality": "4"
+    },
+    "20": {
+        "id": 20,
+        "treasureItemId": 20,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5929\u7075\u955c\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u5929\u7075\u955c\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "20",
+        "quality": "4"
+    },
+    "21": {
+        "id": 21,
+        "treasureItemId": 21,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5c09\u7f2d\u5b50\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u5c09\u7f2d\u5b50\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "21",
+        "quality": "4"
+    },
+    "22": {
+        "id": 22,
+        "treasureItemId": 22,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5730\u715e\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u5730\u715e\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "22",
+        "quality": "4"
+    },
+    "23": {
+        "id": 23,
+        "treasureItemId": 23,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e03\u6740\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u4e03\u6740\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "23",
+        "quality": "4"
+    },
+    "24": {
+        "id": 24,
+        "treasureItemId": 24,
+        "needNum": 40,
+        "ver": "1.0.0",
+        "name_zhCN": "\u906e\u5929\u5e06\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u906e\u5929\u5e06\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "24",
+        "quality": "4"
+    },
+    "25": {
+        "id": 25,
+        "treasureItemId": 25,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5434\u5b50\u5175\u6cd5\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u5434\u5b50\u5175\u6cd5\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "25",
+        "quality": "5"
+    },
+    "26": {
+        "id": 26,
+        "treasureItemId": 26,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u660a\u5929\u7075\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u660a\u5929\u7075\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "26",
+        "quality": "5"
+    },
+    "27": {
+        "id": 27,
+        "treasureItemId": 27,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7389\u6e05\u5b9d\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u7389\u6e05\u5b9d\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "27",
+        "quality": "5"
+    },
+    "28": {
+        "id": 28,
+        "treasureItemId": 28,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u51c0\u708e\u706b\u77e2\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u51c0\u708e\u706b\u77e2\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "28",
+        "quality": "5"
+    },
+    "29": {
+        "id": 29,
+        "treasureItemId": 29,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5b5f\u5fb7\u65b0\u4e66\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u5b5f\u5fb7\u65b0\u4e66\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "29",
+        "quality": "5"
+    },
+    "30": {
+        "id": 30,
+        "treasureItemId": 30,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u7384\u9634\u7075\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u7384\u9634\u7075\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "30",
+        "quality": "5"
+    },
+    "31": {
+        "id": 31,
+        "treasureItemId": 31,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e0a\u6e05\u5b9d\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u4e0a\u6e05\u5b9d\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "31",
+        "quality": "5"
+    },
+    "32": {
+        "id": 32,
+        "treasureItemId": 32,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u78a7\u7389\u846b\u82a6\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u78a7\u7389\u846b\u82a6\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "32",
+        "quality": "5"
+    },
+    "33": {
+        "id": 33,
+        "treasureItemId": 33,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5b59\u8191\u5175\u6cd5\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u5b59\u8191\u5175\u6cd5\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "33",
+        "quality": "5"
+    },
+    "34": {
+        "id": 34,
+        "treasureItemId": 34,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u592a\u6781\u7075\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u592a\u6781\u7075\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "34",
+        "quality": "5"
+    },
+    "35": {
+        "id": 35,
+        "treasureItemId": 35,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u592a\u6e05\u5b9d\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u592a\u6e05\u5b9d\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "35",
+        "quality": "5"
+    },
+    "36": {
+        "id": 36,
+        "treasureItemId": 36,
+        "needNum": 60,
+        "ver": "1.0.0",
+        "name_zhCN": "\u827e\u8349\u9999\u56ca\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u827e\u8349\u9999\u56ca\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "36",
+        "quality": "5"
+    },
+    "37": {
+        "id": 37,
+        "treasureItemId": 37,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u9041\u7532\u5929\u4e66\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u9041\u7532\u5929\u4e66\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "37",
+        "quality": "6"
+    },
+    "38": {
+        "id": 38,
+        "treasureItemId": 38,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u661f\u9668\u795e\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u661f\u9668\u795e\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "38",
+        "quality": "6"
+    },
+    "39": {
+        "id": 39,
+        "treasureItemId": 39,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5973\u5a32\u4ed9\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u5973\u5a32\u4ed9\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "39",
+        "quality": "6"
+    },
+    "40": {
+        "id": 40,
+        "treasureItemId": 40,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u771f\u9f99\u7384\u5370\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u771f\u9f99\u7384\u5370\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "40",
+        "quality": "6"
+    },
+    "41": {
+        "id": 41,
+        "treasureItemId": 41,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u592a\u5e73\u8981\u672f\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u592a\u5e73\u8981\u672f\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "41",
+        "quality": "6"
+    },
+    "42": {
+        "id": 42,
+        "treasureItemId": 42,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5143\u9633\u795e\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u5143\u9633\u795e\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "42",
+        "quality": "6"
+    },
+    "43": {
+        "id": 43,
+        "treasureItemId": 43,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u76d8\u53e4\u4ed9\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u76d8\u53e4\u4ed9\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "43",
+        "quality": "6"
+    },
+    "44": {
+        "id": 44,
+        "treasureItemId": 44,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u516b\u5b9d\u7075\u706f\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u516b\u5b9d\u7075\u706f\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "44",
+        "quality": "6"
+    },
+    "45": {
+        "id": 45,
+        "treasureItemId": 45,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u5b59\u5b50\u5175\u6cd5\u6b8b\u9875",
+        "description_zhCN": "\u6682\u65e0\u5b59\u5b50\u5175\u6cd5\u6b8b\u9875\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "45",
+        "quality": "6"
+    },
+    "46": {
+        "id": 46,
+        "treasureItemId": 46,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u90aa\u6708\u795e\u7b26\u6b8b\u6b21\u54c1",
+        "description_zhCN": "\u6682\u65e0\u90aa\u6708\u795e\u7b26\u6b8b\u6b21\u54c1\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "46",
+        "quality": "6"
+    },
+    "47": {
+        "id": 47,
+        "treasureItemId": 47,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u4f0f\u7fb2\u4ed9\u4f69\u788e\u7247",
+        "description_zhCN": "\u6682\u65e0\u4f0f\u7fb2\u4ed9\u4f69\u788e\u7247\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "47",
+        "quality": "6"
+    },
+    "48": {
+        "id": 48,
+        "treasureItemId": 48,
+        "needNum": 120,
+        "ver": "1.0.0",
+        "name_zhCN": "\u6728\u725b\u6d41\u9a6c\u6750\u6599",
+        "description_zhCN": "\u6682\u65e0\u6728\u725b\u6d41\u9a6c\u6750\u6599\u7684\u7269\u54c1\u63cf\u8ff0",
+        "asset": "48",
+        "quality": "6"
+    }
+}

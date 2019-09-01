@@ -1,0 +1,13 @@
+{
+  "ai":
+  [
+    {
+      "repeated":false,
+      "condition":
+      [
+        {"name":"battle_start"}
+      ],
+      "action":{"name":"hero_rush", "delay":1}
+    }
+  ]
+}

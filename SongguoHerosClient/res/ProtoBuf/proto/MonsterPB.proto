@@ -1,0 +1,157 @@
+message MonsterTreasureItemsPB{
+	optional int32								slotId = 1;							//珍宝槽id
+	optional int32								inventoryTreasureItemId = 2;		//珍宝id
+	optional int32								treasureItemId = 3;					//珍宝id
+    optional int32								level = 4;							//珍宝等级
+    optional int32								quality = 5;						//珍宝品级
+}
+
+message MonsterRelationshipP2PPB{
+	optional int32								id = 1;
+	optional int32								flag = 2;
+	optional bool								activation = 3;
+	optional int32								relationshipLevel = 4;
+	optional int32								relationshipLevelId = 5;
+}
+
+message MonsterFormationsPB{
+	optional int32								slotId = 1;							//阵型槽id
+	optional int32								formationId = 2;					//阵型id
+	optional bool								isUse = 3;							//是否使用
+}
+
+message EquipmentPB{
+	optional int32								id = 1;								//装备id
+	optional int32								level = 2;							//装备等级
+	optional int32								quality	= 3;						//装备品阶
+	optional int32								nextLevelCoin = 4;					//升下级所需金币
+	optional int32								nextQualityCoin = 5;				//升下阶所需金币
+	repeated MaterialTreePB						nextQualityMaterial = 6;			//装备升阶材料
+}
+
+message MaterialTreePB{
+	optional int32								needMaterialId = 1;
+	optional int32								needMaterialCount = 2;
+}
+
+message SkillsPB{
+	optional int32								id = 1;
+	optional int32								level = 2;
+	optional int32								maxLevel = 3;
+	optional string								mark = 4;
+	optional int32								type = 5;
+	optional int32								MPCost = 6;
+	optional int32								energyCost = 7;
+	optional int32								energyStart = 8;
+	optional double								useLimit = 9;
+	optional int32								sourceAttribute = 10;
+	optional SoldierPB							soldier = 11;
+	optional bool								isUnlock = 12;
+}
+
+message SoldierPB{
+	optional int32								id = 1;
+	optional int32								num = 2;
+	optional int32								arrowSpeed = 3;
+	optional int32								orderSpeed = 4;
+	optional int32								HP = 5;
+	optional int32								MP = 6;
+	optional int32								attack = 7;
+	optional int32								power = 8;
+	optional int32								speed = 9;
+	optional double								strikeCD = 10;
+	optional double								atkHitRate = 11;
+	optional double								abilityHitRate = 12;
+	optional double								atkDodgeRate = 13;
+	optional double								abilityDodgeRate = 14;
+	optional double								DR = 15;
+	optional double								physicalDR = 16;
+	optional double								spellDR = 17;
+	optional double								atkCSR = 18;
+	optional double								abilityCSR = 19;
+	optional double								ArPR = 20;
+	optional double								SRPR = 21;
+	optional double								healingBonus = 22;
+	optional int32								atkVamp = 23;
+	optional int32								abilityVamp = 24;
+	optional double								atkVampRate = 25;
+	optional double								abilityVampRate = 26;
+	optional double								physicalResilience = 27;
+	optional double								spellResilience = 28;
+	optional int32								holyDamage = 29;
+	optional double								atkAntiCSR = 30;
+	optional double								abilityAntiCSR = 31;
+	optional double								physicalCSDR = 32;
+	optional double								spellCSDR = 33;
+	optional string								mark = 34;
+	optional int32								type = 35;
+	optional int32								damageType = 36;
+	optional string								asset = 37;
+	optional string								name = 38;
+	optional string								description = 39;
+	optional string								icon = 40;
+}
+
+message MonsterPB{
+	optional int32								id = 1;
+	optional int32								level = 2;
+	optional int32								exp = 3;
+	optional int32								quality = 4;
+	optional int32								star = 5;
+	optional int32								maxSoldier = 6;
+	optional int32								arrowSpeed = 7;
+	optional int32								HP = 8;
+	optional int32								MP = 9;
+	optional string								position = 10;
+	optional int32								attack = 11;
+	optional int32								power = 12;
+	optional int32								speed = 13;
+	optional double								strikeCD = 14;
+	optional double								atkHitRate = 15;
+	optional double								abilityHitRate = 16;
+	optional double								atkDodgeRate = 17;
+	optional double								abilityDodgeRate = 18;
+	optional double								DR = 19;
+	optional double								physicalDR = 20;
+	optional double								spellDR = 21;
+	optional double								atkCSR = 22;
+	optional double								abilityCSR = 23;
+	optional double								ArPR = 24;
+	optional double								SRPR = 25;
+	optional double								abilityCD = 26;
+	optional double								healingBonus = 27;
+	optional int32								atkVamp = 28;
+	optional double								atkVampRate = 29;
+	optional int32								abilityVamp = 30;
+	optional double								abilityVampRate = 31;
+	optional double								physicalResilience = 32;
+	optional double								spellResilience = 33;
+	optional double								ERHPBase = 34;
+	optional double								ERKillBase = 35;
+	optional double								ERLoseBase = 36;
+	optional double								spellCostReduction = 37;
+	optional int32								holyDamage = 38;
+	optional double								atkAntiCSR = 39;
+	optional double								abilityAntiCSR = 40;
+	optional double								physicalCSDR = 41;
+	optional double								spellCSDR = 42;
+	repeated MonsterFormationsPB				formations = 43;
+	repeated SkillsPB							skills = 44;
+	optional SoldierPB							soldier = 45;
+	repeated EquipmentPB						equipment = 46;
+	optional string								mark = 47;
+	optional int32								damageType = 48;
+	repeated MonsterTreasureItemsPB				treasureItems = 49;
+	repeated MonsterRelationshipP2PPB			relationshipP2P = 50;
+	optional string								asset = 51;
+	optional string								name = 52;
+	optional string								description = 53;
+	optional string								AI = 54;
+	optional int32								breakthroughLevel = 55;
+	optional int32								destinyLevel = 56;
+	optional int32								destinyExp = 57;
+	optional int32								NPCId = 58;
+	optional int32								CE = 59;
+	optional int32								destinyLevelNext = 60;
+}
+

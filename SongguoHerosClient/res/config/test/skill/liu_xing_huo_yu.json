@@ -1,0 +1,10 @@
+{
+    "config": "liu_xing_huo_yu",
+    "id": 25,
+    "name": "liu_xing_huo_yu",
+    "level": 1,
+    "mpCost": 10,
+    "energyStart": 260,
+    "energyCost": 400,
+    "energySpeed": 20
+}

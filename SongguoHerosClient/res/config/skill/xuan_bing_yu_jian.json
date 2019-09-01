@@ -1,0 +1,183 @@
+{
+    "energyCost": 40,
+    "energySpeed":20,
+    "energyStart":50,
+    "mpCost": 5,
+    "actions":
+    [
+     {
+     "name": "pause_battle",
+     "start": 0.0,
+     "params": {"duration":1.5}
+     },
+     {
+     "name": "disable_break",
+     "start": 0.5
+     },
+     {
+     "name": "lock_fire_skill",
+     "start": 0.0,
+     "params": {"unlockDelay":4.0}
+     },
+     {
+     "name": "lock_user_control",
+     "start": 0.0,
+     "params": {"unlockDelay":8.0}
+     },
+     {
+     "name": "move_camera_to_hero",
+     "start": 0.0
+     },
+     {
+     "name": "show_background",
+     "start": 0.0,
+     "params": {"hideDelay":1.0}
+     },
+     {
+     "name": "play_animation",
+     "start": 0.0,
+     "params": {"animation": "animation_skill1", "break_time":90}
+     },
+     {
+     "name": "shake_camera",
+     "start": 0.8,
+     "params": {"duration": 1, "amplitude":30.0, "mode":4, "interval":3}
+     },
+     {
+     "name": "shake_camera",
+     "trigger":"attackHero",
+     "params": {"duration": 0.4, "amplitude":30.0, "mode":4}
+     },
+     {
+     "name": "show_hero_effect",
+     "start": 0,
+     "params": {"animation": "skill", "side":1}
+     },
+     {
+     "name": "set_state_dizzy_on_find_target",
+     "trigger":"attackHero",
+     "params": {"SkillTarget":"OPP_HERO", "time":"dizzyTime", "enable":"dizzyEnable", "heroDizzyConfig":"hero_dizzy"}
+     },
+     {
+     "name": "skill_arrow",
+     "start": 0.8,
+     "params": {"animation": "arrow", "type":"skill_arrow_line", "speed":1000, "radius":1, "trigger":"attackHero", "ignoreSoldier":true},
+     "damage": {"type":1, "side":0, "entityType":2, "delay":0.5, "base":1000, "step":1, "factor":1.2, "speed_h":400, "speed_h_decay":0, "speed_v":700, "speed_v_decay":0, "gravity":2000}
+     },
+     {
+     "name": "tri_stage_trigger",
+     "trigger":"attackHero",
+     "params": {"SkillTarget":"OPP_HERO", "durationFormula":"dizzyTime", "phase1":0.8, "phase3":0.2, "animation1":"boss1", "animation2":"boss2", "animation3":"boss3"}
+     },
+     {
+     "name": "show_hero_effect",
+     "trigger": "attackHero",
+     "params": {"animation": "boss", "side":0}
+     }
+     ],
+    
+    "formula":
+    {
+        "dizzyTime": {"formula":"min", "min":5.0, "base":5.0, "divide":10.0, "factor":0.3},
+        "dizzyEnable": {"formula":"enable", "step":20.0, "base":0.0},
+        "hp":{"formula":"hp", "step":100.0, "base":3000.0}
+    },
+    
+    "dizzy":
+    {
+        "hero_dizzy":
+        {
+            "allowBreakByAnotherDizzy":true,
+            "action":
+            [
+             {"name":"stop_animation"},
+             {"name":"change_color"}
+             ],
+            "condition":
+            [
+             {"name":"by_time", "required":true}
+             ]
+        }
+    },
+    
+    
+    "asset": "skill_xuanbing",
+    "effect":
+    {
+        "boss1":
+        [
+         [
+          {
+          "name": "animation_xuanbing_hit_start_front_layer1",
+          "type": 0,
+          "z-order": 1
+          },
+          {
+          "name": "animation_xuanbing_hit_start_front_layer2",
+          "type": 2,
+          "z-order": 2
+          }
+          ]
+         ],
+        "boss2":
+        [
+         [
+          {
+          "name": "animation_xuanbing_hit_loop_front_layer1",
+          "type": 0,
+          "z-order": 1
+          }
+          ]
+         ],
+        "boss3":
+        [
+         [
+          {
+          "name": "animation_xuanbing_hit_end_front_layer1",
+          "type": 0,
+          "z-order": 1
+          }
+          ]
+         ],
+        "arrow":
+        [
+         [
+          {
+          "name": "animation_xuanbing_send_layer1",
+          "type": 0,
+          "z-order": 1
+          },
+          {
+          "name": "animation_xuanbing_send_layer2",
+          "type": 2,
+          "z-order": 2
+          }
+          ]
+         ],
+        "skill":
+        [
+         [
+          {
+          "name": "animation_xuanbing_back_layer1",
+          "type": 0,
+          "z-order": -2
+          },
+          {
+          "name": "animation_xuanbing_back_layer2",
+          "type": 2,
+          "z-order": -1
+          },
+          {
+          "name": "animation_xuanbing_front_layer1",
+          "type": 0,
+          "z-order": 1
+          },
+          {
+          "name": "animation_xuanbing_front_layer2",
+          "type": 2,
+          "z-order": 2
+          }
+          ]
+         ]
+    }
+}

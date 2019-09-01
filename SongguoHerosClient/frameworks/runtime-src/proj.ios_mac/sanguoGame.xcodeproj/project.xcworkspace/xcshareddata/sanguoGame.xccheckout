@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>32B4818E-77EB-46D8-9220-707AA963DE95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sanguoGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>482A98E7D39291A3A894D64C82154B9551C9E295</key>
+		<string>gitlab.zjfygames.com:sanguo/sanguo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Client/game/frameworks/runtime-src/proj.ios_mac/sanguoGame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>482A98E7D39291A3A894D64C82154B9551C9E295</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>gitlab.zjfygames.com:sanguo/sanguo</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>482A98E7D39291A3A894D64C82154B9551C9E295</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>482A98E7D39291A3A894D64C82154B9551C9E295</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sanguo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

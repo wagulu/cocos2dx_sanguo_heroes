@@ -1,0 +1,10 @@
+{
+    "config": "fen_shen_nu_zhan",
+    "id": 11,
+    "name": "fen_shen_nu_zhan",
+    "level": 1,
+    "mpCost": 50,
+    "energyStart": 300,
+    "energyCost": 400,
+    "energySpeed": 20
+}

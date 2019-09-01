@@ -1,0 +1,10 @@
+{
+    "config": "jin_fu_suo",
+    "id": 20,
+    "name": "jin_fu_suo",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 500,
+    "energyCost": 10,
+    "energySpeed": 20
+}

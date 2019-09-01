@@ -1,0 +1,113 @@
+{
+  "energyCost": 200,
+  "energySpeed": 20,
+  "energyStart": 180,
+  "mpCost": 10,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":2.0}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":1.8}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":1.8}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation": "animation_skill2", "break_time":1.3}
+    },
+    {
+      "name": "find_target",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"effect":"show", "duration":0}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 1.0,
+      "params": {"effect":"cure", "duration":0}
+    },
+    {
+      "name": "attack_on_find_target",
+      "start": 1.0,
+      "damage": {"type":4, "side":1, "entityType":1, "base":500, "step":20, "factor":0.5}
+    }
+  ],
+    
+  "asset": "skill_chunfeng",
+  "effect":
+  {
+    "cure":
+    [
+      [
+        {
+          "name": "animation_chunfeng_hit_front_layer2",
+          "type": 2,
+          "z-order": 1
+        },
+        {
+          "name": "animation_chunfeng_hit_front_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_chunfeng_hit_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_chunfeng_hit_back_layer1",
+          "type": 0,
+          "z-order": -2
+        }
+      ]
+    ],
+    "show":
+    [
+      [
+        {
+          "name": "animation_chunfeng_front_layer2",
+          "type": 2,
+          "z-order": 1
+        },
+        {
+          "name": "animation_chunfeng_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_chunfeng_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_chunfeng_back_layer1",
+          "type": 0,
+          "z-order": -1
+        }
+      ]
+    ]
+  }
+}

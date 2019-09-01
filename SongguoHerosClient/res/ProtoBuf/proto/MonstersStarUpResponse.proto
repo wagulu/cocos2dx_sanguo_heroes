@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+
+message MonstersStarUpResponse{
+	optional ApiResponse	api = 1;				//公用参数
+	optional int32			star = 2;				//新等级
+	optional int32			monsterPartCount = 3;	//剩余碎片数量
+	optional MonsterPB		monster = 4;			//武将数据
+}

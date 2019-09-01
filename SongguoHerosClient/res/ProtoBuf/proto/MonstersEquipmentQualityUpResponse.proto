@@ -1,0 +1,10 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+import "MaterialPB.proto";
+
+message MonstersEquipmentQualityUpResponse {
+	optional ApiResponse			api = 1;		//公用参数
+	optional int32					level = 2;		//新等级
+	optional MonsterPB				monster = 3;
+	repeated MaterialPB				materials = 4;
+}

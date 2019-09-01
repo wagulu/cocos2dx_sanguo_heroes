@@ -1,0 +1,5 @@
+message ItemPB {
+	optional int32		itemId = 1;		//item id
+	optional string		type = 2;		//道具类型
+	optional int32		count = 3;		//剩余数量
+}

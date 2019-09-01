@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+
+message HighladderGetOthersMonstersResponse {
+	optional ApiResponse		api = 1;			//公用参数
+	repeated MonsterPB	monsters = 2;			//敌人武将
+}

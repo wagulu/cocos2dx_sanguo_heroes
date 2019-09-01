@@ -1,0 +1,5 @@
+import "ApiRequest.proto";
+
+message InitBattleTeamRequest{
+	optional ApiRequest	 api = 1;		//公用参数
+}

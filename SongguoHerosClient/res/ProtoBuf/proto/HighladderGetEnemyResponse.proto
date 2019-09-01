@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+import "BattleTeamPB.proto";
+
+message HighladderGetEnemyResponse {
+	optional ApiResponse		api = 1;			//公用参数
+	repeated MonsterPB	monsters = 2;			//敌人武将
+	repeated BattleTeamPB	battleTeam = 3;			//战队信息
+}

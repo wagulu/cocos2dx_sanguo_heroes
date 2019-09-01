@@ -1,0 +1,10 @@
+{
+    "config": "shan_xian",
+    "id": 34,
+    "name": "shan_xian",
+    "level": 1,
+    "mpCost": 5,
+    "energyStart": 80,
+    "energyCost": 100,
+    "energySpeed": 20
+}

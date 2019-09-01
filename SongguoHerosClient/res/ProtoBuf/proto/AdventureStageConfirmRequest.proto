@@ -1,0 +1,10 @@
+import "ApiRequest.proto";
+
+message AdventureStageConfirmRequest{
+	optional ApiRequest	api = 1;		//公用参数
+	optional int32		islandId = 2;	//island id 默认1
+	optional int32		areaId = 3;		//area id 默认1
+	optional int32		stageId = 4;	//战斗点id
+	optional int32		stageType = 5;	//stage类型(1＝普通 2=精英)
+
+}

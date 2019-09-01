@@ -1,0 +1,10 @@
+{
+    "config": "dao_ge",
+    "id": 7,
+    "name": "dao_ge",
+    "level": 1,
+    "mpCost": 7,
+    "energyStart": 450,
+    "energyCost": 25,
+    "energySpeed": 20
+}

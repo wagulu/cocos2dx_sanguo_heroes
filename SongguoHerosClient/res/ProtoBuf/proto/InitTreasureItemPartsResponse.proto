@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "TreasureItemPartPB.proto";
+
+message InitTreasureItemPartsResponse{
+	optional ApiResponse			api = 1;							//公用参数
+	repeated TreasureItemPartPB		treasureItemParts = 2;				//拥有的珍宝列表
+}

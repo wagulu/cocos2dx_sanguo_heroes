@@ -1,0 +1,33 @@
+{
+  "damage": 200,
+  "cool_down": 10,
+  "animation": "animation_skill3",
+  "hit": [
+    [
+      {
+        "name": "animation_dimaoNew_hit1",
+        "type": 1,
+        "z-order": 1
+      },
+      {
+        "name": "animation_dimaoNew_hit2",
+        "type": 0,
+        "z-order": 1
+      }
+    ]
+  ],
+  "skill": [
+    [
+      {
+        "name": "animation_dimaoNew_layer1",
+        "type": 0,
+        "z-order": 1
+      },
+      {
+        "name": "animation_dimaoNew_layer2",
+        "type": 2,
+        "z-order": 1
+      }
+    ]
+  ]
+}

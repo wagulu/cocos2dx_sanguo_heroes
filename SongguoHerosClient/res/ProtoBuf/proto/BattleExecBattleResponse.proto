@@ -1,0 +1,8 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+
+message BattleExecBattleResponse{
+	optional ApiResponse	api = 1;					//公用参数
+	repeated MonsterPB		monstersInfo = 2;			//武将战斗数据
+	repeated MonsterPB		NPCMonstersInfo = 3;		//敌将战斗数据
+}

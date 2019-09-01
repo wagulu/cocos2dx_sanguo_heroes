@@ -1,0 +1,434 @@
+{
+    "1": {
+        "id": 1,
+        "treasureItemId": 1,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 2700,
+        "gain": 326,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "treasureItemId": 2,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 75,
+        "gain": 10,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "treasureItemId": 3,
+        "level": 1,
+        "propertyName": "Attack",
+        "propertyValue": 225,
+        "gain": 28,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "treasureItemId": 4,
+        "level": 1,
+        "propertyName": "Armor",
+        "propertyValue": 120,
+        "gain": 15,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "treasureItemId": 5,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 2700,
+        "gain": 326,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "treasureItemId": 6,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 75,
+        "gain": 10,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "treasureItemId": 7,
+        "level": 1,
+        "propertyName": "Power",
+        "propertyValue": 300,
+        "gain": 37,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "treasureItemId": 8,
+        "level": 1,
+        "propertyName": "Resistance",
+        "propertyValue": 120,
+        "gain": 15,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "treasureItemId": 9,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 2700,
+        "gain": 326,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "treasureItemId": 10,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 75,
+        "gain": 10,
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "treasureItemId": 11,
+        "level": 1,
+        "propertyName": "Armor",
+        "propertyValue": 120,
+        "gain": 15,
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "treasureItemId": 12,
+        "level": 1,
+        "propertyName": "Resistance",
+        "propertyValue": 120,
+        "gain": 15,
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "treasureItemId": 13,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 4500,
+        "gain": 544,
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "treasureItemId": 14,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 125,
+        "gain": 16,
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "treasureItemId": 15,
+        "level": 1,
+        "propertyName": "Attack",
+        "propertyValue": 375,
+        "gain": 46,
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "treasureItemId": 16,
+        "level": 1,
+        "propertyName": "Armor",
+        "propertyValue": 200,
+        "gain": 25,
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "treasureItemId": 17,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 4500,
+        "gain": 544,
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "treasureItemId": 18,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 125,
+        "gain": 16,
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "treasureItemId": 19,
+        "level": 1,
+        "propertyName": "Power",
+        "propertyValue": 500,
+        "gain": 61,
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "treasureItemId": 20,
+        "level": 1,
+        "propertyName": "Resistance",
+        "propertyValue": 200,
+        "gain": 25,
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "treasureItemId": 21,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 4500,
+        "gain": 544,
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "treasureItemId": 22,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 125,
+        "gain": 16,
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "treasureItemId": 23,
+        "level": 1,
+        "propertyName": "Armor",
+        "propertyValue": 200,
+        "gain": 25,
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "treasureItemId": 24,
+        "level": 1,
+        "propertyName": "Resistance",
+        "propertyValue": 200,
+        "gain": 25,
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "treasureItemId": 25,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 7200,
+        "gain": 869,
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "treasureItemId": 26,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 200,
+        "gain": 25,
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "treasureItemId": 27,
+        "level": 1,
+        "propertyName": "Attack",
+        "propertyValue": 600,
+        "gain": 73,
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "treasureItemId": 28,
+        "level": 1,
+        "propertyName": "Armor",
+        "propertyValue": 320,
+        "gain": 39,
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "treasureItemId": 29,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 7200,
+        "gain": 869,
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "treasureItemId": 30,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 200,
+        "gain": 25,
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "treasureItemId": 31,
+        "level": 1,
+        "propertyName": "Power",
+        "propertyValue": 800,
+        "gain": 97,
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "treasureItemId": 32,
+        "level": 1,
+        "propertyName": "Resistance",
+        "propertyValue": 320,
+        "gain": 39,
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "treasureItemId": 33,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 7200,
+        "gain": 869,
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "treasureItemId": 34,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 200,
+        "gain": 25,
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "treasureItemId": 35,
+        "level": 1,
+        "propertyName": "Armor",
+        "propertyValue": 320,
+        "gain": 39,
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "treasureItemId": 36,
+        "level": 1,
+        "propertyName": "Resistance",
+        "propertyValue": 320,
+        "gain": 39,
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "treasureItemId": 37,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 9000,
+        "gain": 1087,
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "treasureItemId": 38,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 250,
+        "gain": 31,
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "treasureItemId": 39,
+        "level": 1,
+        "propertyName": "Attack",
+        "propertyValue": 750,
+        "gain": 91,
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "treasureItemId": 40,
+        "level": 1,
+        "propertyName": "Armor",
+        "propertyValue": 400,
+        "gain": 49,
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "treasureItemId": 41,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 9000,
+        "gain": 1087,
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "treasureItemId": 42,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 250,
+        "gain": 31,
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "treasureItemId": 43,
+        "level": 1,
+        "propertyName": "Power",
+        "propertyValue": 1000,
+        "gain": 121,
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "treasureItemId": 44,
+        "level": 1,
+        "propertyName": "Resistance",
+        "propertyValue": 400,
+        "gain": 49,
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "treasureItemId": 45,
+        "level": 1,
+        "propertyName": "HP",
+        "propertyValue": 9000,
+        "gain": 1087,
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "treasureItemId": 46,
+        "level": 1,
+        "propertyName": "MP",
+        "propertyValue": 250,
+        "gain": 31,
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "treasureItemId": 47,
+        "level": 1,
+        "propertyName": "Armor",
+        "propertyValue": 400,
+        "gain": 49,
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "treasureItemId": 48,
+        "level": 1,
+        "propertyName": "Resistance",
+        "propertyValue": 400,
+        "gain": 49,
+        "ver": "1.0.0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "config": "bing_shuang_jia_suo",
+    "id": 4,
+    "name": "bing_shuang_jia_suo",
+    "level": 1,
+    "mpCost": 10,
+    "energyStart": 1100,
+    "energyCost": 100,
+    "energySpeed": 20
+}

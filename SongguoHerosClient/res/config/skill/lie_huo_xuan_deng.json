@@ -1,0 +1,139 @@
+{
+    "energyCost": 100.0,
+    "energySpeed":10.0,
+    "energyStart":80,
+    "mpCost": 100,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":3.0}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation": "animation_skill7", "break_time":1.5}
+    },
+    {
+        "name": "shake_camera",
+        "start": 0.8,
+        "params": {"duration": 1, "amplitude":30.0, "mode":4, "interval":3}
+    },
+    {
+        "name": "show_hero_effect",
+        "start": 0,
+        "params": {"animation": "skill", "side":1}
+    },
+    {
+        "name": "skill_dou_qi_lie_kong",
+        "start": 0.7,
+        "params": {"interval": 0.7}
+    },
+   {
+   "name": "add_entity_effect",
+   "start": 0.8,
+   "params": {"SkillTarget":"SELF_HERO", "effect":"skillLoop", "durationFormula":"buffTime"}
+   },
+    {
+        "name": "interval_trigger",
+        "start": 0.8,
+        "params": {"trigger": "attackDiamond", "times":5, "interval":0.2}
+    },
+    {
+        "name": "add_buff",
+        "start": 0.8,
+        "params": {"SkillTarget":"SELF_HERO", "property":"attack", "time":"buffTime", "value":"buffEffect", "lock":false}
+    },
+    {
+        "name": "attack_diamond_area_center_on_hero",
+        "trigger": "attackDiamond",
+        "damage": {"type":3, "side":0, "entityType":0, "base":100, "step":5, "factor":0.2, "speed_h":400, "speed_h_decay":0, "speed_v":400, "speed_v_decay":0, "gravity":400},
+        "params": {"SkillTarget":"SELF_HERO", "radius":2, "spreadInterval":0.3}
+    }
+  ],
+    "formula":
+    {
+        "buffTime":{"formula":"max", "property":"attack", "max":15.0, "min":15.0, "divide":10.0, "step":10.0, "base":1.0, "factor":0.1},
+        "buffEffect":{"formula":"max", "property":"attack", "max":1.0, "min":1.0, "divide":10.0, "step":10.0, "base":1.0, "factor":0.1}
+    },
+    
+  "asset": "skill_xuandeng",
+  "effect":
+  {
+    "skillLoop":
+    [
+      [
+        {
+          "name": "animation_xuandeng_loop_back_layer1",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_xuandeng_loop_layer1",
+          "type": 2,
+          "z-order": 1
+        },
+       {
+       "name": "animation_xuandeng_loop_layer2",
+       "type": 0,
+       "z-order": 2
+       },
+       {
+       "name": "animation_xuandeng_loop_layer3",
+       "type": 2,
+       "z-order": 3
+       },
+       {
+       "name": "animation_xuandeng_loop_layer4",
+       "type": 2,
+       "z-order": 4
+       },
+       {
+       "name": "animation_xuandeng_loop_layer5",
+       "type": 0,
+       "z-order": 5
+       },
+       {
+       "name": "animation_xuandeng_loop_layer6",
+       "type": 2,
+       "z-order": 6
+       }
+      ]
+    ],
+    "skill":
+    [
+      [
+        {
+          "name": "animation_xuandeng_back_layer1",
+          "type": 0,
+          "z-order": -1
+        },
+       {
+       "name": "animation_xuandeng_layer1",
+       "type": 2,
+       "z-order": 1
+       },
+       {
+       "name": "animation_xuandeng_layer2",
+       "type": 0,
+       "z-order": 2
+       },
+       {
+       "name": "animation_xuandeng_layer3",
+       "type": 2,
+       "z-order": 3
+       }
+      ]
+    ]
+  }
+}

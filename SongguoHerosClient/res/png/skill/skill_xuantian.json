@@ -1,0 +1,46 @@
+{
+  "damage": 200,
+  "cool_down": 10,
+  "animation": "animation_skill1",
+  "arrow": [
+    [
+      {
+        "name": "animation_xuantian_send",
+        "type": 1,
+        "z-order": 1
+      }
+    ]
+  ],
+  "hitBoss": [
+    [
+      {
+        "name": "animation_xuantian_hit_boss",
+        "type": 0,
+        "z-order": 1
+      }
+    ]
+  ],
+  "hit": [
+    [
+      {
+        "name": "animation_xuantian_hit_1",
+        "type": 0,
+        "z-order": 1
+      }
+    ]
+  ],
+  "skill": [
+    [
+      {
+        "name": "animation_xuantian_layer1",
+        "type": 2,
+        "z-order": 2
+      },
+      {
+        "name": "animation_xuantian_layer2",
+        "type": 0,
+        "z-order": 1
+      }
+    ]
+  ]
+}

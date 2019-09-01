@@ -1,0 +1,84 @@
+{
+    "energyCost": 100,
+    "energySpeed":20,
+    "energyStart":80,
+    "mpCost": 100,
+    "actions":
+    [
+     {
+     "name": "pause_battle",
+     "start": 0.0,
+     "params": {"duration":1.5}
+     },
+     {
+     "name": "move_camera_to_hero",
+     "start": 0.0
+     },
+     {
+     "name": "show_background",
+     "start": 0.0,
+     "params": {"hideDelay":3.0}
+     },
+     {
+     "name": "play_animation",
+     "start": 0.0,
+     "params": {"animation": "animation_skill1", "break_time":90}
+     },
+     {
+     "name": "shake_camera",
+     "start": 0.8,
+     "params": {"duration": 1, "amplitude":30.0, "mode":4, "interval":3}
+     },
+     {
+     "name": "shake_camera",
+     "start": 2.5,
+     "params": {"duration": 0.4, "amplitude":30.0, "mode":4}
+     },
+     {
+     "name": "show_hero_effect",
+     "start": 0,
+     "params": {"animation": "skill", "side":1}
+     },
+     {
+     "name": "skill_mu_lun_qiang_xi",
+     "start": 1.4,
+     "params": {"animation": "moveSkill", "type":"skill_arrow_vertical", "speed":600, "baseHp":3000, "stepHp":100, "radius":1, "trigger":"attackHero", "number":4},
+     "damage": {"type":1, "side":0, "entityType":2, "delay":0.5, "base":1000, "step":1, "factor":1.2, "speed_h":400, "speed_h_decay":0, "speed_v":700, "speed_v_decay":0, "gravity":2000}
+     }
+     ],
+    
+    "asset": "skill_mulun",
+    "effect":
+    {
+        "moveSkill":
+        [
+         [
+          {
+          "name": "animation_jianqi_loop_layer1",
+          "type": 0,
+          "z-order": 1
+          },
+          {
+          "name": "animation_jianqi_loop_layer2",
+          "type": 2,
+          "z-order": 2
+          }
+          ]
+         ],
+        "skill":
+        [
+         [
+          {
+          "name": "animation_jianqi_back_layer1",
+          "type": 2,
+          "z-order": -1
+          },
+          {
+          "name": "animation_jianqi_layer1",
+          "type": 0,
+          "z-order": 1
+          }
+          ]
+         ]
+    }
+}

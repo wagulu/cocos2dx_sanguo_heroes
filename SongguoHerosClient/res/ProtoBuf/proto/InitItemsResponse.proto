@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "ItemPB.proto";
+
+message InitItemsResponse{
+	optional ApiResponse		api = 1;					//公用参数
+	repeated ItemPB				items = 2;					//拥有的道具列表
+}

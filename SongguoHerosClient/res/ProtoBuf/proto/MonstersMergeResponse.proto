@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+import "MonsterPartPB.proto";
+
+message MonstersMergeResponse{
+	optional ApiResponse			api = 1;						//公用参数
+	optional MonsterPB				monster = 2;					//武将列表
+	optional MonsterPartPB			monsterPart = 3;				//武将列表
+}

@@ -1,0 +1,23 @@
+import "ApiResponse.proto";
+import "PrizePB.proto";
+
+message DepositGetListResponse{
+	optional ApiResponse	api = 1;			//公用参数
+	repeated DepositPB		deposits = 2;		//收件夹数据
+}
+
+message DepositPB{
+	optional string					key = 1;
+	optional string					link = 2;
+	optional string					depositedAt = 3;
+	optional DepositReasonPB		reason = 4;
+	repeated PrizePB				prizeInfo = 5;
+	optional int32					status = 6;			//0，未接受，1，已接受
+	optional int32					actionType = 7;		//1，看过就已读，2，获取为已读，3，获取完删除
+}
+
+message DepositReasonPB{
+	optional string					title = 1;
+	optional string					content = 2;
+	optional string					from = 3;
+}

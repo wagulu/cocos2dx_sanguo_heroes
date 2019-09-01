@@ -1,0 +1,29 @@
+{
+    "1": {
+        "id": 1,
+        "preciousItemId": 1,
+        "partsCode": "A",
+        "needNum": 2,
+        "ver": "",
+        "name_zhCN": "\u73cd\u5b9d1\u788e\u72471",
+        "description_zhCN": "\u73cd\u5b9d1\u788e\u72471"
+    },
+    "2": {
+        "id": 2,
+        "preciousItemId": 1,
+        "partsCode": "B",
+        "needNum": 1,
+        "ver": "",
+        "name_zhCN": "\u73cd\u5b9d1\u788e\u72472",
+        "description_zhCN": "\u73cd\u5b9d1\u788e\u72472"
+    },
+    "3": {
+        "id": 3,
+        "preciousItemId": 1,
+        "partsCode": "C",
+        "needNum": 1,
+        "ver": "",
+        "name_zhCN": "\u73cd\u5b9d1\u788e\u72473",
+        "description_zhCN": "\u73cd\u5b9d1\u788e\u72473"
+    }
+}

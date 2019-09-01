@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+
+message AccountGetUidFromSNUidResponse{
+	optional ApiResponse	api = 1;		//公用参数
+	optional string			uid = 2;		//用户id
+	optional string			userKey = 3;	//用户游戏session
+}

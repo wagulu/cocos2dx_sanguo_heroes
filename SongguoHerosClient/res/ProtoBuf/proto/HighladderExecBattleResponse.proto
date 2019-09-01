@@ -1,0 +1,8 @@
+import "ApiResponse.proto";
+import "MonsterPB.proto";
+
+message HighladderExecBattleResponse{
+	optional ApiResponse	api = 1;					//公用参数
+	optional MonsterPB		monsterInfo = 2;			//武将战斗数据
+	optional MonsterPB		EnemyMonsterInfo = 3;		//敌将战斗数据
+}

@@ -1,0 +1,11 @@
+#pragma once
+
+#cmakedefine ENTITYX_MAX_COMPONENTS @ENTITYX_MAX_COMPONENTS@
+
+#include <stdint.h>
+
+namespace entityx {
+
+static const uint64_t MAX_COMPONENTS = ENTITYX_MAX_COMPONENTS;
+
+}  // namespace entityx

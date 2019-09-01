@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message  HighladderFightRequest {
+	optional ApiRequest	api = 1;	//公用参数
+	optional int32	rank = 2;		//对手排名
+	repeated int32 monsterIds = 3;	//参战武将
+	optional bool isWinner = 4;		//战斗结果
+}

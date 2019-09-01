@@ -1,0 +1,10 @@
+{
+    "config": "di_long_zhen",
+    "id": 8,
+    "name": "di_long_zhen",
+    "level": 1,
+    "mpCost": 100,
+    "energyStart": 80,
+    "energyCost": 100,
+    "energySpeed": 20
+}

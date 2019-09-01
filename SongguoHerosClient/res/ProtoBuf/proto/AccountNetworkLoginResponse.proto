@@ -1,0 +1,11 @@
+import "ApiResponse.proto";
+
+message AccountNetworkLoginResponse{
+	optional ApiResponse	api = 1;			//公用参数
+	optional string			snUid = 2;			//平台用户id
+	optional string			snUserName = 3;		//平台用户名
+	optional string			accessToken = 4;	//access token
+	optional string			loginToken = 5;		//登陆游戏token
+}
+
+

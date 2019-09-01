@@ -1,0 +1,9 @@
+import "ApiRequest.proto";
+
+message HighladderExecBattleRequest{
+	optional ApiRequest	api = 1;			//公用参数
+	optional int32		rank = 2;			//battle id
+	optional int32		progress = 3;		//战斗局数
+	optional int32		monsterId = 4;		//我方战斗武将
+	optional int32		enemyMonsterId = 5;//对方 武将
+}

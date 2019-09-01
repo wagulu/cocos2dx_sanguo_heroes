@@ -1,0 +1,227 @@
+{
+    "1": {
+        "id": 1,
+        "totalNumber": 25,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e00\u9a6c\u5f53\u5148"
+    },
+    "2": {
+        "id": 2,
+        "totalNumber": 50,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u5f81\u6218\u6c99\u573a"
+    },
+    "3": {
+        "id": 3,
+        "totalNumber": 100,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u767e\u822c\u656c\u4ef0"
+    },
+    "4": {
+        "id": 4,
+        "totalNumber": 150,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u6cbb\u56fd\u5b89\u90a6"
+    },
+    "5": {
+        "id": 5,
+        "totalNumber": 200,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e09\u9633\u5f00\u6cf0"
+    },
+    "6": {
+        "id": 6,
+        "totalNumber": 250,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u534a\u58c1\u6c5f\u5c71"
+    },
+    "7": {
+        "id": 7,
+        "totalNumber": 300,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e07\u91cc\u626c\u540d"
+    },
+    "8": {
+        "id": 8,
+        "totalNumber": 350,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u516d\u51fa\u7941\u5c71"
+    },
+    "9": {
+        "id": 9,
+        "totalNumber": 400,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u516b\u4ed9\u8fc7\u6d77"
+    },
+    "10": {
+        "id": 10,
+        "totalNumber": 450,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e5d\u4e94\u4e4b\u5c0a"
+    },
+    "11": {
+        "id": 11,
+        "totalNumber": 500,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u5343\u519b\u4e07\u9a6c"
+    },
+    "12": {
+        "id": 12,
+        "totalNumber": 550,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u731b\u864e\u51fa\u5c71"
+    },
+    "13": {
+        "id": 13,
+        "totalNumber": 600,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u9a81\u52c7\u5584\u6218"
+    },
+    "14": {
+        "id": 14,
+        "totalNumber": 650,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u52c7\u51a0\u4e09\u519b"
+    },
+    "15": {
+        "id": 15,
+        "totalNumber": 700,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u5355\u5200\u76f4\u5165"
+    },
+    "16": {
+        "id": 16,
+        "totalNumber": 750,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u6218\u5c06\u64ce\u65d7"
+    },
+    "17": {
+        "id": 17,
+        "totalNumber": 800,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e07\u592b\u4e0d\u5f53"
+    },
+    "18": {
+        "id": 18,
+        "totalNumber": 850,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e45\u7ecf\u6c99\u573a"
+    },
+    "19": {
+        "id": 19,
+        "totalNumber": 900,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u5357\u5f81\u5317\u6218"
+    },
+    "20": {
+        "id": 20,
+        "totalNumber": 1000,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u56fa\u82e5\u91d1\u6c64"
+    },
+    "21": {
+        "id": 21,
+        "totalNumber": 1100,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u6a2a\u5200\u7acb\u9a6c"
+    },
+    "22": {
+        "id": 22,
+        "totalNumber": 1200,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u5c11\u6210\u9738\u4e1a"
+    },
+    "23": {
+        "id": 23,
+        "totalNumber": 1300,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u4e07\u4f17\u4e00\u5fc3"
+    },
+    "24": {
+        "id": 24,
+        "totalNumber": 1400,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u58ee\u5fd7\u51cc\u4e91"
+    },
+    "25": {
+        "id": 25,
+        "totalNumber": 1500,
+        "property": "vitalityMax",
+        "value": 2,
+        "operator": "plus",
+        "ver": "1.0.0",
+        "name_zhCN": "\u56fd\u58eb\u65e0\u53cc"
+    }
+}

@@ -1,0 +1,227 @@
+{
+  "energyCost": 440,
+  "energySpeed": 20,
+  "energyStart": 200,
+  "mpCost": 3,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.5}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_xuan_mu_suo_tian", "trigger": "hero"}
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":4.1}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":3.9}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":3.3}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"dur":0.2, "dtx":-110, "style":4.0}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill1"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"start", "duration":0}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration":0.5, "amplitude":15.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 1.5,
+      "params": {"tar":1, "dtx":100, "style":5.0}
+    },
+    {
+      "name": "find_target",
+      "start": 1.8,
+      "params": {"SkillTarget":"OPP_HERO"}
+    },
+    {
+      "name": "set_state_dizzy_on_find_target",
+      "start": 1.8,
+      "params": {"time":"dizzyTime", "ratio":"dizzyRatio", "heroDizzyConfig":"hero_dizzy"}
+    },
+    {
+      "name": "find_target_by_formation",
+      "start": 1.8,
+      "params": {"formation": "c5", "dtX":4}
+    },
+    {
+      "name": "attack_on_find_target",
+      "start": 1.8,
+      "damage": {"type":3, "side":0, "entityType":0, "base":0, "step":0, "factor":1.0, "speed_h":100, "speed_h_decay":0, "speed_v":800, "speed_v_decay":0, "gravity":1200}
+    },
+    {
+      "name": "call_solders",
+      "start": 2.0,
+      "params": {"formation":"c5", "mode":1, "effect":"show_solider", "tar":1, "dtX":4, "num":"number", "durFormula":"time"}
+    },
+    {
+      "name": "shake_camera",
+      "start": 2.0,
+      "params": {"duration":0.5, "amplitude":5.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "attack_on_find_target",
+      "start": 2.1,
+      "damage": {"type":1, "side":0, "entityType":1, "base":0, "step":0, "factor":1.0}
+    }
+  ],
+
+  "formula":
+  {
+    "number": {"formula":"max", "min":3.0, "max":3.0, "divide":1.0},
+    "time": {"formula":"hp", "base":60, "step":0.1},
+    "dizzyTime": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0},
+    "dizzyRatio": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0}
+  },
+
+  "dizzy":
+  {
+    "hero_dizzy":
+    {
+      "allowBreakByAnotherDizzy":true,
+      "action":
+      [
+        {"name":"play_hit_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"},
+        {"name":"play_hit_animation"},
+        {"name":"knock_back", "knockBackTile":2}
+      ],
+      "condition":
+      [
+        {"name":"by_time", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_lieyan",
+  "effect":
+  {
+    "start":
+    [
+      [
+        {
+          "name": "animation_lieyan_back_layer1",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_lieyan_back_layer2",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_lieyan_front_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_lieyan_front_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "show_solider":
+    [
+      [
+        {
+          "name": "animation_lieyan_start_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_lieyan_start_layer2",
+          "type": 2,
+          "z-order": 2
+        },
+        {
+          "name": "animation_lieyan_start_layer3",
+          "type": 0,
+          "z-order": 3
+        },
+        {
+          "name": "animation_lieyan_start_layer4",
+          "type": 2,
+          "z-order": 4
+        }
+      ]
+    ],
+    "hide_solider":
+    [
+      [
+        {
+          "name": "animation_lieyan_end_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_lieyan_end_layer2",
+          "type": 2,
+          "z-order": 2
+        },
+        {
+          "name": "animation_lieyan_end_layer3",
+          "type": 0,
+          "z-order": 3
+        },
+        {
+          "name": "animation_lieyan_end_layer4",
+          "type": 2,
+          "z-order": 4
+        }
+      ]
+    ],
+    "loop_solider":
+    [
+      [
+        {
+          "name": "animation_lieyan_loop_layer1",
+          "type": 0,
+          "z-order": -3
+        },
+        {
+          "name": "animation_lieyan_loop_layer2",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_lieyan_loop_layer3",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_lieyan_loop_layer4",
+          "type": 2,
+          "z-order": 0
+        }
+      ]
+    ]
+  }
+}

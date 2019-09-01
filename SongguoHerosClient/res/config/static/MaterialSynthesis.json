@@ -1,0 +1,352 @@
+{
+    "1": {
+        "id": 1,
+        "materialId": 51,
+        "rawMaterialId": 7,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "materialId": 52,
+        "rawMaterialId": 8,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "materialId": 53,
+        "rawMaterialId": 9,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "materialId": 54,
+        "rawMaterialId": 10,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "materialId": 55,
+        "rawMaterialId": 11,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "materialId": 56,
+        "rawMaterialId": 12,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "materialId": 63,
+        "rawMaterialId": 27,
+        "rawMaterialCount": 5,
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "materialId": 64,
+        "rawMaterialId": 28,
+        "rawMaterialCount": 5,
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "materialId": 57,
+        "rawMaterialId": 16,
+        "rawMaterialCount": 6,
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "materialId": 58,
+        "rawMaterialId": 17,
+        "rawMaterialCount": 6,
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "materialId": 59,
+        "rawMaterialId": 18,
+        "rawMaterialCount": 6,
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "materialId": 60,
+        "rawMaterialId": 22,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "materialId": 61,
+        "rawMaterialId": 23,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "materialId": 62,
+        "rawMaterialId": 24,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "materialId": 65,
+        "rawMaterialId": 31,
+        "rawMaterialCount": 6,
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "materialId": 66,
+        "rawMaterialId": 32,
+        "rawMaterialCount": 6,
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "materialId": 67,
+        "rawMaterialId": 35,
+        "rawMaterialCount": 5,
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "materialId": 68,
+        "rawMaterialId": 36,
+        "rawMaterialCount": 5,
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "materialId": 7,
+        "rawMaterialId": 1,
+        "rawMaterialCount": 15,
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "materialId": 8,
+        "rawMaterialId": 2,
+        "rawMaterialCount": 15,
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "materialId": 9,
+        "rawMaterialId": 3,
+        "rawMaterialCount": 15,
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "materialId": 10,
+        "rawMaterialId": 4,
+        "rawMaterialCount": 15,
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "materialId": 11,
+        "rawMaterialId": 5,
+        "rawMaterialCount": 15,
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "materialId": 12,
+        "rawMaterialId": 6,
+        "rawMaterialCount": 15,
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "materialId": 27,
+        "rawMaterialId": 25,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "materialId": 28,
+        "rawMaterialId": 26,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "materialId": 16,
+        "rawMaterialId": 13,
+        "rawMaterialCount": 12,
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "materialId": 17,
+        "rawMaterialId": 14,
+        "rawMaterialCount": 12,
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "materialId": 18,
+        "rawMaterialId": 15,
+        "rawMaterialCount": 12,
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "materialId": 22,
+        "rawMaterialId": 19,
+        "rawMaterialCount": 15,
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "materialId": 23,
+        "rawMaterialId": 20,
+        "rawMaterialCount": 15,
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "materialId": 24,
+        "rawMaterialId": 21,
+        "rawMaterialCount": 15,
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "materialId": 31,
+        "rawMaterialId": 29,
+        "rawMaterialCount": 12,
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "materialId": 32,
+        "rawMaterialId": 30,
+        "rawMaterialCount": 12,
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "materialId": 35,
+        "rawMaterialId": 33,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "materialId": 36,
+        "rawMaterialId": 34,
+        "rawMaterialCount": 8,
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "materialId": 72,
+        "rawMaterialId": 47,
+        "rawMaterialCount": 10,
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "materialId": 73,
+        "rawMaterialId": 48,
+        "rawMaterialCount": 10,
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "materialId": 74,
+        "rawMaterialId": 49,
+        "rawMaterialCount": 10,
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "materialId": 75,
+        "rawMaterialId": 50,
+        "rawMaterialCount": 10,
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "materialId": 69,
+        "rawMaterialId": 40,
+        "rawMaterialCount": 10,
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "materialId": 70,
+        "rawMaterialId": 41,
+        "rawMaterialCount": 10,
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "materialId": 71,
+        "rawMaterialId": 42,
+        "rawMaterialCount": 10,
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "materialId": 47,
+        "rawMaterialId": 43,
+        "rawMaterialCount": 6,
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "materialId": 48,
+        "rawMaterialId": 44,
+        "rawMaterialCount": 6,
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "materialId": 49,
+        "rawMaterialId": 45,
+        "rawMaterialCount": 6,
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "materialId": 50,
+        "rawMaterialId": 46,
+        "rawMaterialCount": 6,
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "materialId": 40,
+        "rawMaterialId": 37,
+        "rawMaterialCount": 5,
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "materialId": 41,
+        "rawMaterialId": 38,
+        "rawMaterialCount": 5,
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "materialId": 42,
+        "rawMaterialId": 39,
+        "rawMaterialCount": 5,
+        "ver": "1.0.0"
+    }
+}

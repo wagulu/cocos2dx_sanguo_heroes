@@ -1,0 +1,139 @@
+{
+    "energyCost": 600.0,
+    "energySpeed":20,
+    "energyStart":550,
+    "mpCost": 50,
+    "actions":
+    [
+     {
+     "name": "pause_battle",
+     "start": 0.0,
+     "params": {"duration":1.5}
+     },
+     {
+     "name": "move_camera_to_hero",
+     "start": 0.0
+     },
+     {
+     "name": "show_background",
+     "start": 0.0,
+     "params": {"hideDelay":3.0}
+     },
+     {
+     "name": "play_animation",
+     "start": 0.0,
+     "params": {"animation": "animation_skill7", "break_time":1.5}
+     },
+     {
+     "name": "shake_camera",
+     "start": 0.8,
+     "params": {"duration": 1, "amplitude":30.0, "mode":4, "interval":3}
+     },
+     {
+     "name": "shake_camera",
+     "start": 2.5,
+     "params": {"duration": 0.4, "amplitude":30.0, "mode":4}
+     },
+     {
+     "name": "show_hero_effect",
+     "start": 0,
+     "params": {"animation": "skill", "side":1}
+     },
+
+     {
+     "name": "skill_fen_shen_nu_zhan",
+     "start": 1.4,
+     "params": {"animation":"arrow", "type":"skill_arrow_line", "speed":1200, "range":15, "radius":2, "trigger":"attackHero"},
+     "damage": {"type":1, "side":0, "entityType":2, "speed_h":400, "speed_h_decay":0, "speed_v":400, "speed_v_decay":0, "gravity":1200},
+     "triggerOnRemove": "on_arrow_dead"
+     },
+     {
+     "name": "add_tile_effect",
+     "trigger": "finalHit",
+     "params": {"effect":"boss", "duration":0}
+     },
+     {
+     "name": "attack_diamond_area_center_on_tile",
+     "trigger": "finalHit",
+     "damage": {"type":0, "side":0, "entityType":2, "base":0, "step":0, "factor":1.0, "speed_h":400, "speed_h_decay":0, "speed_v":400, "speed_v_decay":0, "gravity":1200},
+     "params": {"radius":2, "spreadInterval":0.0}
+     },
+     
+     {
+     "name": "show_hero_effect",
+     "trigger": "attackHero",
+     "params": {"animation": "boss", "side":0}
+     },
+     {
+     "name": "multi_attack",
+     "damage": {"type":1, "side":0, "entityType":2, "base":100, "step":1, "factor":1, "speed_h":300, "speed_h_decay":0, "speed_v":800, "speed_v_decay":0, "gravity":1200},
+     "params": {"times": 4,"time":0.3, "type":2},
+     "trigger": "attackHero"
+     }
+     ],
+    
+    "asset": "skill_xuelunzhan",
+    "effect":
+    {
+        "skill":
+        [
+         [
+          {
+          "name": "animation_xuelunzhan_layer1",
+          "type": 0,
+          "z-order": 1
+          },
+          {
+          "name": "animation_xuelunzhan_layer2",
+          "type": 2,
+          "z-order": 2
+          }
+          ]
+         ],
+        "arrow":
+        [
+         [
+          {
+          "name": "animation_xuelunzhan_fly_layer1",
+          "type": 2,
+          "z-order": 1
+          },
+          {
+          "name": "animation_xuelunzhan_fly_layer2",
+          "type": 0,
+          "z-order": 2
+          },
+          {
+          "name": "animation_xuelunzhan_fly_layer3",
+          "type": 2,
+          "z-order": 3
+          }
+          ]
+         ],
+        "boss":
+        [
+         [
+          {
+          "name": "animation_xuelunzhan_hit_layer1",
+          "type": 2,
+          "z-order": 1
+          },
+          {
+          "name": "animation_xuelunzhan_hit_layer2",
+          "type": 0,
+          "z-order": 2
+          },
+          {
+          "name": "animation_xuelunzhan_hit_layer3",
+          "type": 2,
+          "z-order": 3
+          },
+          {
+          "name": "animation_xuelunzhan_hit_layer4",
+          "type": 0,
+          "z-order": 4
+          }
+          ]
+         ]
+    }
+}

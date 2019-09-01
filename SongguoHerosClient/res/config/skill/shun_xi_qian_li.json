@@ -1,0 +1,272 @@
+{
+  "energyCost": 120,
+  "energySpeed": 20,
+  "energyStart": 100,
+  "mpCost": 6,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.4}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_shun_xi_qian_li", "trigger": "hero"}
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":5.0}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":4.8}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":4.8}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"dur":0.1, "style":2.0}
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.3,
+      "params": {"duration": 0.8, "amplitude":10.0, "mode":4, "interval":3}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill5"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"start", "duration":0}
+    },
+    {
+      "name": "set_state_dizzy_on_skill_attack",
+      "start": 0.0,
+      "lifeTime": 4.4,
+      "params": {"ratio":"dizzyRatio", "heroDizzyConfig":"dizzy_on_skill_hit"}
+    },
+    {
+      "name": "skill_attack_on_tile",
+      "start": 0.0,
+      "lifeTime": 4.4,
+      "damage": {"type":0, "side":0, "entityType":2, "delay":0, "base":220, "step":55, "factor":0.1, "speed_h":500, "speed_h_decay":100, "speed_v":550, "speed_v_decay":200, "gravity":1500, "dead_animation":"hit_solider"},
+      "params": {"hit_hero":"hit_hero"}
+    },
+    {
+      "name": "skill_shun_xi_qian_li",
+      "start": 1.4,
+   "params": {"animation": "animation_skill5_send1", "dur":0.9, "topSpeed":4.0, "effect": "att1", "r2D":15.0, "rY":-5.0, "colorR": 166}
+    },
+    {
+      "name": "skill_shun_xi_qian_li",
+      "start": 2.35,
+      "params": {"animation": "animation_skill5_send2", "dur":0.9, "topSpeed":4.0, "effect": "att2", "r2D":-8.0, "rY":5.0, "colorR": 255, "colorG": 255}
+    },
+    {
+      "name": "skill_shun_xi_qian_li",
+      "start": 3.3,
+      "params": {"animation": "animation_skill5_send3", "dur":1.0, "topSpeed":4.0, "effect": "att3", "r2D":10.0, "rY":-5.0, "Rback":1, "colorR": 200}
+    }
+  ],
+
+  "formula":
+  {
+    "dizzyRatio": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0}
+  },
+
+  "dizzy":
+  {
+    "dizzy_on_skill_hit":
+    {
+      "allowBreakByAnotherDizzy":false,
+      "action":
+      [
+        {"name":"play_hit_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"}
+      ],
+      "condition":
+      [
+        {"name":"by_skill_end", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_shunxi",
+  "effect":
+  {
+    "start":
+    [
+      [
+        {
+          "name": "animation_shunxi_back_layer1",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shunxi_back_layer2",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shunxi_front_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_shunxi_front_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "hit_hero":
+    [
+      [
+        {
+          "name": "animation_shunxi_hit_front_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_shunxi_hit_front_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+      
+    "hit_solider":
+    [
+      [
+        {
+          "name": "animation_shunxi_hit_soldier_front_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_shunxi_hit_soldier_front_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+      
+    "att1":
+    [
+      [
+        {
+          "name": "animation_shunxi_send1_back_layer1",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shunxi_send1_back_layer2",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shunxi_send1_back_layer3",
+          "type": 0,
+          "z-order": -3
+        },
+        {
+          "name": "animation_shunxi_send1_back_layer4",
+          "type": 2,
+          "z-order": -4
+        },
+        {
+          "name": "animation_shunxi_send1_front_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_shunxi_send1_front_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "att2":
+    [
+      [
+        {
+          "name": "animation_shunxi_send2_back_layer1",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shunxi_send2_back_layer2",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shunxi_send2_back_layer3",
+          "type": 0,
+          "z-order": -3
+        },
+        {
+          "name": "animation_shunxi_send2_back_layer4",
+          "type": 2,
+          "z-order": -4
+        },
+        {
+          "name": "animation_shunxi_send2_front_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_shunxi_send2_front_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ],
+    "att3":
+    [
+      [
+        {
+          "name": "animation_shunxi_send3_back_layer1",
+          "type": 0,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shunxi_send3_back_layer2",
+          "type": 2,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shunxi_send3_back_layer3",
+          "type": 0,
+          "z-order": -3
+        },
+        {
+          "name": "animation_shunxi_send3_back_layer4",
+          "type": 2,
+          "z-order": -4
+        },
+        {
+          "name": "animation_shunxi_send3_front_layer1",
+          "type": 0,
+          "z-order": 2
+        },
+        {
+          "name": "animation_shunxi_send3_front_layer2",
+          "type": 2,
+          "z-order": 1
+        }
+      ]
+    ]
+  }
+}

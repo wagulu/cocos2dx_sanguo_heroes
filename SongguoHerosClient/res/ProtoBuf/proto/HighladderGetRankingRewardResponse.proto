@@ -1,0 +1,13 @@
+import "ApiResponse.proto";
+import "PrizePB.proto";
+
+message HighladderGetRankingRewardResponse {
+	optional ApiResponse	api = 1;					//公用参数
+	repeated HighladderRankingRewardPB rewards = 2;	//排行榜奖励
+}
+
+message HighladderRankingRewardPB{
+	optional int32 from = 1;	//起点
+	optional int32 to = 2;		//结点
+	repeated PrizePB prizes = 3;	//奖品
+}

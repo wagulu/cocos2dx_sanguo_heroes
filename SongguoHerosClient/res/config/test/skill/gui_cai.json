@@ -1,0 +1,10 @@
+{
+    "config": "gui_cai",
+    "id": 16,
+    "name": "gui_cai",
+    "level": 1,
+    "mpCost": 0,
+    "energyStart": 1,
+    "energyCost": 0,
+    "energySpeed": 20
+}

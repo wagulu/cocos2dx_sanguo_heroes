@@ -1,0 +1,23 @@
+{
+  "damage": 200,
+  "cool_down": 10,
+  "animation": "animation_skill3",
+  "hit": [
+    [
+      {
+        "name": "animation_bingshuang_hit1",
+        "type": 1,
+        "z-order": 1
+      }
+    ]
+  ],
+  "skill": [
+    [
+      {
+        "name": "animation_bingshuang_layer1",
+        "type": 1,
+        "z-order": 1
+      }
+    ]
+  ]
+}

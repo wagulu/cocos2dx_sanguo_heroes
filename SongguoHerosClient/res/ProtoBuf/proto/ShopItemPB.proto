@@ -1,0 +1,14 @@
+import "PrizePB.proto";
+
+message ShopItemPB{//商城销售物品
+	optional PrizePB			goodsPrize = 1;	   //商品定义
+	optional int32			price = 2;				//价格
+	optional string			priceType = 3;		//价格的货币类型，coin、cash或以后会有其他若干代币类型
+	optional int32			mark = 4;	           //决定左上角的角标图显示，0：无角标；其他数值：取决于角标的资源定义
+	optional int32			originalPrice = 5;	//如果打折，原价格
+	optional int32			vipLevel = 6;			//购买需要的VIP等级
+	optional int32            buyLimited = 7;		//是否开启了限购
+	optional int32            quota = 8;			//限购时，剩余的购买次数
+	optional int32            startTime = 9;		//限时购买的起始时间戳，0表示无时限
+	optional int32            endTime = 10;			//限时购买的结束时间戳，0表示无时限
+}

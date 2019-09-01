@@ -1,0 +1,10 @@
+{
+    "config": "shou_xue_jue_xing",
+    "id": 40,
+    "name": "shou_xue_jue_xing",
+    "level": 1,
+    "mpCost": 0,
+    "energyStart": 500,
+    "energyCost": 10,
+    "energySpeed": 20
+}

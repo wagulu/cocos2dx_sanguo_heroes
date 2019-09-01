@@ -1,0 +1,16 @@
+import "ApiResponse.proto";
+
+message InitMaterialSynthesisResponse{
+	optional ApiResponse			api = 1;							//公用参数
+	repeated SynthesisPB			materialSynthesis = 2;				//拥有合成关系表
+}
+
+message SynthesisPB{
+	optional int32					materialId = 1;
+	repeated MaterialSynthesisPB	material = 2;						//中间参数，repeated直接嵌套repeated类型会出问题
+}
+
+message MaterialSynthesisPB{
+	optional int32					rawMaterialId = 1;
+	optional int32					rawMaterialCount = 2;
+}

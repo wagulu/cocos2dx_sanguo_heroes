@@ -1,0 +1,10 @@
+{
+    "config": "ji_jie",
+    "id": 19,
+    "name": "ji_jie",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 450,
+    "energyCost": 25,
+    "energySpeed": 20
+}

@@ -1,0 +1,380 @@
+{
+    "1": {
+        "id": 1,
+        "starId": 1,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "2": {
+        "id": 2,
+        "starId": 2,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "3": {
+        "id": 3,
+        "starId": 3,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "4": {
+        "id": 4,
+        "starId": 4,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "5": {
+        "id": 5,
+        "starId": 5,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "6": {
+        "id": 6,
+        "starId": 6,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "7": {
+        "id": 7,
+        "starId": 7,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "8": {
+        "id": 8,
+        "starId": 8,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "9": {
+        "id": 9,
+        "starId": 9,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "10": {
+        "id": 10,
+        "starId": 10,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "11": {
+        "id": 11,
+        "starId": 11,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "12": {
+        "id": 12,
+        "starId": 12,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "13": {
+        "id": 13,
+        "starId": 13,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "14": {
+        "id": 14,
+        "starId": 14,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "15": {
+        "id": 15,
+        "starId": 15,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "16": {
+        "id": 16,
+        "starId": 16,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "17": {
+        "id": 17,
+        "starId": 17,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "18": {
+        "id": 18,
+        "starId": 18,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "19": {
+        "id": 19,
+        "starId": 19,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "20": {
+        "id": 20,
+        "starId": 20,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "21": {
+        "id": 21,
+        "starId": 21,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "22": {
+        "id": 22,
+        "starId": 22,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "23": {
+        "id": 23,
+        "starId": 23,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "24": {
+        "id": 24,
+        "starId": 24,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "25": {
+        "id": 25,
+        "starId": 25,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "26": {
+        "id": 26,
+        "starId": 26,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "27": {
+        "id": 27,
+        "starId": 27,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "28": {
+        "id": 28,
+        "starId": 28,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "29": {
+        "id": 29,
+        "starId": 29,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "30": {
+        "id": 30,
+        "starId": 30,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "31": {
+        "id": 31,
+        "starId": 31,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "32": {
+        "id": 32,
+        "starId": 32,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "33": {
+        "id": 33,
+        "starId": 33,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "34": {
+        "id": 34,
+        "starId": 34,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "35": {
+        "id": 35,
+        "starId": 35,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "36": {
+        "id": 36,
+        "starId": 36,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "37": {
+        "id": 37,
+        "starId": 37,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "38": {
+        "id": 38,
+        "starId": 38,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "39": {
+        "id": 39,
+        "starId": 39,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "40": {
+        "id": 40,
+        "starId": 40,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "41": {
+        "id": 41,
+        "starId": 41,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "42": {
+        "id": 42,
+        "starId": 42,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "43": {
+        "id": 43,
+        "starId": 43,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "44": {
+        "id": 44,
+        "starId": 44,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "45": {
+        "id": 45,
+        "starId": 45,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "46": {
+        "id": 46,
+        "starId": 46,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "47": {
+        "id": 47,
+        "starId": 47,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "48": {
+        "id": 48,
+        "starId": 48,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "49": {
+        "id": 49,
+        "starId": 49,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "50": {
+        "id": 50,
+        "starId": 50,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "51": {
+        "id": 51,
+        "starId": 51,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "52": {
+        "id": 52,
+        "starId": 52,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "53": {
+        "id": 53,
+        "starId": 53,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "54": {
+        "id": 54,
+        "starId": 54,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "55": {
+        "id": 55,
+        "starId": 55,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "56": {
+        "id": 56,
+        "starId": 56,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "57": {
+        "id": 57,
+        "starId": 57,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "58": {
+        "id": 58,
+        "starId": 58,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "59": {
+        "id": 59,
+        "starId": 59,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "60": {
+        "id": 60,
+        "starId": 60,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    },
+    "61": {
+        "id": 61,
+        "starId": 61,
+        "condition": "win",
+        "ver": "1.0.0"
+    },
+    "62": {
+        "id": 62,
+        "starId": 62,
+        "condition": "hero_dead,1",
+        "ver": "1.0.0"
+    },
+    "63": {
+        "id": 63,
+        "starId": 63,
+        "condition": "hero_dead,0",
+        "ver": "1.0.0"
+    }
+}

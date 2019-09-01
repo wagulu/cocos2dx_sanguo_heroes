@@ -1,0 +1,283 @@
+{
+  "energyCost":10.0,
+  "energySpeed":20,
+  "energyStart":500,
+  "mpCost": 0,
+  "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.0}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_shi_xue_she_mao", "trigger": "hero"}
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":3.5}
+    },
+	  {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":3.3}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0
+    },
+    {
+      "name": "shake_camera",
+      "start": 0.0,
+      "params": {"duration":0.3, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill1"}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 0.0,
+      "params": {"SkillTarget":"SELF_HERO", "effect":"skill", "duration":0}
+    },
+    {
+      "name": "set_state_dizzy_on_skill_attack",
+      "start": 0.0,
+      "lifeTime": 3.0,
+      "params": {"ratio":"dizzyRatio", "heroDizzyConfig":"dizzy_on_skill_hit"}
+    },
+    
+    {
+      "name": "find_target",
+      "start": 1.0,
+      "params": {"SkillTarget":"FRONT_NEARBY_ENEMY"},
+      "triggerOnRemove": "on_find_target_1"
+    },
+    {
+      "name": "find_target",
+      "start": 1.5,
+      "params": {"SkillTarget":"FRONT_NEARBY_ENEMY"},
+      "triggerOnRemove": "on_find_target_2"
+    },
+    {
+      "name": "find_target",
+      "start": 2.5,
+      "params": {"SkillTarget":"FRONT_NEARBY_ENEMY"},
+      "triggerOnRemove": "on_find_target_3"
+    },
+    {
+      "name": "attack_on_find_target",
+      "start": 3.0,
+      "damage": {"type":1, "side":0, "entityType":2, "base":100, "step":20, "factor":0.0, "speed_h":600, "speed_h_decay":100, "speed_v":300, "speed_v_decay":100, "gravity":1200},
+      "params": {"repeat":4, "interval":0.8}
+    },
+    {
+      "name": "add_entity_effect",
+      "start": 3.0,
+      "params": {"effect":"hero_bleeding", "duration":3.5}
+    },
+
+    {
+      "name": "attack_on_find_target",
+      "trigger": "on_find_target_1",
+      "damage": {"type":1, "side":0, "entityType":2, "trigger":"on_hit_1", "base":50, "step":15, "factor":0.01, "speed_h":600, "speed_h_decay":100, "speed_v":300, "speed_v_decay":100, "gravity":1200},
+      "params": {}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "on_hit_1",
+      "params": {"duration":0.2, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "on_hit_1",
+      "params": {"effect": "hit_1", "duration":0}
+    },
+
+    {
+      "name": "attack_on_find_target",
+      "trigger": "on_find_target_2",
+      "damage": {"type":1, "side":0, "entityType":2, "trigger":"on_hit_2", "base":50, "step":15, "factor":0.01, "speed_h":600, "speed_h_decay":100, "speed_v":300, "speed_v_decay":100, "gravity":1200},
+      "params": {}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "on_hit_2",
+      "params": {"duration":0.2, "amplitude":10.0, "mode":4}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "on_hit_2",
+      "params": {"effect": "hit_2", "duration":0}
+    },
+
+    {
+      "name": "attack_on_find_target",
+      "trigger": "on_find_target_3",
+      "damage": {"type":1, "side":0, "entityType":2, "trigger":"on_hit_3", "base":50, "step":15, "factor":0.01, "speed_h":600, "speed_h_decay":100, "speed_v":300, "speed_v_decay":100, "gravity":1200},
+      "params": {}
+    },
+    {
+      "name": "shake_camera",
+      "trigger": "on_hit_3",
+      "params": {"duration":0.2, "amplitude":10.0, "mode":4}
+    },
+    {
+      "name": "add_entity_effect",
+      "trigger": "on_hit_3",
+      "params": {"effect": "hit_3", "duration":0}
+    }
+  ],
+
+  "formula":
+  {
+    "dizzyRatio": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0}
+  },
+
+  "dizzy":
+  {
+    "dizzy_on_skill_hit":
+    {
+      "allowBreakByAnotherDizzy":false,
+      "action":
+      [
+        {"name":"play_hit_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"}
+      ],
+      "condition":
+      [
+        {"name":"by_skill_end", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_shixue",
+  "effect":
+  {
+    "skill": 
+    [
+      [
+        {
+          "name": "animation_shixue_bg_layer1",
+          "type": 0,
+          "z-order": -3
+        },
+        {
+          "name": "animation_shixue_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shixue_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shixue_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shixue_front_layer2",
+          "type": 2,
+          "z-order": 2
+        },
+        {
+          "name": "animation_shixue_bg_layer2",
+          "type": 2,
+          "z-order": 3
+        }
+      ]
+    ],
+    "hit_1":
+    [
+      [
+        {
+          "name": "animation_shixue_hit_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shixue_hit_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shixue_hit_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shixue_hit_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "hit_2":
+    [
+      [
+        {
+          "name": "animation_shixue_hit_back_2_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shixue_hit_back_2_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shixue_hit_front_2_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shixue_hit_front_2_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "hit_3":
+    [
+      [
+        {
+          "name": "animation_shixue_hit_back_3_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_shixue_hit_back_3_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_shixue_hit_front_3_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_shixue_hit_front_3_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+    "hero_bleeding":
+    [
+      [
+        {
+          "name": "animation_shixue_hit_loop_front_layer1",
+          "type": 0,
+          "z-order": 1
+        }
+      ]
+    ]
+  }
+}

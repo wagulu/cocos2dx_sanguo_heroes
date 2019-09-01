@@ -1,0 +1,10 @@
+{
+    "config": "feng_long_tian_xuan",
+    "id": 13,
+    "name": "feng_long_tian_xuan",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 450,
+    "energyCost": 25,
+    "energySpeed": 20
+}

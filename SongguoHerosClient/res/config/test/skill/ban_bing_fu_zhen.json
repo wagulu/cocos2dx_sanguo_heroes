@@ -1,0 +1,10 @@
+{
+    "config": "ban_bing_fu_zhen",
+    "id": 3,
+    "name": "ban_bing_fu_zhen",
+    "level": 1,
+    "mpCost": 1,
+    "energyStart": 450,
+    "energyCost": 25,
+    "energySpeed": 20
+}

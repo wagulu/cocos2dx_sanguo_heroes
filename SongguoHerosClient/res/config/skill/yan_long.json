@@ -1,0 +1,205 @@
+{
+    "energyCost": 25.0,
+    "energySpeed": 20,
+    "energyStart": 450,
+    "mpCost": 1,
+    "actions":
+  [
+    {
+      "name": "pause_battle",
+      "start": 0.0,
+      "params": {"duration":1.6}
+    },
+    {
+      "name": "play_sound",
+      "start": 0.5,
+      "params": {"event": "qishou_yan_long_chong_tian", "trigger": "hero"}
+    },
+	{
+      "name": "disable_break",
+      "start": 0.5
+    },
+    {
+      "name": "lock_fire_skill",
+      "start": 0.0,
+      "params": {"unlockDelay":3.5}
+    },
+    {
+      "name": "lock_user_control",
+      "start": 0.0,
+      "params": {"unlockDelay":3.3}
+    },
+    {
+      "name": "show_background",
+      "start": 0.0,
+      "params": {"hideDelay":3.3}
+    },
+    {
+      "name": "play_animation",
+      "start": 0.0,
+      "params": {"animation":"animation_skill1"}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 0.0,
+      "params": {"dur":0.1}
+    },
+    {
+        "name": "shake_camera",
+        "start": 0.0,
+        "params": {"duration": 0.3, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "move_camera_to_hero",
+      "start": 1.7,
+      "params": {"tar":1, "S":1}
+    },
+    {
+      "name": "show_hero_effect",
+      "start": 0.0,
+      "params": {"animation": "start", "side":1}
+    },
+    {
+      "name": "show_hero_effect",
+      "start": 2.0,
+      "params": {"animation": "hit_hero", "side":0}
+    },
+    {
+      "name": "shake_camera",
+      "start": 2.0,
+      "params": {"duration": 0.3, "amplitude":5.0, "mode":4}
+    },
+    {
+      "name": "multi_attack",
+      "damage": {"type":1, "side":0, "entityType":1, "base":250, "step":25, "factor":0.3, "speed_h":300, "speed_h_decay":0, "speed_v":800, "speed_v_decay":0, "gravity":1200},
+      "params": {"times": 4,"time":0.2, "type":2},
+      "start": 2.0
+    },
+    {
+     "name": "interval_trigger",
+     "start": 2.0,
+     "params": {"trigger": "showShootEffect", "times":4, "interval":0.2}
+    },
+    {
+     "name": "show_hero_effect",
+     "start": 2.0,
+     "params": {"animation": "hit_shoot", "side":0, "random":60},
+     "trigger": "showShootEffect"
+    },
+    {
+      "name": "set_state_dizzy_on_find_target",
+      "start": 2.0,
+      "params": {"SkillTarget":"OPP_HERO", "time":"dizzyTimeSkill", "ratio":"dizzyRatioSkill", "heroDizzyConfig":"hero_dizzy"}
+    },
+    {
+      "name": "set_state_dizzy_on_find_target",
+      "start": 3.0,
+      "params": {"SkillTarget":"OPP_HERO", "time":"dizzyTimeAfter", "enable":"dizzyEnableAfter", "heroDizzyConfig":"hero_dizzy_afterskill"}
+    }
+  ],
+    
+  "formula":
+  {
+    "dizzyRatioSkill": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0},
+	"dizzyTimeSkill": {"formula":"max", "min":1.0, "max":1.0, "divide":1.0},
+	
+    "dizzyTimeAfter": {"formula":"hp", "base":2, "step":0.1},
+	"dizzyEnableAfter": {"formula":"enable", "base":0, "step":20}
+  },
+
+  "dizzy":
+  {
+    "hero_dizzy":
+    {
+      "allowBreakByAnotherDizzy":false,
+      "action":
+      [
+        {"name":"play_hit_animation"}
+      ],
+      "condition":
+      [
+        {"name":"by_time", "required":true}
+      ]
+    },
+	"hero_dizzy_afterskill":
+    {
+      "allowBreakByAnotherDizzy":true,
+      "action":
+      [
+        {"name":"stop_animation"},
+        {"name":"change_color"},
+        {"name":"play_xuanyun_effect"}
+      ],
+      "condition":
+      [
+        {"name":"by_time", "required":true}
+      ]
+    }
+  },
+    
+  "asset": "skill_yanlong",
+  "effect":
+  {
+    "start":
+    [
+      [
+        {
+          "name": "animation_yanlong_back_layer1",
+          "type": 0,
+          "z-order": -2
+        },
+        {
+          "name": "animation_yanlong_back_layer2",
+          "type": 2,
+          "z-order": -1
+        },
+        {
+          "name": "animation_yanlong_front_layer1",
+          "type": 0,
+          "z-order": 1
+        },
+        {
+          "name": "animation_yanlong_front_layer2",
+          "type": 2,
+          "z-order": 2
+        }
+      ]
+    ],
+      "hit_hero":
+      [
+       [
+        {
+        "name": "animation_yanlong_hit_back_layer1",
+        "type": 0,
+        "z-order": -2
+        },
+        {
+        "name": "animation_yanlong_hit_back_layer2",
+        "type": 2,
+        "z-order": -1
+        },
+        {
+        "name": "animation_yanlong_hit_front_layer1",
+        "type": 0,
+        "z-order": 1
+        },
+        {
+        "name": "animation_yanlong_hit_front_layer2",
+        "type": 2,
+        "z-order": 2
+        }
+        ]
+       ],
+      
+      "hit_shoot":
+      [
+       [
+        {
+        "name": "animation_yanlong_shoot_layer1",
+        "type": 0,
+        "z-order": 10
+        }
+        ]
+       ]
+  }
+}
