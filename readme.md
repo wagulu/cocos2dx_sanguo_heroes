@@ -29,7 +29,7 @@
 
 ## code
 
-### [c++ code path](⁨⁨tree/master/SongguoHerosClient/frameworks/runtime-src/Classes) ⁩
+### [c++ code path](SongguoHerosClient/src)⁩
 ### [lua code path](SongguoHerosClient/src)⁩
 
 ## example code
