@@ -5,13 +5,13 @@
 ### gameplay:c++ 
 ### UI logic:lua
 ### c/s protcol: protobuf(pbc lua) 
-### design pattern ECS[entiyX](https://github.com/alecthomas/entityx.git) 
+### design pattern ECS [entityX github](https://github.com/alecthomas/entityx.git) 
 
 ## How to Use
 
 ### Run with Mac
 
-#### install |CocosFramework-v3.6.pkg|[点击下载](http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.pkg)|
+#### install |CocosFramework-v3.6.pkg|[click download](http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.pkg)|
 
 #### open SongguoHerosClient/frameworks⁩/⁨runtime-src⁩/proj.ios_mac⁩/sanguoGame.xcodeproj by Xcode
 
