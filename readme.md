@@ -19,5 +19,5 @@
 
 ## battle images
 
- ![img]("images/gif/0.gif")
+ ![img]("https://github.com/fchsg/cocos2dx_sanguo_heroes.git/images/gif/0.gif")
 
