@@ -14,7 +14,7 @@
 
 #### install |CocosFramework-v3.6.pkg|[click download](http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.pkg)|
 
-#### open SanguoClient/frameworks⁩/⁨runtime-src⁩/proj.ios_mac⁩/sanguoGame.xcodeproj by Xcode
+#### open ***SanguoClient/frameworks⁩/⁨runtime-src⁩/proj.ios_mac⁩/sanguoGame.xcodeproj*** by Xcode
 
 
 ## Battle images
