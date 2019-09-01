@@ -5,7 +5,7 @@
 ### gameplay:c++ 
 ### UI logic:lua
 ### c/s protcol: protobuf(pbc lua) 
-### design pattern ECS [entityX github](https://github.com/alecthomas/entityx.git) 
+### design pattern ECS [entityx](https://github.com/alecthomas/entityx.git) 
 
 ## How to Use
 
