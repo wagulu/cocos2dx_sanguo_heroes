@@ -29,7 +29,7 @@
 
 ## code
 
-### [c++ code path](SongguoHerosClient/src)⁩
+### [c++ code path](SongguoHerosClient/frameworks/runtime-src/Classes/SGCommon/SGCamera.cpp)⁩
 ### [lua code path](SongguoHerosClient/src)⁩
 
 ## example code
