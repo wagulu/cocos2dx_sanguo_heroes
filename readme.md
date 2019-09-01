@@ -19,5 +19,12 @@
 
 ## battle images
 
- ![img]("https://github.com/fchsg/cocos2dx_sanguo_heroes.git/images/gif/0.gif")
+[![Promo](/images/gif/0.gif)]
+
+[![Promo](/images/gif/1.gif)]
+
+[![Promo](/images/gif/2.gif)]
+
+[![Promo](/images/gif/3.gif)]
+
 
