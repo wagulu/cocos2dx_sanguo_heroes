@@ -1,5 +1,7 @@
 # Ccocos2dx c++ & lua 
 
+## Youtobe(https://www.youtube.com/watch?v=h7zm4OyMdSo&feature=youtu.be)
+
 ## Client
 
 ### version:cocos2dx 3.6 (c++&lua) 
