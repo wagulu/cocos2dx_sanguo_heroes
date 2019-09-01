@@ -4,6 +4,17 @@
 
 ### [YouTobe](https://www.youtube.com/watch?v=h7zm4OyMdSo&feature=youtu.be)
 
+## Battle images
+
+[![Promo](/images/gif/0.gif)]
+
+[![Promo](/images/gif/1.gif)]
+
+[![Promo](/images/gif/2.gif)]
+
+[![Promo](/images/gif/3.gif)]
+
+
 ## Client
 
 ### version:cocos2dx 3.6 (c++&lua) 
@@ -19,17 +30,6 @@
 #### install |CocosFramework-v3.6.pkg|[click download](http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.pkg)|
 
 #### open **SanguoClient/frameworks⁩/⁨runtime-src⁩/proj.ios_mac⁩/sanguoGame.xcodeproj** by Xcode
-
-
-## Battle images
-
-[![Promo](/images/gif/0.gif)]
-
-[![Promo](/images/gif/1.gif)]
-
-[![Promo](/images/gif/2.gif)]
-
-[![Promo](/images/gif/3.gif)]
 
 ## Code Path
 
