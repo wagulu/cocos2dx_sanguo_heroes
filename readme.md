@@ -2,7 +2,7 @@
 
 ## Game Video
 
-### [youtobe](https://www.youtube.com/watch?v=h7zm4OyMdSo&feature=youtu.be)
+### [YouTobe](https://www.youtube.com/watch?v=h7zm4OyMdSo&feature=youtu.be)
 
 ## Client
 
