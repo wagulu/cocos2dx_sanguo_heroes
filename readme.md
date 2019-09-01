@@ -1,8 +1,8 @@
 # Ccocos2dx c++ & lua 
 
-## Game Video
+## Game Video 
 
-### [YouTobe](https://www.youtube.com/watch?v=h7zm4OyMdSo&feature=youtu.be)
+### Play Game Video [YouTobe](https://www.youtube.com/watch?v=h7zm4OyMdSo&feature=youtu.be)
 
 ## Battle images
 
