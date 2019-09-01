@@ -27,7 +27,7 @@
 
 [![Promo](/images/gif/3.gif)]
 
-## simaple code
+## example code
 
 ### c++ code path:⁨⁨SongguoHerosClient/frameworks/runtime-src/⁨Classes⁩
 ### lua code path:⁨⁨SongguoHerosClient/src⁩
