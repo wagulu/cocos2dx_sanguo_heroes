@@ -2,7 +2,7 @@
 
 ## Client
 
-### version:cocos2dx 3.6 lua 
+### version:cocos2dx 3.6 (c++&lua) 
 ### gameplay:c++ 
 ### ui logic:lua
 ### c/s protcol: protobuf(pbc lua) 
