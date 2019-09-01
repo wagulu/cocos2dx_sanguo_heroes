@@ -17,7 +17,7 @@
 #### open SongguoHerosClient/frameworks⁩/⁨runtime-src⁩/proj.ios_mac⁩/sanguoGame.xcodeproj by Xcode
 
 
-## battle images
+## Battle images
 
 [![Promo](/images/gif/0.gif)]
 
@@ -27,12 +27,12 @@
 
 [![Promo](/images/gif/3.gif)]
 
-## code
+## Code Path
 
 ### [c++ code path](SongguoHerosClient/frameworks/runtime-src/Classes/)⁩
 ### [lua code path](SongguoHerosClient/src)⁩
 
-## example code
+## Example code
 
 ### cpp
 
